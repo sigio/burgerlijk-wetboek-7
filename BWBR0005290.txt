@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-08-2003 t/m 31-08-2003
+Geldend van 01-09-2003 t/m 31-12-2003
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -18,11 +18,38 @@ Koop is de overeenkomst waarbij de een zich verbindt een zaak te geven en de and
 
 Artikel 2
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	De koop van een tot bewoning bestemde onroerende zaak of bestanddeel daarvan wordt, indien de koper een natuurlijk persoon is die niet handelt in de uitoefening van een beroep of bedrijf, schriftelijk aangegaan.
+
+2.	De tussen partijen opgemaakte akte of een afschrift daarvan moet aan de koper ter hand worden gesteld, desverlangd tegen afgifte aan de verkoper van een gedateerd ontvangstbewijs. Gedurende drie dagen na deze terhandstelling heeft de koper het recht de koop te ontbinden. Komt, nadat de koper van dit recht gebruik gemaakt heeft, binnen zes maanden tussen dezelfde partijen met betrekking tot dezelfde zaak of hetzelfde bestanddeel daarvan opnieuw een koop tot stand, dan ontstaat het recht niet opnieuw.
+
+3.	De leden 1–2 zijn van overeenkomstige toepassing op de koop van deelnemings- of lidmaatschapsrechten die recht geven op het gebruik van een tot bewoning bestemde onroerende zaak of bestanddeel daarvan.
+
+4.	Van het in de leden 1–3 bepaalde kan niet ten nadele van de koper worden afgeweken, behoudens bij een standaardregeling als bedoeld in artikel 214 van Boek 6.
+
+5.	De leden 1–4 zijn niet van toepassing op huurkoop en koop op een openbare veiling ten overstaan van een notaris. Zij zijn evenmin van toepassing op een koop als bedoeld in artikel 48a onder a
 
 Artikel 3
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	De koop van een registergoed kan worden ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, tenzij op het tijdstip van de inschrijving levering van dat goed door de verkoper nog niet mogelijk zou zijn geweest wegens de in artikel 97 van Boek 3 vervatte uitsluiting van levering bij voorbaat van toekomstige registergoederen. Bij de koop van een tot woning bestemde onroerende zaak of bestanddeel daarvan kan, indien de koper een natuurlijk persoon is die niet handelt in de uitoefening van een beroep of bedrijf, van het in de vorige zin bepaalde niet ten nadele van de koper worden afgeweken.
+
+2.	Gedurende de bedenktijd, bedoeld in artikel 2 lid 2, kan inschrijving slechts plaatsvinden indien de koopakte is opgesteld en medeondertekend door een in Nederland gevestigde notaris.
+
+3.	Tegen de koper wiens koop is ingeschreven kunnen niet worden ingeroepen:
+	a.	een na de inschrijving van die koop tot stand gekomen vervreemding of bezwaring door de verkoper, tenzij deze vervreemding of bezwaring voortvloeit uit een eerder ingeschreven koop of plaatsvond uit hoofde van een recht op levering dat volgens artikel 298 van Boek 3 ging voor dat van de koper en dat de koper op het tijdstip van de inschrijving van de koop kende of ten aanzien waarvan op dat tijdstip het proces-verbaal van een conservatoir beslag tot levering was ingeschreven;
+	b.	vervreemdingen of bezwaringen die plaatsvinden als vervolg op de onder a bedoelde vervreemding of bezwaring door de verkoper;
+	c.	een onderbewindstelling die na de inschrijving van de koop is tot stand gekomen of die, zo zij tevoren was tot stand gekomen, toen niet in de openbare registers was ingeschreven, dit laatste tenzij de koper haar op het tijdstip van de inschrijving van de koop kende;
+	d.	een na de inschrijving van de koop tot stand gekomen verhuring of verpachting;
+	e.	een na de inschrijving van de koop ingeschreven beding als bedoeld in artikel 252 van Boek 6;
+	f.	een executoriaal of conservatoir beslag waarvan het proces-verbaal na de inschrijving van de koop is ingeschreven;
+	g.	een faillissement of surséance van betaling van de verkoper of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen, uitgesproken na de dag waarop de koop is ingeschreven.
+
+4.	De inschrijving van de koop verliest de in lid 3 bedoelde werking met terugwerkende kracht, indien het goed niet binnen zes maanden na de inschrijving aan de koper geleverd is. In dat geval wordt bovendien de koop niet geacht kenbaar te zijn door raadpleging van de openbare registers.
+
+5.	Nadat de inschrijving haar werking heeft verloren, kan gedurende zes maanden geen koop tussen dezelfde partijen met betrekking tot hetzelfde goed worden ingeschreven.
+
+6.	Inschrijving van de koop vindt slechts plaats indien onder de koopakte een ondertekende en gedateerde verklaring van een notaris is opgenomen, die zijn naam, voornamen, standplaats en kwaliteit bevat en waarin verklaard wordt dat de leden 1, 2 en 5 niet aan inschrijving in de weg staan.
+
+7.	De leden 1–6 zijn niet van toepassing op huurkoop.
 
 Artikel 4
 
@@ -36,7 +63,7 @@ Artikel 5
 
 3.	De vorige leden zijn niet van toepassing indien de overeenkomst door leidingen naar de verbruiker aangevoerd water of gas betreft.
 
-4.	Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 1639 van Boek 7A, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een aanbesteder, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en de artikelen 1640 tot en met 1651 van Boek 7A zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.
+4.	Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 7.12.1, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een opdrachtgever, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en die van afdeling 1 van titel 12 zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.
 
 Artikel 6
 
@@ -72,7 +99,7 @@ Artikel 7
 
 Artikel 8
 
-[Dit onderdeel is nog niet inwerking getreden]
+Wordt een nieuw gebouwde of te bouwen woning, bestaande uit een onroerende zaak of bestanddeel daarvan, verkocht en is de koper een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf, dan zijn de artikelen 767 en 768 van overeenkomstige toepassing. Hiervan kan niet ten nadele van de koper worden afgeweken, behoudens bij een standaardregeling als bedoeld in artikel 214 van Boek 6.
 
 Afdeling 2. Verplichtingen van de verkoper
 
@@ -227,6 +254,12 @@ Artikel 26
 2.	De betaling moet geschieden ten tijde en ter plaatse van de aflevering. Bij een consumentenkoop kan de koper tot vooruitbetaling van ten hoogste de helft van de koopprijs worden verplicht.
 
 3.	Is voor de eigendomsoverdracht een notariële akte vereist, gevolgd door inschrijving daarvan in de daartoe bestemde openbare registers, dan moet het verschuldigde ten tijde van de ondertekening van de akte tenminste uit de macht van de koper zijn gebracht en behoeft het pas na de inschrijving in de macht van de verkoper te worden gebracht.
+
+4.	Bij de koop van een tot bewoning bestemde onroerende zaak of bestanddeel daarvan, kan de koper die een natuurlijk persoon is en niet handelt in de uitoefening van een beroep of bedrijf, niet worden verplicht tot vooruitbetaling van de koopprijs, behoudens dat kan worden bedongen dat hij ter verzekering van de nakoming van zijn verplichtingen een bedrag dat niet hoger is dan 10% van de koopprijs, in depot stort bij een notaris dan wel voor dit bedrag vervangende zekerheid stelt. Van het in de eerste zin bepaalde kan niet ten nadele van de koper worden afgeweken, behoudens bij een standaardregeling als bedoeld in artikel 214 van Boek 6. Het teveel betaalde geldt als onverschuldigd betaald.
+
+5.	Lid 4 is van overeenkomstige toepassing op de koop van deelnemings- of lidmaatschapsrechten die recht geven op het gebruik van een tot bewoning bestemde onroerende zaak of bestanddeel daarvan.
+
+6.	De leden 4–5 zijn niet van toepassing op een koop als bedoeld in artikel 48a onder a.
 
 Artikel 27
 
@@ -3099,87 +3132,131 @@ Titel 12. Aanneming van werk
 
 Afdeling 1. Aanneming van werk in het algemeen
 
-Artikel 7.12.1
+Artikel 750
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Aanneming van werk is de overeenkomst waarbij de ene partij, de aannemer, zich jegens de andere partij, de opdrachtgever, verbindt om buiten dienstbetrekking een werk van stoffelijke aard tot stand te brengen en op te leveren, tegen een door de opdrachtgever te betalen prijs in geld.
 
-Artikel 7.12.2
+2.	Bestaat de tegenprestatie niet of niet geheel in geld, dan vindt deze titel toepassing, voor zover de aard van de tegenprestatie zich daartegen niet verzet.
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 751
 
-Artikel 7.12.3
+De aannemer is bevoegd het werk onder zijn leiding door anderen te doen uitvoeren, en ten aanzien van onderdelen ook de leiding aan anderen over te laten, zulks onverminderd zijn aansprakelijkheid voor de deugdelijke nakoming van de overeenkomst.
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 752
 
-Artikel 7.12.4
+1.	Indien de prijs bij het sluiten van de overeenkomst niet is bepaald of slechts een richtprijs is bepaald, is de opdrachtgever een redelijke prijs verschuldigd. Bij de bepaling van de prijs wordt rekening gehouden met de door de aannemer ten tijde van het sluiten van de overeenkomst gewoonlijk bedongen prijzen en met de door hem ter zake van de vermoedelijke prijs gewekte verwachtingen.
 
-[Dit onderdeel is nog niet inwerking getreden]
+2.	Indien een richtprijs was bepaald, zal deze richtprijs met niet meer dan 10% mogen worden overschreden, tenzij de aannemer de opdrachtgever zo tijdig mogelijk voor de waarschijnlijkheid van een verdere overschrijding heeft gewaarschuwd, om hem de gelegenheid te geven het werk alsnog te beperken of te vereenvoudigen. De aannemer zal binnen de grenzen van het redelijke aan zulke beperking of vereenvoudiging moeten meewerken.
 
-Artikel 7.12.4a
+3.	Lid 2 is van overeenkomstige toepassing op aannemingen van werk waarbij de prijs afhankelijk is gesteld van de bij de overeenkomst geschatte tijdsduur voor de uitvoering van het werk.
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 753
 
-Artikel 7.12.5
+1.	Indien na het sluiten van de overeenkomst kostenverhogende omstandigheden ontstaan of aan het licht komen zonder dat zulks aan de aannemer kan worden toegerekend, zal de rechter op vordering van de aannemer de overeengekomen prijs geheel of gedeeltelijk aan de kostenverhoging kunnen aanpassen, mits de aannemer bij het bepalen van de prijs geen rekening heeft behoeven te houden met de kans op zulke omstandigheden.
 
-[Dit onderdeel is nog niet inwerking getreden]
+2.	De aannemer mag de prijs zonder tussenkomst van de rechter aanpassen, indien de kostenverhoging het gevolg is van door de opdrachtgever verschafte onjuiste gegevens welke voor de prijsbepaling van belang zijn, tenzij de aannemer de onjuistheid der gegevens vóór het vaststellen van de prijs had behoren te ontdekken.
 
-Artikel 7.12.6
+3.	Het in de leden 1 en 2 bepaalde geldt slechts indien de aannemer de opdrachtgever zo spoedig mogelijk voor de noodzaak van een prijsverhoging heeft gewaarschuwd, opdat deze tijdig hetzij gebruik kan maken van het hem in artikel 764 toegekende recht, hetzij een voorstel kan doen tot beperking of vereenvoudiging van het werk.
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 754
 
-Artikel 7.12.7
+De aannemer is bij het aangaan of het uitvoeren van de overeenkomst verplicht de opdrachtgever te waarschuwen voor onjuistheden in de opdracht voor zover hij deze kende of redelijkerwijs behoorde te kennen. Hetzelfde geldt in geval van gebreken en ongeschiktheid van zaken afkomstig van de opdrachtgever, daaronder begrepen de grond waarop de opdrachtgever een werk laat uitvoeren, alsmede fouten of gebreken in door de opdrachtgever verstrekte plannen, tekeningen, berekeningen, bestekken of uitvoeringsvoorschriften.
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 755
 
-Artikel 7.12.7a
+In geval van door de opdrachtgever gewenste toevoegingen of veranderingen in het overeengekomen werk kan de aannemer slechts dan een verhoging van de prijs vorderen, wanneer hij de opdrachtgever tijdig heeft gewezen op de noodzaak van een daaruit voortvloeiende prijsverhoging, tenzij de opdrachtgever die noodzaak uit zichzelf had moeten begrijpen. Van deze bepaling kan niet ten nadele van de opdrachtgever worden afgeweken, behoudens bij een standaardregeling als bedoeld in artikel 214 van Boek 6.
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 756
 
-Artikel 7.12.8
+1.	Indien reeds vóór de vastgestelde tijd van oplevering waarschijnlijk wordt dat het werk niet op tijd of niet behoorlijk zal worden opgeleverd, kan de rechter de overeenkomst op vordering van de opdrachtgever geheel of gedeeltelijk ontbinden.
 
-[Dit onderdeel is nog niet inwerking getreden]
+2.	Indien reeds vóór de oplevering waarschijnlijk wordt dat de opdrachtgever niet op tijd of niet behoorlijk aan zijn verplichtingen zal voldoen, of dat de aannemer de overeenkomst niet zal kunnen uitvoeren ten gevolge van een omstandigheid die hem niet kan worden toegerekend, kan de rechter de overeenkomst op vordering van de aannemer geheel of gedeeltelijk ontbinden.
 
-Artikel 7.12.10
+3.	De rechter bepaalt de gevolgen van de ontbinding; hij kan de ontbinding ook doen afhangen van door hem te stellen voorwaarden.
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 757
 
-Artikel 7.12.11
+1.	Wordt de uitvoering van het werk onmogelijk doordat de zaak waarop of waaraan het werk moet worden uitgevoerd, tenietgaat of verloren raakt zonder dat dit aan de aannemer kan worden toegerekend, dan is de aannemer gerechtigd tot een evenredig deel van de vastgestelde prijs op grondslag van de reeds verrichte arbeid en gemaakte kosten. In geval van opzet of grove schuld van de opdrachtgever is de aannemer gerechtigd tot een bedrag berekend overeenkomstig het bepaalde in artikel 764 lid 2.
 
-[Dit onderdeel is nog niet inwerking getreden]
+2.	Bevond de zaak zich echter in het geval, bedoeld in het vorige lid, onder de aannemer, dan is de opdrachtgever tot geen enkele vergoeding gehouden, tenzij het tenietgaan of verloren raken aan zijn schuld was te wijten, in welk geval het vorige lid onverminderd toepassing vindt.
 
-Artikel 7.12.12
+Artikel 758
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Indien de aannemer te kennen heeft gegeven dat het werk klaar is om te worden opgeleverd en de opdrachtgever het werk niet binnen een redelijke termijn keurt en al dan niet onder voorbehoud aanvaardt dan wel onder aanwijzing van de gebreken weigert, wordt de opdrachtgever geacht het werk stilzwijgend te hebben aanvaard. Na de aanvaarding wordt het werk als opgeleverd beschouwd.
 
-Artikel 7.12.13
+2.	Na oplevering is het werk voor risico van de opdrachtgever. Derhalve blijft hij de prijs verschuldigd, ongeacht tenietgaan of achteruitgang van het werk door een oorzaak die niet aan de aannemer kan worden toegerekend.
 
-[Dit onderdeel is nog niet inwerking getreden]
+3.	De aannemer is ontslagen van de aansprakelijkheid voor gebreken die de opdrachtgever op het tijdstip van oplevering redelijkerwijs had moeten ontdekken.
 
-Artikel 7.12.14
+Artikel 759
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Indien het werk na oplevering gebreken vertoont waarvoor de aannemer aansprakelijk is, moet de opdrachtgever, tenzij zulks in verband met de omstandigheden niet van hem kan worden gevergd, aan de aannemer de gelegenheid geven de gebreken binnen een redelijke termijn weg te nemen, onverminderd de aansprakelijkheid van de aannemer voor schade ten gevolge van de gebrekkige oplevering.
+
+2.	De opdrachtgever kan vorderen dat de aannemer de gebreken binnen redelijke termijn wegneemt, tenzij de kosten van herstel in geen verhouding zouden staan tot het belang van de opdrachtgever bij herstel in plaats van schadevergoeding.
+
+Artikel 760
+
+1.	De gevolgen van een ondeugdelijke uitvoering van het werk, die te wijten is aan gebreken of ongeschiktheid van door de aannemer gebruikte materialen of hulpmiddelen, komen voor rekening van de aannemer.
+
+2.	Is de ondeugdelijke uitvoering echter te wijten aan gebreken of ongeschiktheid van zaken afkomstig van de opdrachtgever, daaronder begrepen de grond waarop hij een werk laat uitvoeren, dan komen de gevolgen voor zijn rekening, voor zover de aannemer niet zijn in artikel 754 bedoelde waarschuwingsplicht heeft geschonden of anderszins met betrekking tot deze gebreken in deskundigheid of zorgvuldigheid tekort is geschoten.
+
+3.	Lid 2 is van overeenkomstige toepassing in geval van fouten of gebreken in door de opdrachtgever verstrekte plannen, tekeningen, berekeningen, bestekken of uitvoeringsvoorschriften.
+
+Artikel 761
+
+1.	Elke rechtsvordering wegens een gebrek in het opgeleverde werk verjaart door verloop van twee jaren nadat de opdrachtgever ter zake heeft geprotesteerd. Indien de opdrachtgever de aannemer een termijn heeft gesteld waarbinnen deze het gebrek zal kunnen wegnemen, begint de verjaring pas te lopen bij het einde van die termijn, of zoveel eerder als de aannemer te kennen heeft gegeven het gebrek niet te zullen herstellen.
+
+2.	De rechtsvordering verjaart in ieder geval door verloop van twintig jaren na de oplevering in geval van aanneming van bouwwerken en door verloop van tien jaren na de oplevering in alle andere gevallen.
+
+3.	Indien de rechtsvordering krachtens het bepaalde in de vorige leden zou verjaren tussen het tijdstip waarop de aannemer aan de opdrachtgever heeft medegedeeld dat hij het gebrek zal onderzoeken of herstellen, en het tijdstip waarop hij het onderzoek en de pogingen tot herstel kennelijk als beëindigd beschouwt, wordt de verjaringstermijn verlengd overeenkomstig artikel 320 van Boek 3.
+
+4.	De leden 1–3 laten onverlet de bevoegdheid van de opdrachtgever om aan een vordering tot betaling van de prijs zijn recht op vermindering daarvan door gedeeltelijke ontbinding van de overeenkomst of op schadevergoeding tegen te werpen.
+
+Artikel 762
+
+De aansprakelijkheid van de aannemer voor hem bekende verborgen gebreken die hij heeft verzwegen, kan niet worden uitgesloten of beperkt, noch kan zij aan kortere verjaringstermijnen worden onderworpen dan die voorzien in artikel 761. Verzwijging door degenen die de aannemer met de leiding over de uitvoering van het werk heeft belast, wordt gelijkgesteld met verzwijging door de aannemer.
+
+Artikel 763
+
+Indien de aannemer na het sluiten van de overeenkomst overlijdt of duurzaam arbeidsongeschikt wordt, kan ieder der partijen de overeenkomst beëindigen, voor zover zij, gezien de aard van de overeenkomst, aan het overlijden of de duurzame arbeidsongeschiktheid een redelijk belang bij beëindiging kan ontlenen. Voor de reeds verrichte arbeid en gemaakte kosten is de opdrachtgever een naar redelijkheid en met inachtneming van alle omstandigheden te bepalen vergoeding verschuldigd.
+
+Artikel 764
+
+1.	De opdrachtgever is te allen tijde bevoegd de overeenkomst geheel of gedeeltelijk op te zeggen.
+
+2.	In geval van zulke opzegging zal hij de voor het gehele werk geldende prijs moeten betalen, verminderd met de besparingen die voor de aannemer uit de opzegging voortvloeien, tegen aflevering door de aannemer van het reeds voltooide werk. Indien de prijs afhankelijk was gesteld van de werkelijk door de aannemer te maken kosten, wordt de door de opdrachtgever verschuldigde prijs berekend op grondslag van de gemaakte kosten, de verrichte arbeid en de winst die de aannemer over het gehele werk zou hebben gemaakt.
 
 Afdeling 2. Bijzondere bepalingen voor de bouw van een woning in opdracht van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf
 
-Artikel 7.12.15
+Artikel 765
 
-[Dit onderdeel is nog niet inwerking getreden]
+Deze afdeling is van toepassing op aanneming van werk die strekt tot de bouw van een woning, bestaande uit een onroerende zaak of bestanddeel daarvan, in opdracht van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf.
 
-Artikel 7.12.16
+Artikel 766
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Een overeenkomst als bedoeld in artikel 765 wordt schriftelijk aangegaan.
 
-Artikel 7.12.17
+2.	De tussen partijen opgemaakte akte of een afschrift daarvan moet aan de opdrachtgever ter hand worden gesteld, desverlangd tegen afgifte aan de aannemer van een gedateerd ontvangstbewijs. Gedurende drie dagen na deze terhandstelling heeft de opdrachtgever het recht de overeenkomst te ontbinden. Komt, nadat de opdrachtgever van dit recht gebruik gemaakt heeft, binnen zes maanden tussen dezelfde partijen met betrekking tot dezelfde te bouwen woning opnieuw een overeenkomst tot stand, dan ontstaat het recht niet opnieuw.
 
-[Dit onderdeel is nog niet inwerking getreden]
+3.	De leden 1–2 zijn niet van toepassing indien de overeenkomst strekt tot de bouw van een woning op grond die de opdrachtgever reeds toebehoort, en de overeenkomst niet met de koop van deze grond in verband staat.
 
-Artikel 7.12.18
+Artikel 767
 
-[Dit onderdeel is nog niet inwerking getreden]
+De opdrachtgever kan slechts worden verplicht tot het doen van betalingen die, althans bij benadering, overeenstemmen met de voortgang van de bouw of met de waarde van de aan hem overgedragen goederen, behoudens dat kan worden bedongen dat hij ter verzekering van de nakoming van zijn verplichtingen een bedrag dat niet hoger is dan 10% van de aanneemsom, in depot stort bij een notaris dan wel voor dit bedrag vervangende zekerheid stelt. Het teveel betaalde geldt als onverschuldigd betaald.
 
-Artikel 7.12.19
+Artikel 768
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	De opdrachtgever kan, zonder beroep te doen op artikel 262 van Boek 6 en onder behoud van zijn recht op oplevering, maximaal 5% van de aanneemsom inhouden op de laatste termijn of laatste termijnen en dit bedrag in plaats van aan de aannemer te betalen, in depot storten bij een notaris.
+
+2.	De notaris brengt het bedrag in de macht van de aannemer nadat drie maanden zijn verstreken na het tijdstip van oplevering, tenzij de opdrachtgever van de in artikel 262 van Boek 6 toegekende bevoegdheid wenst gebruik te maken. In dat geval deelt de opdrachtgever aan de notaris mee tot welk bedrag het depot moet worden gehandhaafd.
+
+3.	De notaris brengt het bedrag voorts in de macht van de aannemer voor zover de opdrachtgever daarin toestemt, de aannemer vervangende zekerheid stelt of bij een uitspraak die partijen bindt, is beslist dat een depot niet of niet langer gerechtvaardigd is.
+
+4.	Indien de opdrachtgever aan de aannemer schadevergoeding verschuldigd is wegens de in lid 1 bedoelde depotstorting of de door de aannemer gestelde vervangende zekerheid, wordt deze gesteld op de wettelijke rente bedoeld in artikel 119 van Boek 6. Gedurende de drie maanden bedoeld in lid 2, is zij niet verschuldigd, zelfs niet indien geen gebreken worden geconstateerd.
+
+Artikel 769
+
+Van deze afdeling en voor zover voor de toepassing van artikel 768 nodig, van artikel 262 van Boek 6, kan niet ten nadele van de opdrachtgever worden afgeweken, behoudens bij een standaardregeling als bedoeld in artikel 214 van Boek 6.
 
 Titel 14. Borgtocht
 
