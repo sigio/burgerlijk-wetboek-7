@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2003 t/m 30-04-2003
+Geldend van 01-05-2003 t/m 31-05-2003
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -26,13 +26,31 @@ Artikel 5
 
 2.	Wordt de zaak verkocht door een gevolmachtigde die handelt in de uitoefening van beroep of bedrijf, dan wordt de koop aangemerkt als een consumentenkoop, tenzij de koper ten tijde van het sluiten van de overeenkomst weet dat de volmachtgever niet handelt in de uitoefening van een beroep of bedrijf.
 
-3.	De vorige leden zijn niet van toepassing indien de overeenkomst een registergoed of door leidingen naar de verbruiker aangevoerd water of gas betreft.
+3.	De vorige leden zijn niet van toepassing indien de overeenkomst door leidingen naar de verbruiker aangevoerd water of gas betreft.
+
+4.	Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 1639 van Boek 7A, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een aanbesteder, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en de artikelen 1640 tot en met 1651 van Boek 7A zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.
 
 Artikel 6
 
-1.	Bij een consumentenkoop kan van de afdelingen 1-7 van deze titel niet ten nadele van de koper worden afgeweken en kunnen de rechten en vorderingen die de wet aan de koper ter zake van een tekortkoming in de nakoming van de verplichtingen van de verkoper toekent, niet worden beperkt of uitgesloten, behoudens bij een standaardregeling als bedoeld in artikel 214 van Boek 6.
+1.	Bij een consumentenkoop kan van de afdelingen 1-7 van deze titel niet ten nadele van de koper worden afgeweken en kunnen de rechten en vorderingen die de wet aan de koper ter zake van een tekortkoming in de nakoming van de verplichtingen van de verkoper toekent, niet worden beperkt of uitgesloten.
 
 2.	Lid 1 is niet van toepassing op de artikelen 11, 12, 13, 26 en 35, doch bedingen in algemene voorwaarden waarbij ten nadele van de koper wordt afgeweken van die artikelen, worden als onredelijk bezwarend aangemerkt.
+
+3.	De toepasselijkheid op de consumentenkoop van een recht dat de door de richtlijn nr. 99/44/EG van het Europees Parlement en de Raad van de Europese Unie van 25 mei 1999 betreffende bepaalde aspecten van de verkoop van en de garanties voor consumptiegoederen (PbEG L 171) voorziene bescherming niet of slechts ten dele biedt, kan er niet toe leiden dat de koper de bescherming verliest die hem krachtens deze richtlijn wordt geboden door de dwingende bepalingen van het recht van de lidstaat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waar hij zijn gewone verblijfplaats heeft.
+
+Artikel 6a
+
+1.	Indien in geval van een consumentenkoop in een garantie door de verkoper of de producent bepaalde eigenschappen zijn toegezegd, bij het ontbreken waarvan de koper bepaalde rechten of vorderingen worden toegekend, dan kan de koper deze uitoefenen onverminderd alle andere rechten of vorderingen die de wet de koper toekent.
+
+2.	In een garantie moet op duidelijke en begrijpelijke wijze worden vermeld welke in lid 1 bedoelde rechten of vorderingen een koper worden toegekend en moet worden vermeld dat deze een koper toekomen onverminderd de rechten of vorderingen die de wet hem toekent. Voorts moeten in een garantie de naam en het adres worden vermeld van de verkoper of de producent van wie de garantie afkomstig is, alsmede de duur en het gebied waarvoor de garantie geldt.
+
+3.	De in lid 2 bedoelde gegevens moeten de koper op zijn verlangen worden verstrekt. Dit geschiedt schriftelijk of op een andere ter beschikking van de koper staande en voor hem toegankelijke duurzame gegevensdrager.
+
+4.	De aan de koper door de verkoper of de producent in een garantiebewijs toegekende rechten of vorderingen komen hem ook toe indien de zaak niet de eigenschappen bezit die in een reclame door deze verkoper of producent zijn toegezegd.
+
+5.	In dit artikel wordt verstaan onder:
+	a.	garantie: een in een garantiebewijs of reclame gedane toezegging als bedoeld in lid 1;
+	b.	producent: de fabrikant van de zaak, degene die de zaak in de Europese Economische Ruimte invoert, alsmede een ieder die zich als producent presenteert door zijn naam, zijn merk of een ander onderscheidingsteken op de zaak aan te brengen.
 
 Artikel 7
 
@@ -96,23 +114,29 @@ Artikel 17
 
 1.	De afgeleverde zaak moet aan de overeenkomst beantwoorden.
 
-2.	Een zaak beantwoordt niet aan de overeenkomst indien zij niet de eigenschappen bezit die de koper op grond van de overeenkomst mocht verwachten. De koper mag verwachten dat de zaak de eigenschappen bezit die voor een normaal gebruik daarvan nodig zijn en waarvan hij de aanwezigheid niet behoefde te betwijfelen, alsmede de eigenschappen die nodig zijn voor een bijzonder gebruik dat bij de overeenkomst is voorzien.
+2.	Een zaak beantwoordt niet aan de overeenkomst indien zij, mede gelet op de aard van de zaak en de mededelingen die de verkoper over de zaak heeft gedaan, niet de eigenschappen bezit die de koper op grond van de overeenkomst mocht verwachten. De koper mag verwachten dat de zaak de eigenschappen bezit die voor een normaal gebruik daarvan nodig zijn en waarvan hij de aanwezigheid niet behoefde te betwijfelen, alsmede de eigenschappen die nodig zijn voor een bijzonder gebruik dat bij de overeenkomst is voorzien.
 
 3.	Een andere zaak dan is overeengekomen, of een zaak van een andere soort, beantwoordt evenmin aan de overeenkomst. Hetzelfde geldt indien het afgeleverde in getal, maat of gewicht van het overeengekomene afwijkt.
 
 4.	Is aan de koper een monster of model getoond of verstrekt, dan moet de zaak daarmede overeenstemmen, tenzij het slechts bij wijze van aanduiding werd verstrekt zonder dat de zaak daaraan behoefde te beantwoorden.
 
-5.	Bij koop van een onroerende zaak wordt vermelding van de oppervlakte vermoed slechts als aanduiding bedoeld te zijn, zonder dat de zaak daaraan behoeft te beantwoorden.
+5.	De koper kan zich er niet op beroepen dat de zaak niet aan de overeenkomst beantwoordt wanneer hem dit ten tijde van het sluiten van de overeenkomst bekend was of redelijkerwijs bekend kon zijn. Ook kan de koper zich er niet op beroepen dat de zaak niet aan de overeenkomst beantwoordt wanneer dit te wijten is aan gebreken of ongeschiktheid van grondstoffen afkomstig van de koper, tenzij de verkoper hem voor deze gebreken of ongeschiktheid had moeten waarschuwen.
+
+6.	Bij koop van een onroerende zaak wordt vermelding van de oppervlakte vermoed slechts als aanduiding bedoeld te zijn, zonder dat de zaak daaraan behoeft te beantwoorden.
 
 Artikel 18
 
-Bij de beoordeling van de vraag of een op grond van een consumentenkoop afgeleverde zaak aan de overeenkomst beantwoordt, gelden mededelingen die door of ten behoeve van een vorige verkoper van die zaak, handelend in de uitoefening van een beroep of bedrijf, omtrent de zaak zijn openbaar gemaakt, als mededelingen van de verkoper, behoudens voor zover deze een bepaalde mededeling kende noch behoorde te kennen of duidelijk heeft weersproken.
+1.	Bij de beoordeling van de vraag of een op grond van een consumentenkoop afgeleverde zaak aan de overeenkomst beantwoordt, gelden mededelingen die door of ten behoeve van een vorige verkoper van die zaak, handelend in de uitoefening van een beroep of bedrijf, omtrent de zaak zijn openbaar gemaakt, als mededelingen van de verkoper, behoudens voor zover deze een bepaalde mededeling kende noch behoorde te kennen of deze mededeling uiterlijk ten tijde van het sluiten van de overeenkomst op een voor de koper duidelijke wijze is herroepen, dan wel de koop niet door deze mededeling beïnvloed kan zijn.
+
+2.	Bij een consumentenkoop wordt vermoed dat de zaak bij aflevering niet aan de overeenkomst heeft beantwoord, indien de afwijking van het overeengekomene zich binnen een termijn van zes maanden na aflevering openbaart, tenzij de aard van de zaak of de aard van de afwijking zich daartegen verzet.
+
+3.	Indien in geval van een consumentenkoop de verkoper verplicht is zorg te dragen voor de installatie van de zaak en deze installatie ondeugdelijk is uitgevoerd, wordt dit gelijkgesteld aan een gebrek aan overeenstemming van de zaak aan de overeenkomst. Hetzelfde geldt indien de installatie door de koper ondeugdelijk is uitgevoerd en dit te wijten is aan de montagevoorschriften die met de levering van de zaak aan de koper zijn verstrekt.
 
 Artikel 19
 
 1.	In geval van een executoriale verkoop kan de koper zich er niet op beroepen dat de zaak behept is met een last of een beperking die er niet op had mogen rusten, of dat deze niet aan de overeenkomst beantwoordt, tenzij de verkoper dat wist.
 
-2.	Hetzelfde geldt indien de verkoop bij wijze van parate executie plaatsvindt, mits de koper dit wist of had moeten weten.
+2.	Hetzelfde geldt indien de verkoop bij wijze van parate executie plaatsvindt, mits de koper dit wist of had moeten weten. Bij een consumentenkoop kan de koper zich er echter wel op beroepen dat de zaak niet aan de overeenkomst beantwoordt.
 
 Afdeling 3. Bijzondere gevolgen van niet-nakoming van de verplichtingen van de verkoper
 
@@ -127,19 +151,33 @@ Artikel 21
 	b.	herstel van de afgeleverde zaak, mits de verkoper hieraan redelijkerwijs kan voldoen;
 	c.	vervanging van de afgeleverde zaak, tenzij de afwijking van het overeengekomene te gering is om dit te rechtvaardigen, dan wel de zaak na het tijdstip dat de koper redelijkerwijze met ongedaanmaking rekening moet houden, teniet of achteruit is gegaan doordat hij niet als een zorgvuldig schuldenaar voor het behoud ervan heeft gezorgd.
 
-2.	Indien bij een consumentenkoop de koper van een voor vervanging vatbare zaak herstel of vervanging daarvan overeenkomstig lid 1 onder b of c vordert, is de verkoper bevoegd tussen vervanging of teruggave van de koopprijs te kiezen. De verkoper is gehouden deze keuze binnen korte tijd te doen en vervolgens zijn verplichting binnen redelijke tijd na te komen; bij gebreke hiervan kan de koper zijn rechten op herstel of vervanging doen gelden.
+2.	De kosten van nakoming van de in lid 1 bedoelde verplichtingen kunnen niet aan de koper in rekening worden gebracht.
 
-3.	Indien bij een consumentenkoop de verkoper niet binnen een redelijke tijd nadat hij daartoe door de koper schriftelijk is aangemaand, aan zijn verplichting tot herstel van de afgeleverde zaak heeft voldaan, is de koper bevoegd het herstel door een derde te doen plaatsvinden en de kosten daarvan op de verkoper te verhalen.
+3.	De verkoper is verplicht om, mede gelet op de aard van de zaak en op het bijzondere gebruik van de zaak dat bij de overeenkomst is voorzien, binnen een redelijke termijn en zonder ernstige overlast voor de koper, zijn in lid 1 bedoelde verplichtingen na te komen.
+
+4.	Bij een consumentenkoop komt de koper in afwijking van lid 1 slechts dan geen herstel of vervanging van de afgeleverde zaak toe indien herstel of vervanging onmogelijk is of van de verkoper niet gevergd kan worden.
+
+5.	Herstel of vervanging kan bij een consumentenkoop van de verkoper niet gevergd worden indien de kosten daarvan in geen verhouding staan tot de kosten van uitoefening van een ander recht of een andere vordering die de koper toekomt, gelet op de waarde van de zaak indien zij aan de overeenkomst zou beantwoorden, de mate van afwijking van het overeengekomene en de vraag of de uitoefening van een ander recht of een andere vordering geen ernstige overlast voor de koper veroorzaakt.
+
+6.	Indien bij een consumentenkoop de verkoper niet binnen een redelijke tijd nadat hij daartoe door de koper schriftelijk is aangemaand, aan zijn verplichting tot herstel van de afgeleverde zaak heeft voldaan, is de koper bevoegd het herstel door een derde te doen plaatsvinden en de kosten daarvan op de verkoper te verhalen.
 
 Artikel 22
 
-De rechten genoemd in de artikelen 20 en 21 komen de koper toe onverminderd alle andere rechten of vorderingen.
+1.	Beantwoordt het afgeleverde niet aan de overeenkomst, dan heeft bij een consumentenkoop de koper voorts de bevoegdheid om:
+	a.	de overeenkomst te ontbinden, tenzij de afwijking van het overeengekomene, gezien haar geringe betekenis, deze ontbinding met haar gevolgen niet rechtvaardigt;
+	b.	de prijs te verminderen in evenredigheid met de mate van afwijking van het overeengekomene.
+
+2.	De in lid 1 bedoelde bevoegdheden ontstaan pas wanneer herstel en vervanging onmogelijk zijn of van de verkoper niet gevergd kunnen worden, danwel de verkoper tekort is geschoten in een verplichting als bedoeld in artikel 21 lid 3.
+
+3.	Voorzover daarvan in deze afdeling niet is afgeweken zijn op de in lid 1 onder b bedoelde bevoegdheid de bepalingen van afdeling 5 van titel 5 van Boek 6 omtrent ontbinding van een overeenkomst van overeenkomstige toepassing.
+
+4.	De rechten en bevoegdheden genoemd in lid 1 en de artikelen 20 en 21 komen de koper toe onverminderd alle andere rechten en vorderingen.
 
 Artikel 23
 
-1.	De koper kan er geen beroep meer op doen dat hetgeen is afgeleverd niet aan de overeenkomst beantwoordt, indien hij de verkoper daarvan niet binnen bekwame tijd nadat hij dit heeft ontdekt of redelijkerwijs had behoren te ontdekken, kennis heeft gegeven. Blijkt echter aan de zaak een eigenschap te ontbreken die deze volgens de verkoper bezat, of heeft de afwijking betrekking op feiten die hij kende of behoorde te kennen doch die hij niet heeft meegedeeld, dan moet de kennisgeving binnen bekwame tijd na de ontdekking geschieden.
+1.	De koper kan er geen beroep meer op doen dat hetgeen is afgeleverd niet aan de overeenkomst beantwoordt, indien hij de verkoper daarvan niet binnen bekwame tijd nadat hij dit heeft ontdekt of redelijkerwijs had behoren te ontdekken, kennis heeft gegeven. Blijkt echter aan de zaak een eigenschap te ontbreken die deze volgens de verkoper bezat, of heeft de afwijking betrekking op feiten die hij kende of behoorde te kennen doch die hij niet heeft meegedeeld, dan moet de kennisgeving binnen bekwame tijd na de ontdekking geschieden. Bij een consumentenkoop moet de kennisgeving binnen bekwame tijd na de ontdekking geschieden, waarbij een kennisgeving binnen een termijn van twee maanden na de ontdekking tijdig is.
 
-2.	Rechtsvorderingen en verweren, gegrond op feiten die de stelling zouden rechtvaardigen dat de afgeleverde zaak niet aan de overeenkomst beantwoordt, verjaren door verloop van twee jaren na de overeenkomstig het eerste lid gedane kennisgeving. Doch de koper behoudt de bevoegdheid om aan een vordering tot betaling van de prijs zijn recht op vermindering daarvan door gedeeltelijke ontbinding van de koop of op schadevergoeding tegen te werpen.
+2.	Rechtsvorderingen en verweren, gegrond op feiten die de stelling zouden rechtvaardigen dat de afgeleverde zaak niet aan de overeenkomst beantwoordt, verjaren door verloop van twee jaren na de overeenkomstig het eerste lid gedane kennisgeving. Doch de koper behoudt de bevoegdheid om aan een vordering tot betaling van de prijs zijn recht op vermindering daarvan of op schadevergoeding tegen te werpen.
 
 3.	De termijn loopt niet zolang de koper zijn rechten niet kan uitoefenen als gevolg van opzet van de verkoper.
 
@@ -158,7 +196,7 @@ Artikel 25
 
 1.	Heeft de koper, in geval van een tekortkoming als bedoeld in artikel 24, een of meer van zijn rechten ter zake van die tekortkoming tegen de verkoper uitgeoefend, dan heeft de verkoper recht op schadevergoeding jegens degene van wie hij de zaak heeft gekocht, mits ook deze bij die overeenkomst in de uitoefening van zijn beroep of bedrijf heeft gehandeld. Kosten ter zake van verweer worden slechts vergoed voor zover zij in redelijkheid door de verkoper zijn gemaakt.
 
-2.	Op een beding tot uitsluiting of beperking van de aansprakelijkheid, bedoeld in lid 1, kan slechts een beroep worden gedaan, voorzover dit, gelet op alle omstandigheden van het geval, jegens de verkoper redelijk is.
+2.	Van lid 1 kan niet ten nadele van de verkoper worden afgeweken.
 
 3.	Het recht op schadevergoeding krachtens lid 1 komt de verkoper niet toe indien de afwijking betrekking heeft op feiten die hij kende of behoorde te kennen, dan wel haar oorzaak vindt in een omstandigheid die is voorgevallen nadat de zaak aan hem werd afgeleverd.
 
