@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-04-2002 t/m 30-06-2002
+Geldend van 01-07-2002 t/m 21-11-2002
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -482,6 +482,10 @@ Ruil is de overeenkomst waarbij partijen zich verbinden elkaar over en weer een 
 Artikel 50
 
 De bepalingen betreffende koop vinden overeenkomstige toepassing, met dien verstande dat elke partij wordt beschouwd als verkoper voor de prestatie die zij verschuldigd is, en als koper voor die welke haar toekomt.
+
+Titel 3. Schenking
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Titel 7. Opdracht
 
@@ -1741,9 +1745,13 @@ Afdeling 8. Rechten van de werknemer bij overgang van een onderneming
 
 Artikel 662
 
-Voor de toepassing van deze afdeling wordt
-	a.	onder onderneming een dienst of instelling begrepen;
-	b.	onder overgang van een onderneming verstaan: overgang van een onderneming of een onderdeel daarvan ten gevolge van een overeenkomst, inzonderheid een overeenkomst tot verkoop, verhuur, verpachting of uitgifte in vruchtgebruik, of ten gevolge van een splitsing als bedoeld in artikel 334a van Boek 2.
+1.	In afwijking van artikel 615 is deze afdeling ook van toepassing op de werknemer die arbeid verricht in een onderneming die in stand wordt gehouden door staat, provincie, gemeente, waterschap of enig ander publiekrechtelijk lichaam.
+
+2.	Voor de toepassing van deze afdeling wordt verstaan onder:
+	a.	overgang: de overgang, ten gevolge van een overeenkomst, een fusie of een splitsing, van een economische eenheid die haar identiteit behoudt;
+	b.	economische eenheid: een geheel van georganiseerde middelen, bestemd tot het ten uitvoer brengen van een al dan niet hoofdzakelijk economische activiteit.
+
+3.	Voor de toepassing van deze afdeling wordt een vestiging of een onderdeel van een onderneming of vestiging beschouwd als een onderneming.
 
 Artikel 663
 
@@ -1751,19 +1759,31 @@ Door de overgang van een onderneming gaan de rechten en verplichtingen die op da
 
 Artikel 664
 
-1.	Artikel 663 is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een toezegging omtrent pensioen als omschreven in artikel 1, eerste lid, onderdeel a, van de Pensioen- en spaarfondsenwet, dan wel uit een spaarregeling als bedoeld in artikel 3, eerste lid, van die wet.
+1.	Artikel 663, eerste volzin, is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een toezegging omtrent pensioen als bedoeld in artikel 1, eerste lid, onderdeel a, van de Pensioen- en spaarfondsenwet indien:
+	a.	de verkrijger aan de werknemer, bedoeld in artikel 663, dezelfde toezegging doet, die hij reeds voor het tijdstip van overgang heeft gedaan aan zijn werknemers;
+	b.	de verkrijger op grond van artikel 2 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, verplicht is deel te nemen in een bedrijfstakpensioenfonds en de werknemer, bedoeld in artikel 663, gaat deelnemen in dat fonds;
+	c.	bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan is afgeweken van de toezegging omtrent pensioen, bedoeld in de aanhef.
 
-2.	Voor de nakoming van verplichtingen van de werkgever die op het tijdstip van de overgang van de onderneming voor hem voortvloeien uit een pensioentoezegging of spaarregeling als bedoeld in lid 1, waarop artikel 2, eerste lid, onderscheidenlijk 3, eerste lid, van de Pensioen- en spaarfondsenwet ingevolge het bij of krachtens die wet bepaalde niet van toepassing is, is de verkrijger hoofdelijk verbonden naast de eerstgenoemde.
+2.	Het eerste lid is niet van toepassing indien de werknemer, bedoeld in artikel 663, voor de overgang op grond van artikel 2 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, verplicht is deel te nemen in een bedrijfstakpensioenfonds en deze zelfde verplichting blijft gelden na de overgang.
 
-3.	Lid 2 is niet van toepassing voor wat betreft verplichtingen jegens een werknemer die op het tijdstip van de overgang middellijk of onmiddellijk houder is van aandelen die ten minste een tiende gedeelte van het geplaatste kapitaal van de onderneming vertegenwoordigen.
+3.	Artikel 663, eerste volzin, is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een spaarregeling als bedoeld in artikel 3, eerste lid, van de Pensioen- en spaarfondsenwet indien de verkrijger de werknemer, bedoeld in artikel 663, opneemt in de spaarregeling die reeds voor het tijdstip van overgang gold voor zijn werknemers.
 
 Artikel 665
 
 Indien de overgang van een onderneming een wijziging van de omstandigheden ten nadele van de werknemer tot gevolg heeft en de arbeidsovereenkomst deswege wordt ontbonden ingevolge artikel 685, geldt zij met het oog op de toepassing van lid 8 van dat artikel als ontbonden wegens een reden welke voor rekening van de werkgever komt.
 
+Artikel 665a
+
+Indien in een onderneming geen ondernemingsraad is ingesteld, noch een personeelsvertegenwoordiging is ingesteld krachtens artikel 35c, eerste lid, of artikel 35d, eerste lid, van de Wet op de ondernemingraden, stelt de werkgever de eigen werknemers die betrokken zijn bij de overgang van de onderneming tijdig in kennis van
+	a.	het voorgenomen besluit tot overgang;
+	b.	de voorgenomen datum van de overgang;
+	c.	de reden van de overgang;
+	d.	de juridische, economische, en sociale gevolgen van de overgang voor de werknemers, en
+	e.	de ten aanzien van de werknemers overwogen maatregelen.
+
 Artikel 666
 
-1.	Deze afdeling is niet van toepassing op de overgang van een onderneming indien de werkgever in staat van faillissement is verklaard en de onderneming tot de boedel behoort.
+1.	De artikelen 662 tot en met 665, en artikel 670, lid 8, zijn niet van toepassing op de overgang van een onderneming indien de werkgever in staat van faillissement is verklaard en de onderneming tot de boedel behoort.
 
 2.	Deze afdeling is niet van toepassing met betrekking tot de bemanning van een zeeschip.
 
@@ -1831,7 +1851,9 @@ Artikel 670
 
 7.	De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer zijn recht op ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg geldend maakt.
 
-8.	Van de leden 1 en 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
+8.	De werkgever kan de arbeidsovereenkomst met de in zijn onderneming werkzame werknemer niet opzeggen wegens de in artikel 662, lid 2, onderdeel a, bedoelde overgang van die onderneming.
+
+9.	Van de leden 1 en 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
 
 Artikel 670a
 
@@ -1847,7 +1869,7 @@ Artikel 670b
 
 1.	De artikelen 670 en 670a zijn niet van toepassing bij een opzegging gedurende de proeftijd of wegens een dringende reden.
 
-2.	De leden 1 tot en met 7 van artikel 670 en artikel 670a zijn niet van toepassing indien de werknemer schriftelijk met de opzegging instemt of indien de opzegging geschiedt wegens de beëindiging van de werkzaamheden van de onderneming of van het onderdeel van de onderneming, waarin de werknemer uitsluitend of in hoofdzaak werkzaam is. De opzegging wegens beëindiging van de werkzaamheden kan evenwel niet betreffen de werkneemster die zwangerschaps- of bevallingsverlof geniet als bedoeld in artikel 3:1 van de Wet arbeid en zorg.
+2.	De leden 1 tot en met 8 van artikel 670 en artikel 670a zijn niet van toepassing indien de werknemer schriftelijk met de opzegging instemt of indien de opzegging geschiedt wegens de beëindiging van de werkzaamheden van de onderneming of van het onderdeel van de onderneming, waarin de werknemer uitsluitend of in hoofdzaak werkzaam is. De opzegging wegens beëindiging van de werkzaamheden kan evenwel niet betreffen de werkneemster die zwangerschaps- of bevallingsverlof geniet als bedoeld in artikel 3:1 van de Wet arbeid en zorg.
 
 3.	Artikel 670, lid 1, aanhef en onder a, is niet van toepassing, indien de werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, zonder deugdelijke grond weigert:
 	a.	gevolg te geven aan door de werkgever of een door hem aangewezen deskundige gegeven redelijke voorschriften en mee te werken aan door de werkgever of een door hem aangewezen deskundige getroffen maatregelen om hem in staat te stellen de eigen of andere passende arbeid te verrichten;
@@ -1920,7 +1942,7 @@ Artikel 677
 
 4.	Ingeval een der partijen schadeplichtig is, heeft de wederpartij de keus de in artikel 680 genoemde gefixeerde schadevergoeding of een volledige schadevergoeding te vorderen.
 
-5.	Het niet in acht nemen van artikel 670 leden 1 tot en met 7, of van artikel 670a maakt de werkgever niet schadeplichtig.
+5.	Het niet in acht nemen van artikel 670 leden 1 tot en met 8, of van artikel 670a maakt de werkgever niet schadeplichtig.
 
 De werknemer kan in die gevallen gedurende twee maanden na de opzegging van de arbeidsovereenkomst een beroep doen op de vernietigingsgrond. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. Artikel 55 van Boek 3 is niet van toepassing.
 
