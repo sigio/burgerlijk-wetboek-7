@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2004 t/m 30-04-2004
+Geldend van 01-05-2004 t/m 18-05-2004
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -63,7 +63,7 @@ Artikel 5
 
 3.	De vorige leden zijn niet van toepassing indien de overeenkomst door leidingen naar de verbruiker aangevoerd water of gas betreft.
 
-4.	Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 7.12.1, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een opdrachtgever, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en die van afdeling 1 van titel 12 zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.
+4.	Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 750, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een opdrachtgever, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en die van afdeling 1 van titel 12 zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.
 
 Artikel 6
 
@@ -866,7 +866,7 @@ Artikel 230a
 
 4.	Het verzoek wordt slechts toegewezen indien de belangen van de huurder en van de onderhuurder aan wie bevoegdelijk is onderverhuurd, door de ontruiming ernstiger worden geschaad dan die van de verhuurder bij voortzetting van het gebruik door de huurder. Het verzoek wordt niettemin afgewezen, indien de verhuurder aannemelijk maakt dat van hem wegens onbehoorlijk gebruik van het verhuurde, wegens ernstige overlast, de medegebruikers dan wel hemzelf aangedaan, of wegens wanbetaling niet gevergd kan worden dat de huurder langer het recht op het gebruik van de zaak of gedeelte daarvan behoudt.
 
-5.	De verlenging kan worden uitgesproken voor een termijn van ten hoogste een jaar na het eindigen van de overeenkomst. Deze termijn kan op verzoek van de huurder nog tweemaal telkens met ten hoogste een jaar worden verlengd. Het verzoek tot verlenging moet uiterlijk een maand voor het verstrijken van de termijn worden ingediend. Lid 2, tweede zin, en lid 3 zijn van toepassing.
+5.	De verlenging kan worden uitgesproken voor een termijn van ten hoogste een jaar na het eindigen van de overeenkomst. Deze termijn kan op verzoek van de huurder nog tweemaal telkens met ten hoogste een jaar worden verlengd. Het verzoek tot verlenging moet uiterlijk een maand voor het verstrijken van de termijn worden ingediend. Lid 3, tweede zin, en lid 4 zijn van toepassing.
 
 6.	Zo partijen het niet eens zijn over de som die de huurder gedurende de termijn waarmee de verlenging heeft plaats gevonden, voor het gebruik van de zaak of gedeelte daarvan verplicht is te betalen, stelt rechter deze som vast op een, gezien het huurpeil ter plaatse, redelijk bedrag. Hij kan, zo een der partijen dit verzoekt, te dier zake een voorlopige voorziening treffen. Voor het overige blijven gedurende deze termijn de rechten en verplichtingen uit de huurovereenkomst tussen partijen van kracht.
 
@@ -1382,11 +1382,11 @@ In het geval, bedoeld in artikel 296 lid 4 onder c, kan de rechter de huurder ee
 
 Artikel 299
 
-1.	Indien de overeenkomst is opgezegd op de grond dat een in artikel 296 lid 1 onder b genoemde persoon het verhuurde persoonlijk in duurzaam gebruik wil nemen en de huurder in de beëindiging van de overeenkomst heeft toegestemd dan wel de vordering tot beëindiging van de overeenkomst op die grond dan wel op de grond, bedoeld in artikel 296 lid 2, is toegewezen, is de verhuurder jegens de huurder en degene die bevoegdelijk heeft ondergehuurd, tot schadevergoeding gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen in werkelijkheid niet aanwezig is geweest.
+1.	Indien de overeenkomst is opgezegd op de grond dat een in artikel 296 lid 1 onder b genoemde persoon het verhuurde persoonlijk in duurzaam gebruik wil nemen en de huurder in de beëindiging van de overeenkomst heeft toegestemd dan wel de vordering tot beëindiging van de overeenkomst op die grond dan wel op de grond, bedoeld in artikel 296 lid 3, is toegewezen, is de verhuurder jegens de huurder en degene die bevoegdelijk heeft ondergehuurd, tot schadevergoeding gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen in werkelijkheid niet aanwezig is geweest.
 
 2.	Behoudens tegenbewijs wordt die wil geacht niet aanwezig te zijn geweest, indien het verhuurde niet binnen een jaar na het einde van de overeenkomst door een persoon als bedoeld in artikel 296 lid 1 onder b in duurzaam gebruik is genomen.
 
-3.	De rechter kan in een beslissing tot toewijzing van een vordering tot beëindiging, gegrond op de in artikel 296 lid 1 onder b bedoelde wil van een der daar bedoelde personen, op verzoek van de huurder of ambtshalve een bedrag bepalen dat de verhuurder aan de huurder of degene die bevoegdelijk heeft onderverhuurd moet betalen, indien later mocht blijken dat die wil in werkelijkheid niet aanwezig is geweest, onverminderd het recht van de huurder op verdere schadevergoeding.
+3.	De rechter kan in een beslissing tot toewijzing van een vordering tot beëindiging, gegrond op de in artikel 296 lid 1 onder b bedoelde wil van een der daar bedoelde personen, op verzoek van de huurder of ambtshalve een bedrag bepalen dat de verhuurder aan de huurder of degene die bevoegdelijk heeft ondergehuurd moet betalen, indien later mocht blijken dat die wil in werkelijkheid niet aanwezig is geweest, onverminderd het recht van de huurder op verdere schadevergoeding.
 
 4.	De vordering van de huurder of onderhuurder tot schadevergoeding of tot betaling van het in lid 3 bedoelde bedrag vervalt vijf jaren na het einde van de huurovereenkomst.
 
@@ -1432,7 +1432,7 @@ Artikel 304
 
 2.	Indien partijen geen overeenstemming bereiken over de benoeming van een deskundige, benoemt de rechter deze op verzoek van de meest gerede partij. Indien een zodanig verzoek wordt gedaan, geldt de dag van dat verzoek voor de toepassing van artikel 303 leden 1, 2 en 4 als de dag waarop de vordering tot nadere vaststelling van de huurprijs is ingesteld.
 
-3.	De kosten van het advies zijn proceskosten in de zin van artikel 57 van het Wetboek van Burgerlijke Rechtsvordering; de artikelen 57c, 223 en 225 van dat wetboek zijn van overeenkomstige toepassing.
+3.	De kosten van het advies zijn proceskosten als bedoeld in artikel 237 van het Wetboek van Burgerlijke Rechtsvordering; de artikelen 195, 196, 199 en 244 van dat wetboek zijn van overeenkomstige toepassing.
 
 Artikel 305
 
@@ -1986,7 +1986,7 @@ Artikel 467
 
 Artikel 468
 
-Van de bepalingen van deze afdeling en van de artikelen 404, 405 lid 2 en 406 van afdeling 1 van deze titel kan niet ten nadele van de patiënt worden afgeweken.
+Van de bepalingen van deze afdeling en van de artikelen 404, 405 lid 2 en 406 kan niet ten nadele van de patiënt worden afgeweken.
 
 Titel 7A. Reisovereenkomst
 
@@ -2467,9 +2467,9 @@ Artikel 635
 
 Artikel 636
 
-1.	Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens een van de redenen, bedoeld in artikel 635 leden 1, 3 en 4 kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het in artikel 634 bedoelde minimum.
+1.	Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens een van de redenen, bedoeld in artikel 635 leden 1, 4 en 5 kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het in artikel 634 bedoelde minimum.
 
-2.	Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens de in artikel 635 lid 2 bedoelde reden, kunnen niet worden aangemerkt als vakantie.
+2.	Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens een van de redenen, bedoeld in artikel 635, leden 2 en 3, kunnen niet worden aangemerkt als vakantie.
 
 Artikel 637
 
