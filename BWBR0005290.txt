@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2003 t/m 31-12-2003
+Geldend van 01-01-2004 t/m 30-04-2004
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2331,7 +2331,7 @@ Artikel 628a
 
 Artikel 629
 
-1.	Voor zover het loon niet meer bedraagt dan het maximum dagloon, bedoeld in artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering, behoudt de werknemer voor een tijdvak van tweeënvijftig weken recht op 70% van het naar tijdruimte vastgestelde loon, maar ten minste op het voor hem geldende wettelijke minimumloon, indien hij de bedongen arbeid niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling daartoe verhinderd was.
+1.	Voor zover het loon niet meer bedraagt dan het maximum dagloon, bedoeld in artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering, behoudt de werknemer voor een tijdvak van 104 weken recht op 70% van het naar tijdruimte vastgestelde loon, maar de eerste 52 weken ten minste op het voor hem geldende wettelijke minimumloon, indien hij de bedongen arbeid niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling daartoe verhinderd was.
 
 2.	Voor de werknemer die ten behoeve van zijn werkgever uitsluitend of nagenoeg uitsluitend huiselijke of persoonlijke diensten op minder dan drie dagen per week verricht, geldt het in lid 1 bedoelde recht voor een tijdvak van zes weken.
 
@@ -2356,18 +2356,18 @@ Artikel 629
 
 10.	Voor de toepassing van de leden 1, 2 en 9 worden perioden, waarin de werknemer in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling verhinderd is geweest zijn arbeid te verrichten, samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen. Bij de vaststelling van de periode van vier weken blijven perioden, waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, buiten beschouwing.
 
-11.	Het tijdvak, bedoeld in lid 1, wordt verlengd:
+11.	Het tijdvak van 104 weken, bedoeld in lid 1, wordt verlengd:
 	a.	met de duur van de vertraging indien de werkgever de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet later doet dan in dat artikel is voorgeschreven;
-	b.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd;
+	b.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
 	c.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
 
-12.	Ingeval van verlenging op grond van lid 11 kan het tijdvak, bedoeld in lid 1, niet meer dan honderdvier weken bedragen.
+12.	Indien de werknemer passende arbeid als bedoeld in artikel 658a lid 3 verricht, blijft de arbeidsovereenkomst onverkort in stand.
 
 Artikel 629a
 
-1.	De rechter wijst een vordering tot betaling van loon als bedoeld in artikel 629 af, indien bij de eis niet een verklaring is gevoegd van een deskundige, benoemd door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, omtrent de verhindering van de werknemer om de bedongen of andere passende arbeid te verrichten.
+1.	De rechter wijst een vordering tot betaling van loon als bedoeld in artikel 629 af, indien bij de eis niet een verklaring is gevoegd van een deskundige, benoemd door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, omtrent de verhindering van de werknemer om de bedongen of andere passende arbeid te verrichten respectievelijk diens nakoming van de verplichtingen, bedoeld in artikel 660a.
 
-2.	Lid 1 geldt niet indien de verhindering niet wordt betwist of het overleggen van de verklaring in redelijkheid niet van de werknemer kan worden gevergd.
+2.	Lid 1 geldt niet indien de verhindering respectievelijk de nakoming niet wordt betwist of het overleggen van de verklaring in redelijkheid niet van de werknemer kan worden gevergd.
 
 3.	De deskundige, die zijn benoeming heeft aanvaard, is verplicht zijn onderzoek onpartijdig en naar beste weten te volbrengen.
 
@@ -2721,11 +2721,27 @@ Artikel 658
 
 Artikel 658a
 
-1.	De werkgever is verplicht zo tijdig mogelijk zodanige maatregelen te treffen en voorschriften te geven als redelijkerwijs nodig is, opdat de werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten.
+1.	De werkgever is verplicht zo tijdig mogelijk zodanige maatregelen te treffen en voorschriften te geven als redelijkerwijs nodig is, opdat de werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten. Indien vaststaat dat de eigen arbeid niet meer kan worden verricht en in het bedrijf van de werkgever geen andere passende arbeid voorhanden is, bevordert de werkgever de inschakeling van de werknemer in voor hem passende arbeid in het bedrijf van een andere werkgever.
 
 2.	Uit hoofde van zijn verplichting, bedoeld in lid 1, stelt de werkgever in overeenstemming met de werknemer een plan van aanpak op als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering. Het plan van aanpak wordt met medewerking van de werknemer regelmatig geëvalueerd en zo nodig bijgesteld.
 
 3.	Onder passende arbeid als bedoeld in lid 1 wordt verstaan alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd.
+
+Artikel 658b
+
+1.	De rechter wijst een vordering tot nakoming van de verplichting, bedoeld in artikel 658a lid 1, af, indien bij de eis niet een verklaring is gevoegd van een deskundige, benoemd door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, omtrent de nakoming van die verplichting door de werkgever.
+
+2.	Lid 1 geldt niet indien de nakoming niet wordt betwist of het overleggen van de verklaring in redelijkheid niet van de werknemer kan worden gevergd.
+
+3.	De deskundige, die zijn benoeming heeft aanvaard, is verplicht zijn onderzoek onpartijdig en naar beste weten te volbrengen.
+
+4.	De deskundige die de hoedanigheid van arts bezit, kan de voor zijn onderzoek van belang zijnde inlichtingen over de werknemer inwinnen bij de behandelend arts of de behandelend artsen. Zij verstrekken de gevraagde inlichtingen voor zover daardoor de persoonlijke levenssfeer van de werknemer niet onevenredig wordt geschaad.
+
+5.	De rechter kan op verzoek van een der partijen of ambtshalve bevelen dat de deskundige zijn verklaring nader schriftelijk of mondeling toelicht of aanvult.
+
+6.	De werknemer wordt ter zake van een vordering als bedoeld in het eerste lid slechts in de kosten van de werkgever, bedoeld in artikel 237 van het Wetboek van Burgerlijke Rechtsvordering, veroordeeld in geval van kennelijk onredelijk gebruik van procesrecht.
+
+7.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan worden bepaald dat de in het eerste lid bedoelde deskundige door een ander dan het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen wordt aangewezen.
 
 Afdeling 7. Enkele bijzondere verplichtingen van de werknemer
 
@@ -2866,7 +2882,12 @@ Artikel 670
 
 9.	De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer geen instemming verleent aan het werken op zondag als bedoeld in artikel 5:4, eerste lid, derde volzin, van de Arbeidstijdenwet.
 
-10.	Van de leden 1 en 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
+10.	De termijn van twee jaren, bedoeld in lid 1, onderdeel a, wordt verlengd:
+	a.	met de duur van de vertraging indien de werkgever de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet later doet dan in dat artikel is voorgeschreven;
+	b.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
+	c.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
+
+11.	Van de leden 1 en 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
 
 Artikel 670a
 
@@ -2882,7 +2903,7 @@ Artikel 670b
 
 1.	De artikelen 670 en 670a zijn niet van toepassing bij een opzegging gedurende de proeftijd of wegens een dringende reden.
 
-2.	De leden 1 tot en met 7 en lid 9 van artikel 670 en artikel 670a zijn niet van toepassing indien de werknemer schriftelijk met de opzegging instemt of indien de opzegging geschiedt wegens de beëindiging van de werkzaamheden van de onderneming of van het onderdeel van de onderneming, waarin de werknemer uitsluitend of in hoofdzaak werkzaam is. De opzegging wegens beëindiging van de werkzaamheden kan evenwel niet betreffen de werkneemster die zwangerschaps- of bevallingsverlof geniet als bedoeld in artikel 3:1 van de Wet arbeid en zorg.
+2.	De leden 1 tot en met 9 van artikel 670 en artikel 670a zijn niet van toepassing indien de werknemer schriftelijk met de opzegging instemt of indien de opzegging geschiedt wegens de beëindiging van de werkzaamheden van de onderneming of van het onderdeel van de onderneming, waarin de werknemer uitsluitend of in hoofdzaak werkzaam is. De opzegging wegens beëindiging van de werkzaamheden kan evenwel niet betreffen de werkneemster die zwangerschaps- of bevallingsverlof geniet als bedoeld in artikel 3:1 van de Wet arbeid en zorg.
 
 3.	Artikel 670, lid 1, aanhef en onder a, is niet van toepassing, indien de werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, zonder deugdelijke grond weigert:
 	a.	gevolg te geven aan door de werkgever of een door hem aangewezen deskundige gegeven redelijke voorschriften en mee te werken aan door de werkgever of een door hem aangewezen deskundige getroffen maatregelen om hem in staat te stellen de eigen of andere passende arbeid te verrichten;
@@ -2955,7 +2976,7 @@ Artikel 677
 
 4.	Ingeval een der partijen schadeplichtig is, heeft de wederpartij de keus de in artikel 680 genoemde gefixeerde schadevergoeding of een volledige schadevergoeding te vorderen.
 
-5.	Het niet in acht nemen van artikel 670 leden 1 tot en met 7 en lid 9, of van artikel 670a maakt de werkgever niet schadeplichtig.
+5.	Het niet in acht nemen van artikel 670 leden 1 tot en met 9, of van artikel 670a maakt de werkgever niet schadeplichtig.
 
 De werknemer kan in die gevallen gedurende twee maanden na de opzegging van de arbeidsovereenkomst een beroep doen op de vernietigingsgrond. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. Artikel 55 van Boek 3 is niet van toepassing.
 
