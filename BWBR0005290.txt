@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 14-07-2004 t/m 31-03-2005
+Geldend van 01-04-2005 t/m 26-04-2005
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2878,7 +2878,12 @@ Artikel 670
 
 3.	De werkgever kan niet opzeggen gedurende de tijd dat de werknemer verhinderd is de bedongen arbeid te verrichten, omdat hij als dienstplichtige is opgeroepen ter vervulling van zijn militaire dienst of vervangende dienst.
 
-4.	De werkgever kan de arbeidsovereenkomst met de werknemer die lid is van een ondernemingsraad, van een centrale ondernemingsraad, van een groepsondernemingsraad, van een vaste commissie van die raden of van een onderdeelcommissie van de ondernemingsraad, van een personeelsvertegenwoordiging of van een bijzondere onderhandelingsgroep of een Europese ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsraden, dan wel die krachtens die wet optreedt als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers, niet opzeggen. Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging een secretaris heeft toegevoegd, is de eerste volzin op die secretaris van overeenkomstige toepassing. Indien de werkgever aan de ondernemingsraad een secretaris heeft toegevoegd, is de eerste volzin van dit lid van overeenkomstige toepassing op die secretaris.
+4.	De werkgever kan de arbeidsovereenkomst niet opzeggen met de werknemer die lid is van:
+	1°.	een ondernemingsraad, een centrale ondernemingsraad, een groepsondernemingsraad, een vaste commissie van die raden of van een onderdeelcommissie van de ondernemingsraad, of van een personeelsvertegenwoordiging;
+	2°.	een bijzondere onderhandelingsgroep of een Europese ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsraden, dan wel die krachtens die wet optreedt als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
+	3°.	een bijzondere onderhandelingsgroep, of een SE-ondernemingsraad of als werknemersvertegenwoordiger lid is van het toezichthoudend of het bestuursorgaan van de SE als bedoeld in de Wet rol werknemers bij de Europese vennootschap, dan wel die krachtens die wet optreedt als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers.
+
+Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging een secretaris heeft toegevoegd, is de eerste volzin op die secretaris van overeenkomstige toepassing. Indien de werkgever aan de ondernemingsraad een secretaris heeft toegevoegd, is de eerste volzin van dit lid van overeenkomstige toepassing op die secretaris.
 
 5.	De werkgever kan de arbeidsovereenkomst niet opzeggen wegens het lidmaatschap van de werknemer van een vereniging van werknemers die krachtens haar statuten ten doel heeft de belangen van de leden als werknemer te behartigen dan wel wegens het verrichten van of deelnemen aan activiteiten ten behoeve van die vereniging, tenzij die activiteiten in de arbeidstijd van de werknemer worden verricht zonder toestemming van de werkgever.
 
@@ -2895,12 +2900,14 @@ Artikel 670
 	b.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
 	c.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
 
-11.	Van de leden 1 en 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
+11.	Voor de toepassing van lid 4 en artikel 670a lid 1 wordt tevens onder de SE-ondernemingsraad verstaan: het orgaan dat de werknemers vertegenwoordigt in een SE die haar statutaire zetel heeft in een andere lidstaat, en dat is ingesteld krachtens de bepalingen in het nationale recht van die lidstaat ter omzetting van de richtlijn nr. 2001/86 van de Raad van de Europese Unie van 8 oktober 2001 tot aanvulling van het statuut van de Europese vennootschap met betrekking tot de rol van de werknemers (PbEG L 294).
+
+12.	Van de leden 1 en 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
 
 Artikel 670a
 
 1.	De werkgever kan zonder voorafgaande toestemming van de kantonrechter de arbeidsovereenkomst niet opzeggen met een werknemer die:
-	a.	geplaatst is op een kandidatenlijst voor een ondernemingsraad dan wel een personeelsvertegenwoordiging of korter dan twee jaar geleden lid is geweest van een ondernemingsraad, van een centrale ondernemingsraad, van een groepsondernemingsraad of van een commissie van die raden, van een personeelsvertegenwoordiging of van een bijzondere onderhandelingsgroep of een Europese ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsradendan wel die korter dan twee jaar geleden krachtens die wet is opgetreden als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
+	a.	geplaatst is op een kandidatenlijst voor een ondernemingsraad dan wel een personeelsvertegenwoordiging of korter dan twee jaar geleden lid is geweest van een ondernemingsraad, van een centrale ondernemingsraad, van een groepsondernemingsraad of van een commissie van die raden, van een personeelsvertegenwoordiging of van een bijzondere onderhandelingsgroep of een Europese ondernemingsraad of een SE-ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsraden en de Wet rol werknemers bij de Europese vennootschap dan wel die korter dan twee jaar gelden krachtens een van die wetten is opgetreden als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
 	b.	lid is van een voorbereidingscommissie van een ondernemingsraad, van een centrale ondernemingsraad of van een groepsondernemingsraad;
 	c.	als deskundige werknemer als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998 werkzaam is;
 	d.	een functionaris voor de gegevensbescherming als bedoeld in artikel 62 van de Wet bescherming persoonsgegevens werkzaam is.
