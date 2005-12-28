@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 15-10-2005 t/m 28-12-2005
+Geldend van 29-12-2005 t/m 29-12-2005
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2346,13 +2346,14 @@ Artikel 629
 3.	De werknemer heeft het in lid 1 bedoelde recht niet:
 	a.	indien de ziekte door zijn opzet is veroorzaakt of het gevolg is van een gebrek waarover hij in het kader van een aanstellingskeuring valse informatie heeft verstrekt en daardoor de toetsing aan de voor de functie opgestelde belastbaarheidseisen niet juist kon worden uitgevoerd;
 	b.	voor de tijd, gedurende welke door zijn toedoen zijn genezing wordt belemmerd of vertraagd;
-	c.	voor de tijd, gedurende welke hij, hoewel hij daartoe in staat is, zonder deugdelijke grond passende arbeid als bedoeld in artikel 658a lid 3 voor de werkgever of voor een door de werkgever met toestemming van het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen aangewezen derde, waartoe de werkgever hem in de gelegenheid stelt, niet verricht;
-	d.	voor de tijd, gedurende welke hij zonder deugdelijke grond weigert mee te werken aan door de werkgever of door een door hem aangewezen deskundige gegeven redelijke voorschriften of getroffen maatregelen die erop gericht zijn om de werknemer in staat te stellen passende arbeid als bedoeld in artikel 658a lid 3 te verrichten;
-	e.	voor de tijd, gedurende welke hij zonder deugdelijke grond weigert mee te werken aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 658a lid 2.
+	c.	voor de tijd, gedurende welke hij, hoewel hij daartoe in staat is, zonder deugdelijke grond passende arbeid als bedoeld in artikel 658a lid 4 voor de werkgever of voor een door de werkgever met toestemming van het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen aangewezen derde, waartoe de werkgever hem in de gelegenheid stelt, niet verricht;
+	d.	voor de tijd, gedurende welke hij zonder deugdelijke grond weigert mee te werken aan door de werkgever of door een door hem aangewezen deskundige gegeven redelijke voorschriften of getroffen maatregelen die erop gericht zijn om de werknemer in staat te stellen passende arbeid als bedoeld in artikel 658a lid 4 te verrichten;
+	e.	voor de tijd, gedurende welke hij zonder deugdelijke grond weigert mee te werken aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 658a lid 3;
+	f.	voor de tijd gedurende welke hij zonder deugdelijk grond zijn aanvraag om een uitkering als bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later indient dan in dat artikel is voorgeschreven.
 
 4.	In afwijking van lid 1 heeft de vrouwelijke werknemer het in dat lid bedoelde recht niet gedurende de periode dat zij zwangerschaps- of bevallingsverlof geniet overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg.
 
-5.	Het loon wordt verminderd met het bedrag van enige geldelijke uitkering die de werknemer toekomt krachtens enige wettelijke voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de werknemer niet deelneemt. Het loon wordt voorts verminderd met het bedrag van de inkomsten, door de werknemer in of buiten dienstbetrekking genoten voor werkzaamheden die hij heeft verricht gedurende de tijd dat hij, zo hij daartoe niet verhinderd was geweest, de bedongen arbeid had kunnen verrichten.
+5.	Het loon wordt verminderd met het bedrag van enige geldelijke uitkering die de werknemer toekomt krachtens enige wettelijke voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de werknemer niet deelneemt, voorzover deze uitkering betrekking heeft op de bedongen arbeid waaruit het loon wordt genoten. Het loon wordt voorts verminderd met het bedrag van de inkomsten, door de werknemer in of buiten dienstbetrekking genoten voor werkzaamheden die hij heeft verricht gedurende de tijd dat hij, zo hij daartoe niet verhinderd was geweest, de bedongen arbeid had kunnen verrichten.
 
 6.	De werkgever is bevoegd de betaling van het in het lid 1 bedoelde loon op te schorten voor de tijd, gedurende welke de werknemer zich niet houdt aan door de werkgever schriftelijk gegeven redelijke voorschriften omtrent het verstrekken van de inlichtingen die de werkgever behoeft om het recht op loon vast te stellen.
 
@@ -2366,10 +2367,12 @@ Artikel 629
 
 11.	Het tijdvak van 104 weken, bedoeld in lid 1, wordt verlengd:
 	a.	met de duur van de vertraging indien de werkgever de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet later doet dan in dat artikel is voorgeschreven;
-	b.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
-	c.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
+	b.	met de duur van de vertraging indien de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later wordt gedaan dan in of op grond van dat artikel is voorgeschreven;
+	c.	met de duur van het verlengde tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 24, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen heeft vastgesteld of met de duur van het tijdvak, bedoeld in artikel 25, negende lid, eerste zin, van die wet;
+	d.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
+	e.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
 
-12.	Indien de werknemer passende arbeid als bedoeld in artikel 658a lid 3 verricht, blijft de arbeidsovereenkomst onverkort in stand.
+12.	Indien de werknemer passende arbeid als bedoeld in artikel 658a lid 4 verricht, blijft de arbeidsovereenkomst onverkort in stand.
 
 Artikel 629a
 
@@ -2409,7 +2412,7 @@ Artikel 631
 	c.	deel te nemen in enig ander fonds dan in onderdeel a bedoeld, mits dat fonds voldoet aan de voorwaarden, bij algemene maatregel van bestuur gesteld;
 	d.	deel te nemen aan een regeling tot sparen te zijnen behoeve, anders dan in de onderdelen a tot en met c bedoeld, mits die regeling voldoet aan de voorwaarden, bij algemene maatregel van bestuur gesteld.
 
-Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds dat tot doel heeft aan de werkgever of aan de werknemer een uitkering te doen die verband houdt met het recht van de werknemer op doorbetaling van loon tijdens ziekte, zwangerschap of bevalling als bedoeld in artikel 629 lid 1, of met de betaling van arbeidsongeschiktheidsuitkering als bedoeld in artikel 75a van de Wet op de arbeidsongeschiktheidsverzekering.
+Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds dat tot doel heeft aan de werkgever of aan de werknemer een uitkering te doen die verband houdt met het recht van de werknemer op doorbetaling van loon tijdens ziekte, zwangerschap of bevalling als bedoeld in artikel 629 lid 1, of met de betaling van een uitkering als bedoeld in artikel 83 van de Wet werk en inkomen naar arbeidsvermogen dan wel als bedoeld in artikel 75a van de Wet op de arbeidsongeschiktheidsverzekering.
 
 4.	Voor de nakoming van een beding als bedoeld in lid 3 mag de werkgever de daartoe nodige bedragen op het loon van de werknemer inhouden; hij is alsdan verplicht deze bedragen overeenkomstig het beding ten behoeve van de werknemer te voldoen.
 
@@ -2468,7 +2471,7 @@ Artikel 635
 
 3.	In afwijking van artikel 634 verwerft de werknemer die wegens adoptieverlof of verlof voor het opnemen van een pleegkind niet gedurende een geheel jaar aanspraak op loon verwerft, over de volledige overeengekomen arbeidsduur aanspraak op vakantie over het tijdvak dat hij recht heeft op een uitkering als bedoeld in hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg.
 
-4.	In afwijking van artikel 634 verwerft de werknemer die de bedongen arbeid niet verricht wegens ziekte, ongeacht of hij aanspraak heeft op loon, aanspraak op vakantie over het tijdvak van de laatste zes maanden waarin de arbeid niet werd verricht, met dien verstande dat tijdvakken worden samengeteld als zij elkaar met een onderbreking van minder dan een maand opvolgen. De werknemer die de bedongen arbeid slechts voor een gedeelte van de overeengekomen arbeidsduur niet verricht wegens ziekte, verwerft slechts aanspraak op vakantie die een evenredig gedeelte bedraagt van datgene waarop hij recht zou hebben gehad als hij gedurende de volledige arbeidsduur arbeid zou hebben verricht. Indien de ziekte door opzet van de werknemer is ontstaan of het gevolg is van een gebrek waarover hij in het kader van een aanstellingskeuring opzettelijk valse inlichtingen heeft gegeven, verwerft de werknemer evenmin aanspraak op vakantie. De werknemer heeft evenmin aanspraak op vakantie voor de tijd gedurende welke hij door zijn toedoen zijn genezing belemmert of vertraagt , hij, hoewel hij daartoe in staat is, zonder deugdelijke grond passende arbeid als bedoeld in artikel 658a lid 3 voor de werkgever of voor een door de werkgever met toestemming van het Uitvoeringsinstituut werknemersverzekeringen aangewezen derde, waartoe de werkgever hem in de gelegenheid stelt, niet verricht dan wel hij zonder deugdelijke grond weigert mee te werken aan door de werkgever of door een door hem aangewezen deskundige gegeven redelijke voorschriften en getroffen maatregelen die erop gericht zijn om de werknemer in staat te stellen passende arbeid te verrichten.
+4.	In afwijking van artikel 634 verwerft de werknemer die de bedongen arbeid niet verricht wegens ziekte, ongeacht of hij aanspraak heeft op loon, aanspraak op vakantie over het tijdvak van de laatste zes maanden waarin de arbeid niet werd verricht, met dien verstande dat tijdvakken worden samengeteld als zij elkaar met een onderbreking van minder dan een maand opvolgen. De werknemer die de bedongen arbeid slechts voor een gedeelte van de overeengekomen arbeidsduur niet verricht wegens ziekte, verwerft slechts aanspraak op vakantie die een evenredig gedeelte bedraagt van datgene waarop hij recht zou hebben gehad als hij gedurende de volledige arbeidsduur arbeid zou hebben verricht. Indien de ziekte door opzet van de werknemer is ontstaan of het gevolg is van een gebrek waarover hij in het kader van een aanstellingskeuring opzettelijk valse inlichtingen heeft gegeven, verwerft de werknemer evenmin aanspraak op vakantie. De werknemer heeft evenmin aanspraak op vakantie voor de tijd gedurende welke hij door zijn toedoen zijn genezing belemmert of vertraagt , hij, hoewel hij daartoe in staat is, zonder deugdelijke grond passende arbeid als bedoeld in artikel 658a lid 4 voor de werkgever of voor een door de werkgever met toestemming van het Uitvoeringsinstituut werknemersverzekeringen aangewezen derde, waartoe de werkgever hem in de gelegenheid stelt, niet verricht dan wel hij zonder deugdelijke grond weigert mee te werken aan door de werkgever of door een door hem aangewezen deskundige gegeven redelijke voorschriften en getroffen maatregelen die erop gericht zijn om de werknemer in staat te stellen passende arbeid te verrichten.
 
 5.	De jeugdige werknemer verwerft aanspraak op vakantie over de tijd die hij besteedt aan het volgen van het onderricht waartoe hij krachtens de wet door de werkgever in de gelegenheid moet worden gesteld.
 
@@ -2730,15 +2733,21 @@ Artikel 658
 
 Artikel 658a
 
-1.	De werkgever is verplicht zo tijdig mogelijk zodanige maatregelen te treffen en voorschriften te geven als redelijkerwijs nodig is, opdat de werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten. Indien vaststaat dat de eigen arbeid niet meer kan worden verricht en in het bedrijf van de werkgever geen andere passende arbeid voorhanden is, bevordert de werkgever de inschakeling van de werknemer in voor hem passende arbeid in het bedrijf van een andere werkgever.
+1.	De werkgever bevordert ten aanzien van de werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, de inschakeling in de arbeid in zijn bedrijf. Indien vaststaat dat de eigen arbeid niet meer kan worden verricht en in het bedrijf van de werkgever geen andere passende arbeid voorhanden is, bevordert de werkgever, gedurende het tijdvak waarin de werknemer jegens hem recht op loon heeft op grond van artikel 629, artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering of artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen, de inschakeling van de werknemer in voor hem passende arbeid in het bedrijf van een andere werkgever.
 
-2.	Uit hoofde van zijn verplichting, bedoeld in lid 1, stelt de werkgever in overeenstemming met de werknemer een plan van aanpak op als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering. Het plan van aanpak wordt met medewerking van de werknemer regelmatig geëvalueerd en zo nodig bijgesteld.
+2.	Uit hoofde van de uitoefening van zijn taak, bedoeld in lid 1, is de werkgever verplicht zo tijdig mogelijk zodanige maatregelen te treffen en aanwijzingen te verstrekken als redelijkerwijs nodig is, opdat de werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten.
 
-3.	Onder passende arbeid als bedoeld in lid 1 wordt verstaan alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd.
+3.	Uit hoofde van de uitoefening van zijn taak, bedoeld in lid 1, stelt de werkgever in overeenstemming met de werknemer een plan van aanpak op als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering en artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen. Het plan van aanpak wordt met medewerking van de werknemer regelmatig geëvalueerd en zo nodig bijgesteld.
+
+4.	Onder passende arbeid als bedoeld in lid 1 en 2 wordt verstaan alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd.
+
+5.	De werkgever en degene door wie de werkgever zich op grond van artikel 14 van de Arbeidsomstandighedenwet 1998 laat bijstaan, verstrekken een reïntegratiebedrijf als bedoeld in artikel 1 van de Wet werk en inkomen naar arbeidsvermogen gegevens voorzover deze noodzakelijk zijn voor de uitvoering van de door de werkgever aan dit bedrijf opgedragen werkzaamheden, alsmede het sociaal-fiscaalnummer van de persoon wiens inschakeling in de arbeid door dat reïntegratiebedrijf wordt bevorderd. Het reïntegratiebedrijf verwerkt deze gegevens slechts voorzover dat noodzakelijk is voor deze werkzaamheden en gebruikt slechts met dat doel het sociaal-fiscaalnummer bij die verwerking. Onder sociaal-fiscaalnummer wordt in dit artikel verstaan het nummer, bedoeld in artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen.
+
+6.	Dit artikel is van overeenkomstige toepassing op de eigenrisicodrager, bedoeld in artikel 1, eerste lid, onderdeel h, van de Ziektewet en de persoon, bedoeld in artikel 63, eerste lid, van de Ziektewet, gedurende de periode dat de eigenrisicodrager aan die persoon ziekengeld moet betalen.
 
 Artikel 658b
 
-1.	De rechter wijst een vordering tot nakoming van de verplichting, bedoeld in artikel 658a lid 1, af, indien bij de eis niet een verklaring is gevoegd van een deskundige, benoemd door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, omtrent de nakoming van die verplichting door de werkgever.
+1.	De rechter wijst een vordering tot nakoming van de verplichting, bedoeld in artikel 658a lid 2, af, indien bij de eis niet een verklaring is gevoegd van een deskundige, benoemd door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, omtrent de nakoming van die verplichting door de werkgever.
 
 2.	Lid 1 geldt niet indien de nakoming niet wordt betwist of het overleggen van de verklaring in redelijkheid niet van de werknemer kan worden gevergd.
 
@@ -2767,9 +2776,9 @@ De werknemer is verplicht zich te houden aan de voorschriften omtrent het verric
 Artikel 660a
 
 De werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, is verplicht:
-	a.	gevolg te geven aan door de werkgever of een door hem aangewezen deskundige gegeven redelijke voorschriften en mee te werken aan door de werkgever of een door hem aangewezen deskundige getroffen maatregelen als bedoeld in artikel 658a lid 1;
-	b.	zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 658a lid 2;
-	c.	passende arbeid als bedoeld in artikel 658a lid 3 te verrichten waartoe de werkgever hem in de gelegenheid stelt.
+	a.	gevolg te geven aan door de werkgever of een door hem aangewezen deskundige gegeven redelijke voorschriften en mee te werken aan door de werkgever of een door hem aangewezen deskundige getroffen maatregelen als bedoeld in artikel 658a lid 2;
+	b.	zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 658a lid 3;
+	c.	passende arbeid als bedoeld in artikel 658a lid 4 te verrichten waartoe de werkgever hem in de gelegenheid stelt.
 
 Artikel 661
 
@@ -2900,8 +2909,9 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 10.	De termijn van twee jaren, bedoeld in lid 1, onderdeel a, wordt verlengd:
 	a.	met de duur van de vertraging indien de werkgever de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet later doet dan in dat artikel is voorgeschreven;
-	b.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
-	c.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
+	b.	met de duur van de vertraging indien de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later wordt gedaan dan in of op grond van dat artikel is voorgeschreven;
+	c.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
+	d.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 24, eerste lid, of artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
 
 11.	Voor de toepassing van lid 4 en artikel 670a lid 1 wordt tevens onder de SE-ondernemingsraad verstaan: het orgaan dat de werknemers vertegenwoordigt in een SE die haar statutaire zetel heeft in een andere lidstaat, en dat is ingesteld krachtens de bepalingen in het nationale recht van die lidstaat ter omzetting van de richtlijn nr. 2001/86 van de Raad van de Europese Unie van 8 oktober 2001 tot aanvulling van het statuut van de Europese vennootschap met betrekking tot de rol van de werknemers (PbEG L 294).
 
@@ -2925,8 +2935,8 @@ Artikel 670b
 
 3.	Artikel 670, lid 1, aanhef en onder a, is niet van toepassing, indien de werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, zonder deugdelijke grond weigert:
 	a.	gevolg te geven aan door de werkgever of een door hem aangewezen deskundige gegeven redelijke voorschriften en mee te werken aan door de werkgever of een door hem aangewezen deskundige getroffen maatregelen om hem in staat te stellen de eigen of andere passende arbeid te verrichten;
-	b.	passende arbeid als bedoeld in artikel 658a lid 3 te verrichten waartoe de werkgever hem in de gelegenheid stelt;
-	c.	zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering.
+	b.	passende arbeid als bedoeld in artikel 658a lid 4 te verrichten waartoe de werkgever hem in de gelegenheid stelt;
+	c.	zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering.
 
 Artikel 671
 
@@ -3532,3 +3542,11 @@ Artikel 910
 1.	Zijn naast de partij of partijen die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, andere schuldenaren hoofdelijk aansprakelijk, dan is artikel 14 van Boek 6 van overeenkomstige toepassing. Tenzij van een andere bedoeling blijkt, wordt de overeenkomst geacht mede een beding in te houden als in die bepaling bedoeld.
 
 2.	Indien de partij of de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, aan hun verplichtingen uit de overeenkomst hebben voldaan door betaling van een in de overeenkomst vastgesteld bedrag en er na voldoening van de gerechtigden tot een vergoeding een restant is overgebleven, kan deze partij, of kunnen deze partijen gezamenlijk de rechter die de overeenkomst verbindend heeft verklaard, verzoeken om degene die deze gelden beheert te bevelen dit restant aan deze partij of, in geval van meer partijen, aan elke partij in evenredigheid van ieders bijdrage, uit te keren. De rechter wijst het verzoek af indien onvoldoende aannemelijk is dat alle gerechtigden tot een vergoeding zijn voldaan.
+
+Titel 17. Verzekering
+
+[Dit onderdeel is nog niet inwerking getreden]
+
+Titel 18. Lijfrente
+
+[Dit onderdeel is nog niet inwerking getreden]
