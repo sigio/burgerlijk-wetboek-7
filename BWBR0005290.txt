@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2006 t/m 19-01-2006
+Geldend van 20-01-2006 t/m 31-01-2006
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -576,6 +576,81 @@ Ruil is de overeenkomst waarbij partijen zich verbinden elkaar over en weer een 
 Artikel 50
 
 De bepalingen betreffende koop vinden overeenkomstige toepassing, met dien verstande dat elke partij wordt beschouwd als verkoper voor de prestatie die zij verschuldigd is, en als koper voor die welke haar toekomt.
+
+Titel 2. Financiëlezekerheidsovereenkomsten
+
+Artikel 51
+
+In deze titel wordt verstaan onder:
+	a.	financiëlezekerheidsovereenkomst: een financiëlezekerheidsovereenkomst tot overdracht of een financiëlezekerheidsovereenkomst tot vestiging van een pandrecht;
+	b.	financiëlezekerheidsovereenkomst tot overdracht: een overeenkomst op grond waarvan de onder d of e bedoelde goederen worden overgedragen als waarborg voor een verplichting;
+	c.	financiëlezekerheidsovereenkomst tot vestiging van een pandrecht: een overeenkomst op grond waarvan een pandrecht wordt verschaft op de onder d of e bedoelde goederen;
+	d.	geld: op een rekening of deposito gecrediteerd tegoed in geld;
+	e.	effecten: aandelen en andere met aandelen gelijk te stellen effecten, obligaties en andere schuldinstrumenten indien deze op de kapitaalmarkt verhandelbaar zijn, en alle andere gewoonlijk verhandelde effecten waarmee die aandelen, obligaties of andere effecten via inschrijving, koop of omruiling kunnen worden verkregen of die aanleiding kunnen geven tot afwikkeling in geld met uitsluiting van waardepapieren die een betalingsopdracht belichamen, inclusief rechten van deelneming in instellingen voor collectieve belegging, geldmarktinstrumenten en vorderingen op of rechten ten aanzien van een van de voornoemde instrumenten;
+	f.	gelijkwaardige goederen:
+		1.	wanneer het betreft geld: hetzelfde bedrag in dezelfde valuta;
+		2.	wanneer het betreft effecten: effecten van dezelfde uitgevende instelling of debiteur, behorende tot dezelfde emissie of categorie, ter waarde van hetzelfde nominale bedrag, luidende in dezelfde valuta en van dezelfde soort, onderscheidenlijk andere goederen indien de financiëlezekerheidsoverkomst voorziet in de overdracht daarvan na het plaatsvinden van een gebeurtenis die betrekking heeft op of gevolgen heeft voor de effecten waarop de schuldenaar een pandrecht heeft gevestigd;
+	g.	executiegrond: verzuim of een andere omstandigheid op grond waarvan de zekerheidsnemer krachtens een financiëlezekerheidsovereenkomst of de wet gerechtigd is verpande goederen te verkopen of zich toe te eigenen dan wel gebruik te maken van een verrekenbeding;
+	h.	verrekenbeding: een beding in een financiëlezekerheidsovereenkomst of een overeenkomst waarvan een financiëlezekerheidsovereenkomst deel uitmaakt, of een wettelijk voorschrift, op grond waarvan bij het voldoen aan de voorwaarden van een executiegrond:
+		–	de verplichtingen van partijen onmiddellijk opeisbaar worden, alsmede omgezet in een verplichting tot het betalen van een bedrag dat hun geschatte actuele waarde vertegenwoordigt, dan wel de verplichtingen vervallen en worden vervangen door een verplichting tot het betalen van het voornoemde bedrag, of
+		–	de verplichtingen van partijen worden verrekend en alleen het saldo verschuldigd is.
+
+Artikel 52
+
+1.	Deze titel is van toepassing op financiëlezekerheidsovereenkomsten waarbij ten minste een van de partijen is:
+	a.	een overheidsinstantie, met inbegrip van:
+		–	instellingen behorend tot de overheidssector van de lidstaten van de Europese Unie die belast zijn met of een rol spelen bij het beheer van de overheidsschuld en;
+		–	instellingen behorend tot de overheidssector van de lidstaten van de Europese Unie die zijn gemachtigd om voor klanten rekeningen aan te houden.
+	b.	een centrale bank, de Europese Centrale Bank, de Bank voor Internationale Betalingen, een multilaterale ontwikkelingsbank, het Internationaal Monetair Fonds en de Europese Investeringsbank.
+	c.	een financiële instelling onder financieel toezicht, met inbegrip van:
+		–	een kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietwezen 1992;
+		–	een financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet toezicht kredietwezen 1992;
+		–	een effecteninstelling als bedoeld in artikel 1, onderdeel d, van de Wet toezicht effectenverkeer 1995;
+		–	een verzekeraar als bedoeld in artikel 1, onderdeel h, van de Wet toezicht verzekeringsbedrijf 1993;
+		–	een beleggingsinstelling als bedoeld in artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen;
+		–	een beheerder als bedoeld in artikel 1, onderdeel e, van de Wet toezicht beleggingsinstellingen.
+	d.	een centrale tegenpartij, een afwikkelende instantie of een verrekeningsinstituut als bedoeld in artikel 212a, onderdeel c, d en e, van de Faillissementswet, inclusief onder het nationale recht van de lidstaten van de Europese Unie vallende gereglementeerde instellingen die actief zijn op de markten voor rechten op overdracht op termijn van goederen, opties en derivaten, en een andere dan een natuurlijke persoon die optreedt als trustee of in een vertegenwoordigende hoedanigheid namens een of meer personen waaronder enigerlei obligatiehouders of houders van andere schuldinstrumenten of enige instelling als omschreven in onderdeel a, b, c of dit onderdeel.
+
+2.	Deze titel is niet van toepassing indien een van de partijen bij een financiëlezekerheidsovereenkomst een natuurlijke persoon is die niet handelt in de uitoefening van een beroep of bedrijf.
+
+Artikel 53
+
+1.	Bij een financiëlezekerheidsovereenkomst tot vestiging van een pandrecht kan worden bedongen dat de zekerheidsnemer de verpande goederen kan gebruiken of verkopen en de opbrengst behouden.
+
+2.	Uitoefening van het recht tot gebruik of verkoop brengt van rechtswege een verplichting van de zekerheidsnemer mee tot overdracht van gelijkwaardige goederen aan de zekerheidsgever, uiterlijk op het tijdstip waarop moet worden voldaan aan de vordering waarvoor het verpande tot zekerheid strekt.
+
+3.	In afwijking van lid 2 kan in de financiëlezekerheidsovereenkomst worden bepaald dat de zekerheidsnemer de vordering waarvoor het verpande tot zekerheid strekt verrekent met de waarde van gelijkwaardige goederen, op het tijdstip waarop de vordering moet worden voldaan of zoveel eerder als zich een executiegrond voordoet.
+
+4.	Het pandrecht strekt zich van rechtswege uit over de goederen die als gevolg van dit artikel in de plaats worden gesteld van de verbonden goederen.
+
+Artikel 54
+
+1.	Tenzij anders is bedongen in een financiëlezekerheidsovereenkomst tot de vestiging van een pandrecht, is de zekerheidsnemer, wanneer aan de voorwaarden van een executiegrond wordt voldaan, bevoegd:
+	a.	effecten waarop het pandrecht rust te verkopen en het hem verschuldigde op de opbrengst te verhalen onderscheidenlijk deze effecten zich toe te eigenen en de waarde van de effecten te verrekenen met het hem verschuldigde;
+	b.	geld waarop het pandrecht rust te verrekenen met het hem verschuldigde.
+
+2.	De verkoop van effecten geschiedt op een markt door tussenkomst van een tussenpersoon in het vak of ter beurze door die van een bevoegde tussenpersoon overeenkomstig de regels en gebruiken die aldaar voor een gewone verkoop gelden.
+
+3.	De zekerheidsnemer kan zich effecten toe-eigenen indien dit in de financiëlezekerheidsovereenkomst tot de vestiging van een pandrecht is bedongen en de waardering van de effecten is gebaseerd op de waarde op een markt of ter beurze.
+
+4.	In afwijking van lid 2 en lid 3 kan in een financiëlezekerheidsovereenkomst worden bedongen dat de voorzieningenrechter van de rechtbank op verzoek van de zekerheidsnemer of de zekerheidsgever kan bepalen dat effecten worden verkocht op een afwijkende wijze, of dat de voorzieningenrechter op verzoek van de zekerheidsnemer kan bepalen dat effecten voor een door de voorzieningenrechter vast te stellen bedrag bij wege van toe-eigening aan de zekerheidsnemer zullen verblijven.
+
+5.	De artikelen 235, 248 leden 1 en 2, 249, 250, 251 en 252 van Boek 3 zijn niet van toepassing.
+
+Artikel 55
+
+Een overdracht ter nakoming van een financiëlezekerheidsovereenkomst tot overdracht is geen overdracht tot zekerheid of een overdracht die de strekking mist het goed na de overdracht in het vermogen van de verkrijger te doen vallen in de zin van artikel 84 lid 3 van Boek 3. De regels betreffende pandrecht zijn op een zodanige overeenkomst en de uitvoering daarvan niet van toepassing of overeenkomstige toepassing.
+
+Artikel 56
+
+1.	Indien een financiëlezekerheidsovereenkomst betrekking heeft op giraal overdraagbare effecten, wordt het goederenrechtelijke regime met betrekking tot die effecten beheerst door het recht van de staat op welks grondgebied de rekening waarin de effecten worden geadministreerd, wordt gehouden. De verwijzing naar dat recht omvat niet mede een verwijzing naar het internationaal privaatrecht van die staat.
+
+2.	Het in lid 1 bedoelde recht bepaalt:
+	a.	welke rechten op de effecten kunnen rusten en welke de aard en de inhoud van deze rechten zijn;
+	b.	welke vereisten aan de overdracht of de vestiging van de onder a bedoelde rechten worden gesteld;
+	c.	wie gerechtigd is tot de uitoefening van de in de effecten besloten rechten;
+	d.	op welke wijze de onder a bedoelde rechten zich wijzigen, overgaan en tenietgaan en welke hun onderlinge verhouding is;
+	e.	de executie.
 
 Titel 3. Schenking
 
