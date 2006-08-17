@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 15-07-2006 t/m 17-08-2006
+Geldend van 18-08-2006 t/m 17-10-2006
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2977,7 +2977,8 @@ Voor de berekening van de termijn, bedoeld in onderdeel a, worden perioden van o
 4.	De werkgever kan de arbeidsovereenkomst niet opzeggen met de werknemer die lid is van:
 	1°.	een ondernemingsraad, een centrale ondernemingsraad, een groepsondernemingsraad, een vaste commissie van die raden of van een onderdeelcommissie van de ondernemingsraad, of van een personeelsvertegenwoordiging;
 	2°.	een bijzondere onderhandelingsgroep of een Europese ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsraden, dan wel die krachtens die wet optreedt als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
-	3°.	een bijzondere onderhandelingsgroep, of een SE-ondernemingsraad of als werknemersvertegenwoordiger lid is van het toezichthoudend of het bestuursorgaan van de SE als bedoeld in de Wet rol werknemers bij de Europese vennootschap, dan wel die krachtens die wet optreedt als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers.
+	3°.	een bijzondere onderhandelingsgroep, of een SE-ondernemingsraad of als werknemersvertegenwoordiger lid is van het toezichthoudend of het bestuursorgaan van de SE als bedoeld in hoofdstuk 1 van de Wet rol werknemers bij Europese rechtspersonen, dan wel die krachtens die wet optreedt als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
+	4°.	een bijzondere onderhandelingsgroep, of een SCE-ondernemingsraad of als werknemersvertegenwoordiger lid is van het toezichthoudend of het bestuursorgaan van de SCE als bedoeld in hoofdstuk 2 van de Wet rol werknemers bij Europese rechtspersonen dan wel die krachtens hoofdstuk 2 van die wet optreedt als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers.
 
 Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging een secretaris heeft toegevoegd, is de eerste volzin op die secretaris van overeenkomstige toepassing. Indien de werkgever aan de ondernemingsraad een secretaris heeft toegevoegd, is de eerste volzin van dit lid van overeenkomstige toepassing op die secretaris.
 
@@ -2999,12 +3000,14 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 11.	Voor de toepassing van lid 4 en artikel 670a lid 1 wordt tevens onder de SE-ondernemingsraad verstaan: het orgaan dat de werknemers vertegenwoordigt in een SE die haar statutaire zetel heeft in een andere lidstaat, en dat is ingesteld krachtens de bepalingen in het nationale recht van die lidstaat ter omzetting van de richtlijn nr. 2001/86 van de Raad van de Europese Unie van 8 oktober 2001 tot aanvulling van het statuut van de Europese vennootschap met betrekking tot de rol van de werknemers (PbEG L 294).
 
-12.	Van de leden 1 eerste zin en 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
+12.	Voor de toepassing van het vierde lid en artikel 670a lid 1 wordt tevens onder de SCE-ondernemingsraad verstaan: het orgaan dat de werknemers vertegenwoordigt in een SCE die haar statutaire zetel heeft in een andere lidstaat, en dat is ingesteld krachtens de bepalingen in het nationale recht van die lidstaat ter omzetting van de richtlijn nr. 2003/72/EG van de Raad van de Europese Unie van 22 juli 2003 tot aanvulling van het statuut van de Europese coöperatieve vennootschap met betrekking tot de rol van de werknemers (PbEG L 207).
+
+13.	Van de leden 1 eerste zin en 3 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
 
 Artikel 670a
 
 1.	De werkgever kan zonder voorafgaande toestemming van de kantonrechter de arbeidsovereenkomst niet opzeggen met een werknemer die:
-	a.	geplaatst is op een kandidatenlijst voor een ondernemingsraad dan wel een personeelsvertegenwoordiging of korter dan twee jaar geleden lid is geweest van een ondernemingsraad, van een centrale ondernemingsraad, van een groepsondernemingsraad of van een commissie van die raden, van een personeelsvertegenwoordiging of van een bijzondere onderhandelingsgroep of een Europese ondernemingsraad of een SE-ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsraden en de Wet rol werknemers bij de Europese vennootschap dan wel die korter dan twee jaar gelden krachtens een van die wetten is opgetreden als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
+	a.	geplaatst is op een kandidatenlijst voor een ondernemingsraad dan wel een personeelsvertegenwoordiging of korter dan twee jaar geleden lid is geweest van een ondernemingsraad, van een centrale ondernemingsraad, van een groepsondernemingsraad of van een commissie van die raden, van een personeelsvertegenwoordiging of van een bijzondere onderhandelingsgroep of een Europese ondernemingsraad, een SE-ondernemingsraad of een SCE-ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsraden respectievelijk de hoofdstukken 1 respectievelijk 2 van de Wet rol werknemers bij Europese rechtspersonen dan wel die korter dan twee jaar geleden krachtens een van die wetten is opgetreden als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
 	b.	lid is van een voorbereidingscommissie van een ondernemingsraad, van een centrale ondernemingsraad of van een groepsondernemingsraad;
 	c.	als deskundige werknemer als bedoeld in artikel 13, eerste en tweede lid, of als deskundige persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998 werkzaam is;
 	d.	een functionaris voor de gegevensbescherming als bedoeld in artikel 62 van de Wet bescherming persoonsgegevens werkzaam is.
