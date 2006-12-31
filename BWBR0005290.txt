@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 20-12-2006 t/m 31-12-2006
+Geldend van 01-01-2007 t/m 31-03-2007
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -602,13 +602,7 @@ Artikel 52
 		–	instellingen behorend tot de overheidssector van de lidstaten van de Europese Unie die belast zijn met of een rol spelen bij het beheer van de overheidsschuld en;
 		–	instellingen behorend tot de overheidssector van de lidstaten van de Europese Unie die zijn gemachtigd om voor klanten rekeningen aan te houden.
 	b.	een centrale bank, de Europese Centrale Bank, de Bank voor Internationale Betalingen, een multilaterale ontwikkelingsbank, het Internationaal Monetair Fonds en de Europese Investeringsbank.
-	c.	een financiële instelling onder financieel toezicht, met inbegrip van:
-		–	een kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietwezen 1992;
-		–	een financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet toezicht kredietwezen 1992;
-		–	een effecteninstelling als bedoeld in artikel 1, onderdeel d, van de Wet toezicht effectenverkeer 1995;
-		–	een verzekeraar als bedoeld in artikel 1, onderdeel h, van de Wet toezicht verzekeringsbedrijf 1993;
-		–	een beleggingsinstelling als bedoeld in artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen;
-		–	een beheerder als bedoeld in artikel 1, onderdeel e, van de Wet toezicht beleggingsinstellingen.
+	c.	een financiële onderneming onder financieel toezicht, met inbegrip van een bank, beheerder, beleggingsinstelling, beleggingsonderneming, financiële instelling, levensverzekeraar of schadeverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 	d.	een centrale tegenpartij, een afwikkelende instantie of een verrekeningsinstituut als bedoeld in artikel 212a, onderdeel c, d en e, van de Faillissementswet, inclusief onder het nationale recht van de lidstaten van de Europese Unie vallende gereglementeerde instellingen die actief zijn op de markten voor rechten op overdracht op termijn van goederen, opties en derivaten, en een andere dan een natuurlijke persoon die optreedt als trustee of in een vertegenwoordigende hoedanigheid namens een of meer personen waaronder enigerlei obligatiehouders of houders van andere schuldinstrumenten of enige instelling als omschreven in onderdeel a, b, c of dit onderdeel.
 
 2.	Deze titel is niet van toepassing indien een van de partijen bij een financiëlezekerheidsovereenkomst een natuurlijke persoon is die niet handelt in de uitoefening van een beroep of bedrijf.
@@ -1120,11 +1114,14 @@ Indien de verhuurder met een voorstel van de huurder tot verlaging van de huurpr
 Artikel 255
 
 1.	De huurprijs van woonruimte waarin of waaraan gedurende de huurtijd door of vanwege de verhuurder:
-	a.	voorzieningen zijn aangebracht die verband houden met een maatregel die gericht is op het opheffen of verminderen van beperkingen die een gehandicapte, als bedoeld in artikel 1 lid 1 onder a, van de Wet voorzieningen gehandicapten, bij het normale gebruik van zijn woonruimte ondervindt, in de kosten waarvan ingevolge enige wettelijke regeling een financiële tegemoetkoming is verleend, of
+	a.	voorzieningen zijn aangebracht die verband houden met een maatregel die gericht is op het opheffen of verminderen van beperkingen die een gehandicapte, bij het normale gebruik van zijn woonruimte ondervindt, in de kosten waarvan ingevolge enige wettelijke regeling een financiële tegemoetkoming is verleend, of
 	b.	veranderingen of toevoegingen, waaronder niet wordt verstaan het verhelpen van gebreken als bedoeld in artikel 204, zijn aangebracht, waardoor het woongerief geacht kan worden te zijn gestegen en die niet ingrepen zijn als bedoeld onder a,
+
 is de huurprijs, vermeerderd met een bedrag dat in redelijke verhouding staat tot de door de verhuurder gemaakte kosten van deze ingrepen, veranderingen of toevoegingen met dien verstande dat de nieuwe huurprijs niet hoger mag zijn dan die welke bij toepassing van de regels bedoeld in artikel 10 lid 1 van de Uitvoeringswet huurprijzen woonruimte als redelijk is aan te merken.
 
 2.	Indien partijen geen overeenstemming hebben kunnen bereiken over het bedrag van de verhoging, kan ieder van hen binnen drie maanden na de totstandkoming van de ingrepen, veranderingen of toevoegingen de huurcommissie verzoeken daarover een uitspraak te doen.
+
+3.	Onder gehandicapte in het eerste lid wordt verstaan een persoon die ten gevolge van ziekte of gebrek aantoonbare beperkingen ondervindt.
 
 Artikel 256
 
@@ -1325,7 +1322,7 @@ Artikel 274
 
 3.	Onder eigen gebruik in de zin van lid 1 onder c, wordt mede begrepen:
 	a.	renovatie van woonruimte die zonder beëindiging van de huur niet mogelijk is, en
-	b.	het verstrekken van een zelfstandige woning aan een gehandicapte als bedoeld in artikel 1 lid 1 onder a, van de Wet voorzieningen gehandicapten, indien die woning:
+	b.	het verstrekken van een zelfstandige woning aan een gehandicapte, indien die woning:
 		1°.	reeds bij de bouw ervan was ingericht en bestemd voor bewoning door een gehandicapte, dan wel
 		2°.	na de bouw met geldelijke steun op grond van enige wettelijke regeling aangepast is ten behoeve van bewoning door een gehandicapte;
 	c.	het verstrekken aan een oudere van een zelfstandige woning welke onderdeel uitmaakt van een complex van zelfstandige woningen, welk complex reeds bij de bouw ervan was ingericht en bestemd voor de bewoning door ouderen.
@@ -1344,6 +1341,8 @@ Onder student wordt in dit lid verstaan een deelnemer die is ingeschreven aan ee
 	b.	indien de verhuurder de rechtsopvolger van de vorige verhuurder is en de opzegging is geschied binnen drie jaar nadat de rechtsopvolging schriftelijk ter kennis van de huurder is gebracht.
 
 6.	In de gevallen bedoeld in lid 1 onder a en d kan de rechter, voordat hij de vordering toewijst, aan de huurder een termijn van ten hoogste een maand toestaan om alsnog aan zijn verplichtingen te voldoen of het aanbod te aanvaarden.
+
+7.	Onder gehandicapte in het derde lid wordt verstaan een persoon die ten gevolge van ziekte of gebrek aantoonbare beperkingen ondervindt.
 
 Artikel 275
 
@@ -1764,7 +1763,7 @@ Artikel 428
 
 1.	De agentuurovereenkomst is een overeenkomst waarbij de ene partij, de principaal, aan de andere partij, de handelsagent, opdraagt, en deze zich verbindt, voor een bepaalde of een onbepaalde tijd en tegen beloning bij de totstandkoming van overeenkomsten bemiddeling te verlenen, en deze eventueel op naam en voor rekening van de principaal te sluiten zonder aan deze ondergeschikt te zijn.
 
-2.	De bepalingen van deze afdeling zijn niet van toepassing op agentuurovereenkomsten waarop de Wet financiële dienstverlening van toepassing is.
+2.	De bepalingen van deze afdeling zijn niet van toepassing op agentuurovereenkomsten waarop de de Wet op het financieel toezicht van toepassing is.
 
 3.	Ieder der partijen is verplicht de wederpartij op haar verzoek een ondertekend geschrift te verschaffen dat de dan geldende inhoud van de agentuurovereenkomst weergeeft.
 
@@ -2425,15 +2424,15 @@ Artikel 629
 
 1.	Voor zover het loon niet meer bedraagt dan het bedrag, bedoeld in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen, met betrekking tot een loontijdvak van een dag, behoudt de werknemer voor een tijdvak van 104 weken recht op 70% van het naar tijdruimte vastgestelde loon, maar de eerste 52 weken ten minste op het voor hem geldende wettelijke minimumloon, indien hij de bedongen arbeid niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling daartoe verhinderd was.
 
-2.	Voor de werknemer die ten behoeve van zijn werkgever uitsluitend of nagenoeg uitsluitend huiselijke of persoonlijke diensten op minder dan drie dagen per week verricht, geldt het in lid 1 bedoelde recht voor een tijdvak van zes weken.
+2.	Het in lid 1 bedoelde recht geldt voor een tijdvak van zes weken voor de werknemer die doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van het huishouden van de natuurlijke persoon tot wie hij in dienstbetrekking staat.
 
 3.	De werknemer heeft het in lid 1 bedoelde recht niet:
 	a.	indien de ziekte door zijn opzet is veroorzaakt of het gevolg is van een gebrek waarover hij in het kader van een aanstellingskeuring valse informatie heeft verstrekt en daardoor de toetsing aan de voor de functie opgestelde belastbaarheidseisen niet juist kon worden uitgevoerd;
 	b.	voor de tijd, gedurende welke door zijn toedoen zijn genezing wordt belemmerd of vertraagd;
-	c.	voor de tijd, gedurende welke hij, hoewel hij daartoe in staat is, zonder deugdelijke grond passende arbeid als bedoeld in artikel 658a lid 4 voor de werkgever of voor een door de werkgever met toestemming van het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen aangewezen derde, waartoe de werkgever hem in de gelegenheid stelt, niet verricht;
+	c.	voor de tijd, gedurende welke hij, hoewel hij daartoe in staat is, zonder deugdelijke grond passende arbeid als bedoeld in artikel 658a lid 4 voor de werkgever of voor een door de werkgever aangewezen derde, waartoe de werkgever hem in de gelegenheid stelt, niet verricht;
 	d.	voor de tijd, gedurende welke hij zonder deugdelijke grond weigert mee te werken aan door de werkgever of door een door hem aangewezen deskundige gegeven redelijke voorschriften of getroffen maatregelen die erop gericht zijn om de werknemer in staat te stellen passende arbeid als bedoeld in artikel 658a lid 4 te verrichten;
 	e.	voor de tijd, gedurende welke hij zonder deugdelijke grond weigert mee te werken aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 658a lid 3;
-	f.	voor de tijd gedurende welke hij zonder deugdelijk grond zijn aanvraag om een uitkering als bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later indient dan in dat artikel is voorgeschreven.
+	f.	voor de tijd gedurende welke hij zonder deugdelijke grond zijn aanvraag om een uitkering als bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later indient dan in dat artikel is voorgeschreven.
 
 4.	In afwijking van lid 1 heeft de vrouwelijke werknemer het in dat lid bedoelde recht niet gedurende de periode dat zij zwangerschaps- of bevallingsverlof geniet overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg.
 
@@ -2452,11 +2451,13 @@ Artikel 629
 11.	Het tijdvak van 104 weken, bedoeld in lid 1, wordt verlengd:
 	a.	met de duur van de vertraging indien de werkgever de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet later doet dan in dat artikel is voorgeschreven;
 	b.	met de duur van de vertraging indien de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later wordt gedaan dan in of op grond van dat artikel is voorgeschreven;
-	c.	met de duur van het verlengde tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 24, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen heeft vastgesteld of met de duur van het tijdvak, bedoeld in artikel 25, negende lid, eerste zin, van die wet;
+	c.	met de duur van het verlengde tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 24, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen heeft vastgesteld en met de duur van het tijdvak, bedoeld in artikel 25, negende lid, eerste zin, van die wet;
 	d.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
 	e.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
 
 12.	Indien de werknemer passende arbeid als bedoeld in artikel 658a lid 4 verricht, blijft de arbeidsovereenkomst onverkort in stand.
+
+13.	Voor de toepassing van lid 2 wordt onder het verrichten van diensten ten behoeve van een huishouden mede verstaan het verlenen van zorg aan de leden van dat huishouden.
 
 Artikel 629a
 
@@ -2491,8 +2492,8 @@ Artikel 631
 2.	Bedingen waarbij de werknemer zich jegens de werkgever verbindt het ontvangen loon of zijn overige inkomsten of een gedeelte daarvan op bepaalde wijze te besteden, en bedingen waarbij de werknemer zich verbindt zijn benodigdheden op een bepaalde plaats of bij een bepaalde persoon aan te schaffen, zijn nietig.
 
 3.	De leden 1 en 2 zijn niet van toepassing op het beding waarbij de werknemer zich verbindt:
-	a.	deel te nemen in een fonds waarop de Pensioen- en spaarfondsenwet van toepassing is en ten aanzien waarvan aan de voorschriften van die wet wordt voldaan;
-	b.	bij te dragen tot de premiebetaling voor een verzekering overeenkomstig de voorschriften dienaangaande door de Pensioen- en spaarfondsenwet gesteld;
+	a.	deel te nemen in een pensioenfonds als bedoeld in artikel 1 van de Pensioenwet en ten aanzien waarvan aan de voorschriften van die wet wordt voldaan;
+	b.	bij te dragen tot de premiebetaling voor een verzekering overeenkomstig de voorschriften dienaangaande door de Pensioenwet gesteld;
 	c.	deel te nemen in enig ander fonds dan in onderdeel a bedoeld, mits dat fonds voldoet aan de voorwaarden, bij algemene maatregel van bestuur gesteld;
 	d.	deel te nemen aan een regeling tot sparen te zijnen behoeve, anders dan in de onderdelen a tot en met c bedoeld, mits die regeling voldoet aan de voorwaarden, bij algemene maatregel van bestuur gesteld.
 
@@ -2841,9 +2842,9 @@ Artikel 658a
 
 4.	Onder passende arbeid als bedoeld in lid 1 en 2 wordt verstaan alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd.
 
-5.	De werkgever en degene door wie de werkgever zich op grond van artikel 14 van de Arbeidsomstandighedenwet 1998 laat bijstaan, verstrekken een reïntegratiebedrijf als bedoeld in artikel 1 van de Wet werk en inkomen naar arbeidsvermogen gegevens voorzover deze noodzakelijk zijn voor de uitvoering van de door de werkgever aan dit bedrijf opgedragen werkzaamheden, alsmede het sociaal-fiscaalnummer van de persoon wiens inschakeling in de arbeid door dat reïntegratiebedrijf wordt bevorderd. Het reïntegratiebedrijf verwerkt deze gegevens slechts voorzover dat noodzakelijk is voor deze werkzaamheden en gebruikt slechts met dat doel het sociaal-fiscaalnummer bij die verwerking. Onder sociaal-fiscaalnummer wordt in dit artikel verstaan het nummer, bedoeld in artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen.
+5.	De werkgever en degene door wie de werkgever zich op grond van de artikelen 13, 14 en 14a van de Arbeidsomstandighedenwet laat bijstaan, verstrekken een reïntegratiebedrijf als bedoeld in artikel 1 van de Wet werk en inkomen naar arbeidsvermogen gegevens voorzover deze noodzakelijk zijn voor de uitvoering van de door de werkgever aan dit bedrijf opgedragen werkzaamheden, alsmede het sociaal-fiscaalnummer van de persoon wiens inschakeling in de arbeid door dat reïntegratiebedrijf wordt bevorderd. Het reïntegratiebedrijf verwerkt deze gegevens slechts voorzover dat noodzakelijk is voor deze werkzaamheden en gebruikt slechts met dat doel het sociaal-fiscaalnummer bij die verwerking. Onder sociaal-fiscaalnummer wordt in dit artikel verstaan het nummer, bedoeld in artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen.
 
-6.	Dit artikel is van overeenkomstige toepassing op de eigenrisicodrager, bedoeld in artikel 1, eerste lid, onderdeel h, van de Ziektewet en de persoon, bedoeld in artikel 63, eerste lid, van de Ziektewet, gedurende de periode dat de eigenrisicodrager aan die persoon ziekengeld moet betalen.
+6.	Dit artikel is van overeenkomstige toepassing op de eigenrisicodrager, bedoeld in artikel 1, eerste lid, onderdeel h, van de Ziektewet en de personen, bedoeld in artikel 29, tweede lid, onderdelen a, b en c, van die wet, die laatstelijk met hem een arbeidsovereenkomst zijn aangegaan, gedurende de periode dat de eigenrisicodrager aan die personen ziekengeld moet betalen.
 
 Artikel 658b
 
@@ -2904,14 +2905,14 @@ Door de overgang van een onderneming gaan de rechten en verplichtingen die op da
 
 Artikel 664
 
-1.	Artikel 663, eerste volzin, is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een toezegging omtrent pensioen als bedoeld in artikel 1, eerste lid, onderdeel a, van de Pensioen- en spaarfondsenwet indien:
+1.	Artikel 663, eerste volzin, is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een pensioenovereenkomst als bedoeld in artikel 1 van de Pensioenwet indien:
 	a.	de verkrijger aan de werknemer, bedoeld in artikel 663, dezelfde toezegging doet, die hij reeds voor het tijdstip van overgang heeft gedaan aan zijn werknemers;
 	b.	de verkrijger op grond van artikel 2 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, verplicht is deel te nemen in een bedrijfstakpensioenfonds en de werknemer, bedoeld in artikel 663, gaat deelnemen in dat fonds;
-	c.	bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan is afgeweken van de toezegging omtrent pensioen, bedoeld in de aanhef.
+	c.	bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan is afgeweken van de pensioenovereenkomst, bedoeld in de aanhef.
 
 2.	Het eerste lid is niet van toepassing indien de werknemer, bedoeld in artikel 663, voor de overgang op grond van artikel 2 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, verplicht is deel te nemen in een bedrijfstakpensioenfonds en deze zelfde verplichting blijft gelden na de overgang.
 
-3.	Artikel 663, eerste volzin, is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een spaarregeling als bedoeld in artikel 3, eerste lid, van de Pensioen- en spaarfondsenwet indien de verkrijger de werknemer, bedoeld in artikel 663, opneemt in de spaarregeling die reeds voor het tijdstip van overgang gold voor zijn werknemers.
+3.	Artikel 663, eerste volzin, is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een spaarregeling als bedoeld in artikel 3, eerste lid, van de Pensioen- en spaarfondsenwet zoals de Pensioen- en spaarfondsenwet luidde op de dag voorafgaand aan de inwerkingtreding van Pensioenwet indien de verkrijger de werknemer, bedoeld in artikel 663, opneemt in de spaarregeling die reeds voor het tijdstip van overgang gold voor zijn werknemers.
 
 Artikel 665
 
@@ -3025,7 +3026,7 @@ Artikel 670a
 1.	De werkgever kan zonder voorafgaande toestemming van de kantonrechter de arbeidsovereenkomst niet opzeggen met een werknemer die:
 	a.	geplaatst is op een kandidatenlijst voor een ondernemingsraad dan wel een personeelsvertegenwoordiging of korter dan twee jaar geleden lid is geweest van een ondernemingsraad, van een centrale ondernemingsraad, van een groepsondernemingsraad of van een commissie van die raden, van een personeelsvertegenwoordiging of van een bijzondere onderhandelingsgroep of een Europese ondernemingsraad, een SE-ondernemingsraad of een SCE-ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsraden respectievelijk de hoofdstukken 1 respectievelijk 2 van de Wet rol werknemers bij Europese rechtspersonen dan wel die korter dan twee jaar geleden krachtens een van die wetten is opgetreden als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
 	b.	lid is van een voorbereidingscommissie van een ondernemingsraad, van een centrale ondernemingsraad of van een groepsondernemingsraad;
-	c.	als deskundige werknemer als bedoeld in artikel 13, eerste en tweede lid, of als deskundige persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998 werkzaam is;
+	c.	als deskundige werknemer als bedoeld in artikel 13, eerste en tweede lid, of als deskundige persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet werkzaam is;
 	d.	een functionaris voor de gegevensbescherming als bedoeld in artikel 62 van de Wet bescherming persoonsgegevens werkzaam is.
 
 2.	De toestemming van de kantonrechter wordt gevraagd bij verzoekschrift. De kantonrechter verleent de toestemming slechts indien de werkgever aannemelijk heeft gemaakt dat opzegging geen verband houdt met een omstandigheid als bedoeld in lid 1. Van de uitspraak staat geen hoger beroep of beroep in cassatie open.
@@ -3770,7 +3771,7 @@ Artikel 940
 
 2.	De verzekeringnemer en, tenzij het een persoonsverzekering betreft, de verzekeraar kunnen een overeenkomst die is aangegaan voor een periode van meer dan vijf jaar, of die voor zulk een periode is verlengd, opzeggen tegen het einde van elk vijfde jaar binnen die periode. Daarbij geldt de in lid 1 genoemde termijn.
 
-3.	Indien de verzekeraar de bevoegdheid heeft bedongen de overeenkomst tussentijds op te zeggen, komt de verzekeringnemer een gelijke bevoegdheid toe. Tenzij jegens hem is gehandeld met het opzet tot misleiding neemt de verzekeraar onderscheidenlijk de verzekeringnemer daarbij een termijn van twee maanden in acht. Indien een verzekering dekking biedt tegen schade veroorzaakt door risico’s als bedoeld in artikel 64 lid 2 van de Wet toezicht verzekeringsbedrijf 1993, kan, bij de verwezenlijking van een dergelijk risico of bij een dreiging van het ophanden zijn daarvan, de verzekeraar onderscheidenlijk de verzekeringnemer in afwijking van deze termijn van twee maanden, de overeenkomst met inachtneming van een termijn van zeven dagen opzeggen. De verzekeraar kan slechts tussentijds opzeggen op in de overeenkomst vermelde gronden welke van dien aard zijn dat gebondenheid aan de overeenkomst niet meer van de verzekeraar kan worden gevergd.
+3.	Indien de verzekeraar de bevoegdheid heeft bedongen de overeenkomst tussentijds op te zeggen, komt de verzekeringnemer een gelijke bevoegdheid toe. Tenzij jegens hem is gehandeld met het opzet tot misleiding neemt de verzekeraar onderscheidenlijk de verzekeringnemer daarbij een termijn van twee maanden in acht. Indien een verzekering dekking biedt tegen schade veroorzaakt door risico’s als bedoeld in artikel 3:38 van de Wet op het financieel toezicht, kan, bij de verwezenlijking van een dergelijk risico of bij een dreiging van het ophanden zijn daarvan, de verzekeraar onderscheidenlijk de verzekeringnemer in afwijking van deze termijn van twee maanden, de overeenkomst met inachtneming van een termijn van zeven dagen opzeggen. De verzekeraar kan slechts tussentijds opzeggen op in de overeenkomst vermelde gronden welke van dien aard zijn dat gebondenheid aan de overeenkomst niet meer van de verzekeraar kan worden gevergd.
 
 4.	Indien de verzekeraar de voorwaarden van de overeenkomst ten nadele van de verzekeringnemer of de tot uitkering gerechtigde wijzigt, is de verzekeringnemer gerechtigd de overeenkomst op te zeggen tegen de dag waarop de wijziging ingaat, en in ieder geval gedurende één maand nadat de wijziging hem is meegedeeld.
 
