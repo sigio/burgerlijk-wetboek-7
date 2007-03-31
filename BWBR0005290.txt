@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2007 t/m 31-03-2007
+Geldend van 01-04-2007 t/m 30-06-2007
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -1026,7 +1026,12 @@ Artikel 242
 
 Artikel 243
 
-Indien woonruimte in een gebouwde onroerende zaak verbetering behoeft als bedoeld in artikel 15 lid 2 onder d tot en met f van de Woningwet, kan de rechter op verzoek van de huurder bepalen dat de verhuurder verplicht is deze verbetering op eigen kosten aan te brengen, mits de huurder zich bereid heeft verklaard tot het betalen van een huurverhoging die in redelijke verhouding staat tot deze kosten. Van deze bepaling kan niet ten nadele van de huurder worden afgeweken.
+1.	Indien woonruimte in een gebouwde onroerende zaak voorzieningen behoeft als bedoeld in lid 2, kan de rechter op verzoek van de huurder bepalen dat de verhuurder verplicht is deze verbetering op eigen kosten aan te brengen, mits de huurder zich bereid heeft verklaard tot het betalen van een huurverhoging die in redelijke verhouding staat tot deze kosten. Van deze bepaling kan niet ten nadele van de huurder worden afgeweken.
+
+2.	Voorzieningen als bedoeld in lid 1 zijn:
+	a.	het thermisch isoleren van de uitwendige scheidingsconstructies;
+	b.	het thermisch isoleren van de constructie die de scheiding vormt met de kruipruimte;
+	c.	het ten behoeve van de verwarmingsinstallatie plaatsen van een verwarmingsketel met een opwekkingsrendement van ten minste 80%, indien de bestaande verwarmingsketel ten minste tien jaren oud is.
 
 Artikel 244
 
@@ -1125,9 +1130,7 @@ is de huurprijs, vermeerderd met een bedrag dat in redelijke verhouding staat to
 
 Artikel 256
 
-1.	De huurprijs van een woning die ingevolge artikel 29 van de Woningwet onbewoonbaar is verklaard, bedraagt 9,08 per maand, dan wel, indien op het tijdstip waarop de onbewoonbaarverklaring onherroepelijk is gevonden, een lagere huurprijs gold, die lagere huurprijs.
-
-2.	De krachtens lid 1 geldende huurprijs is verschuldigd met ingang van de dag volgende op het einde van de betalingstermijn, waarin de onbewoonbaarverklaring onherroepelijk is geworden.
+[Vervallen per 01-04-2007]
 
 Artikel 257
 
@@ -1527,7 +1530,7 @@ Artikel 304
 
 Artikel 305
 
-1.	De verhuurder die in gevolge een aanschrijving als bedoeld in artikel 17a, eerste lid, van de Woningwet verbeteringen als bedoeld in het tweede lid van dat artikel heeft aangebracht, is, ook buiten de gevallen van artikel 303 lid 1 onder a en b, bevoegd om ter doorberekening van de kosten van deze verbeteringen, voor zover redelijk, een daarop afgestemde verhoging van de huur te verlangen. Indien de huurder en de verhuurder geen overeenstemming hebben kunnen bereiken over het bedrag van de verhoging, kan ieder van hen vaststelling van de verhoging door de rechter vorderen.
+1.	De verhuurder die ingevolge een besluit als bedoeld in artikel 13 of 15 van de Woningwet voorzieningen als bedoeld in artikel 243 lid 2 heeft getroffen, is, ook buiten de gevallen van artikel 303 lid 1 onder a en b, bevoegd om ter doorberekening van de kosten van deze voorzieningen, voor zover redelijk, een daarop afgestemde verhoging van de huur te verlangen. Indien de huurder en de verhuurder geen overeenstemming hebben kunnen bereiken over het bedrag van de verhoging, kan ieder van hen vaststelling van de verhoging door de rechter vorderen.
 
 2.	Dit artikel is, behalve op bedrijfsruimte in de zin van artikel 290, ook van toepassing op een gebouwde onroerende zaak of gedeelte daarvan, indien deze zaak of dit gedeelte voor de uitoefening van een ander bedrijf is verhuurd dan waarop bedrijfsruimte in de zin van artikel 290 betrekking heeft.
 
@@ -3007,7 +3010,7 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 8.	De werkgever kan de arbeidsovereenkomst met de in zijn onderneming werkzame werknemer niet opzeggen wegens de in artikel 662, lid 2, onderdeel a, bedoelde overgang van die onderneming.
 
-9.	De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer geen instemming verleent aan het werken op zondag als bedoeld in artikel 5:4, eerste lid, derde volzin, van de Arbeidstijdenwet.
+9.	De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer geen instemming verleent aan het werken op zondag als bedoeld in artikel 5:6, tweede lid, tweede zin of vierde lid, tweede zin, van de Arbeidstijdenwet.
 
 10.	De termijn van twee jaren, bedoeld in lid 1, onderdeel a, wordt verlengd:
 	a.	met de duur van de vertraging indien de werkgever de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet later doet dan in dat artikel is voorgeschreven;
