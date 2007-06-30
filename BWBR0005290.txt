@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-04-2007 t/m 30-06-2007
+Geldend van 01-07-2007 t/m 31-08-2007
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -1578,6 +1578,10 @@ Artikel 310
 
 3.	Dit artikel is, behalve op bedrijfsruimte in de zin van artikel 290, ook van toepassing op een gebouwde onroerende zaak of gedeelte daarvan, indien deze zaak of dit gedeelte voor de uitoefening van een ander bedrijf is verhuurd dan waarop bedrijfsruimte in de zin van artikel 290 betrekking heeft.
 
+Titel 5. Pacht
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Titel 7. Opdracht
 
 Afdeling 1. Opdracht in het algemeen
@@ -1931,9 +1935,7 @@ Artikel 446
 
 3.	Tot de handelingen, bedoeld in lid 1, worden mede gerekend het in het kader daarvan verplegen en verzorgen van de patiënt en het overigens rechtstreeks ten behoeve van de patiënt voorzien in de materiële omstandigheden waaronder die handelingen kunnen worden verricht.
 
-4.	Onder handelingen als bedoeld in lid 1 zijn niet begrepen handelingen op het gebied van de artsenijbereidkunst in de zin van de Wet op de Geneesmiddelenvoorziening, indien deze worden verricht door een gevestigde apotheker in de zin van die wet.
-
-5.	Geen behandelingsovereenkomst is aanwezig, indien het betreft handelingen ter beoordeling van de gezondheidstoestand of medische begeleiding van een persoon, verricht in opdracht van een ander dan die persoon in verband met de vaststelling van aanspraken of verplichtingen, de toelating tot een verzekering of voorziening, of de beoordeling van de geschiktheid voor een opleiding, een arbeidsverhouding of de uitvoering van bepaalde werkzaamheden.
+4.	Geen behandelingsovereenkomst is aanwezig, indien het betreft handelingen ter beoordeling van de gezondheidstoestand of medische begeleiding van een persoon, verricht in opdracht van een ander dan die persoon in verband met de vaststelling van aanspraken of verplichtingen, de toelating tot een verzekering of voorziening, of de beoordeling van de geschiktheid voor een opleiding, een arbeidsverhouding of de uitvoering van bepaalde werkzaamheden.
 
 Artikel 447
 
@@ -2020,7 +2022,7 @@ Artikel 458
 
 Artikel 459
 
-1.	De hulpverlener voert verrichtingen in het kader van de behandelingsovereenkomst uit buiten de waarneming van anderen dan de patiënt, tenzij de patiënt ermee heeft ingestemd dat de verrichtingen kunnen worden waargenomen door anderen.
+1.	De hulpverlener voert verrichtingen in het kader van de behandelingsovereenkomst uit buiten de waarneming van anderen dan de patiënt, tenzij de patiënt ermee heeft ingestemd dat de verrichtingen kunnen worden waargenomen door anderen. Indien de hulpverlener apotheker is, is de verplichting, bedoeld in de eerste volzin, niet van toepassing voor zover het de visuele waarneming door anderen dan de patiënt betreft.
 
 2.	Onder anderen dan de patiënt zijn niet begrepen degenen van wie beroepshalve de medewerking bij de uitvoering van de verrichting noodzakelijk is.
 
@@ -2048,7 +2050,7 @@ Artikel 464
 
 1.	Indien in de uitoefening van een geneeskundig beroep of bedrijf anders dan krachtens een behandelingsovereenkomst handelingen op het gebied van de geneeskunst worden verricht, zijn deze afdeling alsmede de artikelen 404, 405 lid 2 en 406 van afdeling 1 van deze titel van overeenkomstige toepassing voor zover de aard van de rechtsbetrekking zich daartegen niet verzet.
 
-2.	Betreft het handelingen als omschreven in artikel 446 lid 5, dan:
+2.	Betreft het handelingen als omschreven in artikel 446 lid 4, dan:
 	a.	worden de in artikel 454 bedoelde bescheiden slechts bewaard zolang dat noodzakelijk is in verband met het doel van het onderzoek, tenzij het bepaalde bij of krachtens de wet zich tegen vernietiging verzet;
 	b.	wordt de persoon op wie het onderzoek betrekking heeft in de gelegenheid gesteld mee te delen of hij de uitslag en de gevolgtrekking van het onderzoek wenst te vernemen. Indien die wens is geuit en de handelingen niet worden verricht in verband met een tot stand gekomen arbeidsverhouding of burgerrechtelijke verzekering dan wel een opleiding waartoe de betrokkene reeds is toegelaten, wordt bedoelde persoon tevens in de gelegenheid gesteld mee te delen of hij van de uitslag en de gevolgtrekking als eerste kennis wenst te nemen teneinde te kunnen beslissen of daarvan mededeling aan anderen wordt gedaan.
 
