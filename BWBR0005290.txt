@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 15-10-2008 t/m 31-10-2008
+Geldend van 01-11-2008 t/m 31-12-2008
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -3200,11 +3200,10 @@ Artikel 629
 10.	Voor de toepassing van de leden 1, 2 en 9 worden perioden, waarin de werknemer in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling verhinderd is geweest zijn arbeid te verrichten, samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen, of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten als bedoeld in artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
 
 11.	Het tijdvak van 104 weken, bedoeld in lid 1, wordt verlengd:
-	a.	met de duur van de vertraging indien de werkgever de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet later doet dan in dat artikel is voorgeschreven;
-	b.	met de duur van de vertraging indien de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later wordt gedaan dan in of op grond van dat artikel is voorgeschreven;
-	c.	met de duur van het verlengde tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 24, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen heeft vastgesteld en met de duur van het tijdvak, bedoeld in artikel 25, negende lid, eerste zin, van die wet;
-	d.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
-	e.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
+	a.	met de duur van de vertraging indien de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later wordt gedaan dan in of op grond van dat artikel is voorgeschreven;
+	b.	met de duur van het verlengde tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 24, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen heeft vastgesteld en met de duur van het tijdvak, bedoeld in artikel 25, negende lid, eerste zin, van die wet;
+	c.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
+	d.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
 
 12.	Indien de werknemer passende arbeid als bedoeld in artikel 658a lid 4 verricht, blijft de arbeidsovereenkomst onverkort in stand.
 
@@ -3761,10 +3760,9 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 9.	De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer geen instemming verleent aan het werken op zondag als bedoeld in artikel 5:6, tweede lid, tweede zin of vierde lid, tweede zin, van de Arbeidstijdenwet.
 
 10.	De termijn van twee jaren, bedoeld in lid 1, onderdeel a, wordt verlengd:
-	a.	met de duur van de vertraging indien de werkgever de aangifte, bedoeld in artikel 38, eerste lid, van de Ziektewet later doet dan in dat artikel is voorgeschreven;
-	b.	met de duur van de vertraging indien de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later wordt gedaan dan in of op grond van dat artikel is voorgeschreven;
-	c.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
-	d.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 24, eerste lid, of artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
+	a.	met de duur van de vertraging indien de aanvraag, bedoeld in artikel 64, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen later wordt gedaan dan in of op grond van dat artikel is voorgeschreven;
+	b.	met de duur van de verlenging van de wachttijd, bedoeld in artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, indien die wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
+	c.	met de duur van het tijdvak dat het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 24, eerste lid, of artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen dan wel op grond van artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering heeft vastgesteld.
 
 11.	Voor de toepassing van lid 4 en artikel 670a lid 1 wordt tevens onder de SE-ondernemingsraad verstaan: het orgaan dat de werknemers vertegenwoordigt in een SE die haar statutaire zetel heeft in een andere lidstaat, en dat is ingesteld krachtens de bepalingen in het nationale recht van die lidstaat ter omzetting van de richtlijn nr. 2001/86 van de Raad van de Europese Unie van 8 oktober 2001 tot aanvulling van het statuut van de Europese vennootschap met betrekking tot de rol van de werknemers (PbEG L 294).
 
