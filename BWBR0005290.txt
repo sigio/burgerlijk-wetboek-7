@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-08-2009 t/m 31-10-2009
+Geldend van 01-11-2009 t/m 31-12-2009
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -447,7 +447,7 @@ Artikel 46f
 
 Artikel 46g
 
-De natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf, van wie een betaalkaart frauduleus is gebruikt in het kader van koop op afstand, kan niet worden verplicht tot betaling van de hem als gevolg van dat frauduleuze gebruik in rekening gebrachte bedragen, behoudens voor zover dat gebruik een gevolg is van een omstandigheid die aan hem kan worden toegerekend. Het terzake reeds betaalde geldt als onverschuldigd betaald.
+[Vervallen per 01-11-2009]
 
 Artikel 46h
 
@@ -2935,6 +2935,356 @@ Artikel 512
 Artikel 513
 
 Van het bij of krachtens deze titel bepaalde kan ten nadele van de reiziger niet worden afgeweken.
+
+Titel 7b. Betalingstransactie
+
+Afdeling 1. Algemene bepalingen
+
+Artikel 514
+
+In deze titel en de daarop berustende bepalingen wordt verstaan onder:
+	a.	authenticeren: volgen van een procedure die de betaaldienstverlener in staat stelt het gebruik van het betaalinstrument te verifiëren, met inbegrip van de gepersonaliseerde veiligheidskenmerken;
+	b.	automatische afschrijving: betaaldienst waarbij de betaalrekening van de betaler wordt gedebiteerd en waarbij de betalingstransactie wordt geïnitieerd door de begunstigde op basis van een door de betaler aan de begunstigde, aan de betaaldienstverlener van de begunstigde of aan de betaaldienstverlener van de betaler verstrekte instemming;
+	c.	begunstigde: natuurlijke persoon of rechtspersoon die de beoogde ontvanger is van de geldmiddelen waarop een betalingstransactie betrekking heeft;
+	d.	betaaldienst: bedrijfswerkzaamheid als bedoeld in de bijlage bij de richtlijn;
+	e.	betaaldienstgebruiker: natuurlijke persoon of rechtspersoon die in de hoedanigheid van betaler, begunstigde of beide van een betaaldienst gebruik maakt;
+	f.	betaaldienstverlener: dienstverlener als bedoeld in artikel 1, eerste lid, van de richtlijn en natuurlijk persoon of rechtspersoon waarop een vrijstelling krachtens artikel 2:3d van de Wet op het financieel toezicht van toepassing is;
+	g.	betaalinstrument: gepersonaliseerd instrument of gepersonaliseerde instrumenten of het geheel van procedures, overeengekomen tussen de betaaldienstgebruiker en de betaaldienstverlener, waarvan de betaaldienstgebruiker gebruik maakt om een betaalopdracht te initiëren;
+	h.	betaalopdracht: door een betaler of begunstigde aan zijn betaaldienstverlener gegeven opdracht om een betalingstransactie uit te voeren;
+	i.	betaalrekening: op naam van een of meer betaaldienstgebruikers aangehouden rekening die voor de uitvoering van betalingstransacties wordt gebruikt;
+	j.	betaler: natuurlijke persoon of rechtspersoon die houder is van een betaalrekening en een betalingstransactie vanaf die betaalrekening toestaat, hetzij bij ontbreken van een betaalrekening, een natuurlijke persoon of rechtspersoon die een betaalopdracht geeft;
+	k.	betalingstransactie: door de betaler of de begunstigde geïnitieerde handeling waarbij geldmiddelen worden gedeponeerd, overgemaakt of opgenomen, ongeacht of er onderliggende verplichtingen tussen de betaler en de begunstigde zijn;
+	l.	consument: niet in de uitoefening van zijn bedrijf of beroep handelende natuurlijke persoon aan wie een betaaldienstverlener een betaaldienst verleent of aan wie deze voornemens is een betaaldienst te verlenen;
+	m.	duurzame drager: hulpmiddel dat het de betaaldienstgebruiker mogelijk maakt de aan hem persoonlijk gerichte informatie op zodanige wijze op te slaan dat deze gedurende een voor het doel van de informatie toereikende periode kan worden geraadpleegd en waarmee de opgeslagen informatie ongewijzigd kan worden gereproduceerd;
+	n.	geldmiddelen: chartaal geld, giraal geld of elektronisch geld als bedoeld in artikel 1, derde lid, onder b), van richtlijn nr. 2000/46/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende de toegang tot de uitoefening van en het bedrijfseconomisch toezicht op de werkzaamheden van instellingen voor elektronisch geld (Pb L 275);
+	o.	raamovereenkomst: overeenkomst die de uitvoering beheerst van afzonderlijke en opeenvolgende betalingstransacties en die de verplichtingen en voorwaarden voor de opening van een betaalrekening kan omvatten;
+	p.	referentierentevoet: rentevoet die als grondslag wordt gehanteerd voor de berekening van eventueel in rekening te brengen interesten en die afkomstig is van een bron welke door het publiek kan worden geraadpleegd en door beide partijen bij een betaaldienstovereenkomst kan worden geverifieerd;
+	q.	referentiewisselkoers: wisselkoers die als berekeningsgrondslag wordt gehanteerd bij een valutawissel en die door de betaaldienstverlener beschikbaar wordt gesteld of afkomstig is van een bron die door het publiek kan worden geraadpleegd;
+	r.	richtlijn: richtlijn nr. 2007/64/EG van het Europees Parlement en de Raad van de Europese Unie van 13 november 2007 betreffende betalingsdiensten in de interne markt (Pb EU L 319);
+	s.	unieke identificator: door de betaaldienstverlener aan de betaaldienstgebruiker medegedeelde combinatie van letters, nummers en symbolen, die de betaaldienstgebruiker dient te verstrekken om de andere bij een betalingstransactie betrokken betaaldienstgebruiker of zijn betaalrekening ondubbelzinnig te identificeren;
+	t.	valutadatum: referentietijdstip dat door een betaaldienstverlener wordt gebruikt voor de berekening van de interesten op de geldmiddelen waarmee een betaalrekening wordt gedebiteerd of gecrediteerd;
+	u.	werkdag: dag waarop de relevante betaaldienstverlener van de betaler of de betaaldienstverlener van de begunstigde die betrokken is bij de uitvoering van een betalingstransactie open is voor de daarvoor vereiste werkzaamheden;
+
+Artikel 515
+
+1.	Deze titel is van toepassing op eenmalige betalingstransacties, op raamovereenkomsten en op de daaronder vallende betalingstransacties.
+
+2.	Deze titel is alleen van toepassing op betaaldiensten die in de Europese Gemeenschap of in staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte worden uitgevoerd in euro of in de valuta van een lidstaat van de Europese Gemeenschap buiten de eurozone of in de valuta van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
+
+3.	Deze titel is alleen van toepassing indien zowel de betaaldienstverlener van de betaler als de betaaldienstverlener van de begunstigde of de enige bij de betalingstransactie betrokken betaaldienstverlener in de Europese Gemeenschap is gevestigd, met uitzondering van artikel 541.
+
+4.	Deze titel is niet van toepassing op de betaaldiensten, bedoeld in artikel 1:5a, tweede lid, van de Wet op het financieel toezicht.
+
+5.	Deze titel is niet van toepassing op betaaldiensten door de Nederlandse instellingen genoemd in artikel 2 Richtlijn 2006/48/EG van het Europees Parlement en de Raad van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen.
+
+Artikel 516
+
+Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde het recht de contractuele voorwaarden van de raamovereenkomst alsmede de bij of krachtens algemene maatregel van bestuur, bedoeld in artikel 4:22 van de Wet op het financieel toezicht, vermelde informatie en voorwaarden op papier of op een andere duurzame drager te vragen.
+
+Artikel 517
+
+1.	Elke wijziging in de raamovereenkomst en in de bij of krachtens algemene maatregel van bestuur, bedoeld in artikel 4:22 van de Wet op het financieel toezicht, vermelde informatie en voorwaarden wordt uiterlijk twee maanden vóór de datum van de beoogde inwerkingtreding ervan door de betaaldienstverlener op papier of op een andere duurzame drager voorgesteld in gemakkelijk te begrijpen bewoordingen en in een duidelijke en bevattelijke vorm in een officiële taal van de lidstaat waar de betaaldienst wordt aangeboden of in een andere taal die door partijen is overeengekomen.
+
+2.	Voor zover een bevoegdheid als hierna onder a bedoeld overeenkomstig het bij of krachtens voormelde algemene maatregel van bestuur bepaalde is overeengekomen;
+	a.	deelt de betaaldienstverlener de betaaldienstgebruiker mee dat hij wordt geacht de wijzigingen, bedoeld in het eerste lid, te hebben aanvaard, indien hij de betaaldienstverlener niet vóór de voorgestelde datum van inwerkingtreding van die wijzigingen ervan in kennis heeft gesteld dat hij de wijzigingen niet aanvaardt, en
+	b.	vermeldt de betaaldienstverlener eveneens dat de betaaldienstgebruiker het recht heeft de raamovereenkomst onmiddellijk kosteloos te beëindigen voor de datum waarop de voorgestelde wijzigingen van toepassing worden.
+
+3.	Wijzigingen in de rentevoet of de wisselkoers kunnen met onmiddellijke ingang zonder kennisgeving worden toegepast, mits het recht daartoe in de raamovereenkomst is overeengekomen en de wijzigingen gebaseerd zijn op de referentierentevoet of referentiewisselkoers die is overeengekomen overeenkomstig het bij of krachtens voormelde algemene maatregel van bestuur bepaalde.
+
+4.	De betaaldienstgebruiker wordt zo spoedig mogelijk van elke wijziging in de rentevoet die in zijn nadeel uitvalt, in kennis gesteld op de wijze als bij of krachtens de voormelde algemene maatregel van bestuur is bepaald, tenzij door de partijen is overeengekomen dat de informatie met een specifieke frequentie of op een specifieke wijze moet worden verstrekt of ter beschikking moet worden gesteld. Wijzigingen in de rentevoet of de wisselkoers die ten gunste van de betaaldienstgebruiker uitvallen, kunnen zonder kennisgeving worden toegepast.
+
+5.	Wijzigingen in de bij betalingstransacties gebruikte rentevoet of wisselkoers worden berekend en uitgevoerd op een neutrale wijze die de betaaldienstgebruiker niet discrimineert.
+
+Artikel 518
+
+1.	De betaaldienstgebruiker kan de raamovereenkomst te allen tijde beëindigen, tenzij door de partijen een opzegtermijn is overeengekomen. Die termijn is niet langer dan een maand.
+
+2.	Een raamovereenkomst die voor een duur van meer dan twaalf maanden of voor onbepaalde duur is gesloten, kan door de betaaldienstgebruiker na het verstrijken van twaalf maanden kosteloos worden beëindigd. In alle andere gevallen zijn de voor beëindiging in rekening te brengen kosten passend en in lijn met de feitelijke kosten.
+
+3.	Indien zulks in de raamovereenkomst is overeengekomen, kan de betaaldienstverlener een voor onbepaalde duur gesloten raamovereenkomst beëindigen op de in artikel 517, eerste lid, voor een voorstel tot wijziging bepaalde wijze en met inachtneming van een opzegtermijn van ten minste twee maanden.
+
+4.	Bij beëindiging van de raamovereenkomst kunnen periodieke kosten slechts naar evenredigheid tot aan de beëindiging van de overeenkomst in rekening worden gebracht. Indien de betaaldienstgebruiker dergelijke kosten vooruit heeft betaald, wordt het desbetreffende bedrag naar evenredigheid aan hem terugbetaald.
+
+Artikel 519
+
+1.	De betalingstransacties vinden plaats in de valuta die tussen de partijen zijn overeengekomen.
+
+2.	Indien voor het initiëren van een betalingstransactie op het verkooppunt of door de begunstigde een valutawisseldienst wordt aangeboden aan de betaler, stelt de partij die de valutawisseldienst aanbiedt, de betaler in kennis van alle in rekening te brengen kosten, alsook van de wisselkoers die bij de omrekening van de betalingstransactie zal worden gehanteerd.
+
+Artikel 520
+
+1.	De betaaldienstverlener brengt de betaaldienstgebruiker geen kosten in rekening voor zijn informatieverplichtingen of de toepassing van corrigerende of preventieve maatregelen uit hoofde van deze titel, tenzij:
+	a.	ingevolge de artikelen 533, eerste lid, 534, vijfde lid, of 542, tweede lid, anders is bepaald;
+	b.	de in rekening te brengen kosten zijn overeengekomen tussen de betaaldienstgebruiker en de betaaldienstverlener, en
+	c.	de kosten passend en in lijn met de feitelijke kosten van de betaaldienstverlener zijn.
+
+2.	Indien met een betalingstransactie geen valutawissel gemoeid is, betalen de betaler en de begunstigde elk voor zich de door hun respectieve betaaldienstverlener in rekening gebrachte kosten.
+
+3.	De betaaldienstverlener belet niet dat de begunstigde van de betaler een vergoeding vraagt of een korting aanbiedt voor het gebruik van een bepaald betaalinstrument.
+
+Artikel 521
+
+1.	Met betrekking tot betaalinstrumenten met een uitgavenlimiet van € 150 of waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen en die overeenkomstig de raamovereenkomst uitsluitend worden gebruikt voor afzonderlijke betalingstransacties van maximaal € 30, kunnen betaaldienstverleners met hun betaaldienstgebruikers overeenkomen dat:
+	a.	de artikelen 524, eerste lid, onder b, 525, eerste lid, onder c en d en 529, vierde en vijfde lid, niet van toepassing zijn als het betaalinstrument niet kan worden geblokkeerd of verder gebruik ervan niet kan worden geblokkeerd;
+	b.	de artikelen 527, 528 en 529, eerste en tweede lid, niet van toepassing zijn als het betaalinstrument anoniem wordt gebruikt of de betaaldienstverlener om andere met het betaalinstrument verband houdende redenen niet het bewijs kan leveren dat de betalingstransactie is geauthenticeerd;
+	c.	in afwijking van artikel 533, eerste lid, de betaaldienstverlener niet verplicht is de betaaldienstgebruiker in kennis te stellen van de weigering van een betaalopdracht als uit de context duidelijk blijkt dat de opdracht niet is uitgevoerd;
+	d.	in afwijking van artikel 534 de betaler de betaalopdracht niet kan herroepen nadat hij de betaalopdracht heeft gegeven of zijn instemming met de uitvoering van de betalingstransactie aan de begunstigde heeft verstrekt;
+	e.	in afwijking van de artikelen 537 en 538 andere uitvoeringstermijnen worden toegepast;
+	f.	in afwijking van artikel 517 de betaaldienstverlener niet verplicht is wijzigingen in de voorwaarden van de raamovereenkomst voor te stellen op de wijze als in artikel 517 bedoeld.
+
+2.	Voor nationale betalingstransacties worden de in het eerste lid genoemde bedragen verdubbeld.
+
+3.	Voor vooraf betaalde betaalinstrumenten, bedoeld voor nationale betalingstransacties, worden de in het eerste lid genoemde bedragen verhoogd tot € 500.
+
+4.	De artikelen 528 en 529 zijn ook van toepassing op elektronisch geld in de zin van artikel 514 onder n, tenzij de betaaldienstverlener van de betaler niet de mogelijkheid heeft de rekening of het instrument te blokkeren.
+
+Afdeling 2. Instemming met de betaalopdracht
+
+Artikel 522
+
+1.	Een betaaldienstverlener voert een betalingstransactie slechts uit met instemming van de betaler met de uitvoering van de betaalopdracht.
+
+2.	De instemming met een betaalopdracht wordt verleend overeenkomstig de tussen de betaler en zijn betaaldienstverlener overeengekomen vorm en procedure. Bij gebreke van een dergelijke instemming wordt een betalingstransactie als niet toegestaan aangemerkt.
+
+3.	De instemming kan te allen tijde, doch uiterlijk op het tijdstip van het onherroepelijk worden, krachtens artikel 534 van de betaalopdracht door de betaler worden ingetrokken. Hetzelfde geldt voor een instemming met de uitvoering van een betaalopdracht betreffende een reeks betalingstransacties, die kan worden ingetrokken met als gevolg dat iedere toekomstige betalingstransactie als niet-toegestaan wordt aangemerkt.
+
+Artikel 523
+
+1.	Indien voor de mededeling van de instemming van een specifiek betaalinstrument gebruik wordt gemaakt, kunnen de betaler en zijn betaaldienstverlener uitgavenlimieten overeenkomen voor betaaldiensten die met dat betaalinstrument zullen worden verricht.
+
+2.	Indien dit in de raamovereenkomst is overeengekomen, kan de betaaldienstverlener het gebruik van een betaalinstrument blokkeren op grond van objectief gerechtvaardigde redenen die verband houden met:
+	a.	de veiligheid van het betaalinstrument;
+	b.	het vermoeden van niet-toegestaan of frauduleus gebruik van het betaalinstrument; of
+	c.	het aanzienlijk toegenomen risico dat de betaler niet in staat is zijn betalingsverplichtingen na te komen die voortvloeien uit een gebruik van het betaalinstrument waarmee over een kredietruimte kan worden beschikt.
+
+3.	De betaaldienstverlener informeert in de situaties, genoemd in het tweede lid, de betaler voor of, indien dit niet mogelijk is, onverwijld daarna, over de blokkering en de redenen daarvoor op de wijze, overeengekomen in de raamovereenkomst, tenzij het doen van deze mededeling strijdig is met objectief gerechtvaardigde veiligheidsoverwegingen of verboden is krachtens andere toepasselijke wetgeving.
+
+4.	De betaaldienstverlener heft de blokkering op of vervangt het geblokkeerde betaalinstrument door een nieuw betaalinstrument, zodra de redenen voor de blokkering niet langer bestaan.
+
+Artikel 524
+
+1.	De betaaldienstgebruiker die gemachtigd is om een betaalinstrument te gebruiken,
+	a.	gebruikt het betaalinstrument overeenkomstig de voorwaarden die op de uitgifte en het gebruik van het betaalinstrument van toepassing zijn, en
+	b.	stelt de betaaldienstverlener, of de door laatstgenoemde gespecificeerde entiteit, onverwijld in kennis van het verlies, de diefstal of onrechtmatig gebruik van het betaalinstrument of van het niet-toegestane gebruik ervan.
+
+2.	Voor de toepassing van het eerste lid, onder a, neemt de betaaldienstgebruiker, zodra hij een betaalinstrument ontvangt, in het bijzonder alle redelijke maatregelen om de veiligheid van de gepersonaliseerde veiligheidskenmerken ervan te waarborgen.
+
+Artikel 525
+
+1.	De betaaldienstverlener die een betaalinstrument uitgeeft,
+	a.	zorgt ervoor dat de gepersonaliseerde veiligheidskenmerken van een betaalinstrument niet toegankelijk zijn voor andere partijen dan de betaaldienstgebruiker die gerechtigd is het betaalinstrument te gebruiken, onverminderd artikel 524;
+	b.	zendt niet ongevraagd een betaalinstrument toe, tenzij een betaalinstrument dat reeds aan de betaaldienstgebruiker verstrekt is, moet worden vervangen;
+	c.	zorgt ervoor dat er te allen tijde passende middelen beschikbaar zijn om de betaaldienstgebruiker in staat te stellen een kennisgeving krachtens artikel 524, eerste lid, onder b, te doen of om opheffing van de blokkering te verzoeken op grond van artikel 523, vierde lid;
+	d.	verstrekt op verzoek van de betaaldienstgebruiker tot achttien maanden na de kennisgeving, bedoeld onder c, de middelen waarmee laatstgenoemde kan bewijzen dat hij een dergelijke kennisgeving heeft gedaan, en
+	e.	belet dat het betaalinstrument nog kan worden gebruikt zodra de kennisgeving overeenkomstig artikel 524, eerste lid, onder b, is gedaan.
+
+2.	De betaaldienstverlener draagt het risico van het zenden aan de betaler van een betaalinstrument en van de gepersonaliseerde veiligheidskenmerken daarvan.
+
+Artikel 526
+
+De betaaldienstgebruiker die bekend is met een niet-toegestane of foutieve betalingstransactie waarvoor hij de betaaldienstverlener aansprakelijk kan stellen met inbegrip van de aansprakelijkheidsgronden van artikel 543, 544 en 545, verkrijgt alleen rectificatie van zijn betaaldienstverlener indien hij hem onverwijld en uiterlijk dertien maanden na de valutadatum waarop zijn rekening is gedebiteerd, kennis geeft van de bewuste transactie, tenzij de betaaldienstverlener, in voorkomend geval, de informatie betreffende die betalingstransactie niet heeft verstrekt of ter beschikking heeft gesteld overeenkomstig de wijze vastgesteld bij of krachtens de in artikel 4:22 van de Wet op het financieel toezicht bedoelde algemene maatregel van bestuur.
+
+Artikel 527
+
+1.	Indien een betaaldienstgebruiker ontkent dat hij met een uitgevoerde betalingstransactie heeft ingestemd of aanvoert dat de betalingstransactie niet correct is uitgevoerd, is zijn betaaldienstverlener gehouden het bewijs te leveren dat de betalingstransactie is geauthenticeerd, juist is geregistreerd en geboekt en niet door een technische storing of enig ander falen is beïnvloed.
+
+2.	Indien een betaaldienstgebruiker ontkent dat hij met een uitgevoerde betalingstransactie heeft ingestemd, vormt het feit dat het gebruik van een betaalinstrument door de betaaldienstverlener is geregistreerd niet noodzakelijkerwijze afdoende bewijs dat met de betalingstransactie door de betaler is ingestemd of dat de betaler frauduleus heeft gehandeld of opzettelijk of met grove nalatigheid een of meer van zijn verplichtingen uit hoofde van artikel 524 niet is nagekomen.
+
+Artikel 528
+
+1.	Onverminderd artikel 526, betaalt de betaaldienstverlener van de betaler, in geval van een niet-toegestane betalingstransactie, onmiddellijk het bedrag van de niet-toegestane betalingstransactie terug en herstelt hij, in voorkomend geval, de betaalrekening die met dat bedrag was gedebiteerd, in de toestand zoals die geweest zou zijn, indien de niet-toegestane betalingstransactie niet zou hebben plaatsgevonden.
+
+2.	Deze bepaling geldt onverminderd het recht op schadevergoeding uit hoofde van de algemene regels van overeenkomstenrecht.
+
+Artikel 529
+
+1.	In afwijking van artikel 528 draagt de betaler tot een bedrag van ten hoogste € 150 het verlies met betrekking tot niet-toegestane betalingstransacties dat voortvloeit uit het gebruik van een verloren of gestolen betaalinstrument of, indien de betaler heeft nagelaten de veiligheid van de gepersonaliseerde veiligheidskenmerken ervan te waarborgen, uit onrechtmatig gebruik van een betaalinstrument.
+
+2.	De betaler draagt alle verliezen die uit niet-toegestane betalingstransacties voortvloeien, indien deze zich hebben voorgedaan doordat hij frauduleus heeft gehandeld of opzettelijk of met grove nalatigheid een of meer verplichtingen uit hoofde van artikel 524 niet is nagekomen. In dergelijke gevallen is het in het eerste lid bedoelde maximumbedrag niet van toepassing.
+
+3.	In gevallen waarin de betaler, zonder frauduleus of opzettelijk te hebben gehandeld, zijn verplichtingen uit hoofde van artikel 524 niet is nagekomen, kan de rechter de in het eerste en tweede lid van dit artikel bedoelde aansprakelijkheid beperken, met name rekening houdend met de aard van de gepersonaliseerde veiligheidskenmerken van het betaalinstrument en met de omstandigheden waarin het is verloren, gestolen of onrechtmatig gebruikt.
+
+4.	Na de kennisgeving overeenkomstig artikel 524, eerste lid, onder b, heeft het gebruik van het betaalinstrument geen financiële gevolgen voor de betaler, tenzij deze frauduleus heeft gehandeld.
+
+5.	Indien de betaaldienstverlener nalaat om overeenkomstig artikel 525, eerste lid, onder c, passende middelen beschikbaar te stellen waarmee te allen tijde een kennisgeving als bedoeld in artikel 524, eerste lid, onder b, kan worden gedaan, is de betaler niet aansprakelijk voor de financiële gevolgen die uit het gebruik van dat betaalinstrument voortvloeien, tenzij hij frauduleus heeft gehandeld.
+
+Artikel 530
+
+1.	Een betaler heeft recht op de terugbetaling door zijn betaaldienstverlener van een met zijn instemming, door of via een begunstigde geïnitieerde, reeds uitgevoerde betalingstransactie, indien de volgende voorwaarden vervuld zijn:
+	a.	op het moment waarop ingestemd werd met de betaalopdracht is niet het precieze bedrag van de betalingstransactie gespecificeerd, en
+	b.	het bedrag van de betalingstransactie ligt hoger dan de betaler, op grond van zijn eerdere uitgavenpatroon, de voorwaarden van zijn raamovereenkomst en relevante aspecten van de zaak, redelijkerwijs had kunnen verwachten.
+
+2.	De betaler verstrekt de betaaldienstverlener op diens verzoek de feitelijke elementen omtrent de voorwaarden voor terugbetaling.
+
+3.	De terugbetaling bestaat uit het volledige bedrag van de uitgevoerde betalingstransactie.
+
+4.	In afwijking van het eerste lid kunnen de betaler en zijn betaaldienstverlener in de raamovereenkomst overeenkomen dat de betaler bij automatische afschrijvingen ook recht heeft op terugbetaling door zijn betaaldienstverlener als de in het eerste lid vermelde voorwaarden voor terugbetaling niet vervuld zijn.
+
+5.	Voor de toepassing van het eerste lid, onder b, kan de betaler evenwel geen met een valutawissel verband houdende redenen aanvoeren, indien de referentiewisselkoers is toegepast die hij overeenkomstig het bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 4:22 van de Wet op het financieel toezicht, bepaalde met zijn betaaldienstverlener is overeengekomen.
+
+6.	In afwijking van het eerste lid kunnen de betaler en betaaldienstverlener in de raamovereenkomsten overeenkomen dat de betaler geen recht heeft op terugbetaling als hij zijn instemming met de op de betalingstransactie betrekking hebbende betaalopdracht rechtstreeks aan zijn betaaldienstverlener heeft gericht en er, in voorkomend geval, informatie betreffende de toekomstige betalingstransactie gedurende ten minste vier weken voor de vervaldag op een overeengekomen wijze door de betaaldienstverlener of door de begunstigde aan de betaler was verstrekt of ter beschikking was gesteld.
+
+Artikel 531
+
+1.	De betaler kan gedurende een periode van acht weken na de datum waarop de geldmiddelen zijn gedebiteerd, om de in artikel 530 bedoelde terugbetaling verzoeken.
+
+2.	Binnen de tien werkdagen na ontvangst van een verzoek om terugbetaling betaalt de betaaldienstverlener het volledige bedrag van de uitgevoerde betalingstransactie terug dan wel meldt hij dat hij weigert tot terugbetaling over te gaan.
+
+3.	Indien de betaaldienstverlener weigert tot terugbetaling over te gaan, motiveert hij wat daarvoor de redenen zijn en doet hij opgave van de geschilleninstantie, bedoeld in artikel 4:17, eerste lid, onderdeel b, van de Wet op het financieel toezicht, tot wie de betaler zich kan wenden indien hij deze weigering niet aanvaardt.
+
+4.	Het in het tweede lid bedoelde recht van de betaaldienstverlener om de terugbetaling te weigeren, is niet van toepassing in het geval van artikel 530, vierde lid.
+
+Afdeling 3. Uitvoering van de betalingstransactie
+
+Paragraaf 1. Betaalopdrachten, kosten en overgemaakte bedragen
+
+Artikel 532
+
+1.	Het tijdstip van ontvangst is het tijdstip waarop de rechtstreeks door de betaler of niet-rechtstreeks door of via een begunstigde gegeven betaalopdracht door de betaaldienstverlener van de betaler wordt ontvangen.
+
+Indien het tijdstip van ontvangst voor de betaaldienstverlener niet op een werkdag valt, wordt de ontvangen betaalopdracht geacht op de eerstvolgende werkdag te zijn ontvangen. De betaaldienstverlener kan een uiterste tijdstip aan het einde van een werkdag vaststellen, na welk tijdstip een ontvangen betaalopdracht geacht wordt op de eerstvolgende werkdag te zijn ontvangen.
+
+2.	Indien de betaaldienstgebruiker die een betaalopdracht initieert en zijn betaaldienstverlener overeenkomen dat de uitvoering van de betaalopdracht aanvangt op een specifieke datum, aan het einde van een bepaalde termijn of op de dag waarop de betaler geldmiddelen ter beschikking van zijn betaaldienstverlener heeft gesteld, wordt het tijdstip van ontvangst van de opdracht voor de toepassing van artikel 537 geacht op de overeengekomen dag te vallen. Indien de overeengekomen dag geen werkdag is voor de betaaldienstverlener, wordt de ontvangen betaalopdracht geacht op de eerstvolgende werkdag te zijn ontvangen.
+
+Artikel 533
+
+1.	Indien de betaaldienstverlener weigert een betaalopdracht uit te voeren, wordt de betaaldienstgebruiker in kennis gesteld van deze weigering en, indien mogelijk, van de redenen daarvoor en van de procedure voor de correctie van eventuele feitelijke onjuistheden die tot de weigering hebben geleid, tenzij de nationale of communautaire wetgeving dit verbiedt.
+
+2.	De betaaldienstverlener verstrekt zo spoedig mogelijk de kennisgeving – of stelt deze ter beschikking – op de overeengekomen wijze, en in elk geval binnen de in artikel 537 vermelde termijnen.
+
+3.	In de raamovereenkomst kan de voorwaarde worden gesteld dat de betaaldienstverlener voor die kennisgeving kosten in rekening mag brengen indien de weigering objectief gerechtvaardigd is.
+
+4.	Indien alle in de raamovereenkomst van de betaler gestelde voorwaarden vervuld zijn, weigert de betaaldienstverlener van de betaler niet een toegestane betaalopdracht uit te voeren, ongeacht of de betaalopdracht door een betaler dan wel door een begunstigde is geïnitieerd.
+
+5.	Een betaalopdracht waarvan de uitvoering is geweigerd, wordt geacht niet ontvangen te zijn voor de toepassing van de artikelen 537, 543, 544 en 545.
+
+Artikel 534
+
+1.	De betaaldienstgebruiker kan een betaalopdracht niet meer herroepen vanaf het tijdstip van ontvangst, bedoeld in artikel 532, eerste lid, tenzij anders is bepaald in dit artikel.
+
+2.	Indien de betalingstransactie door of via de begunstigde is geïnitieerd, kan de betaler de betaalopdracht niet herroepen nadat hij de betaalopdracht of zijn instemming met de uitvoering van de betalingstransactie aan de begunstigde heeft verstrekt.
+
+3.	In het geval van een automatische afschrijving en onverminderd de rechten inzake terugbetaling kan de betaler de betaalopdracht evenwel herroepen, ten laatste aan het einde van de werkdag die voorafgaat aan de dag waarop de betaalrekening volgens afspraak wordt gedebiteerd.
+
+4.	In het in artikel 532, tweede lid, bedoelde geval kan de betaaldienstgebruiker een betaalopdracht herroepen tot uiterlijk het einde van de werkdag die aan de overeengekomen dag voorafgaat.
+
+5.	Na de in het eerste tot en met vierde lid bedoelde termijnen kan de betaalopdracht alleen worden herroepen indien zulks tussen de betaaldienstgebruiker en zijn betaaldienstverlener is overeengekomen. In het in het tweede en derde lid bedoelde geval is ook de instemming van de begunstigde vereist.
+
+6.	Indien zulks in de raamovereenkomst is overeengekomen, mag de betaaldienstverlener kosten voor de herroeping in rekening brengen.
+
+Artikel 535
+
+1.	De betaaldienstverlener van de betaler, de betaaldienstverlener van de begunstigde en eventuele intermediairs van de betaaldienstverleners maken het volledige bedrag van de betalingstransactie over en houden op het overgemaakte bedrag geen kosten in.
+
+2.	De begunstigde en zijn betaaldienstverlener kunnen in afwijking van het eerste lid overeenkomen dat de betaaldienstverlener zijn kosten op het overgemaakte bedrag inhoudt voordat hij de rekening van de begunstigde daarmee crediteert. In dat geval worden het volledige bedrag van de betalingstransactie en de kosten afzonderlijk vermeld in de informatie die aan de begunstigde wordt verstrekt.
+
+3.	Indien andere kosten dan die bedoeld in het tweede lid op het overgemaakte bedrag worden ingehouden, zorgt de betaaldienstverlener van de betaler ervoor dat de begunstigde het volledige bedrag van de door de betaler geïnitieerde betalingstransactie ontvangt. Indien de betalingstransactie door de begunstigde wordt geïnitieerd, zorgt diens betaaldienstverlener ervoor dat het volledige bedrag van de betalingstransactie door de begunstigde wordt ontvangen.
+
+Paragraaf 2. Uitvoeringstermijn en valutadatum
+
+Artikel 536
+
+1.	Deze paragraaf is van toepassing op:
+	a.	betalingstransacties in euro; en
+	b.	betalingstransacties met slechts één valutawissel tussen de euro en de valuta van een lidstaat die de euro niet als munt heeft, mits de vereiste valutawissel wordt uitgevoerd in de betrokken lidstaat waar de euro niet de munteenheid is en, bij grensoverschrijdende betalingstransacties, de overmaking in euro geschiedt.
+
+2.	Deze paragraaf is van toepassing op andere betalingstransacties, tenzij tussen de betaaldienstgebruiker en zijn betaaldienstverlener anders overeengekomen is, met uitzondering van artikel 541, van welke bepaling niet kan worden afgeweken. Indien de betaaldienstgebruiker en zijn betaaldienstverlener evenwel een periode overeenkomen die langer is dan in artikel 537 is bepaald, mag die periode voor intracommunautaire betalingstransacties niet langer zijn dan vier werkdagen na het tijdstip van ontvangst overeenkomstig artikel 532.
+
+Artikel 537
+
+1.	De betaaldienstverlener van de betaler draagt er zorg voor dat de betaalrekening van de betaaldienstverlener van de begunstigde uiterlijk aan het einde van de eerstvolgende werkdag na het tijdstip van ontvangst overeenkomstig artikel 532 voor het bedrag van de betalingstransactie wordt gecrediteerd. Deze termijn kan voor betalingstransacties die op papier worden geïnitieerd, met een werkdag worden verlengd.
+
+2.	De betaaldienstverlener van de begunstigde valuteert het bedrag van de betalingstransactie en stelt het beschikbaar op de betaalrekening van de begunstigde, zodra de betaaldienstverlener het geld ontvangen heeft overeenkomstig artikel 541.
+
+3.	De betaaldienstverlener van de begunstigde zendt een door of via de begunstigde geïnitieerde betaalopdracht toe aan de betaaldienstverlener van de betaler binnen de tussen de begunstigde en zijn betaaldienstverlener overeengekomen termijnen, zodat automatische afschrijvingen op de afgesproken datum kunnen plaatsvinden.
+
+Artikel 538
+
+Indien de begunstigde geen betaalrekening bij de betaaldienstverlener heeft, worden de geldmiddelen door de betaaldienstverlener die de geldmiddelen ten behoeve van de begunstigde ontvangt, aan de begunstigde ter beschikking gesteld binnen de in artikel 537 gespecificeerde termijn.
+
+Artikel 539
+
+1.	Indien een consument chartaal geld op een betaalrekening bij een betaaldienstverlener deponeert in de valuta van die betaalrekening, zorgt die betaaldienstverlener ervoor dat het bedrag onmiddellijk na het tijdstip van ontvangst van de geldmiddelen beschikbaar wordt gesteld en wordt gevaluteerd.
+
+2.	Indien de betaaldienstgebruiker geen consument is, wordt het bedrag uiterlijk op de eerstvolgende werkdag na de ontvangst van de geldmiddelen op de betaalrekening van de begunstigde beschikbaar gesteld en gevaluteerd.
+
+Artikel 540
+
+Bij algemene maatregel van bestuur kan voor nationale betalingstransacties in kortere maximale uitvoeringstermijnen worden voorzien dan die welke in deze paragraaf zijn bepaald.
+
+Artikel 541
+
+1.	De valutadatum van de creditering van de betaalrekening van de begunstigde valt uiterlijk op de werkdag waarop het bedrag van de betalingstransactie op de rekening van de betaaldienstverlener van de begunstigde wordt gecrediteerd. De betaaldienstverlener van de begunstigde zorgt ervoor dat het bedrag van de betalingstransactie ter beschikking van de begunstigde komt zodra dat bedrag op de rekening van de betaaldienstverlener van de begunstigde is gecrediteerd.
+
+2.	De valutadatum van de debitering van de betaalrekening van de betaler valt niet vroeger dan het tijdstip waarop het bedrag van de betalingstransactie van die rekening is gedebiteerd.
+
+Paragraaf 3. Aansprakelijkheid
+
+Artikel 542
+
+1.	Indien een betaalopdracht wordt uitgevoerd op basis van een unieke identificator, wordt de betaalopdracht geacht correct te zijn uitgevoerd wat de in de unieke identificator gespecificeerde begunstigde betreft.
+
+2.	Indien de unieke identificator die door de betaaldienstgebruiker is verstrekt, onjuist is, is de betaaldienstverlener op grond van de artikelen 543, 544 en 545 niet aansprakelijk voor de niet-uitvoering of gebrekkige uitvoering van de betalingstransactie. De betaaldienstverlener van de betaler levert evenwel redelijke inspanningen om de met de betalingstransactie gemoeide geldmiddelen terug te verkrijgen. Indien zulks in de raamovereenkomst is overeengekomen, mag de betaaldienstverlener de betaaldienstgebruiker voor het terugverkrijgen kosten in rekening brengen.
+
+3.	Indien de betaaldienstgebruiker aanvullende informatie verstrekt naast de informatie die krachtens het bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 4:22 van de Wet op het financieel toezicht, bepaalde vereist is, is de betaaldienstverlener alleen aansprakelijk voor de uitvoering van betalingstransacties overeenkomstig de unieke identificator die door de betaaldienstgebruiker is gespecificeerd.
+
+Artikel 543
+
+1.	Indien een betaalopdracht door de betaler wordt geïnitieerd, is de betaaldienstverlener van de betaler, onverminderd artikel 526, artikel 542, tweede en derde lid, en artikel 548, jegens de betaler aansprakelijk voor de juiste uitvoering daarvan, tenzij hij tegenover de betaler en, voor zover relevant, tegenover de betaaldienstverlener van de begunstigde kan bewijzen dat de betaaldienstverlener van de begunstigde het bedrag van de betalingstransactie heeft ontvangen overeenkomstig artikel 537, eerste lid, in welk geval de betaaldienstverlener van de begunstigde aansprakelijk is jegens de begunstigde voor de juiste uitvoering van de betalingstransactie.
+
+2.	Indien de betaaldienstverlener van de betaler aansprakelijk is uit hoofde van het eerste lid betaalt hij de betaler onverwijld het bedrag van de niet-uitgevoerde of gebrekkig uitgevoerde betalingstransactie terug en herstelt hij onverwijld, in voorkomend geval, de betaalrekening die met dat bedrag was gedebiteerd, in de toestand zoals die geweest zou zijn, indien de gebrekkig uitgevoerde betalingstransactie niet zou hebben plaatsgevonden.
+
+3.	Indien de betaaldienstverlener van de begunstigde aansprakelijk is uit hoofde van het eerste lid stelt hij onmiddellijk het bedrag van de betalingstransactie ter beschikking van de begunstigde en crediteert hij, voor zover van toepassing, de betaalrekening van de begunstigde met het overeenkomstige bedrag.
+
+4.	Indien een door de betaler geïnitieerde betalingstransactie niet of gebrekkig is uitgevoerd, tracht de betaaldienstverlener van de betaler, ongeacht de aansprakelijkheid uit hoofde van dit artikel, desgevraagd onmiddellijk de betalingstransactie te traceren en stelt hij de betaler op de hoogte van de resultaten daarvan.
+
+Artikel 544
+
+1.	Indien een betaalopdracht door of via de begunstigde wordt geïnitieerd, is de betaaldienstverlener van de begunstigde, onverminderd artikel 526, artikel 542, tweede en derde lid, en artikel 548, aansprakelijk jegens de begunstigde voor de juiste verzending van de betaalopdracht aan de betaaldienstverlener van de betaler, overeenkomstig artikel 537, derde lid.
+
+2.	Indien de betaaldienstverlener van de begunstigde aansprakelijk is uit hoofde van het eerste lid geeft hij de betrokken betaalopdracht onmiddellijk door aan de betaaldienstverlener van de betaler.
+
+3.	Voorts is de betaaldienstverlener van de begunstigde, onverminderd artikel 526, artikel 542, tweede en derde lid, en artikel 548, aansprakelijk jegens de begunstigde voor het behandelen van de betalingstransactie overeenkomstig zijn verplichtingen krachtens artikel 541. Indien de betaaldienstverlener van de begunstigde aansprakelijk is uit hoofde van het eerste lid zorgt hij ervoor dat het bedrag van de betalingstransactie onmiddellijk ter beschikking van de begunstigde wordt gesteld zodra de betaalrekening van de betaaldienstverlener van de begunstigde met het overeenkomstige bedrag is gecrediteerd.
+
+4.	Bij een niet-uitgevoerde of gebrekkig uitgevoerde betalingstransactie waarvoor de betaaldienstverlener van de begunstigde niet aansprakelijk is uit hoofde van het eerste en tweede lid is de betaaldienstverlener van de betaler aansprakelijk jegens de betaler. Indien de betaaldienstverlener van de betaler aansprakelijk is uit hoofde van de eerste zin van dit lid betaalt hij, in voorkomend geval, de betaler onverwijld het bedrag van de niet-uitgevoerde of gebrekkig uitgevoerde betalingstransactie terug en herstelt hij onverwijld de betaalrekening die met dat bedrag was gedebiteerd, in de toestand zoals die geweest zou zijn, indien de gebrekkig uitgevoerde betalingstransactie niet zou hebben plaatsgevonden.
+
+5.	Indien een door of via de begunstigde geïnitieerde betalingstransactie niet of gebrekkig is uitgevoerd, tracht de betaaldienstverlener van de begunstigde, ongeacht de aansprakelijkheid uit hoofde van dit artikel, desgevraagd onmiddellijk de betalingstransactie te traceren en stelt hij de begunstigde op de hoogte van de resultaten daarvan.
+
+Artikel 545
+
+In de gevallen, bedoeld in de artikelen 543 en 544 zijn de betaaldienstverleners bovendien aansprakelijk jegens hun respectieve betaaldienstgebruikers voor de kosten waarvoor deze laatsten aansprakelijk zijn en de interesten die voor rekening van de betaaldienstgebruiker komen wegens niet-uitvoering of gebrekkige uitvoering van de betalingstransactie.
+
+Artikel 546
+
+Deze paragraaf geldt onverminderd het recht op aanvullende schadevergoeding uit hoofde van de algemene regels van overeenkomstenrecht.
+
+Artikel 547
+
+1.	Indien de aansprakelijkheid van een betaaldienstverlener uit hoofde van de artikelen 543, 544 en 545 kan worden toegerekend aan een andere betaaldienstverlener of een intermediair, vergoedt die betaaldienstverlener of die intermediair eerstgenoemde betaaldienstverlener voor alle verliezen die zijn geleden en de bedragen die zijn betaald uit hoofde van de artikelen 543, 544 en 545.
+
+2.	Deze bepaling geldt onverminderd het recht op aanvullende schadevergoeding uit hoofde van de tussen de betaaldienstverleners en tussen de betaaldienstverleners en intermediairs gesloten overeenkomsten.
+
+Artikel 548
+
+De aansprakelijkheid krachtens de afdelingen 2 en 3 van deze titel geldt niet in abnormale en onvoorziene omstandigheden die onafhankelijk zijn van de wil van degene die zich erop beroept en waarvan de gevolgen ondanks alle voorzorgsmaatregelen niet konden worden voorkomen, noch indien een betaaldienstverlener uit hoofde van nationale of communautaire wetgeving andere wettelijke verplichtingen heeft.
+
+Afdeling 4. Slotbepalingen
+
+Artikel 549
+
+Bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 4:22 van de Wet op het financieel toezicht, waarbij regels worden gesteld met betrekking tot de inhoud en de verstrekking van de door titel III van de richtlijn vereiste informatie, kunnen tevens regels worden gesteld ter uitvoering van het bepaalde in de artikelen 516, 517, 518, 526, 530, vijfde lid, en 542.
+
+Artikel 550
+
+1.	Van het bepaalde bij deze titel kan niet ten nadele van de betaaldienstgebruiker worden afgeweken, tenzij anders is bepaald.
+
+2.	Indien de betaaldienstgebruiker geen consument is, kunnen partijen overeenkomen dat de artikelen 516 tot en met 519, 520, eerste lid, 522, tweede lid, tweede zin, 527, 529 tot en met 531, 534, 543, 544 en 545 in het geheel of ten dele niet van toepassing zijn. De partijen kunnen een andere termijn overeenkomen dan die welke is gesteld bij artikel 526.
+
+Artikel 551
+
+1.	Van het bepaalde bij of krachtens de algemene maatregel van bestuur bedoeld in artikel 4:22 van de Wet op het financieel toezicht kan voor wat betreft de regels met betrekking tot de inhoud en de verstrekking van de door titel III van de richtlijn vereiste informatie of gesteld ter uitvoering van de artikelen 516, 517, 518, 526, 530, vijfde lid, en 542, niet ten nadele van de betaaldienstgebruiker worden afgeweken, tenzij in de wet anders is bepaald.
+
+2.	Indien de betaaldienstgebruiker geen consument is, kunnen partijen overeenkomen dat van de in lid 1 bedoelde regels kan worden afgeweken, behoudens voor zover zij zijn gesteld ter uitvoering van de artikelen 526 en 542.
 
 Titel 9. Bewaarneming
 
