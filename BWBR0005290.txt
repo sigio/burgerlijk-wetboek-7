@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2010 t/m 26-02-2010
+Geldend van 27-02-2010 t/m 31-03-2010
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -873,6 +873,12 @@ Artikel 220
 
 4.	De voorgaande leden doen niet af aan de bevoegdheid van de verhuurder om de huurovereenkomst op te zeggen op de grond dat hij de zaak dringend nodig heeft voor renovatie, voor zover zulks kan worden gebracht onder de wettelijke opzeggingsgronden die gelden voor een gebouwde onroerende zaak als waarop de huurovereenkomst betrekking heeft.
 
+5.	Indien verhuizing noodzakelijk is in verband met de voorgenomen renovatie, bedoeld in lid 2, derde zin, van woonruimte als bedoeld in artikel 233 draagt de verhuurder bij in de kosten die de verhuizing voor de huurder meebrengt.
+
+6.	De minimumbijdrage in de verhuis- en inrichtingskosten voor de huurders van zelfstandige woningen als bedoeld in artikel 234, en woonwagens en standplaatsen als bedoeld in de artikelen 235 en 236, wordt bij ministeriële regeling van de Minister voor Wonen, Wijken en Integratie vastgesteld en zal jaarlijks voor 1 maart worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Het in de eerste zin genoemde bedrag wordt afgerond op hele euro’s.
+
+7.	De verhuurder kan eventuele door de gemeente aan de huurder te verstrekken bijdragen of vergoedingen voor verhuis- of inrichtingskosten in mindering brengen op de hoogte van de bijdrage, bedoeld in het zesde lid.
+
 Artikel 221
 
 De huurder is bevoegd het gehuurde geheel of gedeeltelijk aan een ander in gebruik te geven, tenzij hij moest aannemen dat de verhuurder tegen het in gebruik geven aan die ander redelijke bezwaren zal hebben.
@@ -1103,7 +1109,7 @@ De huurder legt bij dit verzoek een afschrift over van het voorstel en van dat s
 
 4.	Indien de huurder het in het tweede lid bedoelde verzoek doet, stelt de huurcommissie de verhuurder daarvan onverwijld in kennis.
 
-5.	Indien de verhuurder een voorstel als bedoeld in artikel 252 lid 1 aanhef bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a en b, binnen zes weken na het in lid 1 bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.
+5.	Indien de verhuurder een voorstel als bedoeld in artikel 252 lid 1 aanhef bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a, binnen zes weken na het in lid 1 bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.
 
 Artikel 254
 
@@ -1342,7 +1348,15 @@ Onder student wordt in dit lid verstaan een deelnemer die is ingeschreven aan ee
 
 Artikel 275
 
-De rechter kan in zijn beslissing tot toewijzing van de vordering tot beëindiging van de huurovereenkomst op de gronden, bedoeld in artikel 274 lid 1 onder c en e, een bedrag vaststellen dat de verhuurder aan de huurder moet betalen ter tegemoetkoming in diens verhuis- en inrichtingskosten. Voordat hij een beslissing geeft, waarin dit bedrag wordt vastgesteld, brengt de rechter zijn voornemen ter kennis van partijen en stelt hij een termijn waarbinnen de verhuurder de opzegging kan intrekken. Maakt de verhuurder van deze bevoegdheid gebruik, dan beslist de rechter uitsluitend omtrent de proceskosten.
+1.	Indien de rechter een vordering tot beëindiging van de huurovereenkomst op de gronden, bedoeld in artikel 274 lid 1 onder c en e toewijst, kan hij een bedrag vaststellen dat de verhuurder aan de huurder moet betalen ter tegemoetkoming in diens verhuis- en inrichtingskosten.
+
+2.	De rechter kan, voordat hij een beslissing geeft, waarin dit bedrag wordt vastgesteld, zijn voornemen ter kennis van partijen brengen en een termijn stellen waarbinnen de verhuurder de opzegging kan intrekken. Maakt de verhuurder van deze bevoegdheid gebruik, dan beslist de rechter uitsluitend over de proceskosten.
+
+3.	Bij beëindiging van de huurovereenkomst op de gronden, bedoeld in artikel 274 lid 1 onder c in verbinding met lid 3 onder a en in artikel 274 lid 1 onder e, draagt de verhuurder bij in de kosten die de verhuizing voor de huurder meebrengt.
+
+4.	De minimumbijdrage in de verhuis- en inrichtingskosten voor de huurders van zelfstandige woningen, woonwagens en standplaatsen wordt bij ministeriële regeling van de Minister voor Wonen, Wijken en Integratie vastgesteld en zal jaarlijks voor 1 maart worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Het in de eerste zin genoemde bedrag wordt afgerond op hele euro’s.
+
+5.	De verhuurder kan eventuele door de gemeente aan de huurder te verstrekken bijdragen of vergoedingen voor verhuis- of inrichtingskosten in mindering brengen op de hoogte van de bijdrage, bedoeld in het vierde lid.
 
 Artikel 276
 
