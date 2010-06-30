@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-04-2010 t/m 30-06-2010
+Geldend van 01-07-2010 t/m 08-07-2010
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2151,7 +2151,7 @@ Artikel 381
 
 2.	Evenmin bestaat de in artikel 378 lid 1 bedoelde verplichting, wanneer de verpachter overgaat tot vervreemding van het verpachte aan een derde en de grondkamer, op gezamenlijk verzoek van de verpachter en die derde, heeft vastgesteld, dat aannemelijk is, dat de derde het verpachte voor andere dan landbouwkundige doeleinden zal gebruiken of doen gebruiken.
 
-3.	De in artikel 378 lid 1 bedoelde verplichting bestaat evenmin, voor zover het verpachte is gelegen in een gebied waarvoor een structuurvisie als bedoeld in artikel 2.1 van de Wet ruimtelijke ordening is vastgesteld en de verpachter ingevolge het bepaalde in de artikelen 2 juncto artikel 4, eerste lid, onder a, 6, 10 tot en met 24 en 27 van de Wet voorkeursrecht gemeenten dan wel artikel 9a, eerste of tweede lid, juncto artikel 4, eerste lid, onder a, of 6 van die wet overgaat tot de vervreemding van het verpachte aan de gemeente onderscheidenlijk de provincie of de Staat.
+3.	De in artikel 378 lid 1 bedoelde verplichting bestaat evenmin, voor zover het verpachte is gelegen in een gebied waarvoor een structuurvisie als bedoeld in artikel 2.1 van de Wet ruimtelijke ordening is vastgesteld en de verpachter ingevolge het bepaalde in de artikelen 2 juncto artikel 4, eerste lid, onder a, 10 tot en met 24 van de Wet voorkeursrecht gemeenten dan wel artikel 9a, eerste of tweede lid, juncto artikel 4, eerste lid, onder a, van die wet overgaat tot de vervreemding van het verpachte aan de gemeente onderscheidenlijk de provincie of de Staat.
 
 Artikel 382
 
@@ -3503,11 +3503,15 @@ Artikel 625
 
 Artikel 626
 
-1.	De werkgever is verplicht bij elke voldoening van het in geld vastgestelde loon de werknemer een schriftelijke opgave te verstrekken van het loonbedrag, van de bedragen waaruit dit is samengesteld, van de bedragen die op het loonbedrag zijn ingehouden, alsmede van het bedrag van het loon waarop een persoon van de leeftijd van de werknemer over de termijn waarover het loon is berekend ingevolge het bepaalde bij of krachtens de Wet minimumloon en minimumvakantiebijslag aanspraak heeft, tenzij zich ten opzichte van de vorige voldoening in geen van deze bedragen een wijziging heeft voorgedaan.
+1.	De werkgever is verplicht bij elke voldoening van het in geld vastgestelde loon de werknemer een schriftelijke of elektronische opgave te verstrekken van het loonbedrag, van de bedragen waaruit dit is samengesteld, van de bedragen die op het loonbedrag zijn ingehouden, alsmede van het bedrag van het loon waarop een persoon van de leeftijd van de werknemer over de termijn waarover het loon is berekend ingevolge het bepaalde bij of krachtens de Wet minimumloon en minimumvakantiebijslag aanspraak heeft, tenzij zich ten opzichte van de vorige voldoening in geen van deze bedragen een wijziging heeft voorgedaan.
 
 2.	De opgave vermeldt voorts de naam van de werkgever en van de werknemer, de termijn waarover het loon is berekend, alsmede de overeengekomen arbeidsduur.
 
-3.	Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
+3.	De werkgever verstrekt de elektronische opgave op zodanige wijze dat deze door de werknemer kan worden opgeslagen en voor hem toegankelijk is ten behoeve van latere kennisneming.
+
+4.	Voor het verstrekken van een elektronische opgave is uitdrukkelijke instemming van de werknemer vereist.
+
+5.	Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
 Artikel 627
 
@@ -3882,7 +3886,7 @@ Artikel 654
 
 Artikel 655
 
-1.	De werkgever is verplicht aan de werknemer een schriftelijke opgave te verstrekken met ten minste de volgende gegevens:
+1.	De werkgever is verplicht aan de werknemer een schriftelijke of elektronische opgave te verstrekken met ten minste de volgende gegevens:
 	a.	naam en woonplaats van partijen;
 	b.	de plaats of plaatsen waar de arbeid wordt verricht;
 	c.	de functie van de werknemer of de aard van zijn arbeid;
@@ -3899,7 +3903,7 @@ Artikel 655
 
 2.	Voor zover de gegevens, bedoeld in lid 1, onderdelen a tot en met j, zijn vermeld in een schriftelijk aangegane arbeidsovereenkomst of in de opgave, bedoeld in artikel 626, kan vermelding achterwege blijven. Voor zover de gegevens, bedoeld in het eerste lid, onderdelen f tot en met i, zijn vermeld in een toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, kan worden volstaan met een verwijzing naar deze overeenkomst of regeling.
 
-3.	De werkgever verstrekt de opgave binnen een maand na de aanvang van de werkzaamheden of zo veel eerder als de overeenkomst eindigt. De gegevens, bedoeld in lid 1, onderdeel k, worden verstrekt voor het vertrek. De opgave wordt door de werkgever ondertekend. Wijziging in de gegevens wordt binnen een maand nadat de wijziging van kracht is geworden, aan de werknemer schriftelijk medegedeeld, tenzij deze voortvloeit uit wijziging van een wettelijk voorschrift, collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.
+3.	De werkgever verstrekt de opgave binnen een maand na de aanvang van de werkzaamheden of zo veel eerder als de overeenkomst eindigt. De gegevens, bedoeld in lid 1, onderdeel k, worden verstrekt voor het vertrek. De opgave wordt door de werkgever ondertekend. Indien de opgave elektronisch wordt verstrekt, is deze voorzien van een elektronische handtekening die voldoet aan de eisen, bedoeld in artikel 15a lid 2 van Boek 3. Wijziging in de gegevens wordt binnen een maand nadat de wijziging van kracht is geworden, aan de werknemer schriftelijk of elektronisch medegedeeld, tenzij deze voortvloeit uit wijziging van een wettelijk voorschrift, collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.
 
 4.	Indien de overeenkomst betreft het doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend verrichten van huishoudelijke of persoonlijke diensten ten behoeve van een natuurlijk persoon, behoeft de werkgever slechts op verlangen van de werknemer de gegevens te verstrekken.
 
@@ -3907,9 +3911,13 @@ Artikel 655
 
 6.	De leden 1 tot en met 5 zijn van overeenkomstige toepassing op een overeenkomst die de voorwaarden regelt van een of meer arbeidsovereenkomsten die partijen zullen sluiten indien na oproep arbeid wordt verricht, en op het aangaan van een andere overeenkomst dan een arbeidsovereenkomst, al dan niet gevolgd door andere soortgelijke overeenkomsten, waarbij de ene partij, natuurlijk persoon, zich verbindt voor de andere partij tegen beloning arbeid te verrichten, tenzij deze overeenkomst wordt aangegaan in beroep of bedrijf. Op de in dit lid bedoelde overeenkomsten is artikel 654 van overeenkomstige toepassing.
 
-7.	Indien lid 6 van toepassing is, wordt in de schriftelijke opgave, bedoeld in lid 1, tevens vermeld welke overeenkomst is aangegaan.
+7.	Indien lid 6 van toepassing is, wordt in de opgave, bedoeld in lid 1, tevens vermeld welke overeenkomst is aangegaan.
 
-8.	Een beding in strijd met dit artikel is nietig.
+8.	De werkgever verstrekt de elektronische opgave op zodanige wijze dat deze door de werknemer kan worden opgeslagen en voor hem toegankelijk is ten behoeve van latere kennisneming.
+
+9.	Voor het verstrekken van een elektronische opgave is uitdrukkelijke instemming van de werknemer vereist.
+
+10.	Een beding in strijd met dit artikel is nietig.
 
 Artikel 656
 
@@ -4826,17 +4834,17 @@ De verzekeraar kan zich niet beroepen op de vernietigingsgronden als bedoeld in 
 
 Artikel 932
 
-1.	De verzekeraar geeft zo spoedig mogelijk een akte, polis genaamd, af, waarin de overeenkomst is vastgelegd. De vorige zin geldt niet indien de aard van de overeenkomst afwijkend gebruik rechtvaardigt en de verzekeringnemer bij afgifte van de polis geen belang heeft.
+1.	De verzekeraar geeft zo spoedig mogelijk een akte, polis genaamd, af, waarin de overeenkomst is vastgelegd. Een polis die is opgemaakt op een wijze als bedoeld in artikel 156a lid 1 van het Wetboek van Burgerlijke Rechtsvordering moet zijn voorzien van een elektronische handtekening die voldoet aan de eisen, bedoeld in artikel 15a lid 2 van Boek 3 van het Burgerlijk Wetboek. De verzekeraar is niet verplicht een polis af te geven indien de aard van de overeenkomst afwijkend gebruik rechtvaardigt en de verzekeringnemer bij afgifte van de polis geen belang heeft.
 
 2.	Op wijzigingen in de overeenkomst is lid 1 van overeenkomstige toepassing.
 
-3.	Indien een door een verzekeraar afgegeven bewijsstuk verloren is gegaan, geeft hij desverlangd tegen vergoeding van de kosten een nieuw bewijsstuk af. Indien het bewijsstuk aan toonder of order is gesteld en bij een verzekering van zaken die door middel van documenten plegen te worden verhandeld, kan de verzekeraar als voorwaarde voor het doen van een uitkering aan de houder van een nieuw bewijsstuk verlangen, dat hem door de houder gedurende de tijd dat de verzekeraar tot betaling kan worden gedwongen, zekerheid wordt gesteld.
+3.	Indien een door een verzekeraar afgegeven bewijsstuk verloren is gegaan, geeft hij desverlangd tegen vergoeding van de kosten een nieuw bewijsstuk af. Indien het bewijsstuk aan toonder of order is gesteld en bij een verzekering van zaken die door middel van documenten plegen te worden verhandeld, kan de verzekeraar als voorwaarde voor het doen van een uitkering aan de houder van een nieuw bewijsstuk verlangen, dat hem door de houder gedurende de tijd dat de verzekeraar tot betaling kan worden gedwongen, zekerheid wordt gesteld. Een instemming als bedoeld in artikel 156a lid 2 van het Wetboek van Burgerlijke Rechtsvordering ziet, zolang zij niet is herroepen, eveneens op een nieuw bewijsstuk als bedoeld in de eerste zin.
 
 Artikel 933
 
 1.	Alle mededelingen waartoe de bepalingen van deze titel of de overeenkomst de verzekeraar aanleiding geven, geschieden schriftelijk. De verzekeraar kan zich daarbij houden aan de laatste hem bekende woonplaats van de geadresseerde.
 
-2.	Bij algemene maatregel van bestuur kunnen van lid 1 afwijkende regels worden gesteld ten aanzien van de verzending van mededelingen langs elektronische weg.
+2.	Bij algemene maatregel van bestuur kunnen van lid 1 afwijkende regels worden gesteld ten aanzien van de verzending van mededelingen langs elektronische weg. Daarbij kunnen ook regels worden gesteld ten aanzien van de verzending aan de verzekeraar langs elektronische weg van mededelingen waartoe de bepalingen van deze titel of de overeenkomst aanleiding geven.
 
 3.	De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
@@ -4896,6 +4904,10 @@ Artikel 940
 
 5.	De verzekeraar kan een persoonsverzekering niet beëindigen of wijzigen op grond van verzwaring van het gezondheidsrisico, voor zover dat is gelegen in de persoon van degeen, die de verzekering betreft.
 
+6.	De verzekeringnemer kan de overeenkomst steeds langs elektronische weg opzeggen. Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de verzending van opzeggingen langs elektronische weg.
+
+7.	De voordracht voor een krachtens het zesde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
+
 Artikel 941
 
 1.	Zodra de verzekeringnemer of de tot uitkering gerechtigde van de verwezenlijking van het risico op de hoogte is, of behoort te zijn, is hij verplicht aan de verzekeraar de verwezenlijking te melden. Dit geschiedt zo spoedig als redelijkerwijs mogelijk is.
@@ -4910,17 +4922,17 @@ Artikel 941
 
 Artikel 942
 
-1.	Een rechtsvordering tegen de verzekeraar tot het doen van een uitkering verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de tot uitkering gerechtigde met de opeisbaarheid daarvan bekend is geworden. Niettemin verjaart de rechtsvordering bij verzekering tegen aansprakelijkheid niet voordat zes maanden zijn verstreken nadat de vordering waartegen de verzekering dekking verleent, binnen de voor deze geldende verjarings- of vervaltermijn is ingesteld.
+1.	Een rechtsvordering tegen de verzekeraar tot het doen van een uitkering verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de tot uitkering gerechtigde met de opeisbaarheid daarvan bekend is geworden.
 
-2.	De verjaring wordt gestuit door een schriftelijke mededeling, waarbij op uitkering aanspraak wordt gemaakt. Een nieuwe verjaringstermijn begint te lopen met de aanvang van de dag, volgende op die waarop de verzekeraar hetzij de aanspraak erkent, hetzij bij aangetekende brief ondubbelzinnig heeft medegedeeld de aanspraak af te wijzen onder eveneens ondubbelzinnige vermelding van het in lid 3 vermelde gevolg.
+2.	De verjaring wordt gestuit door een schriftelijke mededeling, waarbij op uitkering aanspraak wordt gemaakt. Een nieuwe verjaringstermijn van drie jaren begint te lopen met de aanvang van de dag, volgende op die waarop de verzekeraar hetzij de aanspraak erkent, hetzij ondubbelzinnig heeft medegedeeld de aanspraak af te wijzen.
 
-3.	In geval van afwijzing verjaart de rechtsvordering door verloop van zes maanden.
+3.	Bij verzekering tegen aansprakelijkheid wordt de verjaring in afwijking van lid 2, eerste zin, gestuit door iedere onderhandeling tussen de verzekeraar en de tot uitkering gerechtigde of de benadeelde. In dat geval begint een nieuwe verjaringstermijn van drie jaren te lopen met de aanvang van de dag, volgende op die waarop de verzekeraar hetzij de aanspraak erkent, hetzij ondubbelzinnig aan degene met wie hij onderhandelt en, indien deze een ander is, aan de tot uitkering gerechtigde heeft medegedeeld dat hij de onderhandelingen afbreekt.
 
 Artikel 943
 
 1.	Van de artikelen 931, 932, 935 lid 2, 936 en 939 kan niet worden afgeweken.
 
-2.	Van de artikelen 933, eerste lid, eerste zin, 937, 940 leden 1, 3 en 5, 941 leden 1, 2, 4 en 5 en 942 kan niet ten nadele van de verzekeringnemer of de tot uitkering gerechtigde worden afgeweken.
+2.	Van de artikelen 933, eerste lid, eerste zin, 937, 940 leden 1, 3, 5 en 6, 941 leden 1, 2, 4 en 5 en 942 kan niet ten nadele van de verzekeringnemer of de tot uitkering gerechtigde worden afgeweken.
 
 3.	Van de artikelen 928 tot en met 930, 934 en 940 leden 2 en 4 kan niet ten nadele van de verzekeringnemer of de tot uitkering gerechtigde worden afgeweken indien de verzekeringnemer een natuurlijk persoon is en hij de verzekering sluit anders dan in de uitoefening van een beroep of bedrijf.
 
