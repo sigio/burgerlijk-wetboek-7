@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 30-04-2011 t/m 10-05-2011
+Geldend van 11-05-2011 t/m 24-05-2011
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -670,15 +670,16 @@ Artikel 51
 
 In deze titel wordt verstaan onder:
 	a.	financiëlezekerheidsovereenkomst: een financiëlezekerheidsovereenkomst tot overdracht of een financiëlezekerheidsovereenkomst tot vestiging van een pandrecht;
-	b.	financiëlezekerheidsovereenkomst tot overdracht: een overeenkomst op grond waarvan de onder d of e bedoelde goederen worden overgedragen als waarborg voor een verplichting;
-	c.	financiëlezekerheidsovereenkomst tot vestiging van een pandrecht: een overeenkomst op grond waarvan een pandrecht wordt verschaft op de onder d of e bedoelde goederen;
+	b.	financiëlezekerheidsovereenkomst tot overdracht: een overeenkomst op grond waarvan de onder d, e of f bedoelde goederen worden overgedragen als waarborg voor een verplichting;
+	c.	financiëlezekerheidsovereenkomst tot vestiging van een pandrecht: een overeenkomst op grond waarvan een pandrecht wordt verschaft op de onder d, e of f bedoelde goederen;
 	d.	geld: op een rekening of deposito gecrediteerd tegoed in geld;
 	e.	effecten: aandelen en andere met aandelen gelijk te stellen effecten, obligaties en andere schuldinstrumenten indien deze op de kapitaalmarkt verhandelbaar zijn, en alle andere gewoonlijk verhandelde effecten waarmee die aandelen, obligaties of andere effecten via inschrijving, koop of omruiling kunnen worden verkregen of die aanleiding kunnen geven tot afwikkeling in geld met uitsluiting van waardepapieren die een betalingsopdracht belichamen, inclusief rechten van deelneming in instellingen voor collectieve belegging, geldmarktinstrumenten en vorderingen op of rechten ten aanzien van een van de voornoemde instrumenten;
-	f.	gelijkwaardige goederen:
+	f.	kredietvordering: een geldvordering voortvloeiend uit een overeenkomst waarbij een kredietinstelling als bedoeld in artikel 1:1 Wet op het financieel toezicht krediet verschaft in de vorm van een lening met uitzondering van geldvorderingen waarbij de debiteur een natuurlijk persoon is die niet handelt in de uitoefening van beroep of bedrijf, tenzij de zekerheidsnemer of zekerheidsverschaffer van een dergelijke kredietvordering een van de instellingen is als genoemd in artikel 52 lid 1 onder b;
+	g.	gelijkwaardige goederen:
 		1.	wanneer het betreft geld: hetzelfde bedrag in dezelfde valuta;
 		2.	wanneer het betreft effecten: effecten van dezelfde uitgevende instelling of debiteur, behorende tot dezelfde emissie of categorie, ter waarde van hetzelfde nominale bedrag, luidende in dezelfde valuta en van dezelfde soort, onderscheidenlijk andere goederen indien de financiëlezekerheidsoverkomst voorziet in de overdracht daarvan na het plaatsvinden van een gebeurtenis die betrekking heeft op of gevolgen heeft voor de effecten waarop de schuldenaar een pandrecht heeft gevestigd;
-	g.	executiegrond: verzuim of een andere omstandigheid op grond waarvan de zekerheidsnemer krachtens een financiëlezekerheidsovereenkomst of de wet gerechtigd is verpande goederen te verkopen of zich toe te eigenen dan wel gebruik te maken van een verrekenbeding;
-	h.	verrekenbeding: een beding in een financiëlezekerheidsovereenkomst of een overeenkomst waarvan een financiëlezekerheidsovereenkomst deel uitmaakt, of een wettelijk voorschrift, op grond waarvan bij het voldoen aan de voorwaarden van een executiegrond:
+	h.	executiegrond: verzuim of een andere omstandigheid op grond waarvan de zekerheidsnemer krachtens een financiëlezekerheidsovereenkomst of de wet gerechtigd is verpande goederen te verkopen of zich toe te eigenen dan wel gebruik te maken van een verrekenbeding;
+	i.	verrekenbeding: een beding in een financiëlezekerheidsovereenkomst of een overeenkomst waarvan een financiëlezekerheidsovereenkomst deel uitmaakt, of een wettelijk voorschrift, op grond waarvan bij het voldoen aan de voorwaarden van een executiegrond:
 		–	de verplichtingen van partijen onmiddellijk opeisbaar worden, alsmede omgezet in een verplichting tot het betalen van een bedrag dat hun geschatte actuele waarde vertegenwoordigt, dan wel de verplichtingen vervallen en worden vervangen door een verplichting tot het betalen van het voornoemde bedrag, of
 		–	de verplichtingen van partijen worden verrekend en alleen het saldo verschuldigd is.
 
@@ -698,17 +699,20 @@ Artikel 53
 
 1.	Bij een financiëlezekerheidsovereenkomst tot vestiging van een pandrecht kan worden bedongen dat de zekerheidsnemer de verpande goederen kan gebruiken of verkopen en de opbrengst behouden.
 
-2.	Uitoefening van het recht tot gebruik of verkoop brengt van rechtswege een verplichting van de zekerheidsnemer mee tot overdracht van gelijkwaardige goederen aan de zekerheidsgever, uiterlijk op het tijdstip waarop moet worden voldaan aan de vordering waarvoor het verpande tot zekerheid strekt.
+2.	Uitoefening van het recht tot gebruik of verkoop brengt van rechtswege een verplichting van de zekerheidsnemer mee tot overdracht van gelijkwaardige goederen aan de zekerheidsgever, uiterlijk op het tijdstip waarop moet worden voldaan aan de vordering waarvoor het verpande tot zekerheid strekt. De zekerheidsnemer krijgt een pandrecht op het verkregene. Dit recht wordt geacht te zijn verkregen op het moment dat de financiëlezekerheidsovereenkomst werd gesloten.
 
-3.	In afwijking van lid 2 kan in de financiëlezekerheidsovereenkomst worden bepaald dat de zekerheidsnemer de vordering waarvoor het verpande tot zekerheid strekt verrekent met de waarde van gelijkwaardige goederen, op het tijdstip waarop de vordering moet worden voldaan of zoveel eerder als zich een executiegrond voordoet.
+3.	Voor de in het tweede lid bedoelde vordering van de zekerheidsgever tot overdracht van gelijkwaardige goederen heeft deze een voorrecht op de bij de zekerheidsnemer aanwezige gelden en effecten.
 
-4.	Het pandrecht strekt zich van rechtswege uit over de goederen die als gevolg van dit artikel in de plaats worden gesteld van de verbonden goederen.
+4.	In afwijking van lid 2 kan in de financiëlezekerheidsovereenkomst worden bepaald dat de zekerheidsnemer de vordering waarvoor het verpande tot zekerheid strekt verrekent met de waarde van de gelijkwaardige goederen, op het tijdstip waarop de vordering moet worden voldaan of zoveel eerder als zich een executiegrond voordoet.
+
+5.	Dit artikel is niet van toepassing indien de financiëlezekerheidsovereenkomst strekt tot verpanding van een kredietvordering in de zin van artikel 51 onder f.
 
 Artikel 54
 
 1.	Tenzij anders is bedongen in een financiëlezekerheidsovereenkomst tot de vestiging van een pandrecht, is de zekerheidsnemer, wanneer aan de voorwaarden van een executiegrond wordt voldaan, bevoegd:
 	a.	effecten waarop het pandrecht rust te verkopen en het hem verschuldigde op de opbrengst te verhalen onderscheidenlijk deze effecten zich toe te eigenen en de waarde van de effecten te verrekenen met het hem verschuldigde;
-	b.	geld waarop het pandrecht rust te verrekenen met het hem verschuldigde.
+	b.	geld waarop het pandrecht rust te verrekenen met het hem verschuldigde;
+	c.	de kredietvordering waarop het pandrecht rust over te dragen en de opbrengst te verrekenen met het hem verschuldigde.
 
 2.	De verkoop van effecten geschiedt op een markt door tussenkomst van een tussenpersoon in het vak of ter beurze door die van een bevoegde tussenpersoon overeenkomstig de regels en gebruiken die aldaar voor een gewone verkoop gelden.
 
