@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 03-12-2011 t/m 31-12-2011
+Geldend van 01-01-2012 t/m 19-01-2012
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -674,7 +674,7 @@ In deze titel wordt verstaan onder:
 	c.	financiëlezekerheidsovereenkomst tot vestiging van een pandrecht: een overeenkomst op grond waarvan een pandrecht wordt verschaft op de onder d, e of f bedoelde goederen;
 	d.	geld: op een rekening of deposito gecrediteerd tegoed in geld;
 	e.	effecten: aandelen en andere met aandelen gelijk te stellen effecten, obligaties en andere schuldinstrumenten indien deze op de kapitaalmarkt verhandelbaar zijn, en alle andere gewoonlijk verhandelde effecten waarmee die aandelen, obligaties of andere effecten via inschrijving, koop of omruiling kunnen worden verkregen of die aanleiding kunnen geven tot afwikkeling in geld met uitsluiting van waardepapieren die een betalingsopdracht belichamen, inclusief rechten van deelneming in instellingen voor collectieve belegging, geldmarktinstrumenten en vorderingen op of rechten ten aanzien van een van de voornoemde instrumenten;
-	f.	kredietvordering: een geldvordering voortvloeiend uit een overeenkomst waarbij een kredietinstelling als bedoeld in artikel 1:1 Wet op het financieel toezicht krediet verschaft in de vorm van een lening met uitzondering van geldvorderingen waarbij de debiteur een natuurlijk persoon is die niet handelt in de uitoefening van beroep of bedrijf, tenzij de zekerheidsnemer of zekerheidsverschaffer van een dergelijke kredietvordering een van de instellingen is als genoemd in artikel 52 lid 1 onder b;
+	f.	kredietvordering: een geldvordering voortvloeiend uit een overeenkomst waarbij een bank als bedoeld in artikel 1:1 Wet op het financieel toezicht krediet verschaft in de vorm van een lening met uitzondering van geldvorderingen waarbij de debiteur een natuurlijk persoon is die niet handelt in de uitoefening van beroep of bedrijf, tenzij de zekerheidsnemer of zekerheidsverschaffer van een dergelijke kredietvordering een van de instellingen is als genoemd in artikel 52 lid 1 onder b;
 	g.	gelijkwaardige goederen:
 		1.	wanneer het betreft geld: hetzelfde bedrag in dezelfde valuta;
 		2.	wanneer het betreft effecten: effecten van dezelfde uitgevende instelling of debiteur, behorende tot dezelfde emissie of categorie, ter waarde van hetzelfde nominale bedrag, luidende in dezelfde valuta en van dezelfde soort, onderscheidenlijk andere goederen indien de financiëlezekerheidsoverkomst voorziet in de overdracht daarvan na het plaatsvinden van een gebeurtenis die betrekking heeft op of gevolgen heeft voor de effecten waarop de schuldenaar een pandrecht heeft gevestigd;
@@ -796,7 +796,7 @@ Artikel 58
 	i.	kredietovereenkomsten bij het sluiten waarvan van de consument wordt verlangd dat hij bij de kredietgever een goed als zekerheid in bewaring geeft, en waarbij de aansprakelijkheid van de consument zich strikt beperkt tot dit in pand gegeven goed, en
 	j.	kredietovereenkomsten betreffende leningen die krachtens een wettelijke bepaling met een doelstelling van algemeen belang aan een beperkt publiek worden toegekend tegen een lagere dan op de markt gebruikelijke rentevoet, dan wel rentevrij, of onder andere voorwaarden die voor de consument gunstiger zijn dan de op de markt gebruikelijke voorwaarden en tegen rentetarieven die niet hoger zijn dan de op de markt gebruikelijke.
 
-3.	Op de kredietovereenkomst waarbij het krediet in de vorm van een geoorloofde debetstand op een rekening wordt verleend en op verzoek of binnen een termijn van drie maanden moet worden terugbetaald, zijn uitsluitend de artikelen 57, 58, 61 leden 1, 5 en 6, 63, 67, 69 en de artikelen 71 tot en met 73 van toepassing. De artikelen 59 en 60 zijn slechts van toepassing, voorzover de kredietgever zijn verplichtingen uit de artikelen 4 lid 1 onderdelen a tot en met c en 6 van de Richtlijn betreffende de in reclame op te nemen standaardinformatie niet in acht neemt.
+3.	Op de kredietovereenkomst waarbij het krediet in de vorm van een geoorloofde debetstand op een rekening wordt verleend en op verzoek of binnen een termijn van drie maanden moet worden terugbetaald, zijn uitsluitend de artikelen 57, 58, 61 leden 1, 5 en 6, 63, 67, 69 en de artikelen 71 tot en met 73 van toepassing. De artikelen 59 en 60 zijn slechts van toepassing, voorzover de kredietgever zijn verplichtingen uit de artikelen 4 lid 2 onderdelen a tot en met c en 6 van de Richtlijn betreffende de in reclame en precontractuele informatie op te nemen standaardinformatie niet in acht neemt.
 
 4.	Op kredietovereenkomsten in de vorm van overschrijding zijn uitsluitend de artikelen 57, 58, 70 en 73 van toepassing.
 
@@ -938,7 +938,7 @@ Artikel 66
 
 Artikel 67
 
-1.	Indien de consument een overeenkomst voor de levering van een goed of het verrichten van een dienst heeft ontbonden overeenkomstig artikel 46d lid 1 of 48c lid 2 dan wel artikel 25 van de Colportagewet, is hij evenmin langer gebonden aan de daarmee gelieerde kredietovereenkomst.
+1.	Indien de consument een overeenkomst voor de levering van een goed of het verrichten van een dienst heeft ontbonden overeenkomstig artikel 46d lid 1 of 50d lid 1, artikel 4:28 lid 1 van de Wet op het financieel toezicht dan wel artikel 25 van de Colportagewet, is hij evenmin langer gebonden aan de daarmee gelieerde kredietovereenkomst.
 
 2.	Indien onder de gelieerde kredietovereenkomsten vallende goederen niet of slechts gedeeltelijk geleverd worden of niet beantwoorden aan de voorwaarden van de overeenkomst voor de levering van de goederen en de consument zijn rechten ter zake daarvan jegens de leverancier heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij volgens de genoemde overeenkomst recht heeft, is de consument gerechtigd zijn rechten jegens de kredietgever geldend te maken.
 
@@ -2162,9 +2162,7 @@ Artikel 333
 
 Artikel 334
 
-1.	Indien in een waterschap waarin het verpachte is gelegen een pachtersomslag wordt geheven als bedoeld in artikel 116, onderdeel b, van de Waterschapswet (Stb. 1991, 444) of de heffing van die omslag wordt beëindigd, wordt de pachtprijs van rechtswege verlaagd, onderscheidenlijk verhoogd met een bedrag waarvan de hoogte is vastgesteld bij de regelen als bedoeld in artikel 327 lid 1.
-
-2.	De in het eerste lid bedoelde verlaging, onderscheidenlijk verhoging geschiedt overeenkomstig de regelen als bedoeld in artikel 327 lid 1, en gaat voorts in met ingang van het belastingjaar waarover de omslag wordt geheven, onderscheidenlijk niet meer wordt geheven.
+[Vervallen per 01-01-2012]
 
 Artikel 335
 
@@ -3339,7 +3337,8 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 	k.	betalingstransactie: door de betaler of de begunstigde geïnitieerde handeling waarbij geldmiddelen worden gedeponeerd, overgemaakt of opgenomen, ongeacht of er onderliggende verplichtingen tussen de betaler en de begunstigde zijn;
 	l.	consument: niet in de uitoefening van zijn bedrijf of beroep handelende natuurlijke persoon aan wie een betaaldienstverlener een betaaldienst verleent of aan wie deze voornemens is een betaaldienst te verlenen;
 	m.	duurzame drager: hulpmiddel dat het de betaaldienstgebruiker mogelijk maakt de aan hem persoonlijk gerichte informatie op zodanige wijze op te slaan dat deze gedurende een voor het doel van de informatie toereikende periode kan worden geraadpleegd en waarmee de opgeslagen informatie ongewijzigd kan worden gereproduceerd;
-	n.	geldmiddelen: chartaal geld, giraal geld of elektronisch geld als bedoeld in artikel 1, derde lid, onder b), van richtlijn nr. 2000/46/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende de toegang tot de uitoefening van en het bedrijfseconomisch toezicht op de werkzaamheden van instellingen voor elektronisch geld (Pb L 275);
+	ma.	elektronischgeldinstelling: elektronischgeldinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
+	n.	geldmiddelen: chartaal geld, giraal geld of elektronisch geld als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 	o.	raamovereenkomst: overeenkomst die de uitvoering beheerst van afzonderlijke en opeenvolgende betalingstransacties en die de verplichtingen en voorwaarden voor de opening van een betaalrekening kan omvatten;
 	p.	referentierentevoet: rentevoet die als grondslag wordt gehanteerd voor de berekening van eventueel in rekening te brengen interesten en die afkomstig is van een bron welke door het publiek kan worden geraadpleegd en door beide partijen bij een betaaldienstovereenkomst kan worden geverifieerd;
 	q.	referentiewisselkoers: wisselkoers die als berekeningsgrondslag wordt gehanteerd bij een valutawissel en die door de betaaldienstverlener beschikbaar wordt gesteld of afkomstig is van een bron die door het publiek kan worden geraadpleegd;
@@ -3420,6 +3419,27 @@ Artikel 521
 3.	Voor vooraf betaalde betaalinstrumenten, bedoeld voor nationale betalingstransacties, worden de in het eerste lid genoemde bedragen verhoogd tot € 500.
 
 4.	De artikelen 528 en 529 zijn ook van toepassing op elektronisch geld in de zin van artikel 514 onder n, tenzij de betaaldienstverlener van de betaler niet de mogelijkheid heeft de rekening of het instrument te blokkeren.
+
+Artikel 521a
+
+1.	Een elektronischgeldinstelling betaalt, wanneer de houder van het elektronisch geld daarom verzoekt, de nominale waarde van het elektronisch geld terug.
+
+2.	In de overeenkomst tussen de elektronischgeldinstelling en de houder van het elektronisch geld worden de terugbetalingsvoorwaarden duidelijk en opvallend vermeld en de houder van het elektronisch geld wordt in kennis gesteld van deze voorwaarden, voordat hij wordt gebonden door een overeenkomst of een aanbod.
+
+3.	Voor terugbetaling kan slechts een vergoeding worden gevraagd, indien dit in de overeenkomst is vermeld overeenkomstig lid 2 en uitsluitend in de volgende gevallen:
+	a)	indien wordt gevraagd om terugbetaling vóór de dag waarop de overeenkomst eindigt;
+	b)	indien de overeenkomst voorziet in een dag waarop de overeenkomst eindigt en de houder van het elektronisch geld vóór die dag tot beëindiging van de overeenkomst overgaat; of
+	c)	indien het verzoek tot terugbetaling meer dan een jaar na de dag van de beëindiging van de overeenkomst wordt gedaan.
+
+Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die de elektronischgeldinstelling feitelijk heeft gemaakt.
+
+4.	Indien de houder van het elektronisch geld verzoekt om terugbetaling vóór de beëindiging van de overeenkomst, kan hij hetzij gedeeltelijke, hetzij volledige terugbetaling verlangen.
+
+5.	Indien de houder van het elektronisch geld terugbetaling verzoekt op de dag waarop de overeenkomst is beëindigd of binnen één jaar na die dag:
+	a)	betaalt de elektronischgeldinstelling hem de volledige monetaire waarde van het uitgegeven elektronische geld terug; of
+	b)	betaalt de elektronischgeldinstelling hem alle middelen terug waarom de houder van het elektronisch geld verzoekt, indien deze instelling een of meer andere bedrijfsactiviteiten dan de uitgifte van elektronisch geld met inachtneming van de daarvoor geldende regels uitoefent en het vóór het aangaan van de overeenkomst niet duidelijk was welk deel van die middelen zou worden gebruikt als elektronisch geld.
+
+6.	De terugbetalingsrechten van een persoon die elektronisch geld aanvaardt en die geen consument is, worden, onverminderd de leden 3, 4 en 5, beheerst door wat is overeengekomen tussen de elektronischgeldinstelling en die persoon.
 
 Afdeling 2. Instemming met de betaalopdracht
 
@@ -4035,7 +4055,7 @@ Artikel 635
 	a.	hij, anders dan voor oefening en opleiding, als dienstplichtige is opgeroepen ter vervulling van zijn militaire dienst of vervangende dienst;
 	b.	hij vakantie als bedoeld in artikel 641 lid 3 geniet;
 	c.	hij, met toestemming van de werkgever, deelneemt aan een bijeenkomst die wordt georganiseerd door een vakvereniging waarvan hij lid is;
-	d.	hij, anders dan ten gevolge van de arbeidsongeschiktheid, bedoeld in de leden 2 tot en met 4, tegen zijn wil niet in staat is om de overeengekomen arbeid te verrichten;
+	d.	hij, anders dan ten gevolge van de omstandigheden, bedoeld in de leden 2 en 3, tegen zijn wil niet in staat is om de overeengekomen arbeid te verrichten;
 	e.	hij verlof als bedoeld in artikel 643 geniet;
 	f.	hij verlof als bedoeld in hoofdstuk 5, afdeling 2, van de Wet arbeid en zorg geniet.
 
@@ -4043,25 +4063,23 @@ Artikel 635
 
 3.	In afwijking van artikel 634 verwerft de werknemer die wegens adoptieverlof of verlof voor het opnemen van een pleegkind niet gedurende een geheel jaar aanspraak op loon verwerft, over de volledige overeengekomen arbeidsduur aanspraak op vakantie over het tijdvak dat hij recht heeft op een uitkering als bedoeld in hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg.
 
-4.	In afwijking van artikel 634 verwerft de werknemer die de bedongen arbeid niet verricht wegens ziekte, ongeacht of hij aanspraak heeft op loon, aanspraak op vakantie over het tijdvak van de laatste zes maanden waarin de arbeid niet werd verricht, met dien verstande dat tijdvakken worden samengeteld als zij elkaar met een onderbreking van minder dan een maand opvolgen. De werknemer die de bedongen arbeid slechts voor een gedeelte van de overeengekomen arbeidsduur niet verricht wegens ziekte, verwerft slechts aanspraak op vakantie die een evenredig gedeelte bedraagt van datgene waarop hij recht zou hebben gehad als hij gedurende de volledige arbeidsduur arbeid zou hebben verricht. Indien de ziekte door opzet van de werknemer is ontstaan of het gevolg is van een gebrek waarover hij in het kader van een aanstellingskeuring opzettelijk valse inlichtingen heeft gegeven, verwerft de werknemer evenmin aanspraak op vakantie. De werknemer heeft evenmin aanspraak op vakantie voor de tijd gedurende welke hij door zijn toedoen zijn genezing belemmert of vertraagt , hij, hoewel hij daartoe in staat is, zonder deugdelijke grond passende arbeid als bedoeld in artikel 658a lid 4 voor de werkgever of voor een door de werkgever met toestemming van het Uitvoeringsinstituut werknemersverzekeringen aangewezen derde, waartoe de werkgever hem in de gelegenheid stelt, niet verricht dan wel hij zonder deugdelijke grond weigert mee te werken aan door de werkgever of door een door hem aangewezen deskundige gegeven redelijke voorschriften en getroffen maatregelen die erop gericht zijn om de werknemer in staat te stellen passende arbeid te verrichten.
+4.	De jeugdige werknemer verwerft aanspraak op vakantie over de tijd die hij besteedt aan het volgen van het onderricht waartoe hij krachtens de wet door de werkgever in de gelegenheid moet worden gesteld.
 
-5.	De jeugdige werknemer verwerft aanspraak op vakantie over de tijd die hij besteedt aan het volgen van het onderricht waartoe hij krachtens de wet door de werkgever in de gelegenheid moet worden gesteld.
-
-6.	Indien een aanspraak op vakantie is verworven die het in artikel 634 bedoelde minimum te boven gaat, kan voorzover die aanspraak dat minimum te boven gaat, bij schriftelijke overeenkomst van de leden 1 tot en met 4 worden afgeweken ten nadele van de werknemer.
+5.	Indien een aanspraak op vakantie is verworven die het in artikel 634 bedoelde minimum te boven gaat, kan voorzover die aanspraak dat minimum te boven gaat, bij schriftelijke overeenkomst van de leden 1 tot en met 4 worden afgeweken ten nadele van de werknemer.
 
 Artikel 636
 
-1.	Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens een van de redenen, bedoeld in artikel 635 leden 1, 4 en 5 kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het in artikel 634 bedoelde minimum.
+1.	Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens een van de redenen, bedoeld in artikel 635 leden 1 en 4 kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het in artikel 634 bedoelde minimum.
 
 2.	Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens een van de redenen, bedoeld in artikel 635, leden 2 en 3, kunnen niet worden aangemerkt als vakantie.
 
 Artikel 637
 
-1.	Bij schriftelijke overeenkomst kan worden bepaald dat dagen of gedeelten van dagen waarop de werknemer in enig jaar de overeengekomen arbeid niet heeft verricht wegens de reden, bedoeld in artikel 635 lid 4 worden aangemerkt als vakantie tot ten hoogste het aantal vakantiedagen dat voor dat jaar boven het in artikel 634 bedoelde minimum is overeengekomen.
+1.	Dagen of gedeelten van dagen waarop de werknemer de overeengekomen arbeid niet verricht wegens ziekte kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het in artikel 634 bedoelde minimum.
 
-2.	Dagen of gedeelten van dagen waarop de werknemer tijdens een vastgestelde vakantie ziek is, gelden niet als vakantie. In afwijking van de vorige volzin kan bij schriftelijke overeenkomst worden bepaald dat de in enig jaar verleende vakantiedagen of gedeelten daarvan waarop de werknemer ziek is, als vakantie gelden tot ten hoogste het aantal vakantiedagen dat voor dat jaar boven het in artikel 634 bedoelde minimum is overeengekomen.
+2.	In afwijking van lid 1 kan bij schriftelijke overeenkomst worden bepaald dat dagen of gedeelten van dagen waarop de werknemer in enig jaar de overeengekomen arbeid niet heeft verricht wegens ziekte worden aangemerkt als vakantie tot ten hoogste het aantal vakantiedagen dat voor dat jaar boven het in artikel 634 bedoelde minimum is overeengekomen.
 
-3.	Indien in enig jaar zowel lid 1 als lid 2, tweede volzin, worden toegepast, kunnen in totaal niet meer dan het aantal vakantiedagen dat voor dat jaar boven het in artikel 634 bedoelde minimum is overeengekomen, als vakantie gelden.
+3.	Indien in enig jaar zowel lid 2 als artikel 638, lid 8, tweede volzin, worden toegepast, kunnen in totaal niet meer dan het aantal vakantiedagen dat voor dat jaar boven het in artikel 634 bedoelde minimum is overeengekomen, als vakantie gelden.
 
 Artikel 638
 
@@ -4069,7 +4087,7 @@ Artikel 638
 
 2.	Voorzover in de vaststelling van de vakantie niet is voorzien bij schriftelijke overeenkomst dan wel bij of krachtens collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan of de wet, stelt de werkgever de tijdstippen van aanvang en einde van de vakantie vast overeenkomstig de wensen van de werknemer tenzij gewichtige redenen zich daartegen verzetten. Indien de werkgever niet binnen twee weken nadat de werknemer zijn wensen schriftelijk heeft kenbaar gemaakt, schriftelijk aan de werknemer gewichtige redenen heeft aangevoerd, is de vakantie vastgesteld overeenkomstig de wensen van de werknemer.
 
-3.	In geval van gewichtige redenen wordt de vakantie op zodanige wijze vastgesteld dat de werknemer desverlangd, voorzover zijn aanspraak daartoe toereikend is, gedurende twee opeenvolgende weken of tweemaal een week geen arbeid behoeft te verrichten.
+3.	In geval van gewichtige redenen wordt de vakantie op zodanige wijze vastgesteld dat de werknemer desverlangd, voorzover zijn aanspraak daartoe toereikend is, gedurende twee opeenvolgende weken of tweemaal een week vakantie kan opnemen.
 
 4.	De werkgever stelt de vakantie zo tijdig vast dat de werknemer gelegenheid heeft tot het treffen van voorbereidingen voor de besteding van de vakantie.
 
@@ -4078,6 +4096,8 @@ Artikel 638
 6.	De werkgever is verplicht de werknemer de resterende aanspraak op vakantie in dagen of uren te verlenen, tenzij gewichtige redenen zich daartegen verzetten.
 
 7.	Indien een aanspraak op vakantie is verworven die het in artikel 634 bedoelde minimum te boven gaat, kan voorzover die aanspraak dat minimum te boven gaat, bij schriftelijke overeenkomst van de in lid 2 genoemde termijn worden afgeweken ten nadele van de werknemer.
+
+8.	Dagen of gedeelten van dagen waarop de werknemer tijdens een vastgestelde vakantie ziek is, gelden niet als vakantie, tenzij in een voorkomend geval de werknemer daarmee instemt. In afwijking van de vorige volzin kan bij schriftelijke overeenkomst worden bepaald dat de in enig jaar verleende vakantiedagen of gedeelten daarvan waarop de werknemer ziek is, als vakantie gelden tot ten hoogste het aantal vakantiedagen dat voor dat jaar boven het in artikel 634 bedoelde minimum is overeengekomen.
 
 Artikel 639
 
@@ -4093,7 +4113,7 @@ Artikel 640
 
 Artikel 640a
 
-[Dit onderdeel is nog niet inwerking getreden]
+De aanspraak op het minimum, bedoeld in artikel 634, vervalt zes maanden na de laatste dag van het kalenderjaar waarin de aanspraak is verworven, tenzij de werknemer tot aan dat tijdstip redelijkerwijs niet in staat is geweest vakantie op te nemen. Bij schriftelijke overeenkomst kan ten gunste van de werknemer worden afgeweken van de termijn van zes maanden, bedoeld in de eerste zin.
 
 Artikel 641
 
@@ -4107,7 +4127,7 @@ Artikel 641
 
 Artikel 642
 
-Een rechtsvordering tot toekenning van vakantie verjaart door verloop van vijf jaren na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
+Onverminderd artikel 640a verjaart een rechtsvordering tot toekenning van vakantie door verloop van vijf jaren na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
 
 Artikel 643
 
@@ -4180,7 +4200,7 @@ Artikel 648
 
 3.	De opzegging, bedoeld in de eerste zin van lid 1, maakt de werkgever niet schadeplichtig.
 
-4.	De Commissie gelijke behandeling, genoemd in artikel 11 van de Algemene wet gelijke behandeling, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De artikelen 12, 13, 14, 15, 20, tweede lid, en 33 van de Algemene wet gelijke behandeling zijn van overeenkomstige toepassing.
+4.	De Commissie gelijke behandeling, genoemd in artikel 11 van de Algemene wet gelijke behandeling, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De artikelen 12, 13, 14, en 15 van de Algemene wet gelijke behandeling zijn van overeenkomstige toepassing.
 
 5.	De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in lid 1 of terzake bijstand heeft verleend.
 
@@ -4192,7 +4212,7 @@ Artikel 649
 
 3.	Een beding in strijd met lid 1 is nietig.
 
-4.	De Commissie gelijke behandeling, genoemd in artikel 11 van de Algemene wet gelijke behandeling, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in lid 1. De artikelen 12, 13, 14, 15, 20, tweede lid en 33 van de Algemene wet gelijke behandeling zijn van overeenkomstige toepassing.
+4.	De Commissie gelijke behandeling, genoemd in artikel 11 van de Algemene wet gelijke behandeling, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in lid 1. De artikelen 12, 13, 14, en 15 van de Algemene wet gelijke behandeling zijn van overeenkomstige toepassing.
 
 5.	De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in lid 1 of terzake bijstand heeft verleend.
 
@@ -4467,13 +4487,11 @@ Artikel 668a
 
 2.	Lid 1 is van overeenkomstige toepassing op elkaar opvolgende arbeidsovereenkomsten tussen een werknemer en verschillende werkgevers, die ten aanzien van de verrichte arbeid redelijkerwijze geacht moeten worden elkanders opvolger te zijn.
 
-3.	Lid 1, onderdeel a en laatste zinsnede, is niet van toepassing op een arbeidsovereenkomst aangegaan voor niet meer dan 3 maanden die onmiddellijk volgt op een tussen dezelfde partijen aangegane arbeidsovereenkomst voor 36 maanden of langer.
+3.	Lid 1, onderdeel a, is niet van toepassing op een arbeidsovereenkomst aangegaan voor niet meer dan 3 maanden die onmiddellijk volgt op een tussen dezelfde partijen aangegane arbeidsovereenkomst voor 36 maanden of langer.
 
 4.	De termijn van opzegging wordt berekend vanaf het tijdstip van totstandkoming van de eerste arbeidsovereenkomst als bedoeld onder a of b van lid 1.
 
-5.	Van de leden 1 tot en met 4 en lid 6 kan slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken ten nadele van de werknemer.
-
-6.	Voor werknemers jonger dan 27 jaar wordt in lid 1 onder a en in lid 3 in plaats van «36 maanden» gelezen: 48 maanden en in lid 1 onder b in plaats van «3 voor bepaalde tijd aangegane arbeidsovereenkomsten»: 4 voor bepaalde tijd aangegane arbeidsovereenkomsten.
+5.	Van de leden 1 tot en met 4 kan slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken ten nadele van de werknemer.
 
 Artikel 669
 
