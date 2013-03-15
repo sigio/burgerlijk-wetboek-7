@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2013 t/m 15-03-2013
+Geldend van 16-03-2013 t/m 30-06-2013
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -1376,7 +1376,7 @@ Onder huurcommissie wordt verstaan de huurcommissie bedoeld in artikel 3a van de
 
 Artikel 239
 
-Onder Onze Minister wordt verstaan de Minister voor Wonen, Wijken en Integratie.
+Onder Onze Minister wordt verstaan Onze Minister voor Wonen en Rijksdienst.
 
 Artikel 240
 
@@ -1425,7 +1425,7 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de artikelen 249, 2
 
 Artikel 248
 
-1.	De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de artikelen 252 en 253. Gedurende het bestaan van een dergelijk beding is toepassing van de artikelen 252 en 253 uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.
+1.	De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de artikelen 252, 252a en 253. Gedurende het bestaan van een dergelijk beding is toepassing van de artikelen 252, 252a en 253 uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.
 
 2.	Leidt toepassing van een beding als bedoeld in lid 1 tot verhoging van de huurprijs met een hoger percentage dan het door Onze Minister vastgestelde maximale huurverhogingspercentage als bedoeld in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte, dan is het beding nietig voorzover zij tot dit hogere percentage leidt en geldt de huurprijs als verhoogd met het door Onze Minister vastgestelde maximale huurverhogingspercentage.
 
@@ -1435,7 +1435,7 @@ De huurder kan tot uiterlijk zes maanden na het tijdstip waarop een door hem met
 
 Artikel 250
 
-1.	De huurprijs kan op verzoek van de verhuurder worden verhoogd op de wijze voorgeschreven in de artikelen 252 en 253:
+1.	De huurprijs kan op verzoek van de verhuurder worden verhoogd op de wijze voorgeschreven in de artikelen 252, 252a en 253:
 	a.	gedurende het eerste tijdvak van twaalf maanden na de dag van ingang van de huur ten hoogste eenmaal, en
 	b.	telkens tegen het einde van elkaar opvolgende tijdvakken van twaalf maanden na hetzij het ingaan van de onder a bedoelde verhoging, hetzij bij gebreke van zodanige verhoging de dag van ingang van de huur.
 
@@ -1443,7 +1443,7 @@ Artikel 250
 
 3.	In afwijking van lid 1 kan de huurprijs worden verhoogd tegen het einde van een tijdvak dat even zoveel korter dan twaalf maanden is als het daaraan voorafgaande tijdvak langer dan twaalf maanden is geweest.
 
-4.	De huurprijs kan op verzoek van de huurder worden verlaagd op de wijze voorgeschreven in de artikelen 252 en 254.
+4.	De huurprijs kan op verzoek van de huurder worden verlaagd op de wijze voorgeschreven in de artikelen 252, 252b en 254.
 
 Artikel 251
 
@@ -1464,21 +1464,55 @@ Artikel 252
 
 4.	Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 1 en lid 2 aanhef en onder b, d of e dan wel aan het in lid 3 bepaalde, blijft de voordien geldende huurprijs verschuldigd, tenzij blijkt dat degene tot wie het voorstel was gericht niet door het verzuim is benadeeld.
 
+Artikel 252a
+
+1.	Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in artikel 252 doen, strekkend tot verhoging van de huurprijs op de grond dat het huishoudinkomen over het peiljaar:
+	a.	hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag doch lager is dan of gelijk is aan het in onderdeel b van dat lid genoemde bedrag, of
+	b.	hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel b van die wet genoemde bedrag.
+
+2.	In dit artikel wordt verstaan onder:
+	a.	basisregistratie inkomen: basisregistratie inkomen als bedoeld in hoofdstuk IVA van de Algemene wet inzake rijksbelastingen;
+	b.	huishoudinkomen: het gezamenlijke bedrag van de inkomensgegevens, bedoeld in artikel 21 onderdeel e van de Algemene wet inzake rijksbelastingen, van de huurder en de overige bewoners van een woonruimte, met dien verstande dat van een overige bewoner die op 1 januari van het jaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen de leeftijd van 23 jaar nog niet heeft bereikt het bedrag van het inkomensgegeven slechts in aanmerking wordt genomen voor zover dat meer bedraagt dan de uitkomst van 108% van het twaalfvoud van het bedrag per maand, bedoeld in artikel 8 lid 1 onderdeel a van de Wet minimumloon en minimumvakantiebijslag, als geldend op 1 januari van het peiljaar;
+	c.	inspecteur: functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
+	d.	peiljaar: tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen.
+
+3.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, wordt bij het voorstel een door de inspecteur op verzoek van die verhuurder aan deze afgegeven verklaring gevoegd.
+
+4.	De verklaring bedoeld in lid 3 vermeldt het gegeven of op de door de verhuurder aangeduide plaats van de woonruimte op basis van gegevens uit de basisregistratie inkomen op het moment van behandeling van het verzoek van de verhuurder aan de inspecteur, te verwachten is dat van degene of degenen die daar volgens de registratie van de rijksbelastingdienst woont of wonen het huishoudinkomen over het peiljaar lager is dan of gelijk is aan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, dan wel hoger is dan dat bedrag doch lager is dan of gelijk is aan het in dat onderdeel laatstgenoemde bedrag, dan wel hoger is dan dat bedrag. De verklaring vermeldt voorts, indien dat huishoudinkomen hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, het aantal personen waarop dat huishoudinkomen is gebaseerd. Indien geen inkomensgegeven in de basisregistratie inkomen beschikbaar is, vermeldt de verklaring dat dat het geval is. Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter uitvoering van dit lid en omtrent het kunnen doen van een verzoek, het verzoek zelf, de verstrekking van de verklaring, alsmede ten aanzien van de verhuurder.
+
+5.	Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 3, is de verhoging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de huurder niet door het verzuim is benadeeld.
+
+6.	Een overeenkomst tot wijziging van de huurprijs:
+	a.	als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdelen a en b komt niet tot stand indien de huurder kan aantonen dat hij of een ander lid van het huishouden deel uitmaakt van een bij regeling van Onze Minister te bepalen groep;
+	b.	als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdeel a komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, en
+	c.	als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdeel b komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in onderdeel b van die volzin genoemde bedrag. Dat voorstel wordt aangemerkt als een voorstel als bedoeld in lid 1 aanhef en onderdeel a, tenzij de huurder tevens kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in onderdeel a van die volzin eerstgenoemde bedrag.
+
+Artikel 252b
+
+1.	Onverminderd het bepaalde in artikel 252a lid 6 kan een huurder ten aanzien van woonruimte die een zelfstandige woning vormt en ten aanzien waarvan een verhoging van de huurprijs op basis van artikel 252a lid 1 heeft plaatsgevonden, een voorstel als bedoeld in artikel 252 doen, strekkend tot verlaging van de huurprijs op de grond dat het huishoudinkomen, bedoeld in artikel 252a lid 2 onderdeel b, waarop een zodanige verhoging is gebaseerd, is gedaald en daarmee:
+	a.	gelijk is aan of lager is dan het in artikel 14 lid 1 van de Wet op de huurtoeslag betrokken genoemde bedrag,
+	b.	gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, of
+	c.	hoger is dan het in onderdeel b bedoelde bedrag, doch gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel b van die wet genoemde bedrag.
+
+2.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, verstrekt de huurder gegevens met betrekking tot de betrokken huishoudinkomens. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
+
+3.	Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 2, is de verlaging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de verhuurder niet door het verzuim is benadeeld.
+
 Artikel 253
 
-1.	Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel.
+1.	Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan, en de verklaring, bedoeld in de eerste volzin, betrekking heeft op het huishoudinkomen, verzoekt de verhuurder aan de inspecteur om een tweede verklaring als bedoeld in artikel 252a lid 4. Indien een verzoek als bedoeld in de eerste volzin wordt gedaan, legt de verhuurder daarbij tevens de tweede verklaring over.
 
-2.	De huurder kan de huurcommissie binnen drie maanden na het in lid 1 bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien:
-	a.	hij noch vóór het in lid 1 bedoelde tijdstip de daar bedoelde schriftelijke verklaring doet, noch door het betalen van de voorgestelde huurverhoging doet blijken met die verhoging in te stemmen, en
-	b.	de verhuurder hem binnen zes weken na het in lid 1 bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt.
+2.	De huurder kan de huurcommissie binnen drie maanden na het in lid 1 eerste volzin bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien:
+	a.	hij noch vóór het in lid 1 eerste volzin bedoelde tijdstip de daar bedoelde schriftelijke verklaring doet, noch door het betalen van de voorgestelde huurverhoging doet blijken met die verhoging in te stemmen, en
+	b.	de verhuurder hem binnen zes weken na het in lid 1 eerste volzin bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt.
 
-De huurder legt bij dit verzoek een afschrift over van het voorstel en van dat schrijven.
+De huurder legt bij dit verzoek een afschrift over van het voorstel, van dat schrijven en, indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en het huishoudinkomen voorwerp van geschil is, gegevens met betrekking tot dat huishoudinkomen. Lid 1 derde volzin is van overeenkomstige toepassing.
 
 3.	De huurder wordt geacht de voorgestelde verhoging van de huurprijs met ingang van de in het voorstel genoemde datum van ingang met de verhuurder te zijn overeengekomen indien hij, na ontvangst van het in het tweede lid bedoelde schrijven, niet binnen drie maanden na die datum van ingang een verzoek tot de huurcommissie heeft gericht.
 
 4.	Indien de huurder het in het tweede lid bedoelde verzoek doet, stelt de huurcommissie de verhuurder daarvan onverwijld in kennis.
 
-5.	Indien de verhuurder een voorstel als bedoeld in artikel 252 lid 1 aanhef bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a, binnen zes weken na het in lid 1 bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.
+5.	Indien de verhuurder een voorstel als bedoeld in artikel 252 lid 1 aanhef of artikel 252a lid 1 bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a, binnen zes weken na het in lid 1 eerste volzin bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.
 
 Artikel 254
 
