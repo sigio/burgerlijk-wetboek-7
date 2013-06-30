@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 16-03-2013 t/m 30-06-2013
+Geldend van 01-07-2013 t/m 19-08-2013
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -5160,41 +5160,50 @@ Artikel 906
 
 Artikel 907
 
-1.	Een overeenkomst strekkende tot vergoeding van schade die is veroorzaakt door een gebeurtenis of gelijksoortige gebeurtenissen, gesloten door een stichting of vereniging met volledige rechtsbevoegdheid met één of meer andere partijen, die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op gezamenlijk verzoek van de partijen die de overeenkomst hebben gesloten verbindend worden verklaard voor personen aan wie de schade is veroorzaakt, mits de stichting of vereniging de belangen van deze personen ingevolge haar statuten behartigt. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.
+1.	Een overeenkomst strekkende tot vergoeding van schade die is veroorzaakt door een gebeurtenis of gelijksoortige gebeurtenissen, gesloten door één of meer stichtingen of verenigingen met volledige rechtsbevoegdheid met één of meer andere partijen, die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op gezamenlijk verzoek van deze stichtingen, verenigingen en andere partijen verbindend worden verklaard voor personen aan wie de schade is veroorzaakt, mits de stichtingen of verenigingen de belangen van deze personen ingevolge hun statuten behartigen. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.
 
 2.	De overeenkomst bevat in ieder geval:
-	a.	een omschrijving van de groep dan wel groepen van personen ten behoeve van wie de overeenkomst is gesloten, naar gelang van de aard en de ernst van hun schade;
-	b.	een zo nauwkeurig mogelijke aanduiding van het aantal personen dat tot deze groep of groepen behoort;
-	c.	de vergoeding die aan deze personen wordt toegekend;
-	d.	de voorwaarden waaraan deze personen moeten voldoen om voor die vergoeding in aanmerking te komen;
-	e.	de wijze waarop de vergoeding wordt vastgesteld en kan worden verkregen;
-	f.	de naam en de woonplaats van degene aan wie de in artikel 908 leden 2 en 3 bedoelde schriftelijke mededeling kan worden gedaan.
+	a.	een omschrijving van de gebeurtenis of de gebeurtenissen waarop de overeenkomst betrekking heeft;
+	b.	een omschrijving van de groep dan wel groepen van personen ten behoeve van wie de overeenkomst is gesloten, naar gelang van de aard en de ernst van hun schade;
+	c.	een zo nauwkeurig mogelijke aanduiding van het aantal personen dat tot deze groep of groepen behoort;
+	d.	de vergoeding die aan deze personen wordt toegekend;
+	e.	de voorwaarden waaraan deze personen moeten voldoen om voor die vergoeding in aanmerking te komen;
+	f.	de wijze waarop de vergoeding wordt vastgesteld en kan worden verkregen;
+	g.	de naam en de woonplaats van degene aan wie de in artikel 908 leden 2 en 3 bedoelde schriftelijke mededeling kan worden gedaan.
 
 3.	De rechter wijst het verzoek af indien:
 	a.	de overeenkomst niet aan lid 2 voldoet;
 	b.	de hoogte van de toegekende vergoedingen niet redelijk is, mede gelet op de omvang van de schade, de eenvoud en snelheid waarmee de vergoedingen verkregen kunnen worden en de mogelijke oorzaken van de schade;
-	c.	onvoldoende zekerheid is gesteld voor de voldoening van de vorderingen van degenen ten behoeve van wie de overeenkomst is gesloten;
-	d.	de overeenkomst niet voorziet in een onafhankelijke vaststelling van de vergoedingen ingevolge de overeenkomst;
+	c.	onvoldoende zeker is dat uit de overeenkomst voortvloeiende rechten van de personen ten behoeve van wie de overeenkomst is gesloten, kunnen worden nagekomen;
+	d.	de overeenkomst niet voorziet in de mogelijkheid van een onafhankelijke beslechting van geschillen die uit de overeenkomst kunnen voortvloeien door een ander dan de rechter die volgens de wet bevoegd zou zijn;
 	e.	de belangen van de personen ten behoeve van wie de overeenkomst is gesloten anderszins onvoldoende gewaarborgd zijn;
-	f.	de stichting of vereniging, bedoeld in lid 1 niet voldoende representatief is ter zake van de belangen van degenen ten behoeve van wie de overeenkomst is gesloten;
+	f.	de in lid 1 bedoelde stichtingen of verenigingen niet voldoende representatief zijn ter zake van de belangen van degenen ten behoeve van wie de overeenkomst is gesloten;
 	g.	de groep van personen ten behoeve van wie de overeenkomst is gesloten van onvoldoende omvang is om een verbindendverklaring te rechtvaardigen;
 	h.	er een rechtspersoon is die ingevolge de overeenkomst de vergoedingen verstrekt, en deze geen partij is bij de overeenkomst.
 
-4.	De rechter kan alvorens te beslissen partijen gelegenheid geven de overeenkomst aan te vullen of te wijzigen.
+4.	De rechter kan alvorens te beslissen de overeenkomst met instemming van partijen die de overeenkomst hebben gesloten aanvullen of wijzigen of die partijen de gelegenheid geven de overeenkomst aan te vullen of te wijzigen. De rechter vermeldt de aanvulling of wijziging in de beschikking tot verbindendverklaring.
 
-5.	Het verzoek, bedoeld in lid 1, stuit de verjaring van een rechtsvordering tot vergoeding van schade tegen de personen die partij zijn bij de overeenkomst, voorzover de overeenkomst in de vergoeding van deze schade voorziet. Indien het verzoek onherroepelijk is toegewezen, begint een nieuwe verjaringstermijn te lopen met de aanvang van de dag, volgende op die waarop definitief is beslist welke vergoeding wordt toegekend. Voorts begint een nieuwe verjaringstermijn te lopen met de aanvang van de dag volgende op die waarop een mededeling als bedoeld in artikel 908 lid 2 is gedaan. Indien het verzoek niet tot toewijzing leidt, begint een nieuwe verjaringstermijn te lopen met de aanvang van de dag, volgende op die waarop dit onherroepelijk vaststaat. Indien de overeenkomst ingevolge artikel 908 lid 4 wordt opgezegd, begint een nieuwe verjaringstermijn te lopen met de aanvang van de dag, volgende op die waarop dit overeenkomstig dat lid plaatsvindt. Artikel 319 lid 2 van Boek 3 is van toepassing.
+5.	Het verzoek, bedoeld in lid 1, stuit de verjaring van een rechtsvordering tot vergoeding van schade tegen de personen die zich bij de overeenkomst hebben verbonden tot vergoeding van deze schade. Een nieuwe verjaringstermijn van twee jaren begint te lopen met de aanvang van de dag, volgende op die waarop
+	a.	definitief is beslist welke vergoeding wordt toegekend;
+	b.	de in artikel 908 lid 2 bedoelde termijn is verstreken nadat een gerechtigde binnen die termijn een in dat lid bedoelde mededeling heeft gedaan;
+	c.	onherroepelijk vaststaat dat het verzoek niet tot toewijzing leidt;
+	d.	de overeenkomst overeenkomstig artikel 908 lid 4 wordt opgezegd.
 
 6.	De overeenkomst kan bepalen dat een recht op vergoeding ingevolge de overeenkomst vervalt indien een gerechtigde tot een vergoeding niet binnen een termijn van ten minste één jaar na de aanvang van de dag, volgende op die waarop hij met de opeisbaarheid van zijn vergoeding bekend is geworden, daarop aanspraak heeft gemaakt.
 
+7.	Dit artikel en de artikelen 908 tot en met 910 zijn van overeenkomstige toepassing op overeenkomsten die voor personen die door een gebeurtenis of gelijksoortige gebeurtenissen zijn benadeeld, een recht scheppen om een andere dan de in lid 1 bedoelde prestatie te vorderen of op een andere wijze een beroep op de overeenkomst te doen.
+
+8.	De personen ten behoeve van wie de overeenkomst is gesloten zijn bevoegd om gedurende de tijd dat het verzoek in behandeling is en zolang daarop niet onherroepelijk is beslist, de nakoming van op hun rustende verbintenissen op te schorten voor zover de overeenkomst voorziet in de beëindiging van een geschil daaromtrent.
+
 Artikel 908
 
-1.	Zodra het verzoek tot verbindendverklaring onherroepelijk is toegewezen heeft de overeenkomst, bedoeld in artikel 907, tussen partijen en de gerechtigden tot een vergoeding de gevolgen van een vaststellingsovereenkomst waarbij ieder der gerechtigden als partij geldt.
+1.	Zodra het verzoek tot verbindendverklaring is toegewezen heeft de overeenkomst, bedoeld in artikel 907, tussen partijen en de gerechtigden tot een vergoeding de gevolgen van een vaststellingsovereenkomst waarbij ieder der gerechtigden als partij geldt.
 
-2.	De verbindendverklaring heeft geen gevolg ten aanzien van een gerechtigde tot een vergoeding die binnen een door de rechter te bepalen termijn van ten minste drie maanden na de in artikel 1017 lid 3 van het Wetboek van Burgerlijke Rechtsvordering bedoelde aankondiging van de beschikking door een schriftelijke mededeling aan de in artikel 907 lid 2, onder f, bedoelde persoon heeft laten weten niet gebonden te willen zijn.
+2.	De verbindendverklaring heeft geen gevolg ten aanzien van een gerechtigde tot een vergoeding die binnen een door de rechter te bepalen termijn van ten minste drie maanden na de in artikel 1017 lid 3 van het Wetboek van Burgerlijke Rechtsvordering bedoelde aankondiging van de beschikking door een schriftelijke mededeling aan de in artikel 907 lid 2, onder f, bedoelde persoon heeft laten weten niet gebonden te willen zijn. De rechter kan het de partijen die de overeenkomst hebben gesloten, toestaan, dat de gerechtigden tot een vergoeding verzocht worden om met de in de eerste zin bedoelde mededeling nadere gegevens te verstrekken. Indien de in de tweede zin bedoelde gegevens niet worden verstrekt, dan wel onjuist of onvolledig zijn, tast dat niet de geldigheid aan van de in de eerste zin bedoelde mededeling.
 
 3.	Voor een gerechtigde tot een vergoeding die bij de in lid 2 bedoelde aankondiging niet met zijn schade bekend kon zijn heeft een verbindendverklaring geen gevolg indien hij na het bekend worden van zijn schade door een schriftelijke mededeling aan de in artikel 907 lid 2, onder f, bedoelde persoon heeft laten weten niet gebonden te willen zijn. Een partij die zich bij de overeenkomst heeft verbonden tot vergoeding van schade kan een gerechtigde tot een vergoeding als bedoeld in de eerste zin schriftelijk een termijn van ten minste zes maanden stellen waarbinnen deze kan laten weten niet gebonden te willen zijn. Daarbij wordt tevens mededeling gedaan van de naam en de woonplaats van de in artikel 907 lid 2, onder f, bedoelde persoon.
 
-4.	Een beding dat een partij bij de overeenkomst ten nadele van de gerechtigden tot een vergoeding van een verbintenis bevrijdt is na een verbindendverklaring nietig, tenzij het de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van de schade gezamenlijk de bevoegdheid geeft om uiterlijk binnen zes maanden na verloop van de in lid 2 bedoelde door de rechter te bepalen termijn de overeenkomst op te zeggen op de grond dat de verbindendverklaring voor te weinig gerechtigden tot een vergoeding gevolgen heeft. Opzegging vindt in dat geval plaats door aankondiging in twee nieuwsbladen en door een schriftelijke mededeling aan de stichting of vereniging, bedoeld in artikel 907 lid 1. De partijen die de overeenkomst hebben opgezegd dragen er zorg voor dat daarvan zo spoedig mogelijk schriftelijk mededeling wordt gedaan aan de bekende gerechtigden tot een vergoeding, waarbij de partijen zich kunnen houden aan de laatste hen bekende woonplaatsen van de gerechtigden tot een vergoeding.
+4.	Een beding dat een partij bij de overeenkomst ten nadele van de gerechtigden tot een vergoeding van een verbintenis bevrijdt is na een verbindendverklaring nietig, tenzij het de partijen op wie een verplichting tot vergoeding van de schade rust gezamenlijk de bevoegdheid geeft om uiterlijk binnen zes maanden na verloop van de in lid 2 bedoelde door de rechter te bepalen termijn de overeenkomst op te zeggen op de grond dat de verbindendverklaring voor te weinig gerechtigden tot een vergoeding gevolgen heeft of op een andere in de overeenkomst vermelde grond onvoldoende gevolgen heeft. Opzegging vindt in dat geval plaats door aankondiging in twee nieuwsbladen en door een schriftelijke mededeling aan de stichting of vereniging, bedoeld in artikel 907 lid 1. De partijen die de overeenkomst hebben opgezegd dragen er zorg voor dat daarvan zo spoedig mogelijk schriftelijk mededeling wordt gedaan aan de bekende gerechtigden tot een vergoeding, waarbij de partijen zich kunnen houden aan de laatste hen bekende woonplaatsen van de gerechtigden tot een vergoeding.
 
 5.	Nadat de overeenkomst verbindend is verklaard kunnen de partijen die de overeenkomst hebben gesloten zich niet beroepen op de vernietigingsgronden als bedoeld in de artikelen 44 lid 3 van Boek 3 en 228 van Boek 6, en kan een gerechtigde tot een vergoeding zich niet beroepen op de vernietigingsgrond als bedoeld in artikel 904 lid 1.
 
@@ -5214,7 +5223,7 @@ Artikel 910
 
 1.	Zijn naast de partij of partijen die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, andere schuldenaren hoofdelijk aansprakelijk, dan is artikel 14 van Boek 6 van overeenkomstige toepassing. Tenzij van een andere bedoeling blijkt, wordt de overeenkomst geacht mede een beding in te houden als in die bepaling bedoeld.
 
-2.	Indien de partij of de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, aan hun verplichtingen uit de overeenkomst hebben voldaan door betaling van een in de overeenkomst vastgesteld bedrag en er na voldoening van de gerechtigden tot een vergoeding een restant is overgebleven, kan deze partij, of kunnen deze partijen gezamenlijk de rechter die de overeenkomst verbindend heeft verklaard, verzoeken om degene die deze gelden beheert te bevelen dit restant aan deze partij of, in geval van meer partijen, aan elke partij in evenredigheid van ieders bijdrage, uit te keren. De rechter wijst het verzoek af indien onvoldoende aannemelijk is dat alle gerechtigden tot een vergoeding zijn voldaan.
+2.	Indien de partij of de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, aan hun verplichtingen uit de overeenkomst hebben voldaan door betaling van een in de overeenkomst vastgesteld bedrag en er na voldoening van de gerechtigden tot een vergoeding een restant is overgebleven, kan deze partij, of kunnen deze partijen gezamenlijk de rechter die de overeenkomst verbindend heeft verklaard, verzoeken om degene die deze gelden beheert te bevelen dit restant aan deze partij of, in geval van meer partijen, aan elke partij in evenredigheid van ieders bijdrage, uit te keren. Indien verzocht wordt om degene die de gelden beheert te bevelen het gehele of een deel van het restant uit te keren, wijst de rechter het verzoek af indien onvoldoende aannemelijk is dat na uitkering van het gehele restant alle gerechtigden tot een vergoeding zijn voldaan, dan wel onvoldoende aannemelijk is dat na uitkering van een deel van het restant alle gerechtigde tot een vergoeding nog kunnen worden voldaan. De rechter kan bevelen dat één of meer deskundigen zullen berichten over de voor het verzoek van belang zijnde punten.
 
 Titel 17. Verzekering
 
