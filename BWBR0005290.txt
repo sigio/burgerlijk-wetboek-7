@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 11-12-2015 t/m 31-12-2015
+Geldend van 01-01-2016 t/m 31-03-2016
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -4006,7 +4006,7 @@ Artikel 625
 
 Artikel 626
 
-1.	De werkgever is verplicht bij elke voldoening van het in geld vastgestelde loon de werknemer een schriftelijke of elektronische opgave te verstrekken van het loonbedrag, van de bedragen waaruit dit is samengesteld, van de bedragen die op het loonbedrag zijn ingehouden, alsmede van het bedrag van het loon waarop een persoon van de leeftijd van de werknemer over de termijn waarover het loon is berekend ingevolge het bepaalde bij of krachtens de Wet minimumloon en minimumvakantiebijslag recht heeft, tenzij zich ten opzichte van de vorige voldoening in geen van deze bedragen een wijziging heeft voorgedaan.
+1.	De werkgever is verplicht bij elke voldoening van het in geld vastgestelde loon de werknemer een schriftelijke of elektronische opgave te verstrekken van het loonbedrag, van de gespecificeerde bedragen waaruit dit is samengesteld, van de gespecificeerde bedragen die op het loonbedrag zijn ingehouden, alsmede van het bedrag van het loon waarop een persoon van de leeftijd van de werknemer over de termijn waarover het loon is berekend ingevolge het bepaalde bij of krachtens de Wet minimumloon en minimumvakantiebijslag recht heeft, tenzij zich ten opzichte van de vorige voldoening in geen van deze bedragen een wijziging heeft voorgedaan.
 
 2.	De opgave vermeldt voorts de naam van de werkgever en van de werknemer, de termijn waarover het loon is berekend, alsmede de overeengekomen arbeidsduur.
 
@@ -4050,7 +4050,11 @@ Artikel 629
 
 1.	Voor zover het loon niet meer bedraagt dan het bedrag, bedoeld in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen, met betrekking tot een loontijdvak van een dag, behoudt de werknemer voor een tijdvak van 104 weken recht op 70% van het naar tijdruimte vastgestelde loon, maar de eerste 52 weken ten minste op het voor hem geldende wettelijke minimumloon, indien hij de bedongen arbeid niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling daartoe verhinderd was.
 
-2.	Het in lid 1 bedoelde recht geldt voor een tijdvak van zes weken voor de werknemer die doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van het huishouden van de natuurlijke persoon tot wie hij in dienstbetrekking staat.
+2.	In afwijking van lid 1 geldt het in dat lid bedoelde recht voor een tijdvak van zes weken voor de werknemer die:
+	a.	doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van het huishouden van de natuurlijke persoon tot wie hij in dienstbetrekking staat; of
+	b.	de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt.
+
+Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de werknemer de in onderdeel b bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in dit lid genoemde termijn, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
 
 3.	De werknemer heeft het in lid 1 bedoelde recht niet:
 	a.	indien de ziekte door zijn opzet is veroorzaakt of het gevolg is van een gebrek waarover hij in het kader van een aanstellingskeuring valse informatie heeft verstrekt en daardoor de toetsing aan de voor de functie opgestelde belastbaarheidseisen niet juist kon worden uitgevoerd;
@@ -4082,7 +4086,7 @@ Artikel 629
 
 12.	Indien de werknemer passende arbeid als bedoeld in artikel 658a lid 4 verricht, blijft de arbeidsovereenkomst onverkort in stand.
 
-13.	Voor de toepassing van lid 2 wordt onder het verrichten van diensten ten behoeve van een huishouden mede verstaan het verlenen van zorg aan de leden van dat huishouden.
+13.	Voor de toepassing van lid 2, aanhef en onderdeel a, wordt onder het verrichten van diensten ten behoeve van een huishouden mede verstaan het verlenen van zorg aan de leden van dat huishouden.
 
 Artikel 629a
 
@@ -4474,11 +4478,11 @@ Artikel 658
 
 Artikel 658a
 
-1.	De werkgever bevordert ten aanzien van de werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, de inschakeling in de arbeid in zijn bedrijf. Indien vaststaat dat de eigen arbeid niet meer kan worden verricht en in het bedrijf van de werkgever geen andere passende arbeid voorhanden is, bevordert de werkgever, gedurende het tijdvak waarin de werknemer jegens hem recht op loon heeft op grond van artikel 629, artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering of artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen, de inschakeling van de werknemer in voor hem passende arbeid in het bedrijf van een andere werkgever.
+1.	De werkgever bevordert ten aanzien van de werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, de inschakeling in de arbeid in zijn bedrijf. Indien vaststaat dat de eigen arbeid niet meer kan worden verricht en in het bedrijf van de werkgever geen andere passende arbeid voorhanden is, bevordert de werkgever, gedurende het tijdvak waarin de werknemer jegens hem recht op loon heeft op grond van artikel 629, artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering of artikel 25, negende lid, van de Wet werk en inkomen naar arbeidsvermogen, de inschakeling van de werknemer in voor hem passende arbeid in het bedrijf van een andere werkgever, tenzij de werknemer de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt.
 
 2.	Uit hoofde van de uitoefening van zijn taak, bedoeld in lid 1, is de werkgever verplicht zo tijdig mogelijk zodanige maatregelen te treffen en aanwijzingen te verstrekken als redelijkerwijs nodig is, opdat de werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten.
 
-3.	Uit hoofde van de uitoefening van zijn taak, bedoeld in lid 1, stelt de werkgever in overeenstemming met de werknemer een plan van aanpak op als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering en artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen. Het plan van aanpak wordt met medewerking van de werknemer regelmatig geëvalueerd en zo nodig bijgesteld.
+3.	Uit hoofde van de uitoefening van zijn taak, bedoeld in lid 1, stelt de werkgever in overeenstemming met de werknemer een plan van aanpak op als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering en artikel 25, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen, tenzij de werknemer de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt. Het plan van aanpak wordt met medewerking van de werknemer regelmatig geëvalueerd en zo nodig bijgesteld.
 
 4.	Onder passende arbeid als bedoeld in lid 1 en 2 wordt verstaan alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd.
 
@@ -4516,10 +4520,12 @@ De werknemer is verplicht zich te houden aan de voorschriften omtrent het verric
 
 Artikel 660a
 
-De werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, is verplicht:
+1.	De werknemer die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, is verplicht:
 	a.	gevolg te geven aan door de werkgever of een door hem aangewezen deskundige gegeven redelijke voorschriften en mee te werken aan door de werkgever of een door hem aangewezen deskundige getroffen maatregelen als bedoeld in artikel 658a lid 2;
 	b.	zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 658a lid 3;
 	c.	passende arbeid als bedoeld in artikel 658a lid 4 te verrichten waartoe de werkgever hem in de gelegenheid stelt.
+
+2.	Lid 1, aanhef en onderdeel b, is niet van toepassing op de werknemer die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt.
 
 Artikel 661
 
@@ -4610,7 +4616,7 @@ Artikel 668
 	a.	bij het aangaan van de arbeidsovereenkomst schriftelijk is overeengekomen dat deze eindigt op een tijdstip dat niet op een kalenderdatum is gesteld; of
 	b.	de arbeidsovereenkomst is aangegaan voor een periode korter dan zes maanden.
 
-3.	Indien de werkgever de verplichting, bedoeld in lid 1, aanhef en onderdeel a, in het geheel niet is nagekomen, is hij aan de werknemer een vergoeding verschuldigd gelijk aan het bedrag van het loon voor één maand. Indien de werkgever die verplichting niet tijdig is nagekomen, is hij aan de werknemer een vergoeding naar rato verschuldigd. De vergoeding is niet langer verschuldigd, indien de werkgever in staat van faillissement is verklaard, aan hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is.
+3.	Indien de werkgever de verplichting, bedoeld in lid 1, aanhef en onderdeel a, in het geheel niet is nagekomen, is hij aan de werknemer een vergoeding verschuldigd gelijk aan het bedrag van het loon voor één maand. Indien de werkgever die verplichting niet tijdig is nagekomen, is hij aan de werknemer een vergoeding naar rato verschuldigd. De vergoeding is verschuldigd vanaf een maand na de dag waarop de verplichting op grond van lid 1 is ontstaan. De vergoeding is niet langer verschuldigd, indien de werkgever in staat van faillissement is verklaard, aan hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is.
 
 4.	De arbeidsovereenkomst wordt geacht voor dezelfde tijd, maar ten hoogste voor een jaar, op de vroegere voorwaarden te zijn voortgezet, indien:
 	a.	de arbeidsovereenkomst, bedoeld in lid 1, na het verstrijken van de tijd, bedoeld in artikel 667, lid 1, wordt voortgezet en de werkgever de verplichting, bedoeld in lid 1, onderdeel a of b, niet is nagekomen; of
@@ -4648,6 +4654,8 @@ Artikel 668a
 
 11.	Dit artikel is niet van toepassing op een arbeidsovereenkomst met een werknemer die de leeftijd van achttien jaar nog niet heeft bereikt, indien de gemiddelde omvang van de door hem verrichte arbeid ten hoogste twaalf uur per week heeft bedragen.
 
+12.	De periode, bedoeld in lid 1, onderdeel a, wordt verlengd tot ten hoogste 48 maanden, en het aantal, bedoeld in lid 1, onderdeel b, bedraagt ten hoogste zes, indien het betreft een arbeidsovereenkomst met een werknemer die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt. Voor de vaststelling of de in dit lid bedoelde periode of het bedoelde aantal arbeidsovereenkomsten is overschreden worden alleen arbeidsovereenkomsten in aanmerking genomen die zijn aangegaan na het bereiken van de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd.
+
 Artikel 669
 
 1.	De werkgever kan de arbeidsovereenkomst opzeggen indien daar een redelijke grond voor is en herplaatsing van de werknemer binnen een redelijke termijn, al dan niet met behulp van scholing, in een andere passende functie niet mogelijk is of niet in de rede ligt. Herplaatsing ligt in ieder geval niet in de rede indien sprake is van verwijtbaar handelen of nalaten van de werknemer als bedoeld in lid 3, onderdeel e.
@@ -4656,15 +4664,15 @@ Artikel 669
 
 3.	Onder een redelijke grond als bedoeld in lid 1 wordt verstaan:
 	a.	het vervallen van arbeidsplaatsen als gevolg van de beëindiging van de werkzaamheden van de onderneming of het, over een toekomstige periode van ten minste 26 weken bezien, noodzakelijkerwijs vervallen van arbeidsplaatsen als gevolg van het wegens bedrijfseconomische omstandigheden treffen van maatregelen voor een doelmatige bedrijfsvoering;
-	b.	ziekte of gebreken van de werknemer waardoor hij niet meer in staat is de bedongen arbeid te verrichten, mits de periode, bedoeld in artikel 670, leden 1 en 11, is verstreken en aannemelijk is dat binnen 26 weken geen herstel zal optreden en dat binnen die periode de bedongen arbeid niet in aangepaste vorm kan worden verricht;
-	c.	het bij regelmaat niet kunnen verrichten van de bedongen arbeid als gevolg van ziekte of gebreken van de werknemer met voor de bedrijfsvoering onaanvaardbare gevolgen, mits het bij regelmaat niet kunnen verrichten van de bedongen arbeid niet het gevolg is van onvoldoende zorg van de werkgever voor de arbeidsomstandigheden van de werknemer en aannemelijk is dat binnen 26 weken geen herstel zal optreden en dat binnen die periode de bedongen arbeid niet in aangepaste vorm kan worden verricht;
+	b.	ziekte of gebreken van de werknemer waardoor hij niet meer in staat is de bedongen arbeid te verrichten, mits de periode, bedoeld in artikel 670, leden 1 en 11, is verstreken en aannemelijk is dat binnen 26 weken, of bij een werknemer die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt, 6 weken, geen herstel zal optreden en dat binnen die periode de bedongen arbeid niet in aangepaste vorm kan worden verricht;
+	c.	het bij regelmaat niet kunnen verrichten van de bedongen arbeid als gevolg van ziekte of gebreken van de werknemer met voor de bedrijfsvoering onaanvaardbare gevolgen, mits het bij regelmaat niet kunnen verrichten van de bedongen arbeid niet het gevolg is van onvoldoende zorg van de werkgever voor de arbeidsomstandigheden van de werknemer en aannemelijk is dat binnen 26 weken, of bij een werknemer die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt, 6 weken, geen herstel zal optreden en dat binnen die periode de bedongen arbeid niet in aangepaste vorm kan worden verricht;
 	d.	de ongeschiktheid van de werknemer tot het verrichten van de bedongen arbeid, anders dan ten gevolge van ziekte of gebreken van de werknemer, mits de werkgever de werknemer hiervan tijdig in kennis heeft gesteld en hem in voldoende mate in de gelegenheid heeft gesteld zijn functioneren te verbeteren en de ongeschiktheid niet het gevolg is van onvoldoende zorg van de werkgever voor scholing van de werknemer of voor de arbeidsomstandigheden van de werknemer;
 	e.	verwijtbaar handelen of nalaten van de werknemer, zodanig dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren;
 	f.	het weigeren van de werknemer de bedongen arbeid te verrichten wegens een ernstig gewetensbezwaar, mits aannemelijk is dat de bedongen arbeid niet in aangepaste vorm kan worden verricht;
 	g.	een verstoorde arbeidsverhouding, zodanig dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren;
 	h.	andere dan de hiervoor genoemde omstandigheden die zodanig zijn dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren.
 
-4.	Tenzij schriftelijk anders is overeengekomen, kan de werkgever de arbeidsovereenkomst eveneens opzeggen tegen of na de dag waarop de werknemer de in artikel 7a, lid 1, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt, of, indien voor hem een afwijkende pensioenleeftijd geldt, de leeftijd heeft bereikt waarop voor hem recht op pensioen ontstaat, indien de arbeidsovereenkomst is aangegaan voor het bereiken van die leeftijd.
+4.	Tenzij schriftelijk anders is overeengekomen, kan de werkgever de arbeidsovereenkomst, die is ingegaan voor het bereiken van een tussen partijen overeengekomen leeftijd waarop de arbeidsovereenkomst eindigt, of, indien geen andere leeftijd is overeengekomen, de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd, eveneens opzeggen in verband met of na het bereiken van de tussen partijen overeengekomen leeftijd waarop de arbeidsovereenkomst eindigt, of, indien geen andere leeftijd is overeengekomen, de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd.
 
 5.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden:
 	a.	nadere regels gesteld met betrekking tot een redelijke grond voor opzegging, de herplaatsing van de werknemer en de redelijke termijn, bedoeld in lid 1, waarbij onderscheid kan worden gemaakt naar categorieën van werknemers;
@@ -4677,8 +4685,10 @@ Artikel 669
 Artikel 670
 
 1.	De werkgever kan niet opzeggen gedurende de tijd dat de werknemer ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, tenzij de ongeschiktheid:
-	a.	ten minste twee jaren heeft geduurd, of
+	a.	ten minste twee jaren heeft geduurd, dan wel zes weken voor de werknemer die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt, of
 	b.	een aanvang heeft genomen nadat een verzoek om toestemming als bedoeld in artikel 671a door het Uitvoeringsinstituut werknemersverzekeringen of door de commissie, bedoeld in artikel 671a, lid 2, is ontvangen.
+
+Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum waarop de werknemer de in onderdeel a bedoelde leeftijd heeft bereikt, geldt vanaf die datum de in dat onderdeel genoemde termijn van zes weken, voor zover het totale tijdvak gedurende welke de werkgever niet kan opzeggen niet meer bedraagt dan twee jaren.
 
 Voor de berekening van de termijn, bedoeld in onderdeel a, worden perioden van ongeschiktheid tot het verrichten van arbeid ten gevolge van zwangerschap voorafgaand aan het zwangerschapsverlof en perioden van ongeschiktheid tijdens het zwangerschaps- of bevallingsverlof, bedoeld in artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, niet in aanmerking genomen. Voorts worden perioden van ongeschiktheid tot het verrichten van arbeid, anders dan bedoeld in de vorige zin, samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen, of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
 
@@ -4775,7 +4785,7 @@ Artikel 671
 
 2.	De werknemer heeft het recht zijn instemming als bedoeld in lid 1 binnen veertien dagen na de dagtekening ervan zonder opgaaf van redenen door een schriftelijke, aan de werkgever gerichte, verklaring te herroepen.
 
-3.	Indien de werkgever de werknemer niet binnen twee werkdagen na de instemming schriftelijk wijst op het recht, bedoeld in lid 2, bedraagt de termijn, bedoeld in lid 2, drie weken.
+3.	Indien de werkgever de werknemer niet uiterlijk twee werkdagen na de instemming schriftelijk wijst op het recht, bedoeld in lid 2, bedraagt de termijn, bedoeld in lid 2, drie weken.
 
 4.	Voor zover op grond van lid 1 de instemming vereist was voor een rechtsgeldige opzegging, wordt na een herroeping als bedoeld in lid 2 de opzegging geacht niet te hebben plaatsgevonden.
 
@@ -4799,8 +4809,9 @@ Artikel 671a
 
 5.	De toestemming om een arbeidsovereenkomst voor onbepaalde tijd op te zeggen op grond van artikel 669, lid 3, onderdeel a, wordt slechts verleend, indien de werkgever:
 	a.	de arbeidsrelatie met personen die niet op grond van een arbeidsovereenkomst voor onbepaalde tijd op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd;
-	b.	de arbeidsrelatie met personen die op grond van een arbeidsovereenkomst als bedoeld in artikel 628a op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd; en
-	c.	de overeenkomsten met betrekking tot ingeleende personen die op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd.
+	b.	de arbeidsrelatie met personen die op grond van een arbeidsovereenkomst als bedoeld in artikel 628a op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd;
+	c.	de overeenkomsten met betrekking tot ingeleende personen die op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd; en
+	d.	de arbeidsrelatie met personen die op basis van een arbeidsovereenkomst op de arbeidsplaatsen die vervallen werkzaam zijn en de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd hebben bereikt, heeft beëindigd.
 
 6.	De toestemming voor opzegging is geldig gedurende vier weken na de dagtekening van de beslissing op het verzoek, bedoeld in lid 1 of lid 2. De werkgever zegt schriftelijk op onder vermelding van de reden voor de opzegging.
 
@@ -4811,6 +4822,8 @@ Artikel 671a
 9.	Elk beding waarbij de verplichting tot het vragen van toestemming, bedoeld in lid 1 of lid 2, wordt uitgesloten of beperkt, is nietig evenals elk beding dat de termijn, bedoeld in lid 6, verruimt.
 
 10.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld met betrekking tot de commissie, bedoeld in lid 2, en de procedure betreffende het verlenen van toestemming door die commissie.
+
+11.	De toestemming, bedoeld in lid 1 of lid 2, wordt niet verleend als een opzegverbod als bedoeld in artikel 670, leden 1 tot en met 4 en 10, of een met deze opzegverboden naar aard en strekking vergelijkbaar opzegverbod in een ander wettelijk voorschrift geldt, tenzij redelijkerwijs mag worden verwacht dat het opzegverbod niet meer geldt binnen vier weken na de dagtekening van de beslissing op het verzoek. Dit lid is van overeenkomstige toepassing op de toestemming, bedoeld in artikel 671, lid 1, onderdeel h.
 
 Artikel 671b
 
@@ -4823,7 +4836,7 @@ Artikel 671b
 
 3.	Indien het verzoek om ontbinding is gegrond op artikel 669, lid 3, onderdeel a, is artikel 671a, leden 5 en 7, van overeenkomstige toepassing.
 
-4.	Indien het verzoek om ontbinding is gegrond op artikel 669, lid 3, onderdeel c, wijst de kantonrechter het verzoek af, indien de werkgever niet beschikt over een verklaring ter zake van een deskundige als bedoeld in artikel 629a.
+4.	Indien het verzoek om ontbinding is gegrond op artikel 669, lid 3, onderdeel c, wijst de kantonrechter het verzoek af, indien de werkgever niet beschikt over een verklaring ter zake van een deskundige als bedoeld in artikel 629a, tenzij het overleggen van deze verklaring in redelijkheid niet van de werkgever kan worden gevergd.
 
 5.	Indien het verzoek om ontbinding is gegrond op artikel 669, lid 3, onderdeel e, in verband met het, zonder deugdelijke grond door de werknemer niet nakomen van de verplichtingen, bedoeld in artikel 660a, wijst de kantonrechter het verzoek af, indien de werkgever:
 	a.	de werknemer niet eerst schriftelijk heeft gemaand tot nakoming van die verplichtingen of om die reden, met inachtneming van het bepaalde in artikel 629, lid 7, de betaling van het loon heeft gestaakt; of
@@ -4874,21 +4887,23 @@ Artikel 672
 	c.	tien jaar of langer, maar korter dan vijftien jaar heeft geduurd: drie maanden;
 	d.	vijftien jaar of langer heeft geduurd: vier maanden.
 
-3.	De door de werknemer in acht te nemen termijn van opzegging bedraagt één maand.
+3.	In afwijking van lid 2 bedraagt de door de werkgever in acht te nemen termijn van opzegging één maand indien de werknemer de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt.
 
-4.	Indien de toestemming, bedoeld in artikel 671a, lid 1, is verleend, wordt de door de werkgever in acht te nemen termijn van opzegging verkort met de duur van de periode die aanvangt op de datum waarop het volledige verzoek om toestemming is ontvangen en eindigt op de datum van dagtekening van de beslissing op het verzoek om toestemming, met dien verstande dat een termijn van ten minste een maand resteert.
+4.	De door de werknemer in acht te nemen termijn van opzegging bedraagt één maand.
 
-5.	De termijn, bedoeld in lid 2, kan slechts worden verkort bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan. De termijn kan schriftelijk worden verlengd.
+5.	Indien de toestemming, bedoeld in artikel 671a, lid 1, is verleend, wordt de door de werkgever in acht te nemen termijn van opzegging verkort met de duur van de periode die aanvangt op de datum waarop het volledige verzoek om toestemming is ontvangen en eindigt op de datum van dagtekening van de beslissing op het verzoek om toestemming, met dien verstande dat een termijn van ten minste een maand resteert.
 
-6.	Van de termijn, bedoeld in lid 3, kan schriftelijk worden afgeweken. De termijn van opzegging voor de werknemer mag bij verlenging niet langer zijn dan zes maanden en voor de werkgever niet korter dan het dubbele van die voor de werknemer.
+6.	De termijn, bedoeld in lid 2 of lid 3, kan slechts worden verkort bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan. De termijn kan schriftelijk worden verlengd.
 
-7.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan, mag de termijn van opzegging, bedoeld in lid 6, tweede volzin, voor de werkgever worden verkort, mits de termijn niet korter is dan die voor de werknemer.
+7.	Van de termijn, bedoeld in lid 4, kan schriftelijk worden afgeweken. De termijn van opzegging voor de werknemer mag bij verlenging niet langer zijn dan zes maanden en voor de werkgever niet korter dan het dubbele van die voor de werknemer.
 
-8.	Voor de toepassing van lid 2 worden arbeidsovereenkomsten geacht eenzelfde, niet onderbroken arbeidsovereenkomst te vormen in geval van herstel van de arbeidsovereenkomst ingevolge artikel 682 of artikel 683.
+8.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan, mag de termijn van opzegging, bedoeld in lid 7, tweede volzin, voor de werkgever worden verkort, mits de termijn niet korter is dan die voor de werknemer.
 
-9.	De partij die opzegt tegen een eerdere dag dan tussen partijen geldt, is aan de wederpartij een vergoeding verschuldigd gelijk aan het bedrag van het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst bij regelmatige opzegging had behoren voort te duren.
+9.	Voor de toepassing van lid 2 worden arbeidsovereenkomsten geacht eenzelfde, niet onderbroken arbeidsovereenkomst te vormen in geval van herstel van de arbeidsovereenkomst ingevolge artikel 682 of artikel 683.
 
-10.	De kantonrechter kan de vergoeding, bedoeld in het lid 9, matigen indien hem dit met het oog op de omstandigheden billijk voorkomt, met dien verstande dat de vergoeding niet minder kan bedragen dan het in geld vastgestelde loon over de opzegtermijn, bedoeld in lid 2, noch minder dan het in geld vastgestelde loon voor drie maanden.
+10.	De partij die opzegt tegen een eerdere dag dan tussen partijen geldt, is aan de wederpartij een vergoeding verschuldigd gelijk aan het bedrag van het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst bij regelmatige opzegging had behoren voort te duren.
+
+11.	De kantonrechter kan de vergoeding, bedoeld in het lid 10, matigen indien hem dit met het oog op de omstandigheden billijk voorkomt, met dien verstande dat de vergoeding niet minder kan bedragen dan het in geld vastgestelde loon over de opzegtermijn, bedoeld in lid 2, noch minder dan het in geld vastgestelde loon voor drie maanden.
 
 Artikel 673
 
@@ -4902,7 +4917,7 @@ Artikel 673
 		2°	op verzoek van de werknemer is ontbonden; of
 		3°	na een einde van rechtswege op initiatief van de werknemer niet aansluitend is voortgezet.
 
-2.	De transitievergoeding is over de eerste 120 maanden van de arbeidsovereenkomst gelijk aan een zesde van het loon per maand voor elke periode van zes maanden dat de arbeidsovereenkomst heeft geduurd en gelijk aan een kwart van het loon per maand voor elke daaropvolgende periode van zes maanden. De transitievergoeding bedraagt maximaal € 75.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
+2.	De transitievergoeding is over de eerste 120 maanden van de arbeidsovereenkomst gelijk aan een zesde van het loon per maand voor elke periode van zes maanden dat de arbeidsovereenkomst heeft geduurd en gelijk aan een kwart van het loon per maand voor elke daaropvolgende periode van zes maanden. De transitievergoeding bedraagt maximaal € 76.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
 
 3.	Het bedrag, genoemd in lid 2, wordt telkens met ingang van 1 januari door Onze Minister van Sociale Zaken en Werkgelegenheid gewijzigd overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen, in het voorafgaande jaar is geraamd. Het bedrag wordt daarbij afgerond op het naaste veelvoud van € 1.000,–. Het gewijzigde bedrag is uitsluitend van toepassing indien de arbeidsovereenkomst op of na de datum van de wijziging eindigt of niet wordt voortgezet.
 
@@ -4918,7 +4933,7 @@ Artikel 673
 
 7.	De transitievergoeding is niet verschuldigd indien het eindigen of niet voortzetten van de arbeidsovereenkomst:
 	a.	geschiedt voor de dag waarop de werknemer de leeftijd van achttien jaar heeft bereikt en de gemiddelde omvang van de door hem verrichte arbeid ten hoogste twaalf uur per week heeft bedragen;
-	b.	geschiedt in verband met of na het bereiken van de in artikel 7a, lid 1, van de Algemene Ouderdomswet bedoelde leeftijd of een andere leeftijd waarop voor de werknemer recht op pensioen ontstaat; of
+	b.	geschiedt in verband met of na het bereiken van een bij of krachtens wet vastgestelde of tussen partijen overeengekomen leeftijd waarop de arbeidsovereenkomst eindigt, of, indien geen andere leeftijd geldt, de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd; of
 	c.	het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer.
 
 8.	In afwijking van lid 7, onderdeel c, kan de kantonrechter de transitievergoeding geheel of gedeeltelijk aan de werknemer toekennen indien het niet toekennen ervan naar maatstaven van redelijkheid en billijkheid onaanvaardbaar is.
@@ -4933,11 +4948,15 @@ Artikel 673a
 
 1.	Indien de werknemer bij het eindigen of niet voortzetten van de arbeidsovereenkomst 50 jaar of ouder is en de arbeidsovereenkomst ten minste 120 maanden heeft geduurd, is, in afwijking van artikel 673, lid 2, eerste zin, de transitievergoeding over elke periode van zes maanden dat de werknemer na het bereiken van de leeftijd van 50 jaar bij de werkgever in dienst is geweest, gelijk aan de helft van het loon per maand, bedoeld in artikel 673, lid 2.
 
-2.	Lid 1 is niet van toepassing op de werkgever die in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar waarin de arbeidsovereenkomst eindigt of niet wordt voortgezet gemiddeld minder dan 25 werknemers in dienst had.
+2.	Lid 1 is niet van toepassing op de werkgever die minder dan 25 werknemers in dienst had in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar:
+	a.	waarin voor de werknemer, bedoeld in lid 1, een verzoek om toestemming als bedoeld in artikel 671a, of een verzoek om ontbinding als bedoeld in artikel 671b is ingediend; of
+	b.	indien voor de beëindiging van een arbeidsovereenkomst een verzoek als bedoeld in onderdeel a, niet is vereist, waarin de arbeidsovereenkomst is opgezegd of van rechtswege eindigt en niet wordt voortgezet.
 
 3.	Lid 2 is niet van toepassing op bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid aan te wijzen categorieën van werkgevers.
 
-4.	Dit artikel vervalt met ingang van 1 januari 2020.
+4.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen categorieën van arbeidskrachten, die anders dan als werknemer werkzaam zijn bij de werkgever, worden aangewezen die meegerekend worden bij het bepalen van het aantal werknemers, bedoeld in lid 2.
+
+5.	Dit artikel vervalt met ingang van 1 januari 2020.
 
 Artikel 673b
 
@@ -4953,11 +4972,13 @@ Artikel 673c
 
 Artikel 673d
 
-1.	In afwijking van artikel 673, lid 2, kunnen onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden voor de berekening van de duur van de arbeidsovereenkomst maanden die gelegen zijn voor 1 mei 2013 buiten beschouwing worden gelaten, indien:
-	a.	de werknemer in dienst was bij een werkgever, die in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar waarin de arbeidsovereenkomst eindigt gemiddeld minder dan 25 werknemers in dienst had; en
-	b.	de arbeidsovereenkomst is geëindigd wegens omstandigheden als bedoeld in artikel 669, lid 3, onderdeel a, die het gevolg zijn van de slechte financiële situatie van de werkgever.
+1.	In afwijking van artikel 673, lid 2, kunnen onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden voor de berekening van de duur van de arbeidsovereenkomst maanden die gelegen zijn voor 1 mei 2013 buiten beschouwing worden gelaten, indien de arbeidsovereenkomst is geëindigd of niet is voortgezet wegens omstandigheden als bedoeld in artikel 669, lid 3, onderdeel a, die het gevolg zijn van een slechte financiële situatie van de werkgever, die minder dan 25 werknemers in dienst had in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar:
+	a.	waarin het verzoek om toestemming, bedoeld in artikel 671a, of het verzoek om ontbinding, bedoeld in artikel 671b, wordt ingediend; of
+	b.	indien voor de beëindiging van de arbeidsovereenkomst een verzoek als bedoeld in onderdeel a, niet is vereist, waarin de arbeidsovereenkomst is opgezegd of van rechtswege eindigt en niet wordt voortgezet.
 
-2.	Dit artikel vervalt met ingang van 1 januari 2020.
+2.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen categorieën van arbeidskrachten, die anders dan als werknemer werkzaam zijn bij de werkgever, worden aangewezen, die meegeteld worden bij het bepalen van het aantal werknemers, bedoeld in lid 1.
+
+3.	Dit artikel vervalt met ingang van 1 januari 2020.
 
 Artikel 674
 
@@ -5001,7 +5022,7 @@ Artikel 677
 
 6.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kan worden bepaald dat de kantonrechter de vergoeding, bedoeld in lid 4, op een hoger bedrag kan stellen ten laste van de werknemer, indien de werknemer een in die regeling aan te wijzen functie in een bedrijfstak uitoefende. Uitsluitend functies in een bedrijfstak die zijn aangewezen in de ministeriële regeling, bedoeld in artikel 668a, lid 8, kunnen worden aangewezen als een functie als bedoeld in de eerste zin.
 
-7.	Elk beding waarbij de bevoegdheid, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig.
+7.	Elk beding waarbij de bevoegdheid, bedoeld in lid 1 of in lid 4, laatste zin, wordt uitgesloten of beperkt, is nietig.
 
 Artikel 678
 
@@ -5131,9 +5152,7 @@ Artikel 686a
 3.	In gedingen die op het in, bij of krachtens deze afdeling bepaalde zijn gebaseerd, kunnen daarmee verband houdende andere vorderingen worden ingediend met een verzoekschrift.
 
 4.	De bevoegdheid om een verzoekschrift bij de kantonrechter in te dienen vervalt:
-	a.	twee maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien:
-		1°	het verzoek een vergoeding als bedoeld in de artikelen 672, lid 9, en 677, lid 4, betreft; of
-		2°	het een verzoek op grond van de artikelen 677, 681, lid 1, onderdelen a en b, en 682, leden 1, 2 en 3, betreft;
+	a.	twee maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 672, lid 9, 677, 681, lid 1, onderdelen a, b en c, en 682, leden 1, 2 en 3, betreft;
 	b.	drie maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 673, 673a, 673b, 673c en 673d betreft;
 	c.	twee maanden na de dag waarop de werknemer op de hoogte is of redelijkerwijs had kunnen zijn van de situatie, bedoeld in de artikelen 681, lid 1, onderdelen d en e, en 682, leden 4 en 5, maar ten laatste twee maanden na de dag waarop de termijn van 26 weken, bedoeld in die leden of onderdelen, is verstreken;
 	d.	twee maanden na de dag waarop de toestemming, bedoeld in artikel 671a, is geweigerd, indien het een verzoek op grond van artikel 671b, lid 1, onderdeel b, betreft;
