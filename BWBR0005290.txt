@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2016 t/m 31-03-2016
+Geldend van 01-04-2016 t/m 30-06-2016
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -945,6 +945,10 @@ Artikel 73
 
 3.	Aan de consument kan, indien de kredietovereenkomst een nauwe band heeft met het grondgebied van een of meer lidstaten van de Europese Unie, de hem krachtens de Richtlijn door het recht van die staat toegekende bescherming niet worden onthouden, ongeacht het recht dat de kredietovereenkomst beheerst.
 
+Titel 2b. Consumentenkredietovereenkomsten betreffende voor bewoning bestemde onroerende zaken
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Titel 2d. Overeenkomst van pandbelening
 
 Artikel 130
@@ -1485,11 +1489,11 @@ Artikel 252a
 	c.	inspecteur: functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
 	d.	peiljaar: tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen.
 
-3.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, wordt bij het voorstel een door de inspecteur op verzoek van die verhuurder aan deze afgegeven verklaring gevoegd.
+3.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, wordt bij het voorstel een verklaring gevoegd omtrent het huishoudinkomen. De inspecteur verstrekt op verzoek van een verhuurder een verklaring omtrent het huishoudinkomen aan de verhuurder.
 
 4.	De verklaring bedoeld in lid 3 vermeldt het gegeven of op de door de verhuurder aangeduide plaats van de woonruimte op basis van gegevens uit de basisregistratie inkomen op het moment van behandeling van het verzoek van de verhuurder aan de inspecteur, te verwachten is dat van degene of degenen die daar volgens de registratie van de rijksbelastingdienst woont of wonen het huishoudinkomen over het peiljaar lager is dan of gelijk is aan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, dan wel hoger is dan dat bedrag doch lager is dan of gelijk is aan het in dat onderdeel laatstgenoemde bedrag, dan wel hoger is dan dat bedrag. De verklaring vermeldt voorts, indien dat huishoudinkomen hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, het aantal personen waarop dat huishoudinkomen is gebaseerd. Indien geen inkomensgegeven in de basisregistratie inkomen beschikbaar is, vermeldt de verklaring dat dat het geval is. Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter uitvoering van dit lid en omtrent het kunnen doen van een verzoek, het verzoek zelf, de verstrekking van de verklaring, alsmede ten aanzien van de verhuurder.
 
-5.	Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 3, is de verhoging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de huurder niet door het verzuim is benadeeld.
+5.	Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 3 eerste volzin, is de verhoging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de huurder niet door het verzuim is benadeeld.
 
 6.	Een overeenkomst tot wijziging van de huurprijs:
 	a.	als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdelen a en b komt niet tot stand indien de huurder kan aantonen dat hij of een ander lid van het huishouden deel uitmaakt van een bij regeling van Onze Minister te bepalen groep;
