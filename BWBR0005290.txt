@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-04-2016 t/m 30-06-2016
+Geldend van 01-07-2016 t/m 13-07-2016
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -1357,8 +1357,6 @@ Artikel 232
 
 3.	De artikelen 206 lid 3, 270, 271 lid 4, 272, 273, 274, 275, 276, 277 en 281 zijn gedurende negen maanden na het ingaan van de overeenkomst niet van toepassing op huur van woonruimte die niet een zelfstandige woning vormt en deel uitmaakt van een woning waarin de verhuurder zijn hoofdverblijf heeft en waarin niet eerder aan dezelfde huurder deze of andere woonruimte is verhuurd geweest.
 
-4.	De artikelen 206 lid 3, 269 lid 1 en 2, 270, 271 tot en met 277, 278 leden 1 en 2 en 281 zijn niet van toepassing op de huur van woonruimte in gebouwen, welke aan een gemeente toebehoren en ten tijde van het aangaan van de overeenkomst voor afbraak zijn bestemd.
-
 Artikel 233
 
 Onder woonruimte wordt verstaan een gebouwde onroerende zaak voor zover deze als zelfstandige dan wel niet zelfstandige woning is verhuurd, dan wel een woonwagen of een standplaats, alsmede de onroerende aanhorigheden.
@@ -1444,7 +1442,9 @@ Artikel 248
 
 Artikel 249
 
-De huurder kan tot uiterlijk zes maanden na het tijdstip waarop een door hem met betrekking tot die woonruimte voor de eerste maal aangegane huurovereenkomst is ingegaan, de huurcommissie verzoeken uitspraak te doen over de redelijkheid van de overeengekomen huurprijs.
+1.	De huurder kan tot uiterlijk zes maanden na het tijdstip waarop een door hem met betrekking tot die woonruimte voor de eerste maal aangegane huurovereenkomst is ingegaan, de huurcommissie verzoeken uitspraak te doen over de redelijkheid van de overeengekomen huurprijs.
+
+2.	In afwijking van lid 1 kan de huurder tot uiterlijk zes maanden na afloop van een door hem met betrekking tot die woonruimte voor de eerste maal aangegane huurovereenkomst voor de duur van twee jaar of korter als bedoeld in artikel 271 lid 1, tweede volzin, de huurcommissie verzoeken uitspraak te doen over de redelijkheid van de overeengekomen huurprijs.
 
 Artikel 250
 
@@ -1599,6 +1599,10 @@ Artikel 261
 
 3.	Indien het door de huurder verschuldigde voorschotbedrag aanzienlijk hoger is dan de te verwachten kosten voor nutsvoorzieningen met een individuele meter, kan de huurcommissie op verzoek van de huurder het voorschotbedrag verlagen tot een bedrag dat in redelijke verhouding staat tot die kosten.
 
+Artikel 261a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Paragraaf 3. Slotbepalingen
 
 Artikel 262
@@ -1703,7 +1707,11 @@ Onderafdeling 4. Het eindigen van de huur
 
 Artikel 271
 
-1.	In afwijking van artikel 228 lid 1 eindigt een voor bepaalde tijd aangegane huur niet door het enkele verloop van de huurtijd; zij kan door elk van beide partijen worden opgezegd tegen een voor de betaling van de huurprijs overeengekomen dag, niet vallend voor het verstrijken van de bepaalde tijd.
+1.	In afwijking van artikel 228 lid 1 eindigt een voor bepaalde tijd voor de duur van:
+	a.	langer dan twee jaar aangegane huur ingeval van een woonruimte voor zover deze als zelfstandige woning is verhuurd, of
+	b.	langer dan vijf jaar aangegane huur ingeval van een woonruimte voor zover deze als niet zelfstandige woning is verhuurd,
+
+niet door het enkele verloop van de huurtijd; zij kan door elk van beide partijen worden opgezegd tegen een voor de betaling van de huurprijs overeengekomen dag, niet vallend voor het verstrijken van de bepaalde tijd. Op een voor bepaalde tijd voor de duur van twee onderscheidenlijk vijf jaar of korter aangegane huur is artikel 228 lid 1 onverkort van toepassing, mits de verhuurder niet eerder dan drie maanden maar uiterlijk een maand voordat die bepaalde tijd is verstreken, de huurder over de dag waarop die huur verstrijkt schriftelijk informeert. Indien de verhuurder de verplichting, bedoeld in de tweede volzin, niet nakomt, wordt de huurovereenkomst na het verstrijken van de bepaalde tijd, bedoeld in die volzin, voor onbepaalde tijd verlengd. De voor bepaalde tijd aangegane huur, bedoeld in de tweede volzin, kan door de huurder voor het verstrijken van de bepaalde tijd worden opgezegd tegen een voor betaling van de huurprijs overeengekomen dag. Indien na afloop van een voor bepaalde tijd van twee onderscheidenlijk vijf jaar of korter aangegane huur met dezelfde huurder aansluitend opnieuw een huurovereenkomst wordt aangegaan, wordt deze laatste overeenkomst opgevat als een verlenging voor onbepaalde tijd van eerstgenoemde huurovereenkomst.
 
 2.	Een voor onbepaalde tijd aangegane of voor onbepaalde tijd verlengde huur kan door elk van beide partijen worden opgezegd tegen een voor de betaling van de huurprijs overeengekomen dag.
 
@@ -1740,31 +1748,20 @@ Artikel 274
 1.	De rechter kan de vordering slechts toewijzen
 	a.	indien de huurder zich niet heeft gedragen zoals een goed huurder betaamt;
 	b.	indien de verhuurder zijn vordering grondt op een beding als omschreven in lid 2 en aan de eisen van dat lid is voldaan, tenzij de verhuurder geen belang meer heeft bij de ontruiming;
-	c.	indien de verhuurder aannemelijk maakt dat hij het verhuurde zo dringend nodig heeft voor eigen gebruik, vervreemding van de gehuurde woonruimte niet daaronder begrepen, dat van hem, de belangen van beide partijen en van onderhuurders naar billijkheid in aanmerking genomen, niet kan worden gevergd dat de huurovereenkomst wordt verlengd, en tevens blijkt dat de huurder, met uitzondering van de huurder, bedoeld in lid 4, andere passende woonruimte kan verkrijgen;
+	c.	indien de verhuurder aannemelijk maakt dat hij het verhuurde zo dringend nodig heeft voor eigen gebruik, vervreemding van de gehuurde woonruimte niet daaronder begrepen, dat van hem, de belangen van beide partijen en van onderhuurders naar billijkheid in aanmerking genomen, niet kan worden gevergd dat de huurovereenkomst wordt verlengd, en tevens blijkt dat de huurder, met uitzondering van de huurder, bedoeld in de artikelen 274c tot en met 274e, andere passende woonruimte kan verkrijgen;
 	d.	indien de huurder niet toestemt in een redelijk aanbod tot het aangaan van een nieuwe huurovereenkomst met betrekking tot dezelfde woonruimte, voor zover, in het geval dat onderafdeling 2 op de opgezegde huurovereenkomst van toepassing is, dit aanbod niet een wijziging inhoudt van de huurprijs of van de servicekosten;
 	e.	indien de verhuurder een krachtens een geldend bestemmingsplan op het verhuurde liggende bestemming wil verwezenlijken;
 	f.	indien de huurovereenkomst een onzelfstandige woning betreft, die deel uitmaakt van de woning waarin de verhuurder zijn hoofdverblijf heeft, en de verhuurder aannemelijk maakt dat zijn belangen bij beëindiging van de huur zwaarder wegen dan die van de huurder bij voortzetting daarvan.
 
-2.	In het geval dat uitdrukkelijk is bedongen dat de gehuurde woonruimte na afloop van de bij dat beding overeengekomen termijn moet worden ontruimd, kan de verhuurder overeenkomstig lid 1 aanhef en onder b, op dat beding de in dat lid bedoelde vordering gronden:
-	a.	indien de verhuurder die de woonruimte niet zelf heeft bewoond, noch deze eerder heeft verhuurd, na afloop van die termijn de woning zelf wil betrekken;
-	b.	indien de verhuurder die zelf de vorige bewoner van de woonruimte is, na afloop van die termijn die woonruimte zelf opnieuw wil betrekken;
-	c.	indien de verhuurder jegens wie de vorige huurder het recht heeft verkregen na afloop van die termijn de woning opnieuw te betrekken, deze huurder daartoe gelegenheid wil geven.
+2.	In het geval dat uitdrukkelijk van de huurder en telkens van een opvolgend huurder is bedongen dat de gehuurde woonruimte na afloop van de bij dat beding overeengekomen termijn moet worden ontruimd, kan de verhuurder overeenkomstig lid 1 aanhef en onder b, op dat beding de in dat lid bedoelde vordering gronden:
+	a.	indien de verhuurder de woning zelf wil betrekken, of
+	b.	indien de verhuurder jegens wie een vorige huurder het recht heeft verkregen de woning opnieuw te betrekken, deze huurder daartoe gelegenheid wil geven.
 
-3.	Onder eigen gebruik in de zin van lid 1 onder c, wordt mede begrepen:
-	a.	renovatie van woonruimte die zonder beëindiging van de huur niet mogelijk is, en
-	b.	het verstrekken van een zelfstandige woning aan een gehandicapte, indien die woning:
-		1°.	reeds bij de bouw ervan was ingericht en bestemd voor bewoning door een gehandicapte, dan wel
-		2°.	na de bouw met geldelijke steun op grond van enige wettelijke regeling aangepast is ten behoeve van bewoning door een gehandicapte;
-	c.	het verstrekken aan een oudere van een zelfstandige woning welke onderdeel uitmaakt van een complex van zelfstandige woningen, welk complex reeds bij de bouw ervan was ingericht en bestemd voor de bewoning door ouderen.
+De bij het beding bepaalde termijn kan met wederzijds goedvinden worden verlengd voordat de met de huurder oorspronkelijk overeengekomen termijn is verstreken.
 
-Bij de beoordeling van de vraag of andere woonruimte voor de huurder passend is, houdt de rechter geen rekening met de bijdragen van het Rijk, die de huurder ter tegemoetkoming in de kosten, verbonden aan het genot van een woning, kan verkrijgen.
+3.	Onder eigen gebruik in de zin van lid 1 onder c, wordt mede begrepen renovatie van woonruimte die zonder beëindiging van de huur niet mogelijk is.
 
-4.	Onder eigen gebruik in de zin van lid 1 onder c, wordt bovendien mede begrepen het verstrekken van woonruimte aan een student, indien:
-	1°.	die woonruimte krachtens de huurovereenkomst bestemd is voor studenten, als bedoeld in dit lid;
-	2°.	de huurder, tegen wie de in lid 1 bedoelde vordering is ingesteld, niet heeft voldaan aan een schriftelijk verzoek van de verhuurder, dat deze jaarlijks kan doen, om binnen drie maanden een kopie van het bewijs van zijn inschrijving aan een instelling, universiteit of hogeschool als bedoeld in dit lid inzake het lopende studiejaar over te leggen, en
-	3°.	in de huurovereenkomst met de huurder tegen wie de in lid 1 bedoelde vordering is ingesteld, is bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een student als bedoeld in dit lid zal worden verhuurd.
-
-Onder student wordt in dit lid verstaan een deelnemer die is ingeschreven aan een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs of een student die is ingeschreven aan een universiteit of hogeschool als bedoeld in artikel 1.2, onderdelen a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+4.	Bij de beoordeling van de vraag of andere woonruimte voor de huurder passend is, houdt de rechter geen rekening met de bijdragen van het Rijk, die de huurder ter tegemoetkoming in de kosten, verbonden aan het genot van de woning, kan verkrijgen.
 
 5.	Een vordering, gegrond op eigen gebruik in de zin van lid 1 onder c is niet toewijsbaar
 	a.	ten aanzien van woonruimte waarop hoofdstuk 2 van de Huisvestingswet 2014 van toepassing is, zolang de verhuurder geen huisvestingsvergunning als bedoeld in artikel 8 van die wet overlegt behoudens het geval dat het eigen gebruik in iets anders bestaat dan bewoning;
@@ -1772,7 +1769,65 @@ Onder student wordt in dit lid verstaan een deelnemer die is ingeschreven aan ee
 
 6.	In de gevallen bedoeld in lid 1 onder a en d kan de rechter, voordat hij de vordering toewijst, aan de huurder een termijn van ten hoogste een maand toestaan om alsnog aan zijn verplichtingen te voldoen of het aanbod te aanvaarden.
 
-7.	Onder gehandicapte in het derde lid wordt verstaan een persoon die ten gevolge van ziekte of gebrek aantoonbare beperkingen ondervindt.
+Artikel 274a
+
+1.	Onder eigen gebruik in de zin van artikel 274 lid 1 onder c wordt mede begrepen het verstrekken van een zelfstandige woning aan een gehandicapte, indien die woning:
+	a.	reeds bij de bouw ervan was ingericht en bestemd voor bewoning door een gehandicapte, of
+	b.	na de bouw met geldelijke steun op grond van een wettelijke regeling aangepast is ten behoeve van bewoning door een gehandicapte.
+
+2.	Onder gehandicapte wordt in dit artikel verstaan een persoon die ten gevolge van ziekte of gebrek aantoonbare beperkingen ondervindt.
+
+Artikel 274b
+
+Onder eigen gebruik in de zin van artikel 274 lid 1 onder c wordt mede begrepen het verstrekken aan een oudere van een zelfstandige woning welke onderdeel uitmaakt van een complex van zelfstandige woningen, welk complex reeds bij de bouw ervan was ingericht en bestemd voor de bewoning door ouderen.
+
+Artikel 274c
+
+1.	Onder eigen gebruik in de zin van artikel 274 lid 1 onder c wordt mede begrepen het verstrekken van woonruimte aan een jongere, indien aan de in de volgende leden vermelde voorwaarden is voldaan.
+
+2.	Onder jongere wordt in dit artikel verstaan een persoon die nog niet de leeftijd van 28 jaren heeft bereikt.
+
+3.	De woonruimte moet krachtens de huurovereenkomst bestemd zijn voor jongeren.
+
+4.	Sedert de ingangsdatum van de huurovereenkomst moeten vijf jaren zijn verstreken. Voor het verstrijken van deze termijn kan door partijen worden overeengekomen dat deze termijn wordt verlengd met ten hoogste twee jaren. In dat geval moet tevens de termijn waarmee de verlenging plaatsvond, zijn verstreken.
+
+5.	In de huurovereenkomst met de huurder tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet zijn bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een jongere zal worden verhuurd. Voor de toepassing van de eerste volzin wordt met een jongere gelijkgesteld een student als bedoeld in artikel 274d lid 2 en een promovendus als bedoeld in artikel 274e lid 2.
+
+Artikel 274d
+
+1.	Onder eigen gebruik in de zin van artikel 274 lid 1 onder c wordt mede begrepen het verstrekken van woonruimte aan een student indien aan de in de volgende leden vermelde voorwaarden is voldaan.
+
+2.	Onder student wordt in dit artikel verstaan een deelnemer die is ingeschreven aan een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs of een student die is ingeschreven aan een universiteit of hogeschool als bedoeld in artikel 1.2, onderdelen a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+
+3.	De woonruimte moet krachtens de huurovereenkomst bestemd zijn voor studenten.
+
+4.	De huurder, tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet hebben nagelaten te voldoen aan een schriftelijk verzoek van de verhuurder, dat deze jaarlijks kan doen, om binnen drie maanden een kopie van het bewijs van zijn inschrijving aan een instelling, universiteit of hogeschool als bedoeld in lid 2 inzake het lopende studiejaar over te leggen.
+
+5.	In de huurovereenkomst met de huurder tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet zijn bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een student zal worden verhuurd. Voor de toepassing van de eerste volzin worden met een student gelijkgesteld een jongere als bedoeld in artikel 274c lid 2 en een promovendus als bedoeld in artikel 274e lid 2.
+
+Artikel 274e
+
+1.	Onder eigen gebruik in de zin van artikel 274 lid 1 onder c wordt mede begrepen het verstrekken van woonruimte aan een promovendus, indien aan de in de volgende leden vermelde voorwaarden is voldaan.
+
+2.	Onder promovendus wordt in dit artikel verstaan degene die zich voorbereidt op een promotie als bedoeld in artikel 7.18 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+
+3.	De woonruimte moet krachtens de huurovereenkomst bestemd zijn voor promovendi.
+
+4.	De huurder, tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet hebben nagelaten te voldoen aan een schriftelijk verzoek van de verhuurder, dat deze jaarlijks kan doen, om binnen drie maanden een verklaring van de betreffende onderwijsinstelling waaruit de voorbereiding op een promotie als bedoeld in artikel 7.18 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek blijkt, over te leggen.
+
+5.	In de huurovereenkomst met de huurder tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet zijn bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een promovendus zal worden verhuurd. Voor de toepassing van de eerste volzin worden met een promovendus gelijkgesteld een jongere als bedoeld in artikel 274c lid 2 en een student als bedoeld in artikel 274d lid 2.
+
+Artikel 274f
+
+1.	Onder eigen gebruik in de zin van artikel 274 lid 1 onder c wordt mede begrepen het verstrekken van woonruimte aan een groot gezin, indien aan de in de volgende leden vermelde voorwaarden is voldaan.
+
+2.	Onder een groot gezin wordt in dit artikel verstaan een huishouden van de huurder dat tenminste uit acht personen bestaat.
+
+3.	De woonruimte moet krachtens de huurovereenkomst bestemd zijn voor grote gezinnen.
+
+4.	De huurder die deel uitmaakt van een groot gezin, tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet hebben nagelaten te voldoen aan een schriftelijk verzoek van de verhuurder, dat deze jaarlijks kan doen, om binnen drie maanden een afschrift van gegevens uit de basisregistratie personen waaruit blijkt dat ten minste vijf personen van dat gezin als zijnde woonachtig op het betreffende adres staan ingeschreven, over te leggen.
+
+5.	In de huurovereenkomst met de huurder tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet zijn bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een groot gezin zal worden verhuurd.
 
 Artikel 275
 
@@ -1780,7 +1835,7 @@ Artikel 275
 
 2.	De rechter kan, voordat hij een beslissing geeft, waarin dit bedrag wordt vastgesteld, zijn voornemen ter kennis van partijen brengen en een termijn stellen waarbinnen de verhuurder de opzegging kan intrekken. Maakt de verhuurder van deze bevoegdheid gebruik, dan beslist de rechter uitsluitend over de proceskosten.
 
-3.	Bij beëindiging van de huurovereenkomst op de gronden, bedoeld in artikel 274 lid 1 onder c in verbinding met lid 3 onder a en in artikel 274 lid 1 onder e, draagt de verhuurder bij in de kosten die de verhuizing voor de huurder meebrengt.
+3.	Bij beëindiging van de huurovereenkomst op de gronden, bedoeld in artikel 274 lid 1 onder c in verbinding met lid 3 en in artikel 274 lid 1 onder e, draagt de verhuurder bij in de kosten die de verhuizing voor de huurder meebrengt.
 
 4.	De minimumbijdrage in de verhuis- en inrichtingskosten voor de huurders van zelfstandige woningen, woonwagens en standplaatsen wordt bij ministeriële regeling van de Minister voor Wonen, Wijken en Integratie vastgesteld en zal jaarlijks voor 1 maart worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Het in de eerste zin genoemde bedrag wordt afgerond op hele euro’s.
 
@@ -1800,7 +1855,7 @@ Artikel 276
 
 Artikel 277
 
-1.	Indien de rechter de huurovereenkomst heeft verlengd, kan de verhuurder de overeenkomst opnieuw met inachtneming van artikel 271 en van de in lid 2 vermelde termijnen opzeggen en overeenkomstig de artikelen 272 tot en met 274 vorderen dat de rechter het tijdstip zal vaststellen, waarop de overeenkomst zal eindigen.
+1.	Indien de rechter de huurovereenkomst heeft verlengd, kan de verhuurder de overeenkomst opnieuw met inachtneming van artikel 271 en van de in lid 2 vermelde termijnen opzeggen en overeenkomstig de artikelen 272 tot en met 274f vorderen dat de rechter het tijdstip zal vaststellen, waarop de overeenkomst zal eindigen.
 
 2.	Indien de rechter de overeenkomst voor onbepaalde tijd heeft verlengd, kan de verhuurder haar niet eerder opnieuw opzeggen dan drie jaren nadat deze beslissing onherroepelijk is geworden. Indien de rechter de overeenkomst voor bepaalde tijd heeft verlengd, kan de verhuurder haar niet eerder opzeggen dan drie maanden voor het einde van de tijd waarvoor is verlengd.
 
@@ -2884,7 +2939,7 @@ Artikel 417
 
 3.	Een lasthebber heeft geen recht op loon jegens een lastgever ten opzichte van wie hij in strijd met het in de vorige leden bepaalde handelt, onverminderd zijn gehoudenheid tot vergoeding van de dientengevolge door die lastgever geleden schade. Van deze bepaling kan niet ten nadele van een lastgever worden afgeweken.
 
-4.	Indien een der lastgevers een persoon is als bedoeld in artikel 408 lid 3, en de rechtshandeling strekt tot koop of verkoop dan wel huur of verhuur van een onroerende zaak of een gedeelte daarvan of van een recht waaraan de zaak is onderworpen, heeft de lasthebber geen recht op loon jegens de koper of huurder. Van deze bepaling kan niet ten nadele van de koper of huurder worden afgeweken, tenzij de rechtshandeling strekt tot huur of verhuur van een tot woonruimte bestemd gedeelte van een zelfstandige woning.
+4.	Indien een der lastgevers een persoon is als bedoeld in artikel 408 lid 3, en de rechtshandeling strekt tot koop of verkoop dan wel huur of verhuur van een onroerende zaak of een gedeelte daarvan of van een recht waaraan de zaak is onderworpen, heeft de lasthebber geen recht op loon jegens de koper of huurder. Van deze bepaling kan niet ten nadele van de koper of huurder worden afgeweken, ongeacht of de verkoper of verhuurder ter zake van de door hem gegeven last loon is verschuldigd.
 
 Artikel 418
 
@@ -2948,7 +3003,7 @@ Artikel 426
 
 Artikel 427
 
-De artikelen 417 en 418 zijn van overeenkomstige toepassing op overeenkomsten waarbij de ene partij jegens de andere partij verplicht of bevoegd is als tussenpersoon werkzaam te zijn als bedoeld in artikel 425, met dien verstande dat met een tussenpersoon die tevens werkzaam is voor de wederpartij, gelijkgesteld is een tussenpersoon die zelf als wederpartij optreedt.
+De artikelen 417 en 418 zijn van overeenkomstige toepassing op overeenkomsten waarbij de ene partij jegens de andere partij verplicht of bevoegd is als tussenpersoon werkzaam te zijn als bedoeld in artikel 425, met dien verstande dat met een tussenpersoon die tevens werkzaam is voor de wederpartij, gelijkgesteld is een tussenpersoon die zelf als wederpartij optreedt. De artikelen 417 en 418 zijn mede van overeenkomstige toepassing, indien de tussenpersoon geen recht op loon heeft.
 
 Afdeling 4. Agentuurovereenkomst
 
@@ -4510,6 +4565,10 @@ Artikel 658b
 
 7.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan worden bepaald dat de in het eerste lid bedoelde deskundige door een ander dan het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen wordt aangewezen.
 
+Artikel 658c
+
+De werkgever mag de werknemer niet benadelen als gevolg van het te goeder trouw en naar behoren melden van een vermoeden van een misstand als bedoeld in artikel 1, onderdeel d, van de Wet Huis voor klokkenluiders tijdens en na de behandeling van deze melding bij de werkgever of de daartoe bevoegde instantie.
+
 Afdeling 7. Enkele bijzondere verplichtingen van de werknemer
 
 Artikel 659
@@ -4659,6 +4718,8 @@ Artikel 668a
 11.	Dit artikel is niet van toepassing op een arbeidsovereenkomst met een werknemer die de leeftijd van achttien jaar nog niet heeft bereikt, indien de gemiddelde omvang van de door hem verrichte arbeid ten hoogste twaalf uur per week heeft bedragen.
 
 12.	De periode, bedoeld in lid 1, onderdeel a, wordt verlengd tot ten hoogste 48 maanden, en het aantal, bedoeld in lid 1, onderdeel b, bedraagt ten hoogste zes, indien het betreft een arbeidsovereenkomst met een werknemer die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt. Voor de vaststelling of de in dit lid bedoelde periode of het bedoelde aantal arbeidsovereenkomsten is overschreden worden alleen arbeidsovereenkomsten in aanmerking genomen die zijn aangegaan na het bereiken van de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd.
+
+13.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kunnen de tussenpozen, bedoeld in lid 1, onderdelen a en b, worden verkort tot ten hoogste drie maanden, voor bij die overeenkomst of regeling aangewezen functies, die als gevolg van klimatologische of natuurlijke omstandigheden gedurende een periode van ten hoogste negen maanden per jaar kunnen worden uitgeoefend en niet aansluitend door dezelfde werknemer kunnen worden uitgeoefend gedurende een periode van meer dan negen maanden per jaar.
 
 Artikel 669
 
