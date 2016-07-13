@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2016 t/m 13-07-2016
+Geldend van 14-07-2016 t/m 31-07-2016
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -947,7 +947,183 @@ Artikel 73
 
 Titel 2b. Consumentenkredietovereenkomsten betreffende voor bewoning bestemde onroerende zaken
 
-[Dit onderdeel is nog niet inwerking getreden]
+Afdeling 1. Algemene bepalingen
+
+Artikel 118
+
+1.	In deze titel wordt verstaan onder:
+	a.	consument: een natuurlijk persoon die handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteiten vallen;
+	b.	kredietgever: een natuurlijk persoon of rechtspersoon die in het kader van de uitoefening van zijn bedrijfs- of beroepsactiviteiten op basis van een overeenkomst als bedoeld in artikel 119 lid 1 krediet verleent of toezegt;
+	c.	kredietovereenkomst: een overeenkomst als bedoeld in artikel 119 lid 1 waarbij een kredietgever aan een consument krediet verleent of toezegt in de vorm van een uitgestelde betaling, van een lening of van een soortgelijke financieringsregeling;
+	d.	nevendienst: een dienst die samen met de kredietovereenkomst aan de consument wordt aangeboden;
+	e.	kredietbemiddelaar: een natuurlijk persoon of rechtspersoon, niet zijnde de kredietgever of iemand die optreedt als notaris, die in het kader van zijn bedrijfs- of beroepsactiviteiten voor een vergoeding in geld of een andere overeengekomen financiële prestatie:
+		1°	aan consumenten kredietovereenkomsten voorstelt of aanbiedt;
+		2°	consumenten bijstaat bij de voorbereiding of ander precontractueel beheer van andere dan de onder 1° bedoelde kredietovereenkomsten, of
+		3°	namens de kredietgever met consumenten kredietovereenkomsten sluit;
+	f.	verbonden kredietbemiddelaar: een kredietbemiddelaar die optreedt in naam van en onder de onvoorwaardelijke verantwoordelijkheid van:
+		1°	slechts één kredietgever;
+		2°	slechts één groep, of
+		3°	een aantal kredietgevers of groepen die niet de meerderheid van de markt vertegenwoordigen;
+	g.	groep: groep kredietgevers die geconsolideerd moeten worden voor de opstelling van de geconsolideerde jaarrekening als omschreven in Richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen (Pb EU L 182).
+	h.	totaal kredietbedrag: het plafond of de som van alle bedragen die op grond van een kredietovereenkomst beschikbaar worden gesteld;
+	i.	totale kosten van het aan de consument verleende krediet: alle kosten en vergoedingen van welke aard ook, die de consument in verband met de kredietovereenkomst moet betalen en die de kredietgever bekend zijn, met uitzondering van notariskosten;
+	j.	het totale door de consument te betalen bedrag: de som van het totale kredietbedrag en de totale kosten van het krediet voor de consument;
+	k.	jaarlijks kostenpercentage: de totale kosten van het krediet voor de consument, uitgedrukt in een percentage op jaarbasis van het totale kredietbedrag, indien toepasselijk te vermeerderen met de in lid 3 bedoelde kosten;
+	l.	debetrentevoet: de rentevoet, uitgedrukt op jaarbasis en toegepast in een vast of variabel percentage;
+	m.	kredietwaardigheidsbeoordeling: de evaluatie van de vooruitzichten dat de uit de kredietovereenkomst voortvloeiende verplichtingen tot schuldaflossing worden nagekomen;
+	n.	duurzame drager: ieder hulpmiddel dat de consument in staat stelt persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die is afgestemd op het doel waarvoor de informatie kan dienen, en die een ongewijzigde reproductie van de opgeslagen informatie mogelijk maakt;
+	o.	adviesdiensten: het geven van persoonlijke aanbevelingen aan een consument met betrekking tot een of meer transacties in samenhang met kredietovereenkomsten, hetgeen een afzonderlijke activiteit vormt ten opzichte van de verlening van een krediet en ten opzichte van de in onderdeel e omschreven kredietbemiddelingsactiviteiten;
+	p.	koppelverkoop: het aangaan of aanbieden van een kredietovereenkomst als onderdeel van een pakket met andere onderscheiden financiële producten of diensten waarbij de kredietovereenkomst niet afzonderlijk wordt aangeboden aan de consument;
+	q.	gebundelde verkoop: het aangaan of aanbieden van een kredietovereenkomst als onderdeel van een pakket met andere onderscheiden financiële producten of diensten waarbij de kredietovereenkomst ook afzonderlijk aan de consument beschikbaar wordt gesteld, maar waarbij niet noodzakelijkerwijs dezelfde voorwaarden gelden als wanneer deze in combinatie met de nevendiensten wordt aangeboden;
+	r.	lening in vreemde valuta: een kredietovereenkomst waarbij het krediet
+		1°	uitgedrukt wordt in een andere valuta dan die waarin de consument het inkomen ontvangt of de activa aanhoudt waaruit de lening moet worden afgelost, of
+		2°	uitgedrukt wordt in een andere valuta dan die van de lidstaat waar de consument verblijft;
+	s.	Richtlijn:Richtlijn nr. 2014/17/EU van het Europees Parlement en de Raad van 4 februari 2014 inzake kredietovereenkomsten voor consumenten met betrekking tot voor bewoning bestemde onroerende goederen en tot wijziging van de Richtlijnen 2008/48/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 (Pb EU L 60);
+	t.	onroerende zaak: een onroerende zaak of een zakelijk recht daarop.
+
+2.	De totale kosten van het krediet dat aan de consument wordt verleend, bedoeld in lid 1, onderdeel i, omvatten mede de kosten voor de waardebepaling van de onroerende zaak, indien die waardebepaling nodig is om het krediet te verkrijgen, met uitzondering van de registratiekosten voor de overdracht van de onroerende zaak. Onder de totale kosten van het aan de consument verleende krediet vallen niet de door de consument te betalen kosten voor de niet-nakoming van de in de kredietovereenkomst vastgestelde verplichtingen.
+
+3.	Voor de toepassing van lid 1, onderdeel k, worden de kosten voor het openen en aanhouden van een specifieke rekening, voor het gebruik van een betaalmiddel voor zowel transacties als kredietopnemingen op die rekening en andere, met betalingstransacties verband houdende kosten in de totale kosten van het krediet voor de consument opgenomen wanneer er een rekening moet worden geopend of aangehouden ter verkrijging van het krediet of ter verkrijging van het krediet onder de geadverteerde voorwaarden.
+
+Artikel 119
+
+1.	Deze titel is van toepassing op:
+	a.	kredietovereenkomsten die gewaarborgd worden door een hypotheek of door een andere vergelijkbare zekerheid op voor bewoning bestemde onroerende zaken, of gewaarborgd worden door een recht op voor bewoning bestemde onroerende zaken; en
+	b.	kredietovereenkomsten voor het verkrijgen of het behouden van eigendomsrechten betreffende grond of een bestaand of gepland gebouw.
+
+2.	Deze titel is niet van toepassing op:
+	a.	kredietovereenkomsten waarbij de kredietgever:
+		1°	een eenmalig bedrag, periodieke bedragen of op andere wijze een krediet uitbetaalt in ruil voor een bedrag ontleend aan de toekomstige verkoop van een voor bewoning bestemde onroerende zaak of een recht op een voor bewoning bestemde onroerende zaak, en
+		2°	pas aflossing van het krediet verlangt wanneer de consument in staat van faillissement is verklaard, op hem de schuldsanering natuurlijke personen van toepassing is verklaard dan wel bij overlijden van de consument of bij andere in de overeenkomst opgenomen gebeurtenissen, tenzij de consument zijn contractuele verplichtingen niet nakomt, waardoor de kredietgever het recht heeft de kredietovereenkomst te beëindigen;
+	b.	kredietovereenkomsten waarbij een werkgever het krediet als nevenactiviteit rentevrij of tegen een jaarlijks kostenpercentage dat lager is dan gebruikelijk op de markt, aan zijn werknemers verstrekt, en dit niet in het algemeen aan het publiek aanbiedt;
+	c.	kredietovereenkomsten waarbij geen rente en andere kosten hoeven te worden vergoed, afgezien van kosten die rechtstreeks verband houden met het stellen van een zekerheid voor het krediet;
+	d.	kredietovereenkomsten die in de vorm van een geoorloofde debetstand op een rekening worden verleend en die binnen een maand moeten worden afgelost;
+	e.	kredietovereenkomsten die het resultaat zijn van een schikking voor de rechter of een andere daartoe van overheidswege bevoegde instantie;
+	f.	kredietovereenkomsten die betrekking hebben op kosteloos uitstel van betaling van een bestaande schuld en niet onder het toepassingsgebied van lid 1, onderdeel a, vallen;
+	g.	kredietovereenkomsten betreffende kredieten die krachtens een wettelijke bepaling met een doelstelling van algemeen belang aan een beperkt publiek worden toegekend tegen een lagere dan op de markt gebruikelijke debetrentevoet, dan wel rentevrij, of onder andere voorwaarden die voor de consument gunstiger zijn dan de op markt gebruikelijke voorwaarden en tegen rentetarieven die niet hoger zijn dan de op de markt gebruikelijke rentetarieven;
+	h.	kredietovereenkomsten waarbij de kredietgever een organisatie is die valt onder de toepassing van artikel 2 lid 5 van Richtlijn 2008/48/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG (Pb EU L 133).
+
+Afdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
+
+Artikel 120
+
+1.	De reclame voor kredietovereenkomsten is eerlijk, duidelijk en niet misleidend en mag geen bewoordingen bevatten die bij de consument valse verwachtingen kunnen scheppen betreffende de beschikbaarheid of de kosten van een krediet.
+
+2.	Alle reclame voor kredietovereenkomsten waarin een rentevoet of cijfers betreffende de kosten van het krediet voor de consument worden vermeld, moet de in artikel 11, tweede en vierde lid, van de richtlijn genoemde standaardinformatie bevatten. Deze informatie is naargelang van de voor de reclame gebruikte drager goed leesbaar of duidelijk hoorbaar.
+
+3.	De in artikel 11, lid 2, onderdelen c tot en met i, van de Richtlijn bedoelde informatie wordt verduidelijkt door middel van een representatief voorbeeld dat steeds wordt gevolgd. Hierbij worden de bij of krachtens artikel 4:20 van de Wet op het financieel toezicht vastgestelde nadere criteria voor een representatief voorbeeld toegepast.
+
+4.	In de in reclame op te nemen standaardinformatie wordt tevens een beknopte en evenredige waarschuwing met betrekking tot de specifieke aan kredietovereenkomsten verbonden risico’s opgenomen.
+
+5.	Een kredietgever die in reclame voor kredietovereenkomsten het bepaalde in de vorige leden niet in acht neemt, verricht een oneerlijke handelspraktijk als bedoeld in artikel 193b van Boek 6.
+
+Artikel 121
+
+1.	De kredietgever heeft het recht tot gebundelde verkoop. Koppelverkoop is niet toegelaten.
+
+2.	Onverminderd lid 1 kan de kredietgever de consument, een familielid of een persoon uit de onmiddellijke omgeving van de consument verzoeken:
+	a.	een beleggingsproduct of een particulier pensioenproduct te openen of aan te houden, indien dit product, dat hoofdzakelijk de belegger een inkomen tijdens pensionering biedt, tevens dient als bijkomende zekerheid voor de kredietgever in geval van wanbetaling, dan wel om kapitaal op te bouwen om het krediet terug te betalen of af te lossen, of tegoeden samen te voegen om het krediet te verkrijgen;
+	b.	een afzonderlijke kredietovereenkomst te sluiten in combinatie met een kredietovereenkomst op basis van gedeelde vermogens om het krediet te verkrijgen.
+
+3.	De kredietgever kan van de consument verlangen dat hij over een verzekeringspolis met betrekking tot de kredietovereenkomst beschikt. De kredietgever is verplicht de verzekeringspolis van een andere dan de dienstverlener van zijn voorkeur te aanvaarden, mits de door die polis geboden waarborg gelijk is aan die van de door de kredietgever voorgestelde verzekeringspolis.
+
+Artikel 122
+
+1.	De kredietgever en, in voorkomend geval, de kredietbemiddelaar verstrekt de consument onverwijld nadat hij de nodige informatie over zijn behoeften, financiële situatie en voorkeuren heeft verstrekt en ruimschoots voordat hij door een kredietovereenkomst of een aanbod wordt gebonden, de op zijn persoon toegesneden informatie die hij nodig heeft om de op de markt beschikbare kredietproducten te kunnen vergelijken en de respectievelijke implicaties ervan te kunnen beoordelen en zo een geïnformeerd besluit over het sluiten van een kredietovereenkomst te kunnen nemen.
+
+2.	De op de persoon van de consument toegesneden informatie wordt op papier of op een andere duurzame drager verstrekt door middel van het in bijlage K van het in artikel 112d Besluit gedragstoezicht financiële ondernemingen Wft opgenomen model.
+
+3.	Een voor de kredietgever bindend aanbod wordt aan de consument gedaan op de in het tweede lid bedoelde wijze en gaat vergezeld van het daar bedoelde model, tenzij dit eerder aan de consument is verstrekt en de kenmerken van het aanbod niet afwijken van de informatie die in dat eerdere aan de consument verstrekte model was opgenomen.
+
+4.	Indien de kredietgever of, in voorkomend geval, de kredietbemiddelaar aan de consument aanvullende informatie verstrekt, wordt dit in een afzonderlijk document aan de consument ter beschikking gesteld, dat bij het in het tweede lid bedoelde model kan worden gevoegd.
+
+5.	De kredietovereenkomst komt niet tot stand dan nadat de kredietgever of, in voorkomend geval, de kredietbemiddelaar de consument bij het doen van een bindend aanbod als bedoeld in lid 3 op papier of op een andere duurzame drager een exemplaar van de voorgenomen kredietovereenkomst heeft verstrekt en waarbij wordt meegedeeld dat dit aanbod gedurende veertien dagen voor de kredietgever bindend blijft.
+
+6.	Indien de debetrentevoet of andere, op het aanbod toepasselijke kosten worden bepaald aan de hand van de verkoop van onderliggende schuldbewijzen of andere langetermijnfinancieringsinstrumenten, kunnen de debetrentevoet of andere kosten afwijken van die van het aanbod overeenkomstig de waarde van de onderliggende schuldbewijzen of andere langetermijnfinancieringsinstrumenten.
+
+Artikel 123
+
+1.	Indien de kredietovereenkomst wordt gesloten door tussenkomst van een kredietbemiddelaar, wordt door deze ruimschoots voordat hij de in artikel 118, lid 1, onder e, genoemde kredietbemiddelingsactiviteiten uitoefent, aan de consument op papier of op een andere duurzame drager vermeld:
+	a.	de identiteit en het geografische adres van de kredietbemiddelaar;
+	b.	het register als bedoeld in artikel 1:107 van de Wet op het financieel toezicht, waarin de kredietbemiddelaar is ingeschreven en indien mogelijk, het registratienummer en de wijze waarop deze registratie geverifieerd kan worden;
+	c.	of de kredietbemiddelaar verbonden is of uitsluitend met een of meer kredietgevers werkt, met verstrekking van de naam van de kredietgever of kredietgevers voor wie de kredietbemiddelaar optreedt.
+	d.	of de kredietbemiddelaar adviesdiensten aanbiedt;
+	e.	de vergoeding die de consument in voorkomend geval aan de kredietbemiddelaar voor zijn diensten verschuldigd is of, indien dat niet mogelijk is, de wijze om de vergoeding te berekenen;
+	f.	volgens welke procedures consumenten of andere belanghebbenden klachten over kredietbemiddelaars intern kunnen indienen en, in voorkomend geval, hoe gebruik kan worden gemaakt van buitengerechtelijke klachten- en beroepsprocedures.
+
+2.	De kredietbemiddelaar is verplicht de vergoeding die de consument voor zijn dienstverlening aan hem dient te betalen, mee te delen aan de kredietgever teneinde het jaarlijks kostenpercentage te kunnen berekenen.
+
+3.	Indien de kredietbemiddelaar niet aan zijn in de leden 1 en 2 bedoelde verplichtingen voldoet, is de consument geen vergoeding voor zijn dienstverlening verschuldigd.
+
+Afdeling 3. Jaarlijks kostenpercentage
+
+Artikel 124
+
+1.	Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomstig artikel 17 van de Richtlijn en bijlage I bij de Richtlijn.
+
+2.	Indien in de kredietovereenkomst is overeengekomen dat de debetrentevoet kan worden gewijzigd, licht de kredietgever de consument door middel van het in bijlage II bij de Richtlijn opgenomen model in over de mogelijke effecten van wijzigingen op de te betalen bedragen en op het jaarlijkse kostenpercentage. De kredietgever verstrekt aan de consument een bijkomend jaarlijks kostenpercentage met een toelichting van de mogelijke risico’s die aan een significante verhoging van de debetrentevoet verbonden zijn. Indien de debetrentevoet niet beperkt is, wordt de consument tevens gewaarschuwd dat de totale kredietkosten voor de consument, zoals getoond in het jaarlijks kostenpercentage, kunnen wijzigen.
+
+3.	Lid 2 is niet van toepassing op kredietovereenkomsten waarbij de debetrentevoet vaststaat voor een eerste periode van ten minste vijf jaar en waarvoor aan het eind van deze periode wordt onderhandeld over de debetrentevoet teneinde een nieuwe vaste debetrentevoet overeen te komen voor een verdere materiële periode. In het in de bijlage II bij de Richtlijn opgenomen model wordt hiervoor in een bijkomend, illustratief jaarlijks kostenpercentage voorzien.
+
+Afdeling 4. Informatie en rechten betreffende kredietovereenkomsten
+
+Artikel 125
+
+1.	De kredietgever kan de kredietovereenkomst niet ten nadele van de consument beëindigen of wijzigen op grond van een onjuist uitgevoerde beoordeling van de kredietwaardigheid, tenzij de consument bewust informatie in de zin van artikel 4:34, derde lid, van de Wet op het financieel toezicht heeft achtergehouden of onjuist heeft weergegeven.
+
+2.	De kredietgever kan de kredietovereenkomst niet beëindigen op grond van door de consument onvolledig verstrekte informatie voor het sluiten van de kredietovereenkomst, tenzij de consument bewust informatie heeft achtergehouden of onjuist heeft weergegeven.
+
+Artikel 126
+
+1.	Indien de kredietovereenkomst in vreemde valuta is uitgedrukt, heeft de consument met ingang van het tijdstip waarop de overeenkomst wordt gesloten het recht om de overeenkomst om te zetten in een andere valuta of kan de consument een beroep doen op andere maatregelen op grond waarvan het wisselkoersrisico waaraan de consument in het kader van de overeenkomst blootstaat, wordt beperkt.
+
+2.	De in lid 1, onder a, bedoelde andere valuta zijn:
+	a.	de valuta waarin de consument hoofdzakelijk zijn inkomen ontvangt of de activa aanhoudt waaruit het krediet moet worden afgelost, zoals aangegeven op het tijdstip waarop ten behoeve van de kredietovereenkomst de recentste kredietwaardigheidsbeoordeling werd opgemaakt; of
+	b.	de valuta van de lidstaat waar de consument op het tijdstip van de totstandkoming van de kredietovereenkomst zijn verblijfplaats had of waar hij bij de omzetting zijn verblijfplaats heeft.
+
+3.	Indien de consument het recht heeft de kredietovereenkomst in een andere valuta om te zetten, als bedoeld in lid 1, onder a, geschiedt de omrekening tegen de wisselkoers die van toepassing is op de dag waarop de omzetting wordt aangevraagd, tenzij in de kredietovereenkomst anders is bepaald.
+
+4.	Maatregelen waarop de consument een beroep kan doen, als bedoeld in lid 1, onder b, zijn het stellen van bovengrenzen door de kredietgever of, in de gevallen waarin deze volstaan om het wisselkoersrisico te beperken, het geven van waarschuwingen.
+
+5.	De consument die een lening in vreemde valuta is aangegaan, wordt door de kredietgever regelmatig op papier of door middel van een andere duurzame drager gewaarschuwd, ten minste indien de waarde van het totale uitstaande, nog door de consument te betalen bedrag of de waarde van de afbetalingstermijnen meer dan 20 procent afwijkt van de waarde die zou gelden indien de wisselkoers van de valuta van de lidstaat zou worden toegepast, die gold op het tijdstip waarop de overeenkomst werd gesloten. De waarschuwing bevat informatie over de stijging van het totale, door de consument te betalen bedrag, zet in voorkomend geval uiteen dat de consument het recht heeft om de overeenkomst in een andere valuta om te zetten met de daartoe geldende voorwaarden en geeft uitleg over elk ander toepasselijk mechanisme ter beperking van het wisselkoersrisico waaraan de consument is blootgesteld.
+
+6.	De op grond van de leden 1 tot en met 5 toepasselijke regelingen worden aan de consument in het in bijlage II bij de Richtlijn opgenomen model en in de kredietovereenkomst meegedeeld. Indien in de kredietovereenkomst geen bepaling is opgenomen om het wisselkoersrisico, waaraan de consument is blootgesteld, te beperken tot een schommeling in de wisselkoers van 20 procent, wordt in het eerdergenoemde model met een voorbeeld geïllustreerd wat de gevolgen zijn van een wisselkoersschommeling van 20 procent.
+
+Artikel 127
+
+1.	De consument heeft het recht om zich vóór het verstrijken van de kredietovereenkomst geheel of gedeeltelijk van zijn verplichtingen op grond van de kredietovereenkomst te kwijten. In dat geval heeft de consument recht op een vermindering van de totale kredietkosten die gelijk is aan de rente en de kosten voor de resterende duur van de overeenkomst.
+
+2.	De kredietgever kan in de kredietovereenkomst opnemen dat een vervroegde aflossing alleen is toegestaan op bepaalde data, met inachtneming van een bepaalde termijn of termijnen, met inachtneming van bepaalde minimumbedragen, dan wel tegen betaling van een vergoeding.
+
+3.	Indien in de kredietovereenkomst is overeengekomen dat de kredietgever in geval van een vervroegde aflossing recht heeft op een vergoeding, is deze vergoeding een eerlijke en objectief verantwoorde vergoeding voor mogelijke kosten die rechtstreeks aan vervroegde aflossing verbonden zijn. De vergoeding mag het door de kredietgever geleden financiële nadeel niet overschrijden. Aan de consument mag geen boete worden opgelegd.
+
+4.	Indien de consument vóór het verstrijken van de kredietovereenkomst aan zijn verplichtingen op grond van de kredietovereenkomst wenst te voldoen, deelt de kredietgever hem onmiddellijk na ontvangst van diens verzoek, op papier of op een andere duurzame drager, de informatie mee die hij nodig heeft om die mogelijkheid te kunnen overwegen. De kredietgever verstrekt aan de consument ten minste een berekening van de gevolgen voor de consument die vóór het verstrijken van de kredietovereenkomst aan zijn verplichtingen voldoet met een duidelijke vermelding van de daarbij gehanteerde hypothesen, die elk redelijk en verdedigbaar zijn.
+
+Artikel 128
+
+1.	De kredietgever stelt de consument op papier of op een andere duurzame drager in kennis van wijzigingen in de debetrentevoet voordat deze ingaan. Daarbij worden ten minste het bedrag van de betalingen vermeld die moeten worden verricht nadat de nieuwe debetrentevoet in werking is getreden, alsook bijzonderheden betreffende een eventuele wijziging in het aantal of de frequentie van de betalingen.
+
+2.	De partijen kunnen evenwel in de kredietovereenkomst overeenkomen dat de informatie, bedoeld in lid 1, periodiek aan de consument wordt verstrekt indien de wijziging in de debetrentevoet rechtstreeks met de wijziging van een referentierentevoet samenhangt, het publiek via passende middelen kennis kan nemen van de nieuwe referentierentevoet en de informatie over de nieuwe referentierentevoet beschikbaar is in de gebouwen van de kredietgever en samen met het bedrag van de nieuwe periodieke betalingstermijnen persoonlijk aan de consument wordt meegedeeld.
+
+3.	Indien wijzigingen in de debetrentevoet worden vastgesteld door middel van een veiling op de kapitaalmarkten en het aldus voor de kredietgever niet mogelijk is om de consument te informeren voordat de wijziging toegepast kan worden, verschaft de kredietgever tijdig voor de veiling aan de consument op papier of door middel van een ander duurzaam medium informatie over de op handen zijnde procedure en geeft hij een aanwijzing omtrent het mogelijke effect ervan op de debetrentevoet.
+
+Artikel 128a
+
+1.	Indien de consument in verzuim is met zijn verplichtingen uit hoofde van de kredietovereenkomst, mag de kredietgever niet tot aanzegging van de executie als bedoeld in artikel 544 van het Wetboek van Burgerlijke Rechtsvordering overgaan dan nadat ten minste twee maanden na het tijdstip waarop de vordering opeisbaar is geworden, zijn verstreken en de kredietgever de consument persoonlijk heeft uitgenodigd om in overleg te treden over diens betalingsachterstand, tenzij in redelijkheid niet van de kredietgever kan worden gevergd dat hij voormelde termijn in acht neemt of de consument persoonlijk benadert om te overleggen.
+
+2.	Onverminderd het recht op wettelijke rente als bedoeld in artikel 119 van Boek 6 van het Burgerlijk Wetboek is de vergoeding die de consument aan de kredietgever verschuldigd is wegens niet-nakoming van zijn uit de kredietovereenkomst voortvloeiende verplichtingen, niet hoger dan hetgeen nodig is ter vergoeding van de schade die de kredietgever als gevolg van de niet-nakoming heeft geleden.
+
+Afdeling 5. Slotbepalingen
+
+Artikel 128b
+
+De kredietgever of, in voorkomend geval, de kredietbemiddelaar brengt de consument geen kosten in rekening voor zijn informatieverplichtingen uit hoofde van deze titel.
+
+Artikel 128c
+
+1.	Van het bepaalde bij deze titel kan niet ten nadele van de consument worden afgeweken.
+
+2.	De consument kan de hem krachtens deze titel toegekende bescherming niet worden ontzegd als gevolg van de wijze waarop overeenkomsten zijn opgesteld, met name doordat een kredietovereenkomst in de zin van deze Richtlijn is opgenomen in een kredietovereenkomst waarvan de aard of het doel het mogelijk maakt de toepassing van die maatregelen te ontwijken.
 
 Titel 2d. Overeenkomst van pandbelening
 
