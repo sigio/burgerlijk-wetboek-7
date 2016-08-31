@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-08-2016 t/m 31-08-2016
+Geldend van 01-09-2016 t/m 07-12-2016
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -1557,6 +1557,8 @@ Artikel 237
 
 3.	In deze afdeling wordt verstaan onder kosten voor nutsvoorzieningen met een individuele meter: de vergoeding in verband met de levering van elektriciteit, gas en water voor het verbruik in het woonruimtegedeelte van het gehuurde op basis van een zich in dat gedeelte bevindende individuele meter. Onder servicekosten wordt verstaan de vergoeding voor de overige zaken en diensten die geleverd worden in verband met de bewoning van de woonruimte. Bij algemene maatregel van bestuur kunnen zaken en diensten worden aangewezen waarvoor de vergoeding moet worden aangemerkt als servicekosten.
 
+4.	In deze afdeling wordt onder energieprestatievergoeding verstaan de schriftelijk overeengekomen betalingsverplichting die de huurder met betrekking tot de kosten voor een door de verhuurder gegarandeerde energieprestatie van de woonruimte als gevolg van een combinatie van energiebesparende en energieleverende voorzieningen aan die woonruimte moet voldoen.
+
 Artikel 238
 
 Onder huurcommissie wordt verstaan de huurcommissie bedoeld in artikel 3a van de Uitvoeringswet huurprijzen woonruimte.
@@ -1777,7 +1779,9 @@ Artikel 261
 
 Artikel 261a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Indien een energieprestatievergoeding is overeengekomen, kan de huurder de huurcommissie verzoeken deze te toetsen aan de krachtens artikel 19bis van de Uitvoeringswet huurprijzen woonruimte gegeven regels.
+
+2.	De artikelen 259, tweede lid, en 260, tweede lid, zijn van overeenkomstige toepassing.
 
 Paragraaf 3. Slotbepalingen
 
