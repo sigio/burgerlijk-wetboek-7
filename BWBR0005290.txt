@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 08-12-2016 t/m 31-12-2016
+Geldend van 01-01-2017 t/m 09-03-2017
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -48,8 +48,6 @@ Artikel 3
 5.	Nadat de inschrijving haar werking heeft verloren, kan gedurende zes maanden geen koop tussen dezelfde partijen met betrekking tot hetzelfde goed worden ingeschreven.
 
 6.	Inschrijving van de koop vindt slechts plaats indien onder de koopakte een ondertekende en gedateerde verklaring van een notaris is opgenomen, die zijn naam, voornamen, standplaats en kwaliteit bevat en waarin verklaard wordt dat de leden 1, 2 en 5 niet aan inschrijving in de weg staan.
-
-7.	De leden 1–6 zijn niet van toepassing op huurkoop.
 
 Artikel 4
 
@@ -671,7 +669,9 @@ Artikel 56
 
 Titel 2a. Consumentenkredietovereenkomsten
 
-Afdeling 1. Algemene bepalingen
+Afdeling 1. Bepalingen ter uitvoering van richtlijn nr. 2008/48/EG van 23 april 2008 inzake kredietovereenkomsten voor consumenten
+
+Onderafdeling 1. Algemene bepalingen
 
 Artikel 57
 
@@ -726,7 +726,7 @@ Artikel 58
 	b.	kredietovereenkomsten voor het verkrijgen of het behouden van eigendomsrechten betreffende grond of een bestaand of gepland gebouw;
 	c.	huur of lease-overeenkomsten, tenzij:
 		1°.	zij een verplichting tot aankoop van het object van de overeenkomst inhouden of een dergelijke verplichting bij afzonderlijke overeenkomst is toegevoegd, waaronder tevens is begrepen dat tot de verplichting tot aankoop eenzijdig door de kredietgever wordt besloten, dan wel
-		2°.	zij krachtens artikel 7A:1576h lid 2 als huurkoop moeten worden aangemerkt;
+		2°.	zij als een overeenkomst van goederenkrediet als bedoeld in artikel 84 moeten worden aangemerkt;
 	d.	kredietovereenkomsten die in de vorm van een geoorloofde debetstand op een rekening worden verleend en die binnen een maand moeten worden afgelost;
 	e.	kredietovereenkomsten zonder rente en andere kosten, en kredietovereenkomsten waarbij het krediet binnen een termijn van drie maanden moet worden terugbetaald en slechts onbetekenende kosten worden aangerekend;
 	f.	kredietovereenkomsten waarbij het krediet als nevenactiviteit door een werkgever rentevrij of tegen een jaarlijks kostenpercentage dat lager is dan gebruikelijk op de markt, aan zijn werknemers wordt toegekend, en die niet aan het publiek in het algemeen worden aangeboden;
@@ -739,7 +739,7 @@ Artikel 58
 
 4.	Op kredietovereenkomsten in de vorm van overschrijding zijn uitsluitend de artikelen 57, 58, 70 en 73 van toepassing.
 
-Afdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
+Onderafdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
 
 Artikel 59
 
@@ -760,7 +760,7 @@ Artikel 60
 
 3.	Indien de kredietgever of, in voorkomend geval, de kredietbemiddelaar, lid 1 of 2 niet in acht neemt, verricht hij een oneerlijke handelspraktijk als bedoeld in artikel 193b van Boek 6.
 
-Afdeling 3. Informatie en rechten betreffende kredietovereenkomsten
+Onderafdeling 3. Informatie en rechten betreffende kredietovereenkomsten
 
 Artikel 61
 
@@ -917,13 +917,13 @@ Artikel 70
 	c.	de debetrentevoet, en
 	d.	de eventuele toepasselijke boetes, kosten of rente wegens achterstand.
 
-Afdeling 4. Jaarlijks kostenpercentage
+Onderafdeling 4. Jaarlijks kostenpercentage
 
 Artikel 71
 
 Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomstig artikel 19 van de Richtlijn.
 
-Afdeling 5. Kredietgevers en kredietbemiddelaars
+Onderafdeling 5. Kredietgevers en kredietbemiddelaars
 
 Artikel 72
 
@@ -935,7 +935,7 @@ Artikel 72
 
 4.	Indien de kredietbemiddelaar niet aan zijn in de leden 1 tot en met 3 bedoelde verplichtingen voldoet, is de consument geen vergoeding voor zijn dienstverlening verschuldigd.
 
-Afdeling 6. Slotbepalingen
+Onderafdeling 6. Slotbepalingen
 
 Artikel 73
 
@@ -945,9 +945,363 @@ Artikel 73
 
 3.	Aan de consument kan, indien de kredietovereenkomst een nauwe band heeft met het grondgebied van een of meer lidstaten van de Europese Unie, de hem krachtens de Richtlijn door het recht van die staat toegekende bescherming niet worden onthouden, ongeacht het recht dat de kredietovereenkomst beheerst.
 
-Titel 2b. Consumentenkredietovereenkomsten betreffende voor bewoning bestemde onroerende zaken
+Afdeling 2. Overige bepalingen betreffende consumentenkredietovereenkomsten
 
-Afdeling 1. Algemene bepalingen
+Artikel 74
+
+In deze afdeling wordt verstaan onder:
+	a.	geldkrediet: de kredietovereenkomst waarbij door of vanwege de kredietgever aan de kredietnemer een geldsom ter beschikking wordt gesteld en de kredietnemer aan de kredietgever een of meer betalingen doet;
+	b.	goederenkrediet: de kredietovereenkomst, daaronder begrepen een samenstel van overeenkomsten die een commerciële eenheid vormen in de zin van artikel 57 lid 5, ter zake van het verschaffen van het genot door de kredietgever aan de kredietnemer van een roerende zaak, niet zijnde een registergoed;
+	c.	dienstenkrediet: de kredietovereenkomst omschreven onder b met dien verstande dat in plaats van het genot van een roerende zaak een bij algemene maatregel van bestuur aangewezen dienst wordt verschaft;
+	d.	kredietsom bij geldkrediet: de geldsom die de kredietnemer in het kader van een geldkrediet ter beschikking wordt gesteld, met dien verstande, dat bij doorlopend geldkrediet de kredietlimiet als die geldsom wordt aangemerkt;
+	e.	kredietsom bij goederen- of dienstenkrediet: het verschil tussen het totaal van de contante prijzen van de zaken, onderscheidenlijk diensten, waarvan de kredietnemer het genot wordt verschaft, onderscheidenlijk welke aan de kredietnemer worden verleend, en de door deze in dat kader gedane contante betalingen, met dien verstande dat bij een doorlopend goederen- of dienstenkrediet de kredietlimiet als dat verschil wordt aangemerkt;
+	f.	doorlopend geldkrediet: een geldkrediet waarbij de kredietnemer op verschillende tijdstippen geldsommen bij de kredietgever kan opnemen, voor zover het uitstaand saldo een bepaald bedrag, de kredietlimiet, niet overschrijdt;
+	g.	doorlopend goederen- of dienstenkrediet: een goederen- of dienstenkrediet, waarbij de kredietgever dan wel de leverancier van de goederen of diensten ervoor heeft te zorgen, dat aan de kredietnemer op verschillende tijdstippen het genot van zaken wordt verschaft of diensten worden verleend, voor zover het uitstaand saldo een bepaald bedrag, de kredietlimiet, niet overschrijdt;
+	h.	kredietvergoeding: alle beloningen en vergoedingen, in welke vorm ook, die de kredietgever of de leverancier van de goederen of diensten ter zake van een kredietovereenkomst bedingt, in rekening brengt of aanvaardt, bij goederen- en dienstenkrediet verminderd met het totaal van de contante prijzen van de zaken onderscheidenlijk diensten, waarvan de kredietnemer het genot wordt verschaft onderscheidenlijk die aan de kredietnemer worden verleend, met dien verstande dat de vergoeding die verschuldigd wordt indien de kredietnemer vervroegd aflost, vastgesteld overeenkomstig artikel 68 leden 2 en 5 geen deel van de kredietvergoeding uitmaakt.
+
+Artikel 75
+
+1.	Onverminderd de bepalingen van de vorige afdeling gelden voor de daar bedoelde kredietovereenkomsten voorts de volgende bepalingen met dien verstande dat de artikelen 77 lid 1 onder a, behoudens voor zover het betreft bedingen tot eenzijdige verhoging van de kredietvergoeding, en onder c, 79, 80 en 81 niet gelden voor kredietovereenkomsten waarvan de kredietsom meer dan € 40.000 bedraagt.
+
+2.	Onverminderd de bepalingen van de vorige afdeling gelden van de onderhavige afdeling voor kredietovereenkomsten waarbij de betalingen van de consument plaatsvinden binnen drie maanden nadat de geldsom ter beschikking is gesteld, onderscheidenlijk nadat met het verschaffen van het genot van de zaak of het verlenen van de dienst een aanvang is gemaakt, uitsluitend de artikelen 76 en 77 lid 1 aanhef en onder a.
+
+3.	In afwijking van het eerste lid, geldt deze afdeling niet voor de overeenkomst betreffende effectenkrediet.
+
+Artikel 76
+
+1.	Het is de kredietgever en de leverancier van de goederen of diensten verboden enige andere vorm van kredietvergoeding te bedingen, in rekening te brengen of te aanvaarden dan:
+	a.	een vergoeding die verschuldigd is bij afwikkeling overeenkomstig de betalingsregeling van de kredietovereenkomst;
+	b.	een vergoeding die verschuldigd wordt ingeval de kredietnemer, na ingebrekestelling, nalatig blijft in zijn verplichting tot betaling ingevolge de kredietovereenkomst.
+
+2.	Bij of krachtens algemene maatregel van bestuur wordt, ten einde het aanvaarden door de kredietgever van te grote risico’s tegen te gaan, de ten hoogste toegelaten kredietvergoeding vastgesteld en worden regels gegeven betreffende de tijdstippen waarop de kredietvergoeding in rekening wordt gebracht.
+
+3.	De ten hoogste toegelaten kredietvergoeding wordt uitgedrukt in een geldsom, een percentage of in enige andere vorm. Deze kan verschillen naar gelang van de hoogte van de kredietsom, de looptijd van de kredietovereenkomst, mede in verband met de termijnen van aflossing, de vorm van de kredietvergoeding bedoeld in lid 1, en het al dan niet variabel zijn van de kredietvergoeding.
+
+4.	Het is de kredietgever en de leverancier van de goederen of diensten verboden een hogere kredietvergoeding in rekening te brengen, te bedingen of te aanvaarden dan wel de kredietvergoeding op een ander tijdstip in rekening te brengen dan in gevolge de leden 2 en 3 is toegelaten.
+
+Artikel 77
+
+1.	Niet zijn toegelaten bedingen waarbij:
+	a.	de kredietgever of de leverancier van de goederen of diensten de bevoegdheid wordt verleend, anders dan bij wijze van een ingevolge artikel 76 toegelaten verhoging van de kredietvergoeding, eenzijdig de kredietvergoeding te verhogen of anderszins de verplichtingen van de consument te verzwaren;
+	b.	de consument zich verplicht tot het aangaan van een andere overeenkomst, anders dan ingeval:
+		1°.	uitdrukkelijk aan de consument het recht wordt toegekend te bepalen met welke wederpartij die overeenkomst zal worden aangegaan, of
+		2°.	de overeenkomst verplicht tot het aanhouden van een betaalrekening bij de kredietgever, door middel waarvan de uit de kredietovereenkomst voortvloeiende betalingen dienen plaats te vinden;
+	c.	vervroegde opeisbaarheid van het door de consument verschuldigde wordt bedongen, anders dan voor het geval dat:
+		1°.	de consument, die ten minste twee maanden achterstallig is in de betaling van een vervallen termijnbedrag, na in gebreke te zijn gesteld, nalatig blijft in de nakoming van zijn verplichtingen,
+		2°.	de consument zijn vaste woonplaats in Nederland heeft verlaten, dan wel redelijkerwijs kan worden aangenomen dat de consument binnen enkele maanden zijn vaste woonplaats in Nederland zal verlaten,
+		3°.	de consument is overleden en de kredietgever gegronde reden heeft om aan te nemen dat diens verplichtingen uit hoofde van de overeenkomst niet zullen worden nagekomen,
+		4°.	de consument in staat van faillissement is komen te verkeren of ten aanzien van de consument de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard,
+		5°.	de consument de door hem onder eigendomsvoorbehoud gehouden of tot zekerheid verbonden zaak heeft verduisterd, of
+		6°.	de consument aan de kredietgever, met het oog op het aangaan van de overeenkomst, bewust onjuiste inlichtingen heeft verstrekt van dien aard, dat de kredietgever de overeenkomst niet of niet onder dezelfde voorwaarden zou hebben aangegaan indien hem de juiste stand van zaken bekend zou zijn geweest.
+	d.	de kredietnemer enig recht op periodieke betaling, verschuldigd uit hoofde van loon of andere inkomsten uit arbeid, van uitkeringen als bedoeld in artikel 475c onder b-i van het Wetboek van Burgerlijke Rechtsvordering, ter zake van een kredietovereenkomst op enigerlei wijze overdraagt, vervreemdt of bezwaart dan wel tot invordering daarvan een onherroepelijke volmacht, in welke vorm of onder welke benaming ook, verleent.
+
+2.	Lid 1, aanhef en onder d, geldt niet voor kredietverlening door een gemeentelijke kredietbank:
+	a.	waaraan als kredietnemer deelneemt:
+
+		1°.	echtgenoten of geregistreerde partners als bedoeld in artikel 3 van de Participatiewet, van wie het gezamenlijk netto maandinkomen niet hoger is dan de norm genoemd in artikel 21, onderdeel b, van die wet;
+		2°.	een alleenstaande ouder als bedoeld in artikel 4, onderdeel b, van de Participatiewet, van wie het netto maandinkomen niet hoger is dan negentig procent van de norm bedoeld onder 1°;
+		3°.	een alleenstaande als bedoeld in artikel 4, onderdeel a, van de Participatiewet, van wie het netto maandinkomen niet hoger is dan zeventig procent van de norm bedoeld onder 1°;
+
+dan wel
+	b.	in het kader van een regeling met betrekking tot de bestaande schuldenlast van een kredietnemer (saneringskrediet).
+
+Artikel 78
+
+1.	Een consument kan geen volmacht tot het sluiten van een kredietovereenkomst verlenen aan een kredietgever, een leverancier van de goederen of diensten, een kredietbemiddelaar of iemand die bij een van hen werkzaam is.
+
+2.	De consument kan geen onherroepelijke volmacht tot het sluiten van een kredietovereenkomst verlenen.
+
+Artikel 79
+
+1.	Het is slechts toegestaan tot zekerheid van de nakoming van een verbintenis van de consument uit hoofde van een kredietovereenkomst, een pandrecht als bedoeld in artikel 237 van Boek 3 te vestigen op een zaak, indien die zaak door de consument met het uit hoofde van de kredietovereenkomst verkregen geld wordt aangeschaft of aan de consument ingevolge de kredietovereenkomst het genot van die zaak wordt verschaft. Deze bepaling is van overeenkomstige toepassing ten aanzien van het bedingen van een eigendomsvoorbehoud.
+
+2.	Lid 1 geldt niet voor kredietverlening door een gemeentelijke kredietbank:
+	a.	waaraan als kredietnemer deelneemt:
+
+		1°.	echtgenoten of geregistreerde partners als bedoeld in artikel 3 van de Participatiewet, van wie het gezamenlijk netto maandinkomen niet hoger is dan de norm genoemd in artikel 21, onderdeel b, van die wet;
+		2°.	een alleenstaande ouder als bedoeld in artikel 4, onderdeel b, van de Participatiewet, van wie het netto maandinkomen niet hoger is dan negentig procent van de norm bedoeld onder 1°;
+		3°.	een alleenstaande als bedoeld in artikel 4, onderdeel a, van de Participatiewet, van wie het netto maandinkomen niet hoger is dan zeventig procent van de norm bedoeld onder 1°;
+
+dan wel
+	b.	in het kader van een regeling met betrekking tot de bestaande schuldenlast van een kredietnemer (saneringskrediet).
+
+Artikel 80
+
+1.	In afwijking van artikel 229 van Boek 3 ontstaat een pandrecht op een vordering tot vergoeding die in de plaats treedt van een zaak waarop tot zekerheid van de nakoming van de verbintenis van de consument een pandrecht als bedoeld in artikel 79 lid 1 is gevestigd, slechts voor het geval die zaak geheel teniet gaat.
+
+2.	Een pandrecht op een vordering als bedoeld in het eerste lid eindigt van rechtswege:
+	a.	indien de consument gelijkwaardige vervangende zekerheid stelt, of
+	b.	zodra de consument drie vierde deel van de kredietsom heeft afgelost.
+
+3.	De kredietgever, onderscheidenlijk de leverancier van de goederen of diensten, die tot inning van de in het eerste lid bedoelde verpande vordering overgaat, stelt de consument daarvan terstond schriftelijk in kennis. Daarbij deelt hij de consument mee dat deze in de gelegenheid is om gelijkwaardige vervangende zekerheid te stellen. Artikel 79 is niet van toepassing ten aanzien van de vervangende zekerheid.
+
+4.	Artikel 229 van Boek 3 en het eerste tot en met het derde lid zijn van overeenkomstige toepassing bij een eigendomsvoorbehoud ten aanzien van een zaak als bedoeld in artikel 79.
+
+Artikel 81
+
+1.	Afgifte van een zaak, waarvan de eigendom is voorbehouden in het kader van een kredietovereenkomst of waarop een pandrecht als bedoeld in artikel 79 is gevestigd kan slechts worden gevorderd in de gevallen bedoeld in artikel 77 lid 1 onder c, 1° tot en met 6° en in artikel 91.
+
+2.	Afgifte van een zaak als bedoeld in het eerste lid kan niet meer worden gevorderd indien meer dan drie vierde deel van de kredietsom is afgelost, tenzij het een doorlopend krediet betreft.
+
+Artikel 82
+
+Ontbinding van een kredietovereenkomst op de grond dat de consument is tekortgeschoten in de nakoming van zijn verplichtingen, kan slechts geschieden door de rechter behoudens in het geval van artikel 90.
+
+Artikel 83
+
+Van het in deze afdeling bepaalde kan niet ten nadele van de consument worden afgeweken.
+
+Titel 2b. Goederenkrediet
+
+Afdeling 1. Goederenkrediet betreffende roerende zaken, niet-registergoederen
+
+Artikel 84
+
+1.	Een overeenkomst van goederenkrediet is een kredietovereenkomst, daaronder begrepen een samenstel van overeenkomsten die een commerciële eenheid vormen in de zin van artikel 57 lid 5, ter zake van het verschaffen van het genot door de kredietgever aan de kredietnemer van een roerende zaak, niet zijnde een registergoed, mits de termijn waarbinnen het krediet moet worden terugbetaald langer is dan drie maanden nadat het krediet ter beschikking is gesteld, dan wel met het verschaffen van het genot van de zaak een aanvang is gemaakt.
+
+2.	Als een overeenkomst van goederenkrediet worden onder meer beschouwd de koop op afbetaling, de huurkoop en voorts alle overeenkomsten die dezelfde strekking hebben als een overeenkomst van goederenkrediet onder welke vorm of benaming aangegaan.
+
+3.	In deze afdeling worden verstaan onder:
+	a.	koop op afbetaling: de koop van een roerende zaak die niet een registergoed is, waarbij partijen overeenkomen dat de koopprijs wordt betaald in termijnen, waarvan ten minste een termijn later verschijnt dan drie maanden nadat de verkochte zaak aan de koper is afgeleverd;
+	b.	huurkoop: de koop op afbetaling waarbij de verkoper zich de eigendom van de afgeleverde zaak voorbehoudt;
+	c.	huur: een huurovereenkomst van een roerende zaak die niet een registergoed is, indien zij de in lid 2 bedoelde strekking heeft;
+	d.	doorlopend goederenkrediet: een goederenkrediet waarbij de kredietgever dan wel de leverancier ervoor heeft te zorgen dat aan de kredietnemer op verschillende tijdstippen het genot van zaken wordt verschaft, voor zover het uitstaande saldo een bepaald bedrag, de kredietlimiet, niet overschrijdt.
+	e.	kredietsom: het verschil tussen het totaal van de contante prijzen van de zaken waarvan de kredietnemer het genot wordt verschaft en de door deze in dat kader gedane contante betalingen met dien verstande dat bij doorlopend goederenkrediet de kredietlimiet als dat verschil wordt aangemerkt.
+
+Artikel 85
+
+Indien op een overeenkomst van goederenkrediet tevens titel 2A van toepassing is, zijn de bepalingen van titel 2A en die van deze afdeling naast elkaar van toepassing. In geval van strijd zijn de bepalingen van titel 2A van toepassing.
+
+Artikel 86
+
+1.	De overeenkomst van goederenkrediet wordt op papier of op een andere duurzame drager aangegaan. Een volmacht tot het aangaan van een zodanige overeenkomst moet eveneens op papier of op een andere duurzame drager worden verleend.
+
+2.	De kredietgever verstrekt aan de kredietnemer een exemplaar van de kredietovereenkomst en behoudt zelf ook een exemplaar dan wel, in geval de kredietovereenkomst bestaat uit samenstel van overeenkomsten als bedoeld in artikel 84, eerste lid, een exemplaar van die overeenkomsten.
+
+3.	De kredietovereenkomst moet in elk geval bevatten de gehele kredietsom en een plan van regelmatige afbetaling. In geval van een eigendomsvoorbehoud met betrekking tot de zaak waarop de overeenkomst betrekking heeft, moet de kredietovereenkomst tevens de bedingen bevatten over dit voorbehoud en de overgang van de eigendom.
+
+4.	In geval van koop op afbetaling dient de kredietovereenkomst de gehele en door partijen afgesproken koopprijs te vermelden.
+
+5.	Indien in een kredietovereenkomst terzake huurkoop de bedingen betreffende het eigendomsvoorbehoud en overgang van de eigendom ontbreken, geldt de overeenkomst als een koop op afbetaling zonder eigendomsvoorbehoud.
+
+Artikel 87
+
+1.	De kredietnemer die de zaak krachtens een overeenkomst als bedoeld in artikel 84 lid 1 onder zich heeft, heeft daarvan het genot, ook voordat hij de eigendom daarvan verkrijgt.
+
+2.	Hij mag de zaak gebruiken overeenkomstig haar bestemming.
+
+3.	Zolang hij geen eigenaar is, mag hij de inrichting of gedaante van de zaak niet veranderen, noch mag hij zijn genot daarvan aan anderen afstaan.
+
+Artikel 88
+
+1.	Vervreemding van de krachtens een overeenkomst bedoeld in artikel 84 lid 1 afgeleverde zaak werkt niet ten nadele van de kredietnemer en laat de verbintenis tussen de kredietnemer en de kredietgever dan wel de leverancier onverlet.
+
+2.	In geval van huur zijn de artikelen 226 en 227 niet van toepassing.
+
+3.	Lid 1 staat niet in de weg aan overdraagbaarheid van de rechten van de kredietgever of van de overeenkomst zelf onverminderd het bepaalde in artikel 69.
+
+Artikel 89
+
+1.	De eigendom van een zaak die in het kader van een doorlopend goederenkrediet is voorbehouden, gaat van rechtswege over op de kredietnemer en een pandrecht op de gefinancierde zaak dat in het kader van een doorlopend krediet is gevestigd, eindigt van rechtswege, zodra de kredietnemer aflossingen heeft gedaan ter grootte van het verschil tussen de contante prijs van die zaak en het bedrag van de contante betaling betreffende het genot van die zaak, dan wel, indien geen contante betaling is gedaan, ter grootte van die contante prijs.
+
+2.	Aflossingen worden toegerekend aan verschillende zaken in dezelfde volgorde als waarin met het verschaffen van het genot daarvan een aanvang is gemaakt, dan wel die zaken uit hoofde van de kredietovereenkomst zijn aangeschaft.
+
+Artikel 90
+
+1.	Afgifte van de afgeleverde zaak ingevolge een schriftelijke verklaring van de kredietgever dat hij deze terugvordert wegens de niet-nakoming door de kredietnemer van diens verplichtingen, heeft tot gevolg dat de tot de kredietovereenkomst behorende overeenkomsten met de kredietnemer worden ontbonden, mits de kredietgever overeenkomstig de krachtens de kredietovereenkomst geldende regels tot de terugvordering bevoegd is.
+
+2.	De artikelen 265 lid 2, 266 en 267 lid 1 van Boek 6 zijn van overeenkomstige toepassing.
+
+Artikel 91
+
+Wanneer de kredietgever een rechtsvordering instelt tot ontbinding van de kredietovereenkomst of teruggave van de zaak, kan hij, indien hij voldoende belang heeft bij een onverwijlde voorziening, een rechterlijk bevel tot teruggave bij voorraad verkrijgen.
+
+Artikel 92
+
+1.	Indien een der partijen bij ontbinding van de kredietovereenkomst wegens een tekortkoming van de kredietnemer in de nakoming van zijn verbintenissen in een betere vermogenstoestand zou geraken dan bij het in stand blijven van de kredietovereenkomst, vindt volledige verrekening plaats.
+
+2.	Een beding waarbij de kredietgever zich de bevoegdheid voorbehoudt de waarde van de terug ontvangen zaak te bepalen, laat de bevoegdheid van de wederpartij deze waarde nader door de rechter te laten vaststellen onverlet.
+
+Artikel 93
+
+1.	In het vonnis waarbij de verplichting tot teruggave van de afgeleverde zaak wordt vastgesteld of de overeenkomst wordt ontbonden, wordt op vordering van de kredietgever een bevel tot teruggave opgenomen.
+
+2.	Bij het vonnis waarbij de teruggave wordt bevolen, stelt de rechter op vordering van een der partijen de geldswaarde van de terug te geven zaak vast. In dat geval kan de tenuitvoerlegging ook geschieden als ware de gedaagde tot betaling van dat bedrag veroordeeld.
+
+Artikel 94
+
+Indien de kredietnemer bij ontbinding van de overeenkomst recht mocht hebben op enige terugbetaling, kan hij de zaak die hij terug moet geven, onder zich houden, totdat het hem verschuldigde is betaald of de kredietgever daarvoor voldoende zekerheid heeft gesteld.
+
+Artikel 95
+
+1.	Indien de kredietnemer binnen veertien dagen nadat hij de zaak heeft afgegeven het totale uit hoofde van de kredietovereenkomst op het moment van inlossing opeisbare, achterstallige bedrag, voldoet, wordt de zaak door de kredietgever teruggegeven.
+
+2.	Door de in het eerste lid bedoelde betaling wordt de ontbinding van de tot de kredietovereenkomst behorende overeenkomsten ongedaan gemaakt.
+
+3.	Bij herhaalde afgifte van de zaak behoeft deze door de kredietgever slechts te worden teruggegeven na betaling door de kredietnemer van het in het eerste lid bedoelde bedrag, vermeerderd met het restant van de kredietsom, alsmede de verschuldigde kredietvergoeding, met dien verstande, dat bij een doorlopende goederenkredietovereenkomst in plaats van het restant van de kredietsom het restant van de in artikel 89, eerste lid, bedoelde aflossingen moet worden betaald; het tweede lid van dat artikel vindt overeenkomstige toepassing.
+
+4.	Indien de kredietgever een redelijk belang heeft bij weigering van de teruggave, kan de rechter bepalen dat het eerste lid buiten toepassing blijft.
+
+Artikel 96
+
+Indien één van meer overeenkomsten die samen een commerciële eenheid vormen als bedoeld in artikel 57 lid 5 op enige grond bloot staat aan ontbinding of vernietiging door de kredietnemer, zal de andere overeenkomst op die grond kunnen worden ontbonden of vernietigd op dezelfde wijze en met inachtneming van dezelfde termijnen als voor de ontbinding of vernietiging van de eerste overeenkomst gelden, tenzij uit de wet of de aard van de rechtsverhouding anders voortvloeit.
+
+Artikel 97
+
+Indien een overeenkomst van goederenkrediet is gesloten tussen een kredietgever die handelt in de uitoefening van een beroep of bedrijf en een kredietnemer die een natuurlijk persoon is en handelt voor doeleinden die buiten zijn bedrijfsactiviteiten of beroepsactiviteiten vallen, kan niet ten nadele van de kredietnemer van de bepalingen van deze afdeling worden afgeweken.
+
+Artikel 98
+
+Van artikel 92 kan niet ten nadele van de kredietnemer worden afgeweken.
+
+Artikel 99
+
+Op een overeenkomst van goederenkrediet die bestaat uit een samenstel van overeenkomsten die een commerciële eenheid vormen als bedoeld in artikel 57 lid 5 en die niet is gesloten tussen een kredietgever en een kredietnemer als bedoeld in artikel 97, is artikel 67 lid 2 van overeenkomstige toepassing.
+
+Artikel 100
+
+Het in deze afdeling bepaalde vindt overeenkomstige toepassing op vermogensrechten, niet zijnde registergoederen, voor zover dat in overeenstemming is met de aard van het recht.
+
+Afdeling 2. Huurkoop onroerende zaken
+
+Onderafdeling 1. Algemene bepalingen
+
+Artikel 101
+
+1.	De overeenkomst van huurkoop van een onroerende zaak is een koopovereenkomst, daaronder begrepen een samenstel van overeenkomsten die een commerciële eenheid vormen in de zin van artikel 57 lid 5, volgens welke de koopprijs wordt betaald in termijnen en de eigendomsoverdracht zal plaatsvinden na voldoening van twee of meer termijnen die verschijnen, nadat de zaak aan de koper is afgeleverd.
+
+2.	De huurkoop kan ook betrekking hebben op een recht waaraan een onroerende zaak is onderworpen. In dat geval zijn de bepalingen van deze afdeling van toepassing, voor zover dit in overeenstemming is met de aard van het recht.
+
+3.	Op overeenkomsten die aan de eisen van deze afdeling voldoen, zijn de bepalingen betreffende huur en pacht niet van toepassing.
+
+Artikel 102
+
+1.	Ieder der partijen is jegens de ander verplicht eraan mee te werken dat tussen hen van de huurkoopovereenkomst een notariële akte wordt opgemaakt, die wordt ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, zulks onverminderd de bevoegdheid om de huurkoopovereenkomst in afwachting daarvan reeds met toepassing van artikel 3 in te doen schrijven.
+
+2.	De akte moet in ieder geval vermelden:
+	a.	de koopprijs;
+	b.	welk deel van de te betalen termijnen tot aflossing van de koopprijs
+strekt en welk deel tot betaling van de verschuldigde rente;
+	c.	de tijdstippen waarop de huurkoper de termijnen dient te betalen;
+	d.	de bedingen over voorbehoud en overgang van eigendom.
+
+Artikel 103
+
+1.	Behalve de in artikel 102 bedoelde akte kunnen in de openbare registers worden ingeschreven:
+	a.	een in kracht van gewijsde gegane rechterlijke uitspraak waarvan de rechter heeft bepaald dat zij in de plaats treedt van een zodanige akte of van een deel daarvan;
+	b.	een rechtshandeling of een in kracht van gewijsde gegane rechterlijke uitspraak waarbij een huurkoop ter zake waarvan inschrijving op de voet van artikel 102 of van dit artikel onder a heeft plaatsgevonden, wordt vernietigd, geheel of gedeeltelijk wordt ontbonden of wordt gewijzigd;
+	c.	een rechtshandeling die tot gevolg heeft dat op de huurkoop betrekking hebbende rechten of verplichtingen van een der partijen op een ander overgaan.
+
+2.	Een rechterlijke uitspraak als bedoeld in lid 1 onder a en b kan tevens worden ingeschreven indien zij uitvoerbaar bij voorraad is verklaard en indien is voldaan aan de eisen die in artikel 301 lid 1 van Boek 3 voor de inschrijving van een uitvoerbaar bij voorraad verklaarde uitspraak worden gesteld. De leden 1 en 2 van artikel 301 van Boek 3 zijn van overeenkomstige toepassing.
+
+Artikel 104
+
+1.	Na de inschrijving van de notariële akte van huurkoop, daaronder begrepen voor die akte in de plaats tredende rechterlijke uitspraken als bedoeld in artikel 103 lid 1 onder a, kunnen tegen de huurkoper niet worden ingeroepen:
+	a.	een na die inschrijving tot stand gekomen vervreemding of bezwaring door de huurverkoper, tenzij deze vervreemding of bezwaring voortvloeit uit een eerder ingeschreven koop, huurkoop daaronder begrepen, of uit een recht op levering waarvoor op het tijdstip van de inschrijving reeds het proces-verbaal van een conservatoir beslag tot levering was ingeschreven;
+	b.	vervreemdingen of bezwaringen die plaatsvinden als vervolg op de onder a bedoelde vervreemding of bezwaring door de huurverkoper;
+	c.	een onderbewindstelling die na die inschrijving is tot stand gekomen of die, zo zij tevoren tot stand was gekomen, toen niet in de openbare registers was ingeschreven, tenzij de huurkoper haar op het tijdstip van die inschrijving kende;
+	d.	een na die inschrijving tot stand gekomen verhuring of verpachting;
+	e.	een na die inschrijving ingeschreven beding als bedoeld in artikel 252 van Boek 6;
+	f.	een executoriaal of conservatoir beslag waarvan het proces-verbaal na die inschrijving is ingeschreven.
+	g.	een faillissement of surséance van betaling van de huurverkoper of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen, uitgesproken onderscheidenlijk van toepassing na de dag van die inschrijving.
+
+2.	Indien de huurkoop was ingeschreven op de voet van artikel 3 geldt de inschrijving van de notariële akte van huurkoop voor de toepassing van artikel 3 lid 4 als levering.
+
+3.	Voor de toepassing van de artikelen 24, 25 en 26 van Boek 3 geldt de inschrijving van een notariële akte van huurkoop als een inschrijving van een rechtshandeling tot verkrijging van een registergoed in de zin van deze artikelen.
+
+Artikel 105
+
+In geval van een samenstel van overeenkomsten als bedoeld in artikel 101 lid 1 kan de huurkoper de rechten wegens niet nakoming of niet behoorlijke nakoming van de partij die als leverancier van de onroerende zaak is opgetreden, zonodig uitoefenen jegens de kredietgever, mits hij deze rechten jegens de leverancier heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij recht heeft.
+
+Artikel 106
+
+1.	De huurkoper heeft van de zaak die krachtens huurkoop aan hem is afgeleverd het genot ook voordat hij de eigendom daarvan verkrijgt.
+
+2.	Hij mag de zaak gebruiken overeenkomstig haar bestemming.
+
+3.	Hij mag de inrichting of gedaante van de zaak niet veranderen noch mag hij zijn genot ervan aan anderen afstaan.
+
+Artikel 107
+
+1.	Vervreemding door de huurverkoper van de krachtens huurkoop afgeleverde zaak werkt niet ten nadele van de huurkoper en laat de verbintenis tussen de huurkoper en de huurverkoper onverlet.
+
+2.	Lid 1 staat niet in de weg aan overdraagbaarheid van de rechten van de huurverkoper of van de huurkoopovereenkomst zelf overeenkomstig de daarvoor geldende regels.
+
+Artikel 108
+
+1.	Indien de huurverkoper bij ontbinding van de huurkoopovereenkomst wegens een tekortkoming van de huurkoper in de nakoming van zijn verbintenissen in een betere vermogenstoestand zou geraken dan bij het in stand blijven van de huurkoopovereenkomst, vindt volledige verrekening plaats.
+
+2.	Een beding waarbij de huurverkoper zich de bevoegdheid voorbehoudt de waarde van de terug ontvangen zaak te bepalen, laat de bevoegdheid van de wederpartij deze waarde nader door de rechter te laten vaststellen onverlet.
+
+Artikel 109
+
+Indien de huurkoper bij ontbinding van de overeenkomst recht mocht hebben op enige terugbetaling, heeft hij een retentierecht op de zaak, totdat het hem verschuldigde is betaald of de huurverkoper daarvoor voldoende zekerheid heeft gesteld.
+
+Artikel 110
+
+Wanneer de gehele koopprijs met de daarover verschuldigde rente en de kosten die voor rekening van de huurkoper zijn, de kosten van een afzonderlijke overdracht daaronder begrepen, zijn voldaan of de huurkoper van zijn verplichtingen te dier zake op andere wijze is bevrijd dan wel de verjaring van rechtsvordering van de huurverkoper te dier zake is voltooid, is de huurverkoper verplicht onverwijld zijn medewerking te verlenen aan het tot stand komen van een notariële akte van levering aan de huurkoper of aan de notariële verklaring volgens artikel 30 van de Kadasterwet vereist voor de vervulling van de voorwaarde waaronder de overdracht blijkens een reeds ingeschreven notariële akte van levering is geschied.
+
+Artikel 111
+
+In geval van onbevoegdheid van de huurverkoper tot vervreemding is artikel 88 van Boek 3 van toepassing met dien verstande dat voor de daar vereiste goede trouw van de huurkoper voldoende is dat zijn goede trouw bestond op het tijdstip van de inschrijving van de notariële akte van huurkoop.
+
+Artikel 112
+
+Van de artikelen 101 tot en met 104, 108, 110 en 111 kan niet worden afgeweken.
+
+Onderafdeling 2. Huurkoop van woonruimte
+
+Artikel 113
+
+1.	Deze onderafdeling is van toepassing op de overeenkomst van huurkoop met betrekking tot een tot bewoning bestemde onroerende zaak of bestanddeel daarvan, indien de huurkoper een natuurlijk persoon is, die niet handelt in de uitoefening van een beroep of bedrijf.
+
+2.	Deze onderafdeling is niet van toepassing indien de onroerende zaak of het bestanddeel in huurkoop is gegeven als bedrijfsruimte en een, mede gelet op deze bestemming tot bedrijfsruimte, afhankelijke woning tot deze bedrijfsruimte wordt gerekend.
+
+3.	Als huurkoop in de zin van deze afdeling worden mede beschouwd alle overeenkomsten met dezelfde strekking onder welke vorm of benaming dan ook aangegaan.
+
+4.	Onderafdeling 1 is van toepassing voor zover deze onderafdeling daarvan niet afwijkt.
+
+Artikel 114
+
+1.	Een overeenkomst van huurkoop als bedoeld in artikel 113 wordt aangegaan bij een notariële akte. Een volmacht tot het aangaan van een zodanige overeenkomst moet schriftelijk worden verleend.
+
+2.	Indien van de huurkoopovereenkomst geen notariële akte is opgemaakt, is ieder der partijen jegens de ander verplicht eraan mee te werken dat tussen hen een notariële akte tot stand komt, zulks onverminderd de bevoegdheid de huurovereenkomst in afwachting daarvan reeds met toepassing van artikel 3 te doen inschrijven.
+
+3.	Zolang geen notariële akte is tot stand gekomen, is de overeenkomst vernietigbaar. Indien de huurkoper tot vernietiging overgaat, kan hij het reeds door hem betaalde terug vorderen behoudens een vergoeding voor het door hem reeds van de woning gemaakte gebruik. De huurverkoper kan slechts tot vernietiging overgaan, nadat hij aan de huurkoper een redelijke termijn heeft gesteld om aan de notariële akte mee te werken en deze die termijn ongebruikt heeft laten verstrijken.
+
+4.	De akte moet in ieder geval vermelden:
+	a.	de koopprijs;
+	b.	welk deel van de te betalen termijnen tot aflossing van de koopprijs strekt en welk deel tot betaling van de verschuldigde rente;
+	c.	welke kosten voor rekening van de huurkoper komen;
+	d.	de tijdstippen waarop de huurkoper de termijnen dient te betalen;
+	e.	de bedingen over voorbehoud en overgang van de eigendom;
+	f.	welke gevolgen zijn verbonden aan vervroegde aflossing door de huurkoper van hetgeen door hem verschuldigd is;
+	g.	de getaxeerde waarde van de woonruimte, zoals deze blijkt uit een taxatierapport betreffende die woonruimte, opgemaakt door een door partijen in onderlinge overeenstemming aangewezen taxateur;
+	h.	op de zaak rustende hypotheken en andere beperkte rechten.
+
+5.	Indien partijen geen overeenstemming bereiken, wijst de kantonrechter op verzoek van de meest gerede partij een taxateur aan. Het taxatierapport bevat in elk geval een beschrijving en beoordeling van de onderhoudstoestand van de woonruimte.
+
+6.	De notaris gaat niet over tot het verlijden van de akte dan nadat partijen ten minste veertien dagen de tijd hebben gehad om van het in het vierde en vijfde lid bedoelde taxatierapport kennis te nemen en tevens aan de eisen van artikel 122 leden 1–5 is voldaan.
+
+Artikel 115
+
+De huurkoper heeft het recht zich te allen tijde geheel of gedeeltelijk van zijn verplichtingen uit de huurkoopovereenkomst te bevrijden met toepassing van de regels van artikel 127.
+
+Artikel 116
+
+1.	Niet kan worden bedongen dat gedurende de contractsperiode een hogere koopprijs wordt vastgesteld, tenzij het met inachtneming van artikel 128 vastgestelde aanpassingen betreft van de in de overeenkomst vermelde rentevoet of het gaat om indexering aan de hand van een van overheidswege vastgesteld indexcijfer.
+
+2.	Evenmin kan worden bedongen dat in geval de huurkoper in de nakoming van zijn verplichtingen tekortschiet, de huurkoopovereenkomst van rechtswege wordt ontbonden of eindigt, dan wel door de huurverkoper kan worden ontbonden of beëindigd zonder ingebrekestelling.
+
+3.	De verhuurder mag niet tot ontbinding of beëindiging overgaan dan nadat de bij de ingebrekestelling gestelde redelijke termijn van tenminste twee maanden is verstreken en de huurverkoper de huurkoper heeft uitgenodigd om met hem in overleg te treden over diens betalingsachterstand, tenzij dit van de huurverkoper in redelijkheid niet kan worden gevergd.
+
+Artikel 117
+
+Van de artikelen 113 en 114 kan niet worden afgeweken. Van de artikelen 105, 106, eerste en tweede lid, 107, 109, 115 en 116 kan niet ten nadele van de huurkoper worden afgeweken.
+
+Afdeling 3. Consumentenkredietovereenkomsten betreffende voor bewoning bestemde onroerende zaken
+
+Onderafdeling 1. Algemene bepalingen
 
 Artikel 118
 
@@ -1003,7 +1357,7 @@ Artikel 119
 	g.	kredietovereenkomsten betreffende kredieten die krachtens een wettelijke bepaling met een doelstelling van algemeen belang aan een beperkt publiek worden toegekend tegen een lagere dan op de markt gebruikelijke debetrentevoet, dan wel rentevrij, of onder andere voorwaarden die voor de consument gunstiger zijn dan de op markt gebruikelijke voorwaarden en tegen rentetarieven die niet hoger zijn dan de op de markt gebruikelijke rentetarieven;
 	h.	kredietovereenkomsten waarbij de kredietgever een organisatie is die valt onder de toepassing van artikel 2 lid 5 van Richtlijn 2008/48/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG (Pb EU L 133).
 
-Afdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
+Onderafdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
 
 Artikel 120
 
@@ -1055,7 +1409,7 @@ Artikel 123
 
 3.	Indien de kredietbemiddelaar niet aan zijn in de leden 1 en 2 bedoelde verplichtingen voldoet, is de consument geen vergoeding voor zijn dienstverlening verschuldigd.
 
-Afdeling 3. Jaarlijks kostenpercentage
+Onderafdeling 3. Jaarlijks kostenpercentage
 
 Artikel 124
 
@@ -1065,7 +1419,7 @@ Artikel 124
 
 3.	Lid 2 is niet van toepassing op kredietovereenkomsten waarbij de debetrentevoet vaststaat voor een eerste periode van ten minste vijf jaar en waarvoor aan het eind van deze periode wordt onderhandeld over de debetrentevoet teneinde een nieuwe vaste debetrentevoet overeen te komen voor een verdere materiële periode. In het in de bijlage II bij de Richtlijn opgenomen model wordt hiervoor in een bijkomend, illustratief jaarlijks kostenpercentage voorzien.
 
-Afdeling 4. Informatie en rechten betreffende kredietovereenkomsten
+Onderafdeling 4. Informatie en rechten betreffende kredietovereenkomsten
 
 Artikel 125
 
@@ -1113,7 +1467,7 @@ Artikel 128a
 
 2.	Onverminderd het recht op wettelijke rente als bedoeld in artikel 119 van Boek 6 van het Burgerlijk Wetboek is de vergoeding die de consument aan de kredietgever verschuldigd is wegens niet-nakoming van zijn uit de kredietovereenkomst voortvloeiende verplichtingen, niet hoger dan hetgeen nodig is ter vergoeding van de schade die de kredietgever als gevolg van de niet-nakoming heeft geleden.
 
-Afdeling 5. Slotbepalingen
+Onderafdeling 5. Slotbepalingen
 
 Artikel 128b
 
@@ -1124,6 +1478,40 @@ Artikel 128c
 1.	Van het bepaalde bij deze titel kan niet ten nadele van de consument worden afgeweken.
 
 2.	De consument kan de hem krachtens deze titel toegekende bescherming niet worden ontzegd als gevolg van de wijze waarop overeenkomsten zijn opgesteld, met name doordat een kredietovereenkomst in de zin van deze Richtlijn is opgenomen in een kredietovereenkomst waarvan de aard of het doel het mogelijk maakt de toepassing van die maatregelen te ontwijken.
+
+Titel 2c. Geldlening
+
+Artikel 129
+
+1.	De overeenkomst van geldlening is de kredietovereenkomst waarbij de ene partij, de uitlener, zich verbindt aan de andere partij, de lener, een som geld te verstrekken en de lener zich verbindt aan de uitlener een overeenkomstige som geld terug te betalen.
+
+2.	Indien is overeengekomen dat de kredietnemer door een enkele verklaring, een betalingsopdracht daaronder begrepen, de kredietgever kan verplichten hem een som geld te verstrekken, komt pas door deze verklaring de geldlening tot stand.
+
+Artikel 129a
+
+Indien op een overeenkomst van geldlening tevens titel 2A of titel 2B van toepassing is, zijn de bepalingen van titel 2A of titel 2B en die van deze titel naast elkaar van toepassing. In geval van strijd zijn de bepalingen van titel 2A of titel 2B van toepassing.
+
+Artikel 129b
+
+Indien de uitlener een natuurlijke persoon is die niet in de uitoefening van een beroep of bedrijf handelt, bindt de overeenkomst hem niet voordat het geld daadwerkelijk aan de lener is verstrekt of de uitlener zich schriftelijk tot de verstrekking verbonden heeft.
+
+Artikel 129c
+
+1.	Indien beide partijen natuurlijke personen zijn en geen van beide partijen in de uitoefening van een beroep of bedrijf handelt, is over het geleende bedrag slechts rente verschuldigd, indien dit schriftelijk is bedongen.
+
+2.	In andere gevallen is de lener verplicht over de geleende som rente te betalen, tenzij uit de overeenkomst voortvloeit dat geen rente verschuldigd is.
+
+Artikel 129d
+
+Indien uit de overeenkomst voortvloeit dat over de geleende som rente verschuldigd is, maar de hoogte van die rente niet door partijen is bepaald, moet de rente volgens de voor wettelijke rente vastgestelde rentevoet worden berekend.
+
+Artikel 129e
+
+De lener is verplicht het door hem op grond van de overeenkomst verschuldigde terug te geven binnen zes weken nadat de uitlener heeft medegedeeld tot opeising over te gaan, tenzij een ander tijdstip voor de terugbetaling uit de overeenkomst voortvloeit.
+
+Artikel 129f
+
+Indien is overeengekomen dat een lener de geleende geldsom terug zal betalen, wanneer hij daartoe in staat zal zijn, zal de rechter, naar gelang van de omstandigheden, het tijdstip van de opeisbaarheid nader kunnen bepalen.
 
 Titel 2d. Overeenkomst van pandbelening
 
@@ -1657,33 +2045,37 @@ Artikel 252
 
 Artikel 252a
 
-1.	Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in artikel 252 doen, strekkend tot verhoging van de huurprijs op de grond dat het huishoudinkomen over het peiljaar:
-	a.	hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag doch lager is dan of gelijk is aan het in onderdeel b van dat lid genoemde bedrag, of
-	b.	hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel b van die wet genoemde bedrag.
+1.	Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in artikel 252 doen, strekkend tot verhoging van de huurprijs op de grond dat het huishoudinkomen over het inkomenstoetsjaar hoger is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag. De eerste volzin is niet van toepassing ten aanzien van een huishouden waarvan een lid of meerdere leden de pensioengerechtigde leeftijd, bedoeld in artikel 7a lid 1 van de Algemene Ouderdomswet, heeft of hebben bereikt en een huishouden van 4 of meer personen.
 
 2.	In dit artikel wordt verstaan onder:
 	a.	basisregistratie inkomen: basisregistratie inkomen als bedoeld in hoofdstuk IVA van de Algemene wet inzake rijksbelastingen;
 	b.	huishoudinkomen: het gezamenlijke bedrag van de inkomensgegevens, bedoeld in artikel 21 onderdeel e van de Algemene wet inzake rijksbelastingen, van de huurder en de overige bewoners van een woonruimte, met dien verstande dat van een overige bewoner die op 1 januari van het jaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen de leeftijd van 23 jaar nog niet heeft bereikt het bedrag van het inkomensgegeven slechts in aanmerking wordt genomen voor zover dat meer bedraagt dan de uitkomst van 108% van het twaalfvoud van het bedrag per maand, bedoeld in artikel 8 lid 1 onderdeel a van de Wet minimumloon en minimumvakantiebijslag, als geldend op 1 januari van het peiljaar;
-	c.	inspecteur: functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
-	d.	peiljaar: tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen.
+	c.	huishoudverklaring: een door de inspecteur op verzoek van de verhuurder aan deze afgegeven verklaring;
+	d.	inkomenstoetsjaar: tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin ten aanzien van een huurovereenkomst een huishoudverklaring is verstrekt;
+	e.	inspecteur: functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
+	f.	peiljaar: het kalenderjaar dat voorafgaat aan het kalenderjaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen.
 
-3.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, wordt bij het voorstel een verklaring gevoegd omtrent het huishoudinkomen. De inspecteur verstrekt op verzoek van een verhuurder een verklaring omtrent het huishoudinkomen aan de verhuurder.
+3.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, wordt bij het voorstel een huishoudverklaring gevoegd.
 
-4.	De verklaring bedoeld in lid 3 vermeldt het gegeven of op de door de verhuurder aangeduide plaats van de woonruimte op basis van gegevens uit de basisregistratie inkomen op het moment van behandeling van het verzoek van de verhuurder aan de inspecteur, te verwachten is dat van degene of degenen die daar volgens de registratie van de rijksbelastingdienst woont of wonen het huishoudinkomen over het peiljaar lager is dan of gelijk is aan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, dan wel hoger is dan dat bedrag doch lager is dan of gelijk is aan het in dat onderdeel laatstgenoemde bedrag, dan wel hoger is dan dat bedrag. De verklaring vermeldt voorts, indien dat huishoudinkomen hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, het aantal personen waarop dat huishoudinkomen is gebaseerd. Indien geen inkomensgegeven in de basisregistratie inkomen beschikbaar is, vermeldt de verklaring dat dat het geval is. Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter uitvoering van dit lid en omtrent het kunnen doen van een verzoek, het verzoek zelf, de verstrekking van de verklaring, alsmede ten aanzien van de verhuurder.
+4.	De inspecteur verstrekt desgevraagd aan de verhuurder een huishoudverklaring. In de verklaring wordt vermeld of op de door de verhuurder aangeduide plaats van de woonruimte op basis van gegevens uit de basisregistratie inkomen op het moment van behandeling van het verzoek van de verhuurder aan de inspecteur, te verwachten is dat van degene of degenen die daar volgens de registratie van de rijksbelastingdienst woont of wonen het huishoudinkomen over het inkomenstoetsjaar lager is dan of gelijk is aan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte genoemde bedrag, dan wel hoger is dan dat bedrag. De verklaring vermeldt voorts, indien dat huishoudinkomen hoger is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte genoemde bedrag, het aantal personen waarop dat huishoudinkomen is gebaseerd. Indien geen inkomensgegeven in de basisregistratie inkomen beschikbaar is, vermeldt de verklaring dat dat het geval is.
 
-5.	Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 3 eerste volzin, is de verhoging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de huurder niet door het verzuim is benadeeld.
+Indien in de door de verhuurder aangeduide woonruimte volgens de registratie van de rijksbelastingdienst een huishouden waarvan een lid of meerdere leden de pensioengerechtigde leeftijd, bedoeld in artikel 7a lid 1 van de Algemene Ouderdomswet, heeft of hebben bereikt of een huishouden van 4 of meer personen woont, vermeldt de huishoudverklaring dit. De tweede, derde en vierde volzin blijven in dat geval buiten toepassing.
 
-6.	Een overeenkomst tot wijziging van de huurprijs:
-	a.	als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdelen a en b komt niet tot stand indien de huurder kan aantonen dat hij of een ander lid van het huishouden deel uitmaakt van een bij regeling van Onze Minister te bepalen groep;
-	b.	als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdeel a komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, en
-	c.	als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdeel b komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in onderdeel b van die volzin genoemde bedrag. Dat voorstel wordt aangemerkt als een voorstel als bedoeld in lid 1 aanhef en onderdeel a, tenzij de huurder tevens kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in onderdeel a van die volzin eerstgenoemde bedrag.
+Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter uitvoering van dit lid. Daarbij worden in ieder geval regels gesteld omtrent het kunnen doen van een verzoek tot het verstrekken van een huishoudverklaring, het verzoek zelf, de verstrekking van de huishoudverklaring, alsmede ten aanzien van de verhuurder.
+
+5.	Indien een huurovereenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 3 is de verhoging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de huurder niet door het verzuim is benadeeld.
+
+6.	Een overeenkomst tot wijziging van de huurprijs als gevolg van een voorstel als bedoeld lid 1 komt niet tot stand indien de huurder kan aantonen:
+	a.	dat hij of een ander lid van het huishouden deel uitmaakt van een bij regeling van Onze Minister te bepalen groep;
+	b.	dat het huishoudinkomen in het peiljaar gelijk is aan of lager is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag;
+	c.	dat hij of een ander lid van het huishouden de pensioengerechtigde leeftijd, bedoeld in artikel 7a lid 1 van de Algemene Ouderdomswet, heeft bereikt, of
+	d.	dat hij deel uitmaakt van een huishouden van 4 of meer personen.
 
 Artikel 252b
 
-1.	Onverminderd het bepaalde in artikel 252a lid 6 kan een huurder ten aanzien van woonruimte die een zelfstandige woning vormt en ten aanzien waarvan een verhoging van de huurprijs op basis van artikel 252a lid 1 heeft plaatsgevonden, een voorstel als bedoeld in artikel 252 doen, strekkend tot verlaging van de huurprijs op de grond dat het huishoudinkomen, bedoeld in artikel 252a lid 2 onderdeel b, waarop een zodanige verhoging is gebaseerd, is gedaald en daarmee:
-	a.	gelijk is aan of lager is dan het in artikel 14 lid 1 van de Wet op de huurtoeslag betrokken genoemde bedrag,
-	b.	gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, of
-	c.	hoger is dan het in onderdeel b bedoelde bedrag, doch gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel b van die wet genoemde bedrag.
+1.	Onverminderd het bepaalde in artikel 252a lid 6 kan een huurder ten aanzien van woonruimte die een zelfstandige woning vormt en ten aanzien waarvan een verhoging van de huurprijs op basis van artikel 252a lid 1 heeft plaatsgevonden, een voorstel als bedoeld in artikel 252 doen, strekkend tot verlaging van de huurprijs op de grond dat het huishoudinkomen, bedoeld in artikel 252a lid 2 onderdeel b, waarop een zodanige verhoging is gebaseerd, in het peiljaar is gedaald en daarmee:
+	1°.	gelijk is aan of lager is dan het in artikel 14 lid 1 van de Wet op de huurtoeslag betrokken genoemde bedrag, of
+	2°.	gelijk is aan of lager is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag.
 
 2.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, verstrekt de huurder gegevens met betrekking tot de betrokken huishoudinkomens. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
 
@@ -1691,13 +2083,13 @@ Artikel 252b
 
 Artikel 253
 
-1.	Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan, en de verklaring, bedoeld in de eerste volzin, betrekking heeft op het huishoudinkomen over het peiljaar, verzoekt de verhuurder aan de inspecteur om een tweede verklaring als bedoeld in artikel 252a lid 4. De tweede verklaring wordt door de verhuurder bij een verzoek als bedoeld in de eerste volzin overgelegd. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en de huurder zich beroept op een van de gevallen, genoemd in artikel 252a lid 6, verstrekt de huurder, indien het deel uitmaken van een groep, bedoeld in onderdeel a van laatstgenoemd artikellid, of het huishoudinkomen voorwerp van geschil is, bij de verklaring, bedoeld in de eerste volzin, gegevens met betrekking tot dat deel uitmaken of dat huishoudinkomen. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
+1.	Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan, en de verklaring, bedoeld in de eerste volzin, betrekking heeft op het huishoudinkomen over het inkomenstoetsjaar, verzoekt de verhuurder aan de inspecteur om een vervolgverklaring. Artikel 252a lid 4 is op de vervolgverklaring van overeenkomstige toepassing. De vervolgverklaring wordt door de verhuurder bij een verzoek als bedoeld in de eerste volzin overgelegd. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en de huurder zich beroept op een van de gevallen, genoemd in artikel 252a lid 6, verstrekt de huurder, indien dat deel uitmaken van een groep, bedoeld in onderdeel a van laatstgenoemd artikellid, dat bereiken van de pensioengerechtigde leeftijd of dat deel uitmaken van een huishouden van 4 of meer personen, bedoeld in onderdeel d van laatstgenoemd artikellid, of het huishoudinkomen voorwerp van geschil is, bij de verklaring, bedoeld in de eerste volzin, gegevens met betrekking tot dat deel uitmaken, dat bereiken of dat huishoudinkomen. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
 
 2.	De huurder kan de huurcommissie binnen vier maanden na het in lid 1 eerste volzin bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien:
 	a.	hij noch vóór het in lid 1 eerste volzin bedoelde tijdstip de daar bedoelde schriftelijke verklaring doet, noch door het betalen van de voorgestelde huurverhoging doet blijken met die verhoging in te stemmen, en
 	b.	de verhuurder hem binnen drie maanden na het in lid 1 eerste volzin bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt.
 
-De huurder legt bij dit verzoek een afschrift van het voorstel en van dat schrijven en, indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en het deel uitmaken van een groep, bedoeld in artikel 252a lid 6 onderdeel a, of het huishoudinkomen voorwerp van geschil is, gegevens met betrekking tot dat deel uitmaken of dat huishoudinkomen over. Lid 1 vijfde volzin is van overeenkomstige toepassing.
+De huurder legt bij dit verzoek een afschrift van het voorstel en van dat schrijven en, indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en het deel uitmaken van een groep, dat bereiken van de pensioengerechtigde leeftijd of dat deel uitmaken van een huishouden van 4 meer of meer personen, bedoeld in artikel 252a lid 6 onderdeel a onderscheidenlijk onderdeel d, of het huishoudinkomen voorwerp van geschil is, gegevens met betrekking tot dat deel uitmaken, dat bereiken of dat huishoudinkomen over. Lid 1 vijfde volzin is van overeenkomstige toepassing.
 
 3.	De huurder wordt geacht de voorgestelde verhoging van de huurprijs met ingang van de in het voorstel genoemde datum van ingang met de verhuurder te zijn overeengekomen indien hij, na ontvangst van het in het tweede lid bedoelde schrijven, niet binnen vier maanden na die datum van ingang een verzoek tot de huurcommissie heeft gericht.
 
@@ -4121,52 +4513,54 @@ De werkgever is verplicht de werknemer zijn loon op de bepaalde tijd te voldoen.
 
 Artikel 616a
 
-1.	Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een overeenkomst van opdracht of van aanneming van werk zijn de werkgever en diens opdrachtgever hoofdelijk aansprakelijk voor de voldoening van het aan de werknemer verschuldigde loon.
+1.	Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een overeenkomst van opdracht of een overeenkomst van aanneming van werk zijn de werkgever en diens opdrachtgever hoofdelijk aansprakelijk voor de voldoening van het aan de werknemer verschuldigde loon. Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een overeenkomst van goederenvervoer over de weg of een overeenkomst tot het doen vervoeren van goederen over de weg zijn de werkgever en diens wederpartij hoofdelijk aansprakelijk voor de voldoening van het aan de werknemer verschuldigde loon.
 
-2.	In afwijking van lid 1 is de opdrachtgever, bedoeld in lid 1, niet aansprakelijk indien hij in rechte aannemelijk maakt dat hem, gelet op de omstandigheden van het geval, niet kan worden verweten dat het loon, bedoeld in lid 1, niet is voldaan.
+2.	In afwijking van lid 1 is de opdrachtgever of de wederpartij, bedoeld in lid 1, niet aansprakelijk indien hij in rechte aannemelijk maakt dat hem, gelet op de omstandigheden van het geval, niet kan worden verweten dat het loon, bedoeld in lid 1, niet is voldaan.
 
 3.	Dit artikel is niet van toepassing op een natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf.
 
 Artikel 616b
 
-1.	Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een of meer tussen een opdrachtgever, opdrachtnemer of aannemer gesloten overeenkomsten, is, met inachtneming van de leden 2 tot en met 5, iedere opdrachtgever aansprakelijk voor de voldoening van het door de werkgever aan de werknemer verschuldigde loon.
+1.	Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een of meer tussen een opdrachtgever, opdrachtnemer of aannemer gesloten overeenkomsten, is, met inachtneming van de leden 2 tot en met 5, iedere opdrachtgever aansprakelijk voor de voldoening van het door de werkgever aan de werknemer verschuldigde loon. Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een of meer overeenkomsten van goederenvervoer over de weg of overeenkomsten tot het doen vervoeren van goederen over de weg, zijn, met inachtneming van de leden 2 tot en met 5, de afzender, de opdrachtgever van de expediteur, de expediteur en de vervoerder die niet de vervoerovereenkomst heeft gesloten met de afzender, maar aan wie de vervoerder de uitvoering van het goederenvervoer over de weg heeft toevertrouwd, aansprakelijk voor de voldoening van het door de werkgever aan de werknemer verschuldigde loon. Voor de toepassing van dit artikel en de artikelen 616c tot en met 616e worden de in de vorige zin genoemde partijen aangemerkt als wederpartij.
 
-2.	Een vordering op grond van lid 1 is telkens alleen mogelijk tegen de naast hogere opdrachtgever, indien een vordering op grond van artikel 616a dan wel een vordering tegen de naast lagere opdrachtgever niet is geslaagd doordat de werkgever of diens opdrachtgever onderscheidenlijk de naast lagere opdrachtgever:
+2.	Een vordering op grond van lid 1 is telkens alleen mogelijk tegen de naast hogere opdrachtgever of de naast hogere wederpartij, indien een vordering op grond van artikel 616a dan wel een vordering tegen de naast lagere opdrachtgever of de naast lagere wederpartij niet is geslaagd doordat de werkgever of diens opdrachtgever onderscheidenlijk de naast lagere opdrachtgever of de wederpartij onderscheidenlijk de naast lagere wederpartij:
 	a.	geen bekende woonplaats, of bekend werkelijk verblijf heeft;
 	b.	niet in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007, of een buitenlands register voor ondernemingen is ingeschreven;
 	c.	in staat van faillissement is verklaard en het loon, bedoeld in lid 1, niet door vereffening van de overige baten kan worden voldaan;
 	d.	bij een onherroepelijke rechterlijke uitspraak is veroordeeld tot de voldoening van het loon, bedoeld in lid 1, en de uitspraak niet ten uitvoer kan worden gelegd; of
-	e.	voor zover het een opdrachtgever betreft, niet aansprakelijk is voor het niet voldoen van het loon, bedoeld in lid 1.
+	e.	voor zover het een opdrachtgever of de wederpartij betreft, niet aansprakelijk is voor het niet voldoen van het loon, bedoeld in lid 1.
 
-3.	In afwijking van lid 1 is de opdrachtgever, bedoeld in lid 1, niet aansprakelijk indien hij in rechte aannemelijk maakt dat hem, gelet op de omstandigheden van het geval, niet kan worden verweten dat het loon, bedoeld in lid 1, niet is voldaan.
+3.	In afwijking van lid 1 is de opdrachtgever of de wederpartij, bedoeld in lid 1, niet aansprakelijk indien hij in rechte aannemelijk maakt dat hem, gelet op de omstandigheden van het geval, niet kan worden verweten dat het loon, bedoeld in lid 1, niet is voldaan.
 
-4.	In afwijking van de volgorde op grond van lid 2 kan de werknemer de opdrachtgever die niet handelt in opdracht van een andere opdrachtgever aansprakelijk stellen voor de voldoening van het loon, bedoeld in lid 1, indien:
+4.	In afwijking van de volgorde op grond van lid 2 kan de werknemer de opdrachtgever, of de wederpartij, bedoeld in lid 1, die niet handelt in opdracht van een andere opdrachtgever of wederpartij aansprakelijk stellen voor de voldoening van het loon, bedoeld in lid 1, indien:
 	a.	een vordering op grond van artikel 616a niet is geslaagd vanwege een omstandigheid als bedoeld in lid 2;
-	b.	de werknemer de opdrachtgever, bedoeld in de aanhef, op schriftelijke of elektronische wijze heeft meegedeeld dat hij een vordering op grond van artikel 616a lid 1 heeft ingesteld of dat hij die niet heeft kunnen instellen vanwege een omstandigheid als bedoeld in lid 2 onderdeel a;
-	c.	de vordering, overeenkomstig lid 2, telkens is ingesteld tegen de naast hogere opdrachtgever; en
+	b.	de werknemer de opdrachtgever of de wederpartij, bedoeld in de aanhef, op schriftelijke of elektronische wijze heeft meegedeeld dat hij een vordering op grond van artikel 616a lid 1 heeft ingesteld of dat hij die niet heeft kunnen instellen vanwege een omstandigheid als bedoeld in lid 2 onderdeel a;
+	c.	de vordering, overeenkomstig lid 2, telkens is ingesteld tegen de naast hogere opdrachtgever of de naast hogere wederpartij; en
 	d.	die vordering na een jaar niet is voldaan, te rekenen vanaf de dag na de dag waarop de mededeling, bedoeld in onderdeel b, is gedaan.
 
-5.	In afwijking van lid 4 onderdeel d kan de werknemer zes maanden na de dag waarop de mededeling, bedoeld in lid 4 onderdeel b, is gedaan, de opdrachtgever, die niet handelt in opdracht van een andere opdrachtgever aansprakelijk stellen voor de voldoening van het loon, bedoeld in lid 1, indien de vordering inhoudt dat gedurende ten minste drie opeenvolgende maanden, minder dan de helft van het verschuldigde loon of minder dan 70 procent van het toepasselijke minimumloon, bedoeld in artikel 7 van de Wet minimumloon en minimumvakantiebijslag, is voldaan.
+5.	In afwijking van lid 4 onderdeel d kan de werknemer zes maanden na de dag waarop de mededeling, bedoeld in lid 4 onderdeel b, is gedaan, de opdrachtgever of de wederpartij, bedoeld in lid 1, die niet handelt in opdracht van een andere opdrachtgever of wederpartij aansprakelijk stellen voor de voldoening van het loon, bedoeld in lid 1, indien de vordering inhoudt dat gedurende ten minste drie opeenvolgende maanden, minder dan de helft van het verschuldigde loon of minder dan 70 procent van het toepasselijke minimumloon, bedoeld in artikel 7 van de Wet minimumloon en minimumvakantiebijslag, is voldaan.
 
 6.	Dit artikel is niet van toepassing op een natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf.
 
 Artikel 616c
 
-Indien de arbeid in Nederland wordt verricht, zijn de artikelen 616a, 616b en 616d tot en met 616f van toepassing, ongeacht het recht dat van toepassing is op de arbeidsovereenkomst, de overeenkomst van opdracht of van aanneming van werk.
+1.	Indien de arbeid in Nederland wordt verricht, zijn de artikelen 616a, 616b en 616d tot en met 616f van toepassing, ongeacht het recht dat van toepassing is op de arbeidsovereenkomst, de overeenkomst van opdracht, de overeenkomst van aanneming van werk, de overeenkomst van goederenvervoer over de weg of de overeenkomst tot het doen vervoeren van goederen over de weg.
+
+2.	Het eerste lid is niet van toepassing op het goederenvervoer over de weg waarbij de laad- en losplaats buiten Nederland zijn gelegen.
 
 Artikel 616d
 
-De opdrachtgever die een vordering op grond van artikel 616b heeft voldaan, heeft verhaal op alle goederen van:
+De opdrachtgever of de wederpartij die een vordering op grond van artikel 616b heeft voldaan, heeft verhaal op alle goederen van:
 	a.	de werkgever; of
-	b.	de opdrachtgever tegen wie een vordering op grond van artikel 616a of 616b niet is geslaagd vanwege een omstandigheid als bedoeld in artikel 616b lid 2 onderdeel a, b of d.
+	b.	de opdrachtgever of de wederpartij tegen wie een vordering op grond van artikel 616a of 616b niet is geslaagd vanwege een omstandigheid als bedoeld in artikel 616b lid 2 onderdeel a, b of d.
 
 Artikel 616e
 
-1.	Met het oog op het instellen van een vordering als bedoeld in artikel 616a of artikel 616b verstrekt iedere opdrachtgever, opdrachtnemer, aannemer of werkgever aan de werknemer desgevraagd schriftelijk of elektronisch de gegevens die betrekking hebben op de naam, woonplaats of het werkelijk verblijf van:
-	a.	de opdrachtgever, opdrachtnemer, aannemer of werkgever, met wie de opdrachtgever, opdrachtnemer, aannemer of werkgever, bedoeld in de aanhef, een overeenkomst van opdracht of aanneming van werk heeft gesloten; en
-	b.	de opdrachtgever, die niet handelt in opdracht van een andere opdrachtgever.
+1.	Met het oog op het instellen van een vordering als bedoeld in artikel 616a of artikel 616b verstrekt iedere opdrachtgever, opdrachtnemer, aannemer, werkgever of iedere wederpartij, aan de werknemer desgevraagd schriftelijk of elektronisch de gegevens die betrekking hebben op de naam, woonplaats of het werkelijk verblijf van:
+	a.	de opdrachtgever, opdrachtnemer, aannemer of werkgever, met wie de opdrachtgever, opdrachtnemer, aannemer of werkgever, bedoeld in de aanhef, een overeenkomst van opdracht of aanneming van werk heeft gesloten of iedere wederpartij; en
+	b.	de opdrachtgever of de wederpartij, die niet handelt in opdracht van een andere opdrachtgever of wederpartij.
 
-2.	Indien de opdrachtgever, opdrachtnemer of aannemer, niet tevens zijnde de werkgever, de gegevens, bedoeld in lid 1, niet binnen twee weken na het verzoek van de werknemer verstrekt, kan de werknemer die opdrachtgever, opdrachtnemer of aannemer, in afwijking van de volgorde op grond van artikel 616b lid 2, aansprakelijk stellen op grond van artikel 616b.
+2.	Indien de opdrachtgever, opdrachtnemer, aannemer of wederpartij, niet tevens zijnde de werkgever, de gegevens, bedoeld in lid 1, niet binnen twee weken na het verzoek van de werknemer verstrekt, kan de werknemer die opdrachtgever, opdrachtnemer, aannemer of wederpartij, in afwijking van de volgorde op grond van artikel 616b lid 2, aansprakelijk stellen op grond van artikel 616b.
 
 Artikel 616f
 
@@ -4355,7 +4749,7 @@ Artikel 630
 
 Artikel 631
 
-1.	Een beding waarbij de werkgever het recht krijgt enig bedrag van het loon op de betaaldag in te houden, is nietig, onverminderd de bevoegdheid van de werknemer om de werkgever een schriftelijke volmacht te verlenen om uit het uit te betalen loon betalingen in zijn naam te verrichten. Deze volmacht is te allen tijde herroepelijk.
+1.	Een beding waarbij de werkgever het recht krijgt enig bedrag van het loon op de betaaldag in te houden, is nietig, onverminderd de bevoegdheid van de werknemer om de werkgever een schriftelijke volmacht te verlenen om uit het uit te betalen loon betalingen in zijn naam te verrichten. De bevoegdheid van de werknemer, bedoeld in de eerste zin, geldt niet voor het deel van het loon tot het bedrag, bedoeld in artikel 7 van de Wet minimumloon en minimumvakantiebijslag, met uitzondering van betalingsverplichtingen als bedoeld in artikel 13, tweede lid, van de Wet minimumloon en minimumvakantiebijslag. Deze volmacht is te allen tijde herroepelijk.
 
 2.	Bedingen waarbij de werknemer zich jegens de werkgever verbindt het ontvangen loon of zijn overige inkomsten of een gedeelte daarvan op bepaalde wijze te besteden, en bedingen waarbij de werknemer zich verbindt zijn benodigdheden op een bepaalde plaats of bij een bepaalde persoon aan te schaffen, zijn nietig.
 
@@ -4365,7 +4759,7 @@ Artikel 631
 	c.	deel te nemen in enig ander fonds dan in onderdeel a bedoeld, mits dat fonds voldoet aan de voorwaarden, bij algemene maatregel van bestuur gesteld;
 	d.	deel te nemen aan een regeling tot sparen te zijnen behoeve, anders dan in de onderdelen a tot en met c bedoeld, mits die regeling voldoet aan de voorwaarden, bij algemene maatregel van bestuur gesteld.
 
-Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds dat tot doel heeft aan de werkgever of aan de werknemer een uitkering te doen die verband houdt met het recht van de werknemer op doorbetaling van loon tijdens ziekte, zwangerschap of bevalling als bedoeld in artikel 629 lid 1, of met de betaling van een uitkering als bedoeld in artikel 83 van de Wet werk en inkomen naar arbeidsvermogen dan wel als bedoeld in artikel 75a van de Wet op de arbeidsongeschiktheidsverzekering.
+Onder enig ander fonds als bedoeld in onderdeel c, wordt niet verstaan een fonds dat tot doel heeft aan de werkgever of aan de werknemer een uitkering te doen die verband houdt met het recht van de werknemer op doorbetaling van loon tijdens ziekte, zwangerschap of bevalling als bedoeld in artikel 629 lid 1, of met de betaling van een uitkering als bedoeld in artikel 84 van de Wet werk en inkomen naar arbeidsvermogen dan wel als bedoeld in artikel 75a van de Wet op de arbeidsongeschiktheidsverzekering.
 
 4.	Voor de nakoming van een beding als bedoeld in lid 3 mag de werkgever de daartoe nodige bedragen op het loon van de werknemer inhouden; hij is alsdan verplicht deze bedragen overeenkomstig het beding ten behoeve van de werknemer te voldoen.
 
@@ -4386,7 +4780,7 @@ Artikel 632
 	d.	het bedrag van hetgeen op het loon te veel is betaald;
 	e.	de huurprijs van een woning of een andere ruimte, een stuk grond of van werktuigen, machines en gereedschappen, door de werknemer in eigen bedrijf gebruikt, en die bij schriftelijke overeenkomst door de werkgever aan de werknemer zijn verhuurd.
 
-2.	Verrekening heeft geen plaats op het deel van het loon waarop beslag onder de werkgever niet geldig kan zijn. Ter zake van hetgeen de werkgever krachtens lid 1, onderdeel b, zou kunnen vorderen, mag door hem bij elke voldoening van het loon niet meer worden verrekend dan een tiende gedeelte van het in geld vastgestelde loon dat alsdan zou moeten worden voldaan.
+2.	Verrekening heeft geen plaats op het deel van het loon tot het bedrag, bedoeld in artikel 7 van de Wet minimumloon en minimumvakantiebijslag, tenzij vooraf schriftelijk met de werknemer is overeengekomen dat verrekening met een vordering als bedoeld in lid 1, onderdeel c, plaatsvindt. Ter zake van hetgeen de werkgever krachtens lid 1, onderdeel b, zou kunnen vorderen, mag door hem bij elke voldoening van het loon niet meer worden verrekend dan een tiende gedeelte van het in geld vastgestelde loon dat alsdan zou moeten worden voldaan, met dien verstande dat geen verrekening plaats heeft op het deel van het loon tot het bedrag bedoeld in de vorige zin.
 
 3.	Hetgeen de werkgever uit hoofde van een op het loon gelegd beslag inhoudt, komt in mindering op het voor verrekening toegelaten maximum.
 
@@ -5162,7 +5556,7 @@ Artikel 673
 		2°	op verzoek van de werknemer is ontbonden; of
 		3°	na een einde van rechtswege op initiatief van de werknemer niet aansluitend is voortgezet.
 
-2.	De transitievergoeding is over de eerste 120 maanden van de arbeidsovereenkomst gelijk aan een zesde van het loon per maand voor elke periode van zes maanden dat de arbeidsovereenkomst heeft geduurd en gelijk aan een kwart van het loon per maand voor elke daaropvolgende periode van zes maanden. De transitievergoeding bedraagt maximaal € 76.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
+2.	De transitievergoeding is over de eerste 120 maanden van de arbeidsovereenkomst gelijk aan een zesde van het loon per maand voor elke periode van zes maanden dat de arbeidsovereenkomst heeft geduurd en gelijk aan een kwart van het loon per maand voor elke daaropvolgende periode van zes maanden. De transitievergoeding bedraagt maximaal € 77.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
 
 3.	Het bedrag, genoemd in lid 2, wordt telkens met ingang van 1 januari door Onze Minister van Sociale Zaken en Werkgelegenheid gewijzigd overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen, in het voorafgaande jaar is geraamd. Het bedrag wordt daarbij afgerond op het naaste veelvoud van € 1.000,–. Het gewijzigde bedrag is uitsluitend van toepassing indien de arbeidsovereenkomst op of na de datum van de wijziging eindigt of niet wordt voortgezet.
 
