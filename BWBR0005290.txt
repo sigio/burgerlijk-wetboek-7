@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2017 t/m 09-03-2017
+Geldend van 10-03-2017 t/m 30-06-2017
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -5058,7 +5058,7 @@ Artikel 655
 
 2.	Voor zover de gegevens, bedoeld in lid 1, onderdelen a tot en met j, zijn vermeld in een schriftelijk aangegane arbeidsovereenkomst of in de opgave, bedoeld in artikel 626, kan vermelding achterwege blijven. Voor zover de gegevens, bedoeld in het eerste lid, onderdelen f tot en met i, zijn vermeld in een toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, kan worden volstaan met een verwijzing naar deze overeenkomst of regeling.
 
-3.	De werkgever verstrekt de opgave binnen een maand na de aanvang van de werkzaamheden of zo veel eerder als de overeenkomst eindigt. De gegevens, bedoeld in lid 1, onderdeel k, worden verstrekt voor het vertrek. De opgave wordt door de werkgever ondertekend. Indien de opgave elektronisch wordt verstrekt, is deze voorzien van een elektronische handtekening die voldoet aan de eisen, bedoeld in artikel 15a lid 2 van Boek 3. Wijziging in de gegevens wordt binnen een maand nadat de wijziging van kracht is geworden, aan de werknemer schriftelijk of elektronisch medegedeeld, tenzij deze voortvloeit uit wijziging van een wettelijk voorschrift, collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.
+3.	De werkgever verstrekt de opgave binnen een maand na de aanvang van de werkzaamheden of zo veel eerder als de overeenkomst eindigt. De gegevens, bedoeld in lid 1, onderdeel k, worden verstrekt voor het vertrek. De opgave wordt door de werkgever ondertekend. Indien de opgave elektronisch wordt verstrekt, is deze voorzien van een gekwalificeerde handtekening als bedoeld in artikel 3, onderdeel 12, van verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257). Wijziging in de gegevens wordt binnen een maand nadat de wijziging van kracht is geworden, aan de werknemer schriftelijk of elektronisch medegedeeld, tenzij deze voortvloeit uit wijziging van een wettelijk voorschrift, collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.
 
 4.	Indien de overeenkomst betreft het doorgaans op minder dan vier dagen per week uitsluitend of nagenoeg uitsluitend verrichten van huishoudelijke of persoonlijke diensten ten behoeve van een natuurlijk persoon, behoeft de werkgever slechts op verlangen van de werknemer de gegevens te verstrekken.
 
@@ -6781,7 +6781,7 @@ De verzekeraar kan zich niet beroepen op de vernietigingsgronden als bedoeld in 
 
 Artikel 932
 
-1.	De verzekeraar geeft zo spoedig mogelijk een akte, polis genaamd, af, waarin de overeenkomst is vastgelegd. Een polis die is opgemaakt op een wijze als bedoeld in artikel 156a lid 1 van het Wetboek van Burgerlijke Rechtsvordering moet zijn voorzien van een elektronische handtekening die voldoet aan de eisen, bedoeld in artikel 15a lid 2 van Boek 3 van het Burgerlijk Wetboek. De verzekeraar is niet verplicht een polis af te geven indien de aard van de overeenkomst afwijkend gebruik rechtvaardigt en de verzekeringnemer bij afgifte van de polis geen belang heeft.
+1.	De verzekeraar geeft zo spoedig mogelijk een akte, polis genaamd, af, waarin de overeenkomst is vastgelegd. Een polis die is opgemaakt op een wijze als bedoeld in artikel 156a lid 1 van het Wetboek van Burgerlijke Rechtsvordering moet zijn voorzien van een elektronische handtekening als bedoeld in artikel 3, onderdeel 12, van verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257). De verzekeraar is niet verplicht een polis af te geven indien de aard van de overeenkomst afwijkend gebruik rechtvaardigt en de verzekeringnemer bij afgifte van de polis geen belang heeft.
 
 2.	Op wijzigingen in de overeenkomst is lid 1 van overeenkomstige toepassing.
 
