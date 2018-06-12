@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 25-05-2018 t/m 12-06-2018
+Geldend van 13-06-2018 t/m 30-06-2018
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2049,7 +2049,7 @@ Artikel 252a
 
 2.	In dit artikel wordt verstaan onder:
 	a.	basisregistratie inkomen: basisregistratie inkomen als bedoeld in hoofdstuk IVA van de Algemene wet inzake rijksbelastingen;
-	b.	huishoudinkomen: het gezamenlijke bedrag van de inkomensgegevens, bedoeld in artikel 21 onderdeel e van de Algemene wet inzake rijksbelastingen, van de huurder en de overige bewoners van een woonruimte, met dien verstande dat van een overige bewoner die op 1 januari van het jaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen de leeftijd van 22 jaar nog niet heeft bereikt het bedrag van het inkomensgegeven slechts in aanmerking wordt genomen voor zover dat meer bedraagt dan de uitkomst van 108% van het twaalfvoud van het bedrag per maand, bedoeld in artikel 8 lid 1 onderdeel a van de Wet minimumloon en minimumvakantiebijslag, als geldend op 1 januari van het peiljaar;
+	b.	huishoudinkomen: het gezamenlijke bedrag van de inkomensgegevens, bedoeld in artikel 21 onderdeel e van de Algemene wet inzake rijksbelastingen, van de huurder en de overige bewoners van een woonruimte in het inkomenstoetsjaar, met dien verstande dat van een overige bewoner die op 1 januari van het jaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen de leeftijd van 23 jaar nog niet heeft bereikt het bedrag van het inkomensgegeven slechts in aanmerking wordt genomen voor zover dat meer bedraagt dan de uitkomst van 108% van het twaalfvoud van het bedrag per maand, bedoeld in artikel 8 lid 1 onderdeel a van de Wet minimumloon en minimumvakantiebijslag, als geldend op 1 januari van het inkomenstoetsjaar;
 	c.	huishoudverklaring: een door de inspecteur op verzoek van de verhuurder aan deze afgegeven verklaring;
 	d.	inkomenstoetsjaar: tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin ten aanzien van een huurovereenkomst een huishoudverklaring is verstrekt;
 	e.	inspecteur: functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
@@ -2280,7 +2280,7 @@ Onderafdeling 4. Het eindigen van de huur
 Artikel 271
 
 1.	In afwijking van artikel 228 lid 1 eindigt een voor bepaalde tijd voor de duur van:
-	a.	langer dan twee jaar aangegane huur ingeval van een woonruimte voor zover deze als zelfstandige woning is verhuurd, of
+	a.	langer dan twee jaar aangegane huur ingeval van een woonruimte voor zover deze als zelfstandige woning is verhuurd, een woonwagen of een standplaats, of
 	b.	langer dan vijf jaar aangegane huur ingeval van een woonruimte voor zover deze als niet zelfstandige woning is verhuurd,
 
 niet door het enkele verloop van de huurtijd; zij kan door elk van beide partijen worden opgezegd tegen een voor de betaling van de huurprijs overeengekomen dag, niet vallend voor het verstrijken van de bepaalde tijd. Op een voor bepaalde tijd voor de duur van twee onderscheidenlijk vijf jaar of korter aangegane huur is artikel 228 lid 1 onverkort van toepassing, mits de verhuurder niet eerder dan drie maanden maar uiterlijk een maand voordat die bepaalde tijd is verstreken, de huurder over de dag waarop die huur verstrijkt schriftelijk informeert. Indien de verhuurder de verplichting, bedoeld in de tweede volzin, niet nakomt, wordt de huurovereenkomst na het verstrijken van de bepaalde tijd, bedoeld in die volzin, voor onbepaalde tijd verlengd. De voor bepaalde tijd aangegane huur, bedoeld in de tweede volzin, kan door de huurder voor het verstrijken van de bepaalde tijd worden opgezegd tegen een voor betaling van de huurprijs overeengekomen dag. Indien na afloop van een voor bepaalde tijd van twee onderscheidenlijk vijf jaar of korter aangegane huur met dezelfde huurder aansluitend opnieuw een huurovereenkomst wordt aangegaan, wordt deze laatste overeenkomst opgevat als een verlenging voor onbepaalde tijd van eerstgenoemde huurovereenkomst.
