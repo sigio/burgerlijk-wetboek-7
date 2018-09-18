@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 28-07-2018 t/m 18-09-2018
+Geldend van 19-09-2018 t/m 31-12-2018
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -1202,7 +1202,7 @@ Artikel 104
 	c.	een onderbewindstelling die na die inschrijving is tot stand gekomen of die, zo zij tevoren tot stand was gekomen, toen niet in de openbare registers was ingeschreven, tenzij de huurkoper haar op het tijdstip van die inschrijving kende;
 	d.	een na die inschrijving tot stand gekomen verhuring of verpachting;
 	e.	een na die inschrijving ingeschreven beding als bedoeld in artikel 252 van Boek 6;
-	f.	een executoriaal of conservatoir beslag waarvan het proces-verbaal na die inschrijving is ingeschreven.
+	f.	een executoriaal of conservatoir beslag waarvan het proces-verbaal na die inschrijving is ingeschreven;
 	g.	een faillissement of surséance van betaling van de huurverkoper of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen, uitgesproken onderscheidenlijk van toepassing na de dag van die inschrijving.
 
 2.	Indien de huurkoop was ingeschreven op de voet van artikel 3 geldt de inschrijving van de notariële akte van huurkoop voor de toepassing van artikel 3 lid 4 als levering.
@@ -1211,7 +1211,7 @@ Artikel 104
 
 Artikel 105
 
-In geval van een samenstel van overeenkomsten als bedoeld in artikel 101 lid 1 kan de huurkoper de rechten wegens niet nakoming of niet behoorlijke nakoming van de partij die als leverancier van de onroerende zaak is opgetreden, zonodig uitoefenen jegens de kredietgever, mits hij deze rechten jegens de leverancier heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij recht heeft.
+In geval van een samenstel van overeenkomsten als bedoeld in artikel 101 lid 1 kan de huurkoper de rechten wegens niet nakoming of niet behoorlijke nakoming van de partij die als leverancier van de onroerende zaak is opgetreden, zo nodig uitoefenen jegens de kredietgever, mits hij deze rechten jegens de leverancier heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij recht heeft.
 
 Artikel 106
 
@@ -1267,7 +1267,7 @@ Artikel 114
 
 2.	Indien van de huurkoopovereenkomst geen notariële akte is opgemaakt, is ieder der partijen jegens de ander verplicht eraan mee te werken dat tussen hen een notariële akte tot stand komt, zulks onverminderd de bevoegdheid de huurovereenkomst in afwachting daarvan reeds met toepassing van artikel 3 te doen inschrijven.
 
-3.	Zolang geen notariële akte is tot stand gekomen, is de overeenkomst vernietigbaar. Indien de huurkoper tot vernietiging overgaat, kan hij het reeds door hem betaalde terug vorderen behoudens een vergoeding voor het door hem reeds van de woning gemaakte gebruik. De huurverkoper kan slechts tot vernietiging overgaan, nadat hij aan de huurkoper een redelijke termijn heeft gesteld om aan de notariële akte mee te werken en deze die termijn ongebruikt heeft laten verstrijken.
+3.	Zolang geen notariële akte is tot stand gekomen, is de overeenkomst vernietigbaar. Indien de huurkoper tot vernietiging overgaat, kan hij het reeds door hem betaalde terugvorderen behoudens een vergoeding voor het door hem reeds van de woning gemaakte gebruik. De huurverkoper kan slechts tot vernietiging overgaan, nadat hij aan de huurkoper een redelijke termijn heeft gesteld om aan de notariële akte mee te werken en deze die termijn ongebruikt heeft laten verstrijken.
 
 4.	De akte moet in ieder geval vermelden:
 	a.	de koopprijs;
@@ -1293,7 +1293,7 @@ Artikel 116
 
 2.	Evenmin kan worden bedongen dat in geval de huurkoper in de nakoming van zijn verplichtingen tekortschiet, de huurkoopovereenkomst van rechtswege wordt ontbonden of eindigt, dan wel door de huurverkoper kan worden ontbonden of beëindigd zonder ingebrekestelling.
 
-3.	De verhuurder mag niet tot ontbinding of beëindiging overgaan dan nadat de bij de ingebrekestelling gestelde redelijke termijn van tenminste twee maanden is verstreken en de huurverkoper de huurkoper heeft uitgenodigd om met hem in overleg te treden over diens betalingsachterstand, tenzij dit van de huurverkoper in redelijkheid niet kan worden gevergd.
+3.	De huurverkoper mag niet tot ontbinding of beëindiging overgaan dan nadat de bij de ingebrekestelling gestelde redelijke termijn van tenminste twee maanden is verstreken en de huurverkoper de huurkoper heeft uitgenodigd om met hem in overleg te treden over diens betalingsachterstand, tenzij dit van de huurverkoper in redelijkheid niet kan worden gevergd.
 
 Artikel 117
 
@@ -1337,7 +1337,7 @@ Artikel 118
 
 2.	De totale kosten van het krediet dat aan de consument wordt verleend, bedoeld in lid 1, onderdeel i, omvatten mede de kosten voor de waardebepaling van de onroerende zaak, indien die waardebepaling nodig is om het krediet te verkrijgen, met uitzondering van de registratiekosten voor de overdracht van de onroerende zaak. Onder de totale kosten van het aan de consument verleende krediet vallen niet de door de consument te betalen kosten voor de niet-nakoming van de in de kredietovereenkomst vastgestelde verplichtingen.
 
-3.	Voor de toepassing van lid 1, onderdeel k, worden de kosten voor het openen en aanhouden van een specifieke rekening, voor het gebruik van een betaalmiddel voor zowel transacties als kredietopnemingen op die rekening en andere, met betalingstransacties verband houdende kosten in de totale kosten van het krediet voor de consument opgenomen wanneer er een rekening moet worden geopend of aangehouden ter verkrijging van het krediet of ter verkrijging van het krediet onder de geadverteerde voorwaarden.
+3.	Voor de toepassing van lid 1, onderdeel k, worden de kosten voor het openen en aanhouden van een specifieke rekening, voor het gebruik van een betaalmiddel voor zowel transacties als kredietopnemingen op die rekening en andere, met betalingstransacties verband houdende kosten in de totale kosten van het krediet voor de consument opgenomen wanneer er een rekening moet worden geopend of aangehouden ter verkrijging van het krediet onder de geadverteerde voorwaarden.
 
 Artikel 119
 
@@ -1415,9 +1415,9 @@ Artikel 124
 
 1.	Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomstig artikel 17 van de Richtlijn en bijlage I bij de Richtlijn.
 
-2.	Indien in de kredietovereenkomst is overeengekomen dat de debetrentevoet kan worden gewijzigd, licht de kredietgever de consument door middel van het in bijlage II bij de Richtlijn opgenomen model in over de mogelijke effecten van wijzigingen op de te betalen bedragen en op het jaarlijkse kostenpercentage. De kredietgever verstrekt aan de consument een bijkomend jaarlijks kostenpercentage met een toelichting van de mogelijke risico’s die aan een significante verhoging van de debetrentevoet verbonden zijn. Indien de debetrentevoet niet beperkt is, wordt de consument tevens gewaarschuwd dat de totale kredietkosten voor de consument, zoals getoond in het jaarlijks kostenpercentage, kunnen wijzigen.
+2.	Indien in de kredietovereenkomst is overeengekomen dat de debetrentevoet kan worden gewijzigd, licht de kredietgever de consument door middel van het in artikel 122, lid 2, bedoelde model in over de mogelijke effecten van wijzigingen op de te betalen bedragen en op het jaarlijkse kostenpercentage. De kredietgever verstrekt aan de consument een bijkomend jaarlijks kostenpercentage met een toelichting van de mogelijke risico’s die aan een significante verhoging van de debetrentevoet verbonden zijn. Indien de debetrentevoet niet beperkt is, wordt de consument tevens gewaarschuwd dat de totale kredietkosten voor de consument, zoals getoond in het jaarlijks kostenpercentage, kunnen wijzigen.
 
-3.	Lid 2 is niet van toepassing op kredietovereenkomsten waarbij de debetrentevoet vaststaat voor een eerste periode van ten minste vijf jaar en waarvoor aan het eind van deze periode wordt onderhandeld over de debetrentevoet teneinde een nieuwe vaste debetrentevoet overeen te komen voor een verdere materiële periode. In het in de bijlage II bij de Richtlijn opgenomen model wordt hiervoor in een bijkomend, illustratief jaarlijks kostenpercentage voorzien.
+3.	Lid 2 is niet van toepassing op kredietovereenkomsten waarbij de debetrentevoet vaststaat voor een eerste periode van ten minste vijf jaar en waarvoor aan het eind van deze periode wordt onderhandeld over de debetrentevoet teneinde een nieuwe vaste debetrentevoet overeen te komen voor een verdere materiële periode. In het in artikel 122, lid 2, bedoelde model wordt hiervoor in een bijkomend, illustratief jaarlijks kostenpercentage voorzien.
 
 Onderafdeling 4. Informatie en rechten betreffende kredietovereenkomsten
 
@@ -1429,19 +1429,19 @@ Artikel 125
 
 Artikel 126
 
-1.	Indien de kredietovereenkomst in vreemde valuta is uitgedrukt, heeft de consument met ingang van het tijdstip waarop de overeenkomst wordt gesloten het recht om de overeenkomst om te zetten in een andere valuta of kan de consument een beroep doen op andere maatregelen op grond waarvan het wisselkoersrisico waaraan de consument in het kader van de overeenkomst blootstaat, wordt beperkt.
+1.	Indien de kredietovereenkomst in vreemde valuta is uitgedrukt, biedt de kredietgever de consument met ingang van het tijdstip waarop de overeenkomst wordt gesloten de mogelijkheid om de overeenkomst om te zetten in een andere valuta onder door de kredietgever bepaalde voorwaarden, of treft de kredietgever jegens de consument andere maatregelen op grond waarvan het wisselkoersrisico waaraan de consument in het kader van de overeenkomst blootstaat, wordt beperkt.
 
-2.	De in lid 1, onder a, bedoelde andere valuta zijn:
+2.	De in lid 1 bedoelde andere valuta zijn:
 	a.	de valuta waarin de consument hoofdzakelijk zijn inkomen ontvangt of de activa aanhoudt waaruit het krediet moet worden afgelost, zoals aangegeven op het tijdstip waarop ten behoeve van de kredietovereenkomst de recentste kredietwaardigheidsbeoordeling werd opgemaakt; of
 	b.	de valuta van de lidstaat waar de consument op het tijdstip van de totstandkoming van de kredietovereenkomst zijn verblijfplaats had of waar hij bij de omzetting zijn verblijfplaats heeft.
 
-3.	Indien de consument het recht heeft de kredietovereenkomst in een andere valuta om te zetten, als bedoeld in lid 1, onder a, geschiedt de omrekening tegen de wisselkoers die van toepassing is op de dag waarop de omzetting wordt aangevraagd, tenzij in de kredietovereenkomst anders is bepaald.
+3.	Indien de consument het recht heeft de kredietovereenkomst in een andere valuta om te zetten, als bedoeld in lid 1 geschiedt de omrekening tegen de wisselkoers die van toepassing is op de dag waarop de omzetting wordt aangevraagd, tenzij in de kredietovereenkomst anders is bepaald.
 
-4.	Maatregelen waarop de consument een beroep kan doen, als bedoeld in lid 1, onder b, zijn het stellen van bovengrenzen door de kredietgever of, in de gevallen waarin deze volstaan om het wisselkoersrisico te beperken, het geven van waarschuwingen.
+4.	Maatregelen waarop de consument een beroep kan doen, als bedoeld in lid 1 kunnen zijn het stellen van bovengrenzen door de kredietgever of, in de gevallen waarin deze volstaan om het wisselkoersrisico te beperken, het geven van waarschuwingen.
 
 5.	De consument die een lening in vreemde valuta is aangegaan, wordt door de kredietgever regelmatig op papier of door middel van een andere duurzame drager gewaarschuwd, ten minste indien de waarde van het totale uitstaande, nog door de consument te betalen bedrag of de waarde van de afbetalingstermijnen meer dan 20 procent afwijkt van de waarde die zou gelden indien de wisselkoers van de valuta van de lidstaat zou worden toegepast, die gold op het tijdstip waarop de overeenkomst werd gesloten. De waarschuwing bevat informatie over de stijging van het totale, door de consument te betalen bedrag, zet in voorkomend geval uiteen dat de consument het recht heeft om de overeenkomst in een andere valuta om te zetten met de daartoe geldende voorwaarden en geeft uitleg over elk ander toepasselijk mechanisme ter beperking van het wisselkoersrisico waaraan de consument is blootgesteld.
 
-6.	De op grond van de leden 1 tot en met 5 toepasselijke regelingen worden aan de consument in het in bijlage II bij de Richtlijn opgenomen model en in de kredietovereenkomst meegedeeld. Indien in de kredietovereenkomst geen bepaling is opgenomen om het wisselkoersrisico, waaraan de consument is blootgesteld, te beperken tot een schommeling in de wisselkoers van 20 procent, wordt in het eerdergenoemde model met een voorbeeld geïllustreerd wat de gevolgen zijn van een wisselkoersschommeling van 20 procent.
+6.	De op grond van de leden 1 tot en met 5 toepasselijke regelingen worden aan de consument in het in artikel 122, lid 2, bedoelde model en in de kredietovereenkomst meegedeeld. Indien in de kredietovereenkomst geen bepaling is opgenomen om het wisselkoersrisico, waaraan de consument is blootgesteld, te beperken tot een schommeling in de wisselkoers van 20 procent, wordt in het eerdergenoemde model met een voorbeeld geïllustreerd wat de gevolgen zijn van een wisselkoersschommeling van 20 procent.
 
 Artikel 127
 
@@ -6984,7 +6984,7 @@ Artikel 910
 
 1.	Zijn naast de partij of partijen die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, andere schuldenaren hoofdelijk aansprakelijk, dan is artikel 14 van Boek 6 van overeenkomstige toepassing. Tenzij van een andere bedoeling blijkt, wordt de overeenkomst geacht mede een beding in te houden als in die bepaling bedoeld.
 
-2.	Indien de partij of de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, aan hun verplichtingen uit de overeenkomst hebben voldaan door betaling van een in de overeenkomst vastgesteld bedrag en er na voldoening van de gerechtigden tot een vergoeding een restant is overgebleven, kan deze partij, of kunnen deze partijen gezamenlijk de rechter die de overeenkomst verbindend heeft verklaard, verzoeken om degene die deze gelden beheert te bevelen dit restant aan deze partij of, in geval van meer partijen, aan elke partij in evenredigheid van ieders bijdrage, uit te keren. Indien verzocht wordt om degene die de gelden beheert te bevelen het gehele of een deel van het restant uit te keren, wijst de rechter het verzoek af indien onvoldoende aannemelijk is dat na uitkering van het gehele restant alle gerechtigden tot een vergoeding zijn voldaan, dan wel onvoldoende aannemelijk is dat na uitkering van een deel van het restant alle gerechtigde tot een vergoeding nog kunnen worden voldaan. De rechter kan bevelen dat één of meer deskundigen zullen berichten over de voor het verzoek van belang zijnde punten.
+2.	Indien de partij of de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, aan hun verplichtingen uit de overeenkomst hebben voldaan door betaling van een in de overeenkomst vastgesteld bedrag en er na voldoening van de gerechtigden tot een vergoeding een restant is overgebleven, kan deze partij, of kunnen deze partijen gezamenlijk de rechter die de overeenkomst verbindend heeft verklaard, verzoeken om degene die deze gelden beheert te bevelen dit restant aan deze partij of, in geval van meer partijen, aan elke partij in evenredigheid van ieders bijdrage, uit te keren. Indien verzocht wordt om degene die de gelden beheert te bevelen het gehele of een deel van het restant uit te keren, wijst de rechter het verzoek af indien onvoldoende aannemelijk is dat na uitkering van het gehele restant alle gerechtigden tot een vergoeding zijn voldaan, dan wel onvoldoende aannemelijk is dat na uitkering van een deel van het restant alle gerechtigden tot een vergoeding nog kunnen worden voldaan. De rechter kan bevelen dat één of meer deskundigen zullen berichten over de voor het verzoek van belang zijnde punten.
 
 Titel 17. Verzekering
 
