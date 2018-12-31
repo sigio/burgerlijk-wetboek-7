@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 19-09-2018 t/m 31-12-2018
+Geldend van 01-01-2019 t/m 18-02-2019
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -4243,6 +4243,10 @@ Artikel 515
 
 5.	Deze titel is niet van toepassing op betaaldiensten door de Nederlandse instellingen genoemd in artikel 3, derde lid, van richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176).
 
+Artikel 515a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 516
 
 Gedurende de contractuele relatie heeft de betaaldienstgebruiker te allen tijde het recht de contractuele voorwaarden van de raamovereenkomst alsmede de bij of krachtens algemene maatregel van bestuur, bedoeld in artikel 4:22 van de Wet op het financieel toezicht, vermelde informatie en voorwaarden op papier of op een andere duurzame drager te vragen.
@@ -4335,6 +4339,18 @@ Artikel 522
 
 3.	De instemming kan te allen tijde, doch uiterlijk op het tijdstip van het onherroepelijk worden, krachtens artikel 534 van de betaalopdracht door de betaler worden ingetrokken. Hetzelfde geldt voor een instemming met de uitvoering van een betaalopdracht betreffende een reeks betalingstransacties, die kan worden ingetrokken met als gevolg dat iedere toekomstige betalingstransactie als niet-toegestaan wordt aangemerkt.
 
+Artikel 522a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
+Artikel 522b
+
+[Dit onderdeel is nog niet inwerking getreden]
+
+Artikel 522c
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 523
 
 1.	Indien voor de mededeling van de instemming van een specifiek betaalinstrument gebruik wordt gemaakt, kunnen de betaler en zijn betaaldienstverlener uitgavenlimieten overeenkomen voor betaaldiensten die met dat betaalinstrument zullen worden verricht.
@@ -4394,6 +4410,10 @@ Artikel 529
 4.	Na de kennisgeving overeenkomstig artikel 524, eerste lid, onder b, heeft het gebruik van het betaalinstrument geen financiële gevolgen voor de betaler, tenzij deze frauduleus heeft gehandeld.
 
 5.	Indien de betaaldienstverlener nalaat om overeenkomstig artikel 525, eerste lid, onder c, passende middelen beschikbaar te stellen waarmee te allen tijde een kennisgeving als bedoeld in artikel 524, eerste lid, onder b, kan worden gedaan, is de betaler niet aansprakelijk voor de financiële gevolgen die uit het gebruik van dat betaalinstrument voortvloeien, tenzij hij frauduleus heeft gehandeld.
+
+Artikel 529a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 530
 
@@ -4540,6 +4560,10 @@ Artikel 544
 Artikel 545
 
 In de gevallen, bedoeld in de artikelen 543 en 544 zijn de betaaldienstverleners bovendien aansprakelijk jegens hun respectieve betaaldienstgebruikers voor de kosten waarvoor deze laatsten aansprakelijk zijn en de interesten die voor rekening van de betaaldienstgebruiker komen wegens niet-uitvoering of gebrekkige uitvoering van de betalingstransactie.
+
+Artikel 545a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 546
 
@@ -5411,9 +5435,8 @@ Indien in een onderneming geen ondernemingsraad is ingesteld, noch een personeel
 Artikel 666
 
 De artikelen 662 tot en met 665 en 670 lid 8 zijn niet van toepassing op de overgang van een onderneming indien:
-	a.	de werkgever in staat van faillissement is verklaard en de onderneming tot de boedel behoort;
-	b.	de werkgever een entiteit is als bedoeld in artikel 3A:2 van de Wet op het financieel toezicht en ten aanzien van die werkgever het instrument van overgang van de onderneming, het instrument van de overbruggingsinstelling of het instrument van afsplitsing van activa, bedoeld in artikel 3A:28, 3A:37 onderscheidenlijk 3A:41 van de Wet op het financieel toezicht wordt toegepast; of
-	c.	de werkgever een bank of verzekeraar is in de zin van artikel 1:1 van de Wet op het financieel toezicht, en ten aanzien van die werkgever de noodregeling, bedoeld in afdeling 3.5.5 van die wet is uitgesproken, de rechtbank een machtiging als bedoeld in artikel 3:163, eerste lid, aanhef en onderdeel b, heeft verleend, of indien de rechtbank een machtiging als bedoeld in artikel 3:163m, eerste lid, aanhef en onderdeel c, van die wet heeft verleend en de bewindvoerders overgaan tot liquidatie.
+	a.	de werkgever in staat van faillissement is verklaard en de onderneming tot de boedel behoort; of
+	b.	de werkgever een entiteit is als bedoeld in artikel 3A:2 of artikel 3A:78 van de Wet op het financieel toezicht en ten aanzien van die werkgever het instrument van overgang van de onderneming, het instrument van de overbruggingsinstelling of het instrument van afsplitsing van activa, bedoeld in artikel 3A:28, 3A:37, 3A:41, 3A:104, 3A:112, onderscheidenlijk 3A:117 van de Wet op het financieel toezicht wordt toegepast.
 
 Artikel 666a
 
@@ -5547,7 +5570,7 @@ Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging e
 
 6.	De werkgever kan de arbeidsovereenkomst met de werknemer die daarvoor verlof heeft, niet opzeggen wegens het bijwonen van vergaderingen als bedoeld in artikel 643. Hetzelfde geldt indien tussen partijen geen overeenstemming over het verlof bestaat zolang de rechter omtrent het verlof niet heeft beschikt.
 
-7.	De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer zijn recht op verlof als bedoeld in artikel 3:1a, eerste of vierde lid, van de Wet arbeid en zorg, zijn recht op adoptieverlof of verlof voor het opnemen van een pleegkind als bedoeld in artikel 3:2 van de Wet arbeid en zorg, op kort- en langdurend zorgverlof als bedoeld in hoofdstuk 5 van de Wet arbeid en zorg, dan wel zijn recht op ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg geldend maakt.
+7.	De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer zijn recht op verlof als bedoeld in artikel 3:1a, eerste of vierde lid, van de Wet arbeid en zorg, zijn recht op adoptieverlof of verlof voor het opnemen van een pleegkind als bedoeld in artikel 3:2 van de Wet arbeid en zorg, zijn recht op geboorteverlof of aanvullend geboorteverlof als bedoeld in artikel 4:2 of artikel 4:2a van de Wet arbeid en zorg, op kort- en langdurend zorgverlof als bedoeld in hoofdstuk 5 van de Wet arbeid en zorg, dan wel zijn recht op ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg geldend maakt.
 
 8.	De werkgever kan de arbeidsovereenkomst met de in zijn onderneming werkzame werknemer niet opzeggen wegens de in artikel 662, lid 2, onderdeel a, bedoelde overgang van die onderneming.
 
@@ -5755,7 +5778,7 @@ Artikel 673
 		2°	op verzoek van de werknemer is ontbonden; of
 		3°	na een einde van rechtswege op initiatief van de werknemer niet aansluitend is voortgezet.
 
-2.	De transitievergoeding is over de eerste 120 maanden van de arbeidsovereenkomst gelijk aan een zesde van het loon per maand voor elke periode van zes maanden dat de arbeidsovereenkomst heeft geduurd en gelijk aan een kwart van het loon per maand voor elke daaropvolgende periode van zes maanden. De transitievergoeding bedraagt maximaal € 79.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
+2.	De transitievergoeding is over de eerste 120 maanden van de arbeidsovereenkomst gelijk aan een zesde van het loon per maand voor elke periode van zes maanden dat de arbeidsovereenkomst heeft geduurd en gelijk aan een kwart van het loon per maand voor elke daaropvolgende periode van zes maanden. De transitievergoeding bedraagt maximaal € 81.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
 
 3.	Het bedrag, genoemd in lid 2, wordt telkens met ingang van 1 januari door Onze Minister van Sociale Zaken en Werkgelegenheid gewijzigd overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen, in het voorafgaande jaar is geraamd. Het bedrag wordt daarbij afgerond op het naaste veelvoud van € 1.000,–. Het gewijzigde bedrag is uitsluitend van toepassing indien de arbeidsovereenkomst op of na de datum van de wijziging eindigt of niet wordt voortgezet.
 
