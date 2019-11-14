@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 14-09-2019 t/m 14-11-2019
+Geldend van 15-11-2019 t/m 31-12-2019
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -6172,7 +6172,7 @@ Artikel 694
 
 Artikel 695
 
-1.	Deze afdeling is van toepassing op zeeschepen die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.
+1.	Deze afdeling is van toepassing op zeeschepen die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren en op zeeschepen die gerechtigd zijn een andere vlag te voeren, indien de zee-arbeidsovereenkomst wordt beheerst door Nederlands recht.
 
 2.	In deze afdeling wordt onder scheepsbeheerder verstaan de scheepsbeheerder, bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet zeevarenden.
 
@@ -6661,25 +6661,22 @@ Artikel 738f
 
 2.	De artikelen 738c en 738e, leden 3 tot en met 6, zijn van overeenkomstige toepassing.
 
-Afdeling 12A. De zeevarende in de visserij
+Afdeling 12A. Bijzondere bepalingen ter zake van de zee-arbeidsovereenkomst in de zeevisserij
 
 Artikel 739
 
 In deze afdeling wordt verstaan onder:
 	a.	zeevisserij: de bedrijfsmatige uitoefening van de zeevisserij buitengaats;
-	b.	kustvisserij: de kustvisserij in de zin van artikel 1, vierde lid, onder c, van de Visserijwet 1963;
-	c.	arbeidsovereenkomst in de zeevisserij: de zee-arbeidsovereenkomst die in het kader van de zeevisserij wordt aangegaan;
-	d.	garantieloon: het naar tijdruimte vastgestelde loon dat door de werkgever verschuldigd is in plaats van het loon dat geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, indien het laatstgenoemde loon lager uitkomt dan het eerstgenoemde loon.
+	b.	arbeidsovereenkomst in de zeevisserij: de zee-arbeidsovereenkomst die in het kader van de zeevisserij wordt aangegaan;
+	c.	garantieloon: het naar tijdruimte vastgestelde loon dat door de werkgever verschuldigd is in plaats van het loon dat geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, indien het laatstgenoemde loon lager uitkomt dan het eerstgenoemde loon.
 
 Artikel 740
 
-1.	Op de arbeidsovereenkomst van de zeevarende in de zeevisserij zijn de afdelingen 1 tot en met 9 en 11 en 12 van deze titel van toepassing, voor zover daarvan in deze afdeling niet is afgeweken. De artikelen 708, 715, 717 en 738a tot en met 738f zijn niet van toepassing op de arbeidsovereenkomst in de zeevisserij.
+1.	Op de arbeidsovereenkomst van de zeevarende in de zeevisserij zijn de afdelingen 1 tot en met 9 en 11 en 12 van deze titel van toepassing, voor zover daarvan in deze afdeling niet is afgeweken. De artikelen 708, 715, 717, 737 en 738a tot en met 738f zijn niet van toepassing op de arbeidsovereenkomst in de zeevisserij.
 
-2.	Op de arbeidsovereenkomst van de zeevarende in de kustvisserij zijn de afdelingen 1 tot en met 9 en 11 van deze titel van toepassing.
+2.	Van de artikelen 741, 742 en 746 tot en met 749 van deze afdeling kan niet worden afgeweken.
 
-3.	Van artikel 741 van deze afdeling kan niet worden afgeweken.
-
-4.	Van artikel 745 van deze afdeling kan niet ten nadele van de zeevarende in de zeevisserij worden afgeweken.
+3.	Van artikel 745 van deze afdeling kan niet ten nadele van de zeevarende in de zeevisserij worden afgeweken.
 
 Artikel 741
 
@@ -6687,11 +6684,17 @@ De werkgever en de zeevarende in de zeevisserij, wiens loon bestaat uit een aand
 
 Artikel 742
 
-Artikel 699 onder 6 geldt ten aanzien van zeevarenden in de zeevisserij met dien verstande dat, voorzover het in geld vastgestelde loon geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, het overeengekomen garantieloon en de berekeningswijze van het aandeel van de zeevarende in de opbrengst van de vangst worden vermeld.
+1.	De arbeidsovereenkomst van de zeevarende in de zeevisserij vermeldt naast de in artikel 699 genoemde gegevens:
+	a.	het garantieloon en de berekeningswijze van het aandeel van de zeevarende in de vangst of de opbrengst daarvan, voor zover het in geld vastgestelde loon geheel of gedeeltelijk bestaat in een aandeel in de vangst of de opbrengst daarvan;
+	b.	de voorzieningen die de werkgever aan boord verstrekt aan de zeevarende;
+	c.	de door de werkgever aan de zeevarende te verstrekken bescherming in geval van ziekte, ongeval of overlijden in verband met zijn arbeidsovereenkomst; en
+	d.	de minimumrusttijden.
+
+2.	Voor zover de gegevens, bedoeld in het eerste lid, zijn vermeld in een toepasselijke collectieve arbeidsovereenkomst of in een regeling door of namens een daartoe bevoegd bestuursorgaan, kan worden volstaan met een verwijzing naar deze overeenkomst of regeling.
 
 Artikel 743
 
-1.	Ten aanzien van de zeevarende in de zeevisserij, wiens loon geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, kan bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken van artikel 623 lid 2, met dien verstande dat het tijdvak na afloop waarvan het loon moet worden voldaan niet langer dan drie maanden is.
+1.	Ten aanzien van de zeevarende in de zeevisserij, wiens loon geheel of gedeeltelijk bestaat uit een aandeel in de vangst of de opbrengst daarvan, kan bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken van artikel 623 lid 2, met dien verstande dat het tijdvak na afloop waarvan het loon moet worden voldaan niet langer dan zes maanden is.
 
 2.	Wordt aan de zeevarende, bedoeld in het vorige lid, een voorschot betaald als bedoeld in artikel 624 lid 2, dan heeft de zeevarende geen aanspraak jegens de werkgever indien het aan de in artikel 707 bedoelde persoon overgemaakte bedrag meer bedraagt dan aan de zeevarende verschuldigd is.
 
@@ -6704,6 +6707,28 @@ Artikel 745
 Voor de zeevarenden in de zeevisserij, wier loon bestaat uit een aandeel in de vangst of de opbrengst daarvan, wordt voor de toepassing van:
 	a.	de artikelen 719 lid 3, 732, 734, 734b, 734d, 734f, 734h, 734j en 734l onder loon verstaan het voor hen bij algemene maatregel van bestuur vastgestelde bedrag, en
 	b.	artikel 729 lid 1 onder loon verstaan het garantieloon.
+
+Artikel 746
+
+De werkgever brengt voor de overmaking, bedoeld in artikel 707, lid 1, geen kosten in rekening bij de zeevarende in de zeevisserij.
+
+Verplichtingen van de scheepsbeheerder
+
+Artikel 747
+
+De artikelen 623, 624, 695, lid 1, 697, 698, 700, 702, 703 tot en met 707, 718, 719, leden 1, 2, 5 en 6, 720, 732, 734 tot en met 734m, 742, 743 en 746 zijn van overeenkomstige toepassing op personen die, anders dan op grond van een arbeidsovereenkomst, werkzaamheden verrichten in de zeevisserij, met dien verstande dat voor «werkgever» wordt gelezen: scheepsbeheerder als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet zeevarenden en in plaats van «loon» wordt gelezen: aandeel in de vangst of de opbrengst daarvan.
+
+Artikel 748
+
+Indien de werkgever van de zeevarende in de zeevisserij de verplichtingen inzake repatriëring, bedoeld in artikel 718, niet tijdig nakomt, is de scheepsbeheerder aansprakelijk voor de nakoming daarvan.
+
+Afdeling 12B. De maatschapsovereenkomst in de zeevisserij
+
+Artikel 749
+
+1.	Op de maatschapsovereenkomst in de zeevisserij zijn de artikelen 623, 624, 695, lid 1, 697, 698, 700, 702, 703 tot en met 707, 718, 719, leden 1, 2, 5 en 6, 720, 732, 734, 734a, 742, lid 1, 743 en 746 van overeenkomstige toepassing, met dien verstande dat in plaats van «zee-arbeidsovereenkomst» wordt gelezen «maatschapsovereenkomst», in plaats van «werkgever» wordt gelezen «scheepsbeheerder, als bedoeld in artikel 1, onderdeel l, van de Wet zeevarenden» en in plaats van «loon» wordt gelezen «aandeel in de vangst of de opbrengst daarvan».
+
+2.	Op de maatschapsovereenkomst in de zeevisserij zijn de artikelen 734d tot en met 734m van overeenkomstige toepassing, tenzij de zeevarende in de zeevisserij tegen de geldelijke gevolgen van arbeidsongeschiktheid verzekerd is bij het Sociaal Fonds voor de Maatschapsvisserij, met dien verstande dat in plaats van «zee-arbeidsovereenkomst» wordt gelezen «maatschapsovereenkomst», in plaats van «werkgever» wordt gelezen «scheepsbeheerder, als bedoeld in artikel 1, onderdeel l, van de Wet zeevarenden» en in plaats van «loon» wordt gelezen «aandeel in de vangst of de opbrengst daarvan».
 
 Titel 12. Aanneming van werk
 
