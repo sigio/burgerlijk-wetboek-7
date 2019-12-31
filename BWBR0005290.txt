@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 15-11-2019 t/m 31-12-2019
+Geldend van 01-01-2020 t/m 31-03-2020
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -3762,15 +3762,18 @@ Artikel 447
 
 Artikel 448
 
-1.	De hulpverlener licht de patiënt op duidelijke wijze, en desgevraagd schriftelijk in over het voorgenomen onderzoek en de voorgestelde behandeling en over de ontwikkelingen omtrent het onderzoek, de behandeling en de gezondheidstoestand van de patiënt. De hulpverlener licht een patiënt die de leeftijd van twaalf jaren nog niet heeft bereikt op zodanige wijze in als past bij zijn bevattingsvermogen.
+1.	De hulpverlener licht de patiënt op duidelijke wijze in, die past bij zijn bevattingsvermogen, en overlegt tijdig met de patiënt over het voorgenomen onderzoek en de voorgestelde behandeling en over de ontwikkelingen omtrent het onderzoek, de behandeling en de gezondheidstoestand van de patiënt. De hulpverlener licht een patiënt die de leeftijd van twaalf jaren nog niet heeft bereikt op zodanige wijze in als past bij zijn bevattingsvermogen.
 
 2.	Bij het uitvoeren van de in lid 1 neergelegde verplichting laat de hulpverlener zich leiden door hetgeen de patiënt redelijkerwijze dient te weten ten aanzien van:
-	a.	de aard en het doel van het onderzoek of de behandeling die hij noodzakelijk acht en van de uit te voeren verrichtingen;
-	b.	de te verwachten gevolgen en risico’s daarvan voor de gezondheid van de patiënt;
-	c.	andere methoden van onderzoek of behandeling die in aanmerking komen;
-	d.	de staat van en de vooruitzichten met betrekking tot diens gezondheid voor wat betreft het terrein van het onderzoek of de behandeling.
+	a.	de aard en het doel van het voorgenomen onderzoek, de voorgestelde behandeling of de uit te voeren verrichtingen;
+	b.	de te verwachten gevolgen en risico’s voor de gezondheid van de patiënt bij het voorgenomen onderzoek, de voorgestelde behandeling, de uit te voeren verrichtingen en bij niet behandeling;
+	c.	andere mogelijke methoden van onderzoek en behandelingen al dan niet uitgevoerd door andere hulpverleners;
+	d.	de staat van en de vooruitzichten met betrekking tot diens gezondheid voor wat betreft het terrein van de mogelijke methoden van onderzoek of behandelingen;
+	e.	de termijn waarop de mogelijke methoden van onderzoek of behandelingen kunnen worden uitgevoerd en de verwachte tijdsduur ervan.
 
-3.	De hulpverlener mag de patiënt bedoelde inlichtingen slechts onthouden voor zover het verstrekken ervan kennelijk ernstig nadeel voor de patiënt zou opleveren. Indien het belang van de patiënt dit vereist, dient de hulpverlener de desbetreffende inlichtingen aan een ander dan de patiënt te verstrekken. De inlichtingen worden de patiënt alsnog gegeven, zodra bedoeld nadeel niet meer te duchten is. De hulpverlener maakt geen gebruik van zijn in de eerste volzin bedoelde bevoegdheid dan nadat hij daarover een andere hulpverlener heeft geraadpleegd.
+3.	De hulpverlener stelt zich tijdens het overleg op de hoogte van de situatie en behoeften van de patiënt, nodigt de patiënt uit om vragen te stellen en verstrekt desgevraagd schriftelijk of elektronisch informatie over het in lid 2 bepaalde.
+
+4.	De hulpverlener mag de patiënt bedoelde inlichtingen slechts onthouden voor zover het verstrekken ervan kennelijk ernstig nadeel voor de patiënt zou opleveren. Indien het belang van de patiënt dit vereist, dient de hulpverlener de desbetreffende inlichtingen aan een ander dan de patiënt te verstrekken. De inlichtingen worden de patiënt alsnog gegeven, zodra bedoeld nadeel niet meer te duchten is. De hulpverlener maakt geen gebruik van zijn in de eerste volzin bedoelde bevoegdheid dan nadat hij daarover een andere hulpverlener heeft geraadpleegd.
 
 Artikel 449
 
@@ -3798,33 +3801,33 @@ De hulpverlener moet bij zijn werkzaamheden de zorg van een goed hulpverlener in
 
 Artikel 454
 
-1.	De hulpverlener richt een dossier in met betrekking tot de behandeling van de patiënt. Hij houdt in het dossier aantekening van de gegevens omtrent de gezondheid van de patiënt en de te diens aanzien uitgevoerde verrichtingen en neemt andere stukken, bevattende zodanige gegevens, daarin op, een en ander voor zover dit voor een goede hulpverlening aan hem noodzakelijk is.
+1.	De hulpverlener richt een dossier in met betrekking tot de behandeling van de patiënt. Hij houdt in het dossier aantekening van de gegevens omtrent de gezondheid van de patiënt en de te diens aanzien uitgevoerde verrichtingen en neemt andere gegevens daarin op, een en ander voor zover dit voor een goede hulpverlening aan de patiënt noodzakelijk is.
 
-2.	De hulpverlener voegt desgevraagd een door de patiënt afgegeven verklaring met betrekking tot de in het dossier opgenomen stukken aan het dossier toe.
+2.	De hulpverlener voegt desgevraagd een door de patiënt afgegeven verklaring aan het dossier toe.
 
-3.	Onverminderd het bepaalde in artikel 455, bewaart de hulpverlener de bescheiden, bedoeld in de vorige leden, gedurende vijftien jaren, te rekenen vanaf het tijdstip waarop zij zijn vervaardigd, of zoveel langer als redelijkerwijs uit de zorg van een goed hulpverlener voortvloeit.
+3.	Onverminderd het bepaalde in artikel 455 bewaart de hulpverlener het dossier gedurende twintig jaren, te rekenen vanaf het tijdstip waarop de laatste wijziging in het dossier heeft plaatsgevonden, of zoveel langer als redelijkerwijs uit de zorg van een goed hulpverlener voortvloeit.
 
 Artikel 455
 
-1.	De hulpverlener vernietigt de door hem bewaarde bescheiden, bedoeld in artikel 454, na een daartoe strekkend verzoek van de patiënt.
+1.	De hulpverlener vernietigt de gegevens uit het dossier na een daartoe strekkend schriftelijk of elektronisch verzoek van de patiënt.
 
-2.	Lid 1 geldt niet voor zover het verzoek bescheiden betreft waarvan redelijkerwijs aannemelijk is dat de bewaring van aanmerkelijk belang is voor een ander dan de patiënt, alsmede voor zover het bepaalde bij of krachtens de wet zich tegen vernietiging verzet.
+2.	Lid 1 geldt niet voor zover het verzoek gegevens betreft waarvan redelijkerwijs aannemelijk is dat de bewaring van aanmerkelijk belang is voor een ander dan de patiënt, alsmede voor zover het bepaalde bij of krachtens de wet zich tegen vernietiging verzet.
 
 Artikel 456
 
-De hulpverlener verstrekt aan de patiënt desgevraagd inzage in en afschrift van de bescheiden, bedoeld in artikel 454. De verstrekking blijft achterwege voor zover dit noodzakelijk is in het belang van de bescherming van de persoonlijke levenssfeer van een ander.
+De hulpverlener verstrekt aan de patiënt desgevraagd inzage in en afschrift van de gegevens uit het dossier. De verstrekking blijft achterwege voor zover dit noodzakelijk is in het belang van de bescherming van de persoonlijke levenssfeer van een ander.
 
 Artikel 457
 
-1.	Onverminderd het in artikel 448 lid 3, tweede volzin, bepaalde draagt de hulpverlener zorg, dat aan anderen dan de patiënt geen inlichtingen over de patiënt dan wel inzage in of afschrift van de bescheiden, bedoeld in artikel 454, worden verstrekt dan met toestemming van de patiënt. Indien verstrekking plaatsvindt, geschiedt deze slechts voor zover daardoor de persoonlijke levenssfeer van een ander niet wordt geschaad. De verstrekking kan geschieden zonder inachtneming van de beperkingen, bedoeld in de voorgaande volzinnen, indien het bij of krachtens de wet bepaalde daartoe verplicht.
+1.	Onverminderd het in artikel 448 lid 3, tweede volzin, bepaalde draagt de hulpverlener zorg, dat aan anderen dan de patiënt geen inlichtingen over de patiënt dan wel inzage in of afschrift van de gegevens uit het dossier worden verstrekt dan met toestemming van de patiënt. Indien verstrekking plaatsvindt, geschiedt deze slechts voor zover daardoor de persoonlijke levenssfeer van een ander niet wordt geschaad. De verstrekking kan geschieden zonder inachtneming van de beperkingen, bedoeld in de voorgaande volzinnen, indien het bij of krachtens de wet bepaalde daartoe verplicht.
 
 2.	Onder anderen dan de patiënt zijn niet begrepen degenen die rechtstreeks betrokken zijn bij de uitvoering van de behandelingsovereenkomst en degene die optreedt als vervanger van de hulpverlener, voor zover de verstrekking noodzakelijk is voor de door hen in dat kader te verrichten werkzaamheden.
 
-3.	Daaronder zijn evenmin begrepen degenen wier toestemming ter zake van de uitvoering van de behandelingsovereenkomst op grond van de artikelen 450 en 465 is vereist. Indien de hulpverlener door inlichtingen over de patiënt dan wel inzage in of afschrift van de bescheiden te verstrekken niet geacht kan worden de zorg van een goed hulpverlener in acht te nemen, laat hij zulks achterwege.
+3.	Daaronder zijn evenmin begrepen degenen wier toestemming ter zake van de uitvoering van de behandelingsovereenkomst op grond van de artikelen 450 en 465 is vereist. Indien de hulpverlener door inlichtingen over de patiënt dan wel inzage in of afschrift van de gegevens uit het dossier te verstrekken niet geacht kan worden de zorg van een goed hulpverlener in acht te nemen, laat hij zulks achterwege.
 
 Artikel 458
 
-1.	In afwijking van het bepaalde in artikel 457 lid 1 kunnen zonder toestemming van de patiënt ten behoeve van statistiek of wetenschappelijk onderzoek op het gebied van de volksgezondheid aan een ander desgevraagd inlichtingen over de patiënt of inzage in de bescheiden, bedoeld in artikel 454, worden verstrekt indien:
+1.	In afwijking van het bepaalde in artikel 457 lid 1 kunnen zonder toestemming van de patiënt ten behoeve van statistiek of wetenschappelijk onderzoek op het gebied van de volksgezondheid aan een ander desgevraagd inlichtingen over de patiënt of inzage in de gegevens uit het dossier worden verstrekt indien:
 	a.	het vragen van toestemming in redelijkheid niet mogelijk is en met betrekking tot de uitvoering van het onderzoek is voorzien in zodanige waarborgen, dat de persoonlijke levenssfeer van de patiënt niet onevenredig wordt geschaad, of
 	b.	het vragen van toestemming, gelet op de aard en het doel van het onderzoek, in redelijkheid niet kan worden verlangd en de hulpverlener zorg heeft gedragen dat de gegevens in zodanige vorm worden verstrekt dat herleiding tot individuele natuurlijke personen redelijkerwijs wordt voorkomen.
 
@@ -3837,11 +3840,22 @@ Artikel 458
 
 Artikel 458a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	In afwijking van het bepaalde in artikel 457 lid 1 verstrekt de hulpverlener desgevraagd inzage in of afschrift van gegevens uit het dossier van een overleden patiënt aan:
+	a.	een persoon ten behoeve van wie de patiënt bij leven toestemming heeft gegeven indien die toestemming schriftelijk of elektronisch is vastgelegd;
+	b.	een nabestaande als bedoeld in artikel 1 van de Wet kwaliteit, klachten en geschillen zorg, of een persoon als bedoeld in artikel 465 lid 3, indien die nabestaande of die persoon een mededeling over een incident op grond van artikel 10, derde lid, van de Wet kwaliteit, klachten en geschillen zorg heeft gekregen;
+	c.	een ieder die een zwaarwegend belang heeft en aannemelijk maakt dat dit belang mogelijk wordt geschaad en dat inzage in of afschrift van gegevens uit het dossier noodzakelijk is voor de behartiging van dit belang.
+
+2.	In afwijking van het bepaalde in artikel 457 lid 1 verstrekt de hulpverlener aan degene of de instelling die het gezag uitoefende over een patiënt die op het moment van overlijden de leeftijd van zestien jaren nog niet had bereikt, desgevraagd inzage in of afschrift van gegevens uit het dossier van deze patiënt, tenzij dit in strijd is met de zorg van een goed hulpverlener.
+
+3.	Op grond van dit artikel worden uitsluitend gegevens verstrekt voor zover deze betrekking hebben op de grond waarvoor inzage wordt verleend.
+
+4.	Op grond van dit artikel worden geen gegevens verstrekt voor zover schriftelijk of elektronisch is vastgelegd dat de overleden patiënt die de leeftijd van twaalf jaar had bereikt en tot een redelijke waardering van zijn belangen ter zake in staat was, deze inzage niet wenst, of daarbij de persoonlijke levenssfeer van een ander wordt geschaad.
 
 Artikel 458b
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Indien op grond van artikel 458a, lid 1, onderdeel c, om inzage in of afschrift van gegevens uit het dossier van een overleden patiënt wordt gevraagd vanwege een vermoeden van een medische fout en de hulpverlener de gevraagde inzage of het gevraagde afschrift niet verstrekt, verstrekt de hulpverlener op verzoek van degene die om de inzage of het afschrift heeft gevraagd inzage in of afschrift van de gegevens aan een door de verzoeker aangewezen onafhankelijke arts.
+
+2.	De arts, bedoeld in lid 1, beoordeelt of het niet verstrekken van de inzage of het afschrift gerechtvaardigd is. Indien de arts van oordeel is dat het niet verstrekken niet gerechtvaardigd is, verstrekt de hulpverlener alsnog inzage of afschrift aan de verzoeker.
 
 Artikel 459
 
@@ -3874,7 +3888,7 @@ Artikel 464
 1.	Indien in de uitoefening van een geneeskundig beroep of bedrijf anders dan krachtens een behandelingsovereenkomst handelingen op het gebied van de geneeskunst worden verricht, zijn deze afdeling alsmede de artikelen 404, 405 lid 2 en 406 van afdeling 1 van deze titel van overeenkomstige toepassing voor zover de aard van de rechtsbetrekking zich daartegen niet verzet.
 
 2.	Betreft het handelingen als omschreven in artikel 446 lid 4, dan:
-	a.	worden de in artikel 454 bedoelde bescheiden slechts bewaard zolang dat noodzakelijk is in verband met het doel van het onderzoek, tenzij het bepaalde bij of krachtens de wet zich tegen vernietiging verzet;
+	a.	worden de in artikel 454 bedoelde gegevens slechts bewaard zolang dat noodzakelijk is in verband met het doel van het onderzoek, tenzij het bepaalde bij of krachtens de wet zich tegen vernietiging verzet;
 	b.	wordt de persoon op wie het onderzoek betrekking heeft in de gelegenheid gesteld mee te delen of hij de uitslag en de gevolgtrekking van het onderzoek wenst te vernemen. Indien die wens is geuit en de handelingen niet worden verricht in verband met een tot stand gekomen arbeidsverhouding of burgerrechtelijke verzekering dan wel een opleiding waartoe de betrokkene reeds is toegelaten, wordt bedoelde persoon tevens in de gelegenheid gesteld mee te delen of hij van de uitslag en de gevolgtrekking als eerste kennis wenst te nemen teneinde te kunnen beslissen of daarvan mededeling aan anderen wordt gedaan.
 
 Artikel 465
@@ -3883,7 +3897,7 @@ Artikel 465
 
 2.	Hetzelfde geldt indien de patiënt de leeftijd van twaalf jaren heeft bereikt, maar niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, tenzij zodanige patiënt meerderjarig is en onder curatele staat of ten behoeve van hem het mentorschap is ingesteld, in welke gevallen nakoming jegens de curator of de mentor geschiedt.
 
-3.	Indien een meerderjarige patiënt die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, niet onder curatele staat of ten behoeve van hem niet het mentorschap is ingesteld, worden de verplichtingen die voor de hulpverlener uit deze afdeling jegens de patiënt voortvloeien, door de hulpverlener nagekomen jegens de persoon die daartoe door de patiënt schriftelijk is gemachtigd in zijn plaats op te treden. Ontbreekt zodanige persoon, of treedt deze niet op, dan worden de verplichtingen nagekomen jegens de echtgenoot, de geregistreerde partner of andere levensgezel van de patiënt, tenzij deze persoon dat niet wenst, dan wel, indien ook zodanige persoon ontbreekt, jegens een ouder, kind, broer of zus van de patiënt, tenzij deze persoon dat niet wenst.
+3.	Indien een meerderjarige patiënt die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, niet onder curatele staat of ten behoeve van hem niet het mentorschap is ingesteld, worden de verplichtingen die voor de hulpverlener uit deze afdeling jegens de patiënt voortvloeien, door de hulpverlener nagekomen jegens de persoon die daartoe door de patiënt schriftelijk is gemachtigd in zijn plaats op te treden. Ontbreekt zodanige persoon, of treedt deze niet op, dan worden de verplichtingen nagekomen jegens de echtgenoot, de geregistreerde partner of andere levensgezel van de patiënt, tenzij deze persoon dat niet wenst, dan wel, indien ook zodanige persoon ontbreekt, jegens een ouder, kind, broer, zus, grootouder of kleinkind van de patiënt, tenzij deze persoon dat niet wenst.
 
 4.	De hulpverlener komt zijn verplichtingen na jegens de in de leden 1 en 2 bedoelde wettelijke vertegenwoordigers van de patiënt en de in lid 3 bedoelde personen, tenzij die nakoming niet verenigbaar is met de zorg van een goed hulpverlener.
 
@@ -4794,7 +4808,7 @@ De termijn, bedoeld in artikel 52 lid 1 onder d van Boek 3, begint met betrekkin
 
 Artikel 615
 
-De bepalingen van deze titel zijn niet van toepassing ten aanzien van personen in dienst van staat, provincie, gemeente, waterschap of enig ander publiekrechtelijk lichaam, tenzij zij, hetzij vóór of bij de aanvang van de dienstbetrekking door of namens partijen, hetzij bij wet of verordening, van toepassing zijn verklaard.
+[Vervallen per 01-01-2020]
 
 Afdeling 2. Loon
 
@@ -4932,7 +4946,7 @@ Artikel 626
 
 1.	De werkgever is verplicht bij elke voldoening van het in geld vastgestelde loon de werknemer een schriftelijke of elektronische opgave te verstrekken van het loonbedrag, van de gespecificeerde bedragen waaruit dit is samengesteld, van de gespecificeerde bedragen die op het loonbedrag zijn ingehouden, alsmede van het bedrag van het loon waarop een persoon van de leeftijd van de werknemer over de termijn waarover het loon is berekend ingevolge het bepaalde bij of krachtens de Wet minimumloon en minimumvakantiebijslag recht heeft, tenzij zich ten opzichte van de vorige voldoening in geen van deze bedragen een wijziging heeft voorgedaan.
 
-2.	De opgave vermeldt voorts de naam van de werkgever en van de werknemer, de termijn waarover het loon is berekend, alsmede de overeengekomen arbeidsduur.
+2.	De opgave vermeldt voorts de naam van de werkgever en van de werknemer, de termijn waarover het loon is berekend, de overeengekomen arbeidsduur, of er sprake is van een arbeidsovereenkomst voor onbepaalde tijd die schriftelijk is aangegaan, en of sprake is van een oproepovereenkomst als bedoeld in artikel 628a, lid 9 en 10.
 
 3.	De werkgever verstrekt de elektronische opgave op zodanige wijze dat deze door de werknemer kan worden opgeslagen en voor hem toegankelijk is ten behoeve van latere kennisneming.
 
@@ -4942,11 +4956,11 @@ Artikel 626
 
 Artikel 627
 
-Geen loon is verschuldigd voor de tijd gedurende welke de werknemer de bedongen arbeid niet heeft verricht.
+[Vervallen per 01-01-2020]
 
 Artikel 628
 
-1.	De werknemer behoudt het recht op het naar tijdruimte vastgestelde loon indien hij de overeengekomen arbeid niet heeft verricht door een oorzaak die in redelijkheid voor rekening van de werkgever behoort te komen.
+1.	De werkgever is verplicht het naar tijdruimte vastgestelde loon te voldoen indien de werknemer de overeengekomen arbeid geheel of gedeeltelijk niet heeft verricht, tenzij het geheel of gedeeltelijk niet verrichten van de overeengekomen arbeid in redelijkheid voor rekening van de werknemer behoort te komen.
 
 2.	Indien de werknemer krachtens enige wettelijk voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de deelneming is overeengekomen bij of voortvloeit uit de arbeidsovereenkomst, een geldelijke uitkering toekomt, wordt het loon verminderd met het bedrag van die uitkering.
 
@@ -4962,13 +4976,39 @@ Artikel 628
 
 8.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van de Stichting van de Arbeid worden bepaald dat op bepaalde bedrijfstakken, of onderdelen daarvan, lid 5, 6 of 7 niet van toepassing is.
 
-9.	Elk beding dat ten nadele van de werknemer afwijkt van dit artikel is nietig.
+9.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kan worden bepaald dat de in lid 1 genoemde verplichting geheel of gedeeltelijk niet geldt indien het niet verrichten van de overeengekomen arbeid het gevolg is van bij die regeling te bepalen buitengewone omstandigheden en aan bij die regeling te bepalen voorwaarden wordt voldaan.
+
+10.	Elk beding dat ten nadele van de werknemer afwijkt van dit artikel is nietig.
 
 Artikel 628a
 
-1.	Indien een arbeidsomvang van minder dan 15 uur per week is overeengekomen en de tijdstippen waarop de arbeid moet worden verricht niet zijn vastgelegd, dan wel indien de omvang van de arbeid niet of niet eenduidig is vastgelegd, heeft de werknemer voor iedere periode van minder dan drie uur waarin hij arbeid heeft verricht, recht op het loon waarop hij aanspraak zou hebben indien hij drie uur arbeid zou hebben verricht.
+1.	Indien een arbeidsomvang van minder dan 15 uur per week is overeengekomen en de tijdstippen waarop de arbeid moet worden verricht niet zijn vastgelegd, dan wel indien sprake is van een oproepovereenkomst, heeft de werknemer voor iedere periode van minder dan drie uur waarin hij arbeid heeft verricht, recht op het loon waarop hij aanspraak zou hebben indien hij drie uur arbeid zou hebben verricht.
 
-2.	Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
+2.	Indien sprake is van een oproepovereenkomst, kan de werknemer door de werkgever niet verplicht worden aan de oproep om arbeid te verrichten gehoor te geven, indien de werkgever de tijdstippen waarop de arbeid moet worden verricht niet ten minste vier dagen van tevoren schriftelijk of elektronisch aan de werknemer bekendmaakt.
+
+3.	Indien sprake is van een oproepovereenkomst en de werkgever binnen vier dagen voor de aanvang van het tijdstip van de arbeid de oproep om arbeid te verrichten ten dele dan wel volledig intrekt of de tijdstippen wijzigt, heeft de werknemer recht op het loon waarop hij aanspraak zou hebben indien hij de arbeid overeenkomstig de oproep zou hebben verricht. De oproep om arbeid te verrichten wordt schriftelijk of elektronisch ingetrokken of gewijzigd.
+
+4.	De termijn van vier dagen, bedoeld in de leden 2 en 3, kan bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden verkort, mits de termijn niet korter is dan 24 uur.
+
+5.	Indien sprake is van een oproepovereenkomst, doet de werkgever steeds als de arbeidsovereenkomst 12 maanden heeft geduurd binnen een maand schriftelijk of elektronisch een aanbod voor een vaste arbeidsomvang, die ten minste gelijk is aan de gemiddelde omvang van de arbeid in die voorafgaande periode van 12 maanden, waarbij niet op grond van artikel 628, lid 5 of lid 7, of artikel 691, lid 7, ten nadele van de werknemer wordt afgeweken van artikel 628, lid 1. De termijn voor aanvaarding van het aanbod bedraagt ten minste een maand. Voor de berekening van de periode van 12 maanden worden arbeidsovereenkomsten, die elkaar met tussenpozen van ten hoogste zes maanden hebben opgevolgd, samengeteld.
+
+6.	Het eerdere aanbod, dat de werkgever aan de werknemer heeft gedaan, op grond van lid 5, geldt ook voor arbeidsovereenkomsten die elkaar met tussenpozen van ten hoogste zes maanden opvolgen.
+
+7.	De leden 5 en 6 zijn van overeenkomstige toepassing op elkaar opvolgende arbeidsovereenkomsten tussen een werknemer en verschillende werkgevers, die, ongeacht of inzicht bestaat in de hoedanigheid en geschiktheid van de werknemer, ten aanzien van de verrichte arbeid redelijkerwijze geacht moeten worden elkaars opvolger te zijn.
+
+8.	Gedurende de periode waarin de werkgever de verplichting, bedoeld in lid 5 of 6, niet is nagekomen, heeft de werknemer recht op loon over de arbeidsomvang, bedoeld in lid 5.
+
+9.	Van een oproepovereenkomst als bedoeld in dit artikel is sprake indien:
+	a.	de omvang van de arbeid niet is vastgelegd als één aantal uren per tijdseenheid van:
+		1°.	ten hoogste een maand; of
+		2°.	ten hoogste een jaar en het recht op loon van de werknemer gelijkmatig is gespreid over die tijdseenheid; of
+	b.	de werknemer op grond van artikel 628, lid 5 of lid 7, of artikel 691, lid 7, geen recht heeft op het naar tijdruimte vastgestelde loon, indien hij de overeengekomen arbeid niet heeft verricht.
+
+10.	Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over wanneer sprake is van een oproepovereenkomst.
+
+11.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan bepaald worden dat lid 2, lid 3 en lid 5 niet van toepassing zijn voor bij die overeenkomst of regeling aangewezen functies, die als gevolg van klimatologische of natuurlijke omstandigheden gedurende een periode van ten hoogste negen maanden per jaar kunnen worden uitgeoefend en niet aansluitend door dezelfde werknemer kunnen worden uitgeoefend gedurende een periode van meer dan negen maanden per jaar.
+
+12.	Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
 Artikel 629
 
@@ -5288,23 +5328,20 @@ Artikel 652
 
 3.	Bij het aangaan van een arbeidsovereenkomst voor onbepaalde tijd kan een proeftijd worden overeengekomen van ten hoogste twee maanden.
 
-4.	Er kan geen proeftijd worden overeengekomen indien de arbeidsovereenkomst is aangegaan voor ten hoogste zes maanden.
-
-5.	Bij het aangaan van een arbeidsovereenkomst voor bepaalde tijd van langer dan zes maanden kan een proeftijd worden overeengekomen van ten hoogste:
-	a.	een maand, indien de overeenkomst is aangegaan voor korter dan twee jaren;
+4.	Bij het aangaan van een arbeidsovereenkomst voor bepaalde tijd kan een proeftijd worden overeengekomen van ten hoogste:
+	a.	een maand, indien de overeenkomst is aangegaan voor langer dan zes maanden maar korter dan twee jaren;
 	b.	twee maanden, indien de overeenkomst is aangegaan voor twee jaren of langer.
 
-6.	Indien het einde van een arbeidsovereenkomst voor bepaalde tijd niet op een kalenderdatum is gesteld, kan een proeftijd worden overeengekomen van ten hoogste een maand.
+5.	Indien het einde van een arbeidsovereenkomst voor bepaalde tijd niet op een kalenderdatum is gesteld, kan een proeftijd worden overeengekomen van ten hoogste een maand.
 
-7.	Van de leden 5, onderdeel a, en 6, kan slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken ten nadele van de werknemer.
+6.	Er kan geen proeftijd worden overeengekomen indien de arbeidsovereenkomst:
+	a.	is aangegaan voor ten hoogste zes maanden;
+	b.	een opvolgende arbeidsovereenkomst betreft tussen een werknemer en dezelfde werkgever, tenzij die overeenkomst duidelijk andere vaardigheden of verantwoordelijkheden van de werknemer eist dan de vorige arbeidsovereenkomst; of
+	c.	een opvolgende arbeidsovereenkomst betreft tussen een werknemer en een andere werkgever die ten aanzien van de verrichte arbeid redelijkerwijze geacht moet worden de opvolger van de vorige werkgever te zijn.
 
-8.	Elk beding waarbij een proeftijd is overeengekomen is nietig, indien:
-	a.	de proeftijd niet voor beide partijen gelijk is;
-	b.	de proeftijd, anders dan bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan, op langer dan een maand wordt gesteld in het geval, bedoeld in lid 5, onderdeel a;
-	c.	de proeftijd op langer dan twee maanden wordt gesteld;
-	d.	het beding is opgenomen in een opvolgende arbeidsovereenkomst tussen een werknemer en dezelfde werkgever, tenzij die overeenkomst duidelijk andere vaardigheden of verantwoordelijkheden van de werknemer eist dan de vorige arbeidsovereenkomst;
-	e.	het beding is opgenomen in een opvolgende arbeidsovereenkomst tussen een werknemer en een andere werkgever die ten aanzien van de verrichte arbeid redelijkerwijze geacht moet worden de opvolger van de vorige werkgever te zijn; of
-	f.	het beding is opgenomen in een arbeidsovereenkomst die is aangegaan voor ten hoogste zes maanden.
+7.	Van de leden 4, onderdeel a, en 5, kan slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken ten nadele van de werknemer.
+
+8.	Elk beding in strijd met dit artikel is nietig.
 
 Artikel 653
 
@@ -5344,10 +5381,12 @@ Artikel 655
 	i.	de gebruikelijke arbeidsduur per dag of per week;
 	j.	of de werknemer gaat deelnemen aan een pensioenregeling;
 	k.	indien de werknemer voor een langere termijn dan een maand werkzaam zal zijn buiten Nederland, mede de duur van die werkzaamheid, de huisvesting, de toepasselijkheid van de Nederlandse sociale verzekeringswetgeving dan wel opgave van de voor de uitvoering van die wetgeving verantwoordelijke organen, de geldsoort waarin betaling zal plaatsvinden, de vergoedingen waarop de werknemer recht heeft en de wijze waarop de terugkeer geregeld is;
-	l.	de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan;
-	m.	of de arbeidsovereenkomst een uitzendovereenkomst is als bedoeld in artikel 690.
+	l.	de toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, dan wel de toepasselijke arbeidsvoorwaarden op grond van artikel 8 of 8a van de Wet allocatie arbeidskrachten door intermediairs;
+	m.	of de arbeidsovereenkomst een uitzendovereenkomst is als bedoeld in artikel 690, dan wel een payrollovereenkomst is als bedoeld in artikel 692;
+	n.	of de arbeidsovereenkomst voor onbepaalde tijd is aangegaan;
+	o.	of sprake is van een oproepovereenkomst als bedoeld in artikel 628a, lid 9 en 10.
 
-2.	Voor zover de gegevens, bedoeld in lid 1, onderdelen a tot en met j, zijn vermeld in een schriftelijk aangegane arbeidsovereenkomst of in de opgave, bedoeld in artikel 626, kan vermelding achterwege blijven. Voor zover de gegevens, bedoeld in het eerste lid, onderdelen f tot en met i, zijn vermeld in een toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, kan worden volstaan met een verwijzing naar deze overeenkomst of regeling.
+2.	Voor zover de gegevens, bedoeld in lid 1, onderdelen a tot en met j, n en o, zijn vermeld in een schriftelijk aangegane arbeidsovereenkomst of in de opgave, bedoeld in artikel 626, kan vermelding achterwege blijven. Voor zover de gegevens, bedoeld in het eerste lid, onderdelen f tot en met i, zijn vermeld in een toepasselijke collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan, kan worden volstaan met een verwijzing naar deze overeenkomst of regeling.
 
 3.	De werkgever verstrekt de opgave binnen een maand na de aanvang van de werkzaamheden of zo veel eerder als de overeenkomst eindigt. De gegevens, bedoeld in lid 1, onderdeel k, worden verstrekt voor het vertrek. De opgave wordt door de werkgever ondertekend. Indien de opgave elektronisch wordt verstrekt, is deze voorzien van een gekwalificeerde handtekening als bedoeld in artikel 3, onderdeel 12, van verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257). Wijziging in de gegevens wordt binnen een maand nadat de wijziging van kracht is geworden, aan de werknemer schriftelijk of elektronisch medegedeeld, tenzij deze voortvloeit uit wijziging van een wettelijk voorschrift, collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan.
 
@@ -5465,13 +5504,11 @@ Afdeling 8. Rechten van de werknemer bij overgang van een onderneming
 
 Artikel 662
 
-1.	In afwijking van artikel 615 is deze afdeling ook van toepassing op de werknemer die arbeid verricht in een onderneming die in stand wordt gehouden door staat, provincie, gemeente, waterschap of enig ander publiekrechtelijk lichaam.
-
-2.	Voor de toepassing van deze afdeling wordt verstaan onder:
+1.	Voor de toepassing van deze afdeling wordt verstaan onder:
 	a.	overgang: de overgang, ten gevolge van een overeenkomst, een fusie of een splitsing, van een economische eenheid die haar identiteit behoudt;
-	b.	economische eenheid: een geheel van georganiseerde middelen, bestemd tot het ten uitvoer brengen van een al dan niet hoofdzakelijk economische activiteit.
+	b.	economische eenheid: een geheel van georganiseerde middelen, bestemd tot het ten uitvoer brengen van een al dan niet hoofdzakelijk economische activiteit waaronder begrepen de uitoefening van openbaar gezag.
 
-3.	Voor de toepassing van deze afdeling wordt een vestiging of een onderdeel van een onderneming of vestiging beschouwd als een onderneming.
+2.	Voor de toepassing van deze afdeling wordt een vestiging of een onderdeel van een onderneming of vestiging beschouwd als een onderneming.
 
 Artikel 663
 
@@ -5560,18 +5597,16 @@ Artikel 668
 Artikel 668a
 
 1.	Vanaf de dag dat tussen dezelfde partijen:
-	a.	arbeidsovereenkomsten voor bepaalde tijd elkaar met tussenpozen van ten hoogste zes maanden hebben opgevolgd en een periode van 24 maanden, deze tussenpozen inbegrepen, hebben overschreden, geldt met ingang van die dag de laatste arbeidsovereenkomst als aangegaan voor onbepaalde tijd;
+	a.	arbeidsovereenkomsten voor bepaalde tijd elkaar met tussenpozen van ten hoogste zes maanden hebben opgevolgd en een periode van 36 maanden, deze tussenpozen inbegrepen, hebben overschreden, geldt met ingang van die dag de laatste arbeidsovereenkomst als aangegaan voor onbepaalde tijd;
 	b.	meer dan drie voor bepaalde tijd aangegane arbeidsovereenkomsten elkaar hebben opgevolgd met tussenpozen van ten hoogste zes maanden, geldt de laatste arbeidsovereenkomst als aangegaan voor onbepaalde tijd.
 
 2.	Lid 1 is van overeenkomstige toepassing op elkaar opvolgende arbeidsovereenkomsten tussen een werknemer en verschillende werkgevers, die, ongeacht of inzicht bestaat in de hoedanigheid en geschiktheid van de werknemer, ten aanzien van de verrichte arbeid redelijkerwijze geacht moeten worden elkaars opvolger te zijn.
 
-3.	Lid 1, onderdeel a, is niet van toepassing op een arbeidsovereenkomst aangegaan voor ten hoogste drie maanden die onmiddellijk volgt op een tussen dezelfde partijen aangegane arbeidsovereenkomst voor 24 maanden of langer.
+3.	Lid 1, onderdeel a, is niet van toepassing op een arbeidsovereenkomst aangegaan voor ten hoogste drie maanden die onmiddellijk volgt op een tussen dezelfde partijen aangegane arbeidsovereenkomst voor 36 maanden of langer.
 
 4.	De termijn van opzegging wordt berekend vanaf het tijdstip van totstandkoming van de eerste arbeidsovereenkomst als bedoeld onder a of b van lid 1.
 
-5.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan de periode van 24 maanden, bedoeld in lid 1, onderdeel a, worden verlengd tot ten hoogste 48 maanden en kan het aantal van drie, bedoeld in lid 1, onderdeel b, worden verhoogd naar ten hoogste zes, indien:
-	a.	het betreft een uitzendovereenkomst als bedoeld in artikel 690; of
-	b.	uit die overeenkomst of regeling blijkt dat voor bij die overeenkomst of regeling te bepalen functies of functiegroepen de intrinsieke aard van de bedrijfsvoering deze verlenging of verhoging vereist.
+5.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan de periode van 36 maanden, bedoeld in lid 1, onderdeel a, worden verlengd tot ten hoogste 48 maanden en kan het aantal van drie, bedoeld in lid 1, onderdeel b, worden verhoogd naar ten hoogste zes, indien uit die overeenkomst of regeling blijkt dat voor bij die overeenkomst of regeling te bepalen functies of functiegroepen de intrinsieke aard van de bedrijfsvoering deze verlenging of verhoging vereist.
 
 6.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan van lid 2 worden afgeweken ten nadele van de werknemer.
 
@@ -5587,7 +5622,11 @@ Artikel 668a
 
 12.	De periode, bedoeld in lid 1, onderdeel a, wordt verlengd tot ten hoogste 48 maanden, en het aantal, bedoeld in lid 1, onderdeel b, bedraagt ten hoogste zes, indien het betreft een arbeidsovereenkomst met een werknemer die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt. Voor de vaststelling of de in dit lid bedoelde periode of het bedoelde aantal arbeidsovereenkomsten is overschreden worden alleen arbeidsovereenkomsten in aanmerking genomen die zijn aangegaan na het bereiken van de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd.
 
-13.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kunnen de tussenpozen, bedoeld in lid 1, onderdelen a en b, worden verkort tot ten hoogste drie maanden, voor bij die overeenkomst of regeling aangewezen functies, die als gevolg van klimatologische of natuurlijke omstandigheden gedurende een periode van ten hoogste negen maanden per jaar kunnen worden uitgeoefend en niet aansluitend door dezelfde werknemer kunnen worden uitgeoefend gedurende een periode van meer dan negen maanden per jaar.
+13.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kunnen de tussenpozen, bedoeld in lid 1, onderdelen a en b, worden verkort tot ten hoogste drie maanden, voor bij die overeenkomst of regeling aangewezen functies, die gedurende een periode van ten hoogste negen maanden per jaar kunnen worden uitgeoefend en niet aansluitend door dezelfde werknemer kunnen worden uitgeoefend gedurende een periode van meer dan negen maanden per jaar.
+
+14.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen op verzoek van de Stichting van de Arbeid de tussenpozen, bedoeld in lid 1, onderdelen a en b, worden verkort tot ten hoogste drie maanden, voor bij die regeling aan te wijzen functies, die gedurende een periode van ten hoogste negen maanden per jaar kunnen worden uitgeoefend en niet aansluitend door dezelfde werknemer kunnen worden uitgeoefend gedurende een periode van meer dan negen maanden per jaar.
+
+15.	Dit artikel is niet van toepassing op een arbeidsovereenkomst met een werknemer op een school als bedoeld in artikel 1 van de Wet op het primair onderwijs of artikel 1 van de Wet op de expertisecentra, indien die arbeidsovereenkomst is aangegaan in verband met vervanging wegens ziekte van een werknemer die een onderwijsgevende of onderwijsondersteunende functie met lesgebonden of behandeltaken bekleedt.
 
 Artikel 669
 
@@ -5603,7 +5642,8 @@ Artikel 669
 	e.	verwijtbaar handelen of nalaten van de werknemer, zodanig dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren;
 	f.	het weigeren van de werknemer de bedongen arbeid te verrichten wegens een ernstig gewetensbezwaar, mits aannemelijk is dat de bedongen arbeid niet in aangepaste vorm kan worden verricht;
 	g.	een verstoorde arbeidsverhouding, zodanig dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren;
-	h.	andere dan de hiervoor genoemde omstandigheden die zodanig zijn dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren.
+	h.	andere dan de hiervoor genoemde omstandigheden die zodanig zijn dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren;
+	i.	een combinatie van omstandigheden genoemd in twee of meer van de gronden, bedoeld in de onderdelen c tot en met e, g en h, die zodanig is dat van de werkgever in redelijkheid niet kan worden gevergd de arbeidsovereenkomst te laten voortduren.
 
 4.	Tenzij schriftelijk anders is overeengekomen, kan de werkgever de arbeidsovereenkomst, die is ingegaan voor het bereiken van een tussen partijen overeengekomen leeftijd waarop de arbeidsovereenkomst eindigt, of, indien geen andere leeftijd is overeengekomen, de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd, eveneens opzeggen in verband met of na het bereiken van de tussen partijen overeengekomen leeftijd waarop de arbeidsovereenkomst eindigt, of, indien geen andere leeftijd is overeengekomen, de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd.
 
@@ -5760,7 +5800,7 @@ Artikel 671a
 Artikel 671b
 
 1.	De kantonrechter kan op verzoek van de werkgever de arbeidsovereenkomst ontbinden:
-	a.	op grond van artikel 669, lid 3, onderdelen c tot en met h;
+	a.	op grond van artikel 669, lid 3, onderdelen c tot en met i;
 	b.	op grond van artikel 669, lid 3, onderdelen a en b, indien de toestemming, bedoeld in artikel 671a, is geweigerd; of
 	c.	op grond van artikel 669, lid 3, onderdelen a en b, indien er sprake is van een arbeidsovereenkomst voor bepaalde tijd die niet tussentijds kan worden opgezegd.
 
@@ -5774,23 +5814,25 @@ Artikel 671b
 	a.	de werknemer niet eerst schriftelijk heeft gemaand tot nakoming van die verplichtingen of om die reden, met inachtneming van het bepaalde in artikel 629, lid 7, de betaling van het loon heeft gestaakt; of
 	b.	niet beschikt over een verklaring ter zake van een deskundige als bedoeld in artikel 629a, tenzij het overleggen van deze verklaring in redelijkheid niet van de werkgever kan worden gevergd.
 
-6.	Indien de werkgever de ontbinding verzoekt op grond van artikel 669, lid 3, onderdelen b tot en met h, en een opzegverbod als bedoeld in artikel 670, leden 1 tot en met 4 en 10, of een met deze opzegverboden naar aard en strekking vergelijkbaar opzegverbod in een ander wettelijk voorschrift geldt, kan de kantonrechter, in afwijking van lid 2, het verzoek om ontbinding inwilligen, indien:
+6.	Indien de werkgever de ontbinding verzoekt op grond van artikel 669, lid 3, onderdelen b tot en met i, en een opzegverbod als bedoeld in artikel 670, leden 1 tot en met 4 en 10, of een met deze opzegverboden naar aard en strekking vergelijkbaar opzegverbod in een ander wettelijk voorschrift geldt, kan de kantonrechter, in afwijking van lid 2, het verzoek om ontbinding inwilligen, indien:
 	a.	het verzoek geen verband houdt met omstandigheden waarop die opzegverboden betrekking hebben; of
 	b.	er sprake is van omstandigheden die van dien aard zijn dat de arbeidsovereenkomst in het belang van de werknemer behoort te eindigen.
 
 7.	Het opzegverbod, bedoeld in artikel 670, lid 1, geldt niet indien de ziekte een aanvang heeft genomen nadat het verzoek om ontbinding door de kantonrechter is ontvangen.
 
-8.	Indien het verzoek om ontbinding een arbeidsovereenkomst voor onbepaalde tijd of een arbeidsovereenkomst voor bepaalde tijd betreft die tussentijds kan worden opgezegd, en de kantonrechter het verzoek inwilligt:
+8.	Indien de kantonrechter de arbeidsovereenkomst ontbindt op grond van artikel 669, lid 3, onderdeel i, kan hij aan de werknemer een vergoeding toekennen van ten hoogste de helft van de transitievergoeding, bedoeld in artikel 673, lid 2.
+
+9.	Indien het verzoek om ontbinding een arbeidsovereenkomst voor onbepaalde tijd of een arbeidsovereenkomst voor bepaalde tijd betreft die tussentijds kan worden opgezegd, en de kantonrechter het verzoek inwilligt:
 	a.	bepaalt hij het einde van de arbeidsovereenkomst op het tijdstip waarop de arbeidsovereenkomst bij regelmatige opzegging zou zijn geëindigd, waarbij, indien de ontbinding van de arbeidsovereenkomst niet het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever, de duur van de periode die aanvangt op de datum van ontvangst van het verzoek om ontbinding en eindigt op de datum van dagtekening van de ontbindingsbeslissing in mindering wordt gebracht, met dien verstande dat een termijn van ten minste een maand resteert;
 	b.	kan hij, in afwijking van onderdeel a, het einde van de arbeidsovereenkomst bepalen op een eerder tijdstip, indien de ontbinding van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer;
 	c.	kan hij aan de werknemer een billijke vergoeding toekennen indien de ontbinding van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever.
 
-9.	Indien het verzoek om ontbinding een arbeidsovereenkomst voor bepaalde tijd betreft die niet tussentijds kan worden opgezegd, en de kantonrechter het verzoek inwilligt, bepaalt hij op welk tijdstip de arbeidsovereenkomst eindigt en:
+10.	Indien het verzoek om ontbinding een arbeidsovereenkomst voor bepaalde tijd betreft die niet tussentijds kan worden opgezegd, en de kantonrechter het verzoek inwilligt, bepaalt hij op welk tijdstip de arbeidsovereenkomst eindigt en:
 	a.	kan hij de werknemer een vergoeding toekennen tot ten hoogste het bedrag gelijk aan het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst geduurd zou hebben indien deze van rechtswege zou zijn geëindigd;
 	b.	kan hij de werknemer naast de vergoeding, bedoeld in onderdeel a, een billijke vergoeding toekennen indien de ontbinding het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever; of
 	c.	kan hij, indien de ontbinding van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer, de werkgever een vergoeding toekennen tot ten hoogste het bedrag gelijk aan het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst geduurd zou hebben indien deze van rechtswege zou zijn geëindigd.
 
-10.	Elk beding waarbij de mogelijkheid voor de werkgever om de kantonrechter te verzoeken de arbeidsovereenkomst te ontbinden, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig.
+11.	Elk beding waarbij de mogelijkheid voor de werkgever om de kantonrechter te verzoeken de arbeidsovereenkomst te ontbinden, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig.
 
 Artikel 671c
 
@@ -5823,23 +5865,25 @@ Artikel 672
 
 4.	De door de werknemer in acht te nemen termijn van opzegging bedraagt één maand.
 
-5.	Indien de toestemming, bedoeld in artikel 671a, lid 1 of lid 2, is verleend, wordt de door de werkgever in acht te nemen termijn van opzegging verkort met de duur van de periode die aanvangt op de datum waarop het volledige verzoek om toestemming is ontvangen en eindigt op de datum van dagtekening van de beslissing op het verzoek om toestemming, met dien verstande dat een termijn van ten minste een maand resteert.
+5.	Indien de omvang van de arbeid niet is vastgelegd, bedraagt de door de werknemer in acht te nemen termijn van opzegging, in afwijking van lid 4, de termijn, bedoeld in artikel 628a, leden 2 en 4, of vier dagen, indien het een functie betreft die is aangewezen op grond van artikel 628a, lid 11. Lid 1 is niet van toepassing.
 
-6.	De termijn, bedoeld in lid 2 of lid 3, kan slechts worden verkort bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan. De termijn kan schriftelijk worden verlengd.
+6.	Indien de toestemming, bedoeld in artikel 671a, lid 1 of lid 2, is verleend, wordt de door de werkgever in acht te nemen termijn van opzegging verkort met de duur van de periode die aanvangt op de datum waarop het volledige verzoek om toestemming is ontvangen en eindigt op de datum van dagtekening van de beslissing op het verzoek om toestemming, met dien verstande dat een termijn van ten minste een maand resteert.
 
-7.	Van de termijn, bedoeld in lid 4, kan schriftelijk worden afgeweken. De termijn van opzegging voor de werknemer mag bij verlenging niet langer zijn dan zes maanden en voor de werkgever niet korter dan het dubbele van die voor de werknemer.
+7.	De termijn, bedoeld in lid 2 of lid 3, kan slechts worden verkort bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan. De termijn kan schriftelijk worden verlengd.
 
-8.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan, mag de termijn van opzegging, bedoeld in lid 7, tweede volzin, voor de werkgever worden verkort, mits de termijn niet korter is dan die voor de werknemer.
+8.	Van de termijn, bedoeld in lid 4, kan schriftelijk worden afgeweken. De termijn van opzegging voor de werknemer mag bij verlenging niet langer zijn dan zes maanden en voor de werkgever niet korter dan het dubbele van die voor de werknemer.
 
-9.	Voor de toepassing van lid 2 worden arbeidsovereenkomsten geacht eenzelfde, niet onderbroken arbeidsovereenkomst te vormen in geval van herstel van de arbeidsovereenkomst ingevolge artikel 682 of artikel 683.
+9.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan, mag de termijn van opzegging, bedoeld in lid 8, tweede volzin, voor de werkgever worden verkort, mits de termijn niet korter is dan die voor de werknemer.
 
-10.	De partij die opzegt tegen een eerdere dag dan tussen partijen geldt, is aan de wederpartij een vergoeding verschuldigd gelijk aan het bedrag van het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst bij regelmatige opzegging had behoren voort te duren.
+10.	Voor de toepassing van lid 2 worden arbeidsovereenkomsten geacht eenzelfde, niet onderbroken arbeidsovereenkomst te vormen in geval van herstel van de arbeidsovereenkomst ingevolge artikel 682 of artikel 683.
 
-11.	De kantonrechter kan de vergoeding, bedoeld in het lid 10, matigen indien hem dit met het oog op de omstandigheden billijk voorkomt, met dien verstande dat de vergoeding niet minder kan bedragen dan het in geld vastgestelde loon over de opzegtermijn, bedoeld in lid 2, noch minder dan het in geld vastgestelde loon voor drie maanden.
+11.	De partij die opzegt tegen een eerdere dag dan tussen partijen geldt, is aan de wederpartij een vergoeding verschuldigd gelijk aan het bedrag van het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst bij regelmatige opzegging had behoren voort te duren.
+
+12.	De kantonrechter kan de vergoeding, bedoeld in het lid 11, matigen indien hem dit met het oog op de omstandigheden billijk voorkomt, met dien verstande dat de vergoeding niet minder kan bedragen dan het in geld vastgestelde loon over de opzegtermijn, bedoeld in lid 2, noch minder dan het in geld vastgestelde loon voor drie maanden.
 
 Artikel 673
 
-1.	De werkgever is aan de werknemer een transitievergoeding verschuldigd indien de arbeidsovereenkomst ten minste 24 maanden heeft geduurd en:
+1.	De werkgever is aan de werknemer een transitievergoeding verschuldigd indien:
 	a.	de arbeidsovereenkomst:
 		1°	door de werkgever is opgezegd;
 		2°	op verzoek van de werkgever is ontbonden; of
@@ -5849,15 +5893,17 @@ Artikel 673
 		2°	op verzoek van de werknemer is ontbonden; of
 		3°	na een einde van rechtswege op initiatief van de werknemer niet aansluitend is voortgezet.
 
-2.	De transitievergoeding is over de eerste 120 maanden van de arbeidsovereenkomst gelijk aan een zesde van het loon per maand voor elke periode van zes maanden dat de arbeidsovereenkomst heeft geduurd en gelijk aan een kwart van het loon per maand voor elke daaropvolgende periode van zes maanden. De transitievergoeding bedraagt maximaal € 81.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
+2.	De transitievergoeding is voor elk jaar dat de arbeidsovereenkomst heeft geduurd gelijk aan een derde van het loon per maand en een evenredig deel daarvan voor een periode dat de arbeidsovereenkomst korter dan een jaar heeft geduurd. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de berekeningswijze van de transitievergoeding. De transitievergoeding bedraagt maximaal € 83.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
 
 3.	Het bedrag, genoemd in lid 2, wordt telkens met ingang van 1 januari door Onze Minister van Sociale Zaken en Werkgelegenheid gewijzigd overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen, in het voorafgaande jaar is geraamd. Het bedrag wordt daarbij afgerond op het naaste veelvoud van € 1.000,–. Het gewijzigde bedrag is uitsluitend van toepassing indien de arbeidsovereenkomst op of na de datum van de wijziging eindigt of niet wordt voortgezet.
 
-4.	Voor de berekening van de duur van de arbeidsovereenkomst, bedoeld in de leden 1 en 2, worden:
+4.	Voor de berekening van de duur van de arbeidsovereenkomst, bedoeld in lid 2, worden:
 	a.	maanden waarin de gemiddelde omvang van de door de werknemer verrichte arbeid ten hoogste twaalf uur per week heeft bedragen, tot het bereiken van de achttienjarige leeftijd buiten beschouwing gelaten; en
 	b.	een of meer voorafgaande arbeidsovereenkomsten tussen dezelfde partijen, die elkaar met tussenpozen van ten hoogste zes maanden hebben opgevolgd, samengeteld. De vorige zin is eveneens van toepassing indien de werknemer achtereenvolgens in dienst is geweest bij verschillende werkgevers die, ongeacht of inzicht bestaat in de hoedanigheid en geschiktheid van de werknemer, ten aanzien van de verrichte arbeid redelijkerwijze geacht moeten worden elkaars opvolger te zijn.
 
-5.	Indien in de in lid 4, onderdeel b, bedoelde situatie bij de beëindiging van een voorafgaande arbeidsovereenkomst een transitievergoeding is betaald of op grond van artikel 673b, lid 1, een gelijkwaardige voorziening is verstrekt, wordt een bedrag ter hoogte van de transitievergoeding die bij die beëindiging op grond van de leden 1 en 2 verschuldigd was of zou zijn geweest in mindering gebracht op de transitievergoeding.
+5.	Indien in de in lid 4, onderdeel b, bedoelde situatie bij de beëindiging van een voorafgaande arbeidsovereenkomst:
+	a.	een transitievergoeding is betaald, wordt een bedrag ter hoogte van de transitievergoeding die bij die beëindiging op grond van de leden 1 en 2 verschuldigd was in mindering gebracht op de transitievergoeding;
+	b.	op grond van artikel 673b, lid 1, een voorziening is verstrekt, wordt een bedrag ter waarde van die voorziening in mindering gebracht op de transitievergoeding.
 
 6.	Onder bij of krachtens algemene maatregel van bestuur te bepalen voorwaarden kunnen op de transitievergoeding in mindering worden gebracht:
 	a.	kosten van maatregelen in verband met het eindigen of niet voortzetten van de arbeidsovereenkomst, gericht op het voorkomen van werkloosheid of het bekorten van de periode van werkloosheid van de werknemer; en
@@ -5872,45 +5918,31 @@ Artikel 673
 
 9.	Indien, na een einde van rechtswege, het niet voortzetten van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever, kan de kantonrechter:
 	a.	naast de transitievergoeding aan de werknemer ten laste van de werkgever een billijke vergoeding toekennen; of
-	b.	indien de werknemer korter dan 24 maanden in dienst is geweest bij de werkgever, bedoeld in lid 1, of op grond van lid 7, onderdeel a, geen recht op transitievergoeding heeft, aan de werknemer ten laste van de werkgever een billijke vergoeding toekennen.
+	b.	indien de werknemer op grond van lid 7, onderdeel a, geen recht op transitievergoeding heeft, aan de werknemer ten laste van de werkgever een billijke vergoeding toekennen.
 
 10.	Bij of krachtens algemene maatregel van bestuur wordt bepaald wat voor de toepassing van lid 2 wordt verstaan onder loon.
 
 Artikel 673a
 
-1.	Indien de werknemer bij het eindigen of niet voortzetten van de arbeidsovereenkomst 50 jaar of ouder is en de arbeidsovereenkomst ten minste 120 maanden heeft geduurd, is, in afwijking van artikel 673, lid 2, eerste zin, de transitievergoeding over elke periode van zes maanden dat de werknemer na het bereiken van de leeftijd van 50 jaar bij de werkgever in dienst is geweest, gelijk aan de helft van het loon per maand, bedoeld in artikel 673, lid 2.
-
-2.	Lid 1 is niet van toepassing op de werkgever die minder dan 25 werknemers in dienst had in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar:
-	a.	waarin voor de werknemer, bedoeld in lid 1, een verzoek om toestemming als bedoeld in artikel 671a, of een verzoek om ontbinding als bedoeld in artikel 671b is ingediend; of
-	b.	indien voor de beëindiging van een arbeidsovereenkomst een verzoek als bedoeld in onderdeel a, niet is vereist, waarin de arbeidsovereenkomst is opgezegd of van rechtswege eindigt en niet wordt voortgezet.
-
-3.	Lid 2 is niet van toepassing op bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid aan te wijzen categorieën van werkgevers.
-
-4.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen categorieën van arbeidskrachten, die anders dan als werknemer werkzaam zijn bij de werkgever, worden aangewezen die meegerekend worden bij het bepalen van het aantal werknemers, bedoeld in lid 2.
-
-5.	Dit artikel vervalt met ingang van 1 januari 2020.
+[Vervallen per 01-01-2020]
 
 Artikel 673b
 
-1.	De artikelen 673 en 673a zijn niet van toepassing, indien in een collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan voor werknemers als bedoeld in artikel 673, lid 1, en artikel 673a een gelijkwaardige voorziening is opgenomen.
+1.	Bij collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan kan worden bepaald dat de transitievergoeding, bedoeld in artikel 673, lid 1, niet is verschuldigd, indien:
+	a.	de arbeidsovereenkomst is geëindigd of niet is voortgezet wegens omstandigheden als bedoeld in artikel 669, lid 3, onderdeel a; en
+	b.	op grond van de collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan recht bestaat op een voorziening die bijdraagt aan het beperken van werkloosheid, op een redelijke financiële vergoeding, of op een combinatie daarvan.
 
-2.	De collectieve arbeidsovereenkomst, bedoeld in lid 1, is afgesloten met een of meer verenigingen van werknemers die in de onderneming of bedrijfstak werkzame personen onder hun leden tellen, die krachtens hun statuten ten doel hebben de belangen van hun leden als werknemers te behartigen, die als zodanig in de betrokken onderneming of bedrijfstak werkzaam zijn en ten minste twee jaar in het bezit zijn van volledige rechtsbevoegdheid. Ten aanzien van een vereniging van werknemers die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen van werknemers met volledige rechtsbevoegdheid, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen.
+2.	De collectieve arbeidsovereenkomst, bedoeld in lid 1, onderdeel b, is afgesloten met een of meer verenigingen van werknemers die in de onderneming of bedrijfstak werkzame personen onder hun leden tellen, die krachtens hun statuten ten doel hebben de belangen van hun leden als werknemers te behartigen, die als zodanig in de betrokken onderneming of bedrijfstak werkzaam zijn en ten minste twee jaar in het bezit zijn van volledige rechtsbevoegdheid. Ten aanzien van een vereniging van werknemers die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen van werknemers met volledige rechtsbevoegdheid, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen.
 
 Artikel 673c
 
-1.	De transitievergoeding, bedoeld in de artikelen 673, lid 2, en 673a, lid 1, is niet langer verschuldigd, indien de werkgever in staat van faillissement is verklaard, aan hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is.
+1.	De transitievergoeding, bedoeld in artikel 673, lid 2, is niet langer verschuldigd, indien de werkgever in staat van faillissement is verklaard, aan hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is.
 
-2.	Indien de betaling van de transitievergoeding, bedoeld in de artikelen 673, lid 2, en 673a, lid 1, leidt tot onaanvaardbare gevolgen voor de bedrijfsvoering van de werkgever, kan de transitievergoeding onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden in termijnen worden betaald. Daarbij kan worden bepaald dat de transitievergoeding met een bij die ministeriële regeling te bepalen percentage wordt verhoogd.
+2.	Indien de betaling van de transitievergoeding, bedoeld in artikel 673, lid 2, leidt tot onaanvaardbare gevolgen voor de bedrijfsvoering van de werkgever, kan de transitievergoeding onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden in termijnen worden betaald. Daarbij kan worden bepaald dat de transitievergoeding met een bij die ministeriële regeling te bepalen percentage wordt verhoogd.
 
 Artikel 673d
 
-1.	In afwijking van artikel 673, lid 2, kunnen onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden voor de berekening van de duur van de arbeidsovereenkomst maanden die gelegen zijn voor 1 mei 2013 buiten beschouwing worden gelaten, indien de arbeidsovereenkomst is geëindigd of niet is voortgezet wegens omstandigheden als bedoeld in artikel 669, lid 3, onderdeel a, die het gevolg zijn van een slechte financiële situatie van de werkgever, die minder dan 25 werknemers in dienst had in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar:
-	a.	waarin het verzoek om toestemming, bedoeld in artikel 671a, of het verzoek om ontbinding, bedoeld in artikel 671b, wordt ingediend; of
-	b.	indien voor de beëindiging van de arbeidsovereenkomst een verzoek als bedoeld in onderdeel a, niet is vereist, waarin de arbeidsovereenkomst is opgezegd of van rechtswege eindigt en niet wordt voortgezet.
-
-2.	Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen categorieën van arbeidskrachten, die anders dan als werknemer werkzaam zijn bij de werkgever, worden aangewezen, die meegeteld worden bij het bepalen van het aantal werknemers, bedoeld in lid 1.
-
-3.	Dit artikel vervalt met ingang van 1 januari 2020.
+[Vervallen per 01-01-2020]
 
 Artikel 673e
 
@@ -6042,7 +6074,9 @@ Artikel 682
 
 6.	Indien de kantonrechter een veroordeling tot herstel van de arbeidsovereenkomst uitspreekt als bedoeld in lid 1, onderdeel a, of lid 2, onderdeel a, bepaalt hij op welk tijdstip de arbeidsovereenkomst wordt hersteld en treft hij voorzieningen omtrent de rechtsgevolgen van de onderbreking van de arbeidsovereenkomst.
 
-7.	Elk beding waarbij de bevoegdheid, bedoeld in de leden 1 tot en met 5, wordt uitgesloten of beperkt, is nietig.
+7.	De kantonrechter kan op verzoek van een werknemer als bedoeld in artikel 671, lid 1, onderdelen d, e, f of h, aan hem ten laste van de werkgever een vergoeding toekennen van ten hoogste de helft van de transitievergoeding, bedoeld in artikel 673, lid 2, indien de werkgever de arbeidsovereenkomst heeft opgezegd op grond van artikel 669, lid 3, onderdeel i.
+
+8.	Elk beding waarbij de bevoegdheid, bedoeld in de leden 1 tot en met 5 en 7, wordt uitgesloten of beperkt, is nietig.
 
 Artikel 682a
 
@@ -6081,15 +6115,15 @@ De bepalingen van deze afdeling sluiten voor geen van beide partijen de mogelijk
 
 Artikel 686a
 
-1.	Over het bedrag van de vergoeding, bedoeld in de artikelen 672, lid 10, en 677, leden 2 en 4, is de wettelijke rente verschuldigd, te rekenen vanaf de dag waarop de arbeidsovereenkomst is geëindigd. Over het bedrag van de transitievergoeding, bedoeld in de artikelen 673, 673a en 673c, is de wettelijke rente verschuldigd, te rekenen vanaf een maand na de dag waarop de arbeidsovereenkomst is geëindigd.
+1.	Over het bedrag van de vergoeding, bedoeld in de artikelen 672, lid 11, en 677, leden 2 en 4, is de wettelijke rente verschuldigd, te rekenen vanaf de dag waarop de arbeidsovereenkomst is geëindigd. Over het bedrag van de transitievergoeding, bedoeld in de artikelen 673 en 673c, is de wettelijke rente verschuldigd, te rekenen vanaf een maand na de dag waarop de arbeidsovereenkomst is geëindigd.
 
 2.	De gedingen die op het in, bij of krachtens deze afdeling bepaalde zijn gebaseerd, worden ingeleid met een verzoekschrift.
 
 3.	In gedingen die op het in, bij of krachtens deze afdeling bepaalde zijn gebaseerd, kunnen daarmee verband houdende andere vorderingen worden ingediend met een verzoekschrift.
 
 4.	De bevoegdheid om een verzoekschrift bij de kantonrechter in te dienen vervalt:
-	a.	twee maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 672, lid 10, 677, 681, lid 1, onderdelen a, b en c, en 682, leden 1, 2 en 3, betreft;
-	b.	drie maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 673, 673a, 673b, 673c en 673d betreft;
+	a.	twee maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 672, lid 11, 677, 681, lid 1, onderdelen a, b en c, en 682, leden 1, 2 en 3, betreft;
+	b.	drie maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 673, 673b en 673c betreft;
 	c.	twee maanden na de dag waarop de werknemer op de hoogte is of redelijkerwijs had kunnen zijn van de situatie, bedoeld in de artikelen 681, lid 1, onderdelen d en e, en 682, leden 4 en 5, maar ten laatste twee maanden na de dag waarop de termijn van 26 weken, bedoeld in die leden of onderdelen, is verstreken;
 	d.	twee maanden na de dag waarop de toestemming, bedoeld in artikel 671a, is geweigerd, indien het een verzoek op grond van artikel 671b, lid 1, onderdeel b, betreft;
 	e.	drie maanden na de dag waarop de verplichting op grond van artikel 668, lid 1, is ontstaan, indien het een verzoek op grond van artikel 668, lid 3, betreft.
@@ -6149,12 +6183,27 @@ Artikel 691
 7.	Bij schriftelijke overeenkomst kan ten nadele van de werknemer worden afgeweken van artikel 628, lid 1, tot ten hoogste de eerste 26 weken waarin de werknemer arbeid verricht. Artikel 628, leden 5, 6 en 7, is niet van toepassing.
 
 8.	Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan:
-	a.	kunnen de termijnen, bedoeld in de leden 1, 3 en 7, worden verlengd tot ten hoogste 78 weken; en
-	b.	kan van lid 5 worden afgeweken ten nadele van de werknemer.
+	a.	kunnen de termijnen, bedoeld in de leden 1, 3 en 7, worden verlengd tot ten hoogste 78 weken;
+	b.	kan van lid 5 worden afgeweken ten nadele van de werknemer; en
+	c.	kan de periode van 36 maanden, bedoeld in artikel 668a, lid 1, onderdeel a, worden verlengd tot ten hoogste 48 maanden en kan het aantal van drie, bedoeld in artikel 668a, lid 1, onderdeel b, worden verhoogd naar ten hoogste zes.
 
 Artikel 692
 
-[Vervallen per 01-07-2015]
+De payrollovereenkomst is de uitzendovereenkomst, waarbij de overeenkomst van opdracht tussen de werkgever en de derde niet tot stand is gekomen in het kader van het samenbrengen van vraag en aanbod op de arbeidsmarkt en waarbij de werkgever alleen met toestemming van de derde bevoegd is de werknemer aan een ander ter beschikking te stellen.
+
+Artikel 692a
+
+1.	De artikelen 628, leden 5 en 6, en 691 zijn niet van toepassing op de payrollovereenkomst.
+
+2.	In de payrollovereenkomst kan schriftelijk worden bedongen dat voor de eerste zes maanden van die overeenkomst ten nadele van de werknemer wordt afgeweken van artikel 628, lid 1, indien deze afwijking in de functie waarin de werknemer werkzaam is bij de onderneming waar de terbeschikkingstelling plaatsvindt, bestendig gebruik is of in deze afwijking is voorzien in de collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan die van toepassing is op deze onderneming.
+
+3.	In geval van payrollovereenkomsten, die elkaar opvolgen als bedoeld in artikel 668a, kan een afwijking als bedoeld in lid 2 voor ten hoogste in totaal zes maanden worden overeengekomen.
+
+4.	Artikel 628, lid 8, is van overeenkomstige toepassing op de leden 2 en 3.
+
+5.	In de payrollovereenkomst kan alleen schriftelijk ten nadele van de werknemer worden afgeweken van bepalingen waar slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan van kan worden afgeweken, indien voor de functie waarin de werknemer werkzaam is, in deze afwijking is voorzien in de collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan die van toepassing is op de onderneming waar de terbeschikkingstelling plaatsvindt. Indien in de collectieve arbeidsovereenkomst die van toepassing is op de werkgever gebruikmaking van een in de eerste volzin bedoelde afwijking uitdrukkelijk uitgesloten of beperkt is prevaleert de uitsluiting of de beperking in de collectieve arbeidsovereenkomst die van toepassing is op de werkgever.
+
+6.	Onder onderneming wordt in dit artikel verstaan de onderneming, bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet op de ondernemingsraden.
 
 Artikel 693
 
