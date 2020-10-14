@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2020 t/m 14-10-2020
+Geldend van 15-10-2020 t/m 31-12-2020
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -4248,7 +4248,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 	o.	raamovereenkomst: overeenkomst die de uitvoering beheerst van afzonderlijke en opeenvolgende betalingstransacties en die de verplichtingen en voorwaarden voor de opening van een betaalrekening kan omvatten;
 	p.	referentierentevoet: de rentevoet die als berekeningsgrondslag voor in rekening te brengen interesten wordt gehanteerd, en die afkomstig is van een bron die door het publiek kan worden geraadpleegd en door beide partijen kan worden geverifieerd;
 	q.	referentiewisselkoers: wisselkoers die als berekeningsgrondslag wordt gehanteerd bij een valutawissel en die door de betaaldienstverlener beschikbaar wordt gesteld of afkomstig is van een bron die door het publiek kan worden geraadpleegd;
-	r.	richtlijn: Richtlijn (EU) 2015/2366 van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 en houdende intrekking van Richtlijn 2007/64/EG (Pb EU L 337/58);
+	r.	richtlijn: Richtlijn (EU) 2015/2366 van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 en houdende intrekking van Richtlijn 2007/64/EG (PbEU 2015, L 337);
 	s.	unieke identificator: door de betaaldienstverlener aan de betaaldienstgebruiker medegedeelde combinatie van letters, nummers en symbolen, die de betaaldienstgebruiker dient te verstrekken om de andere bij een betalingstransactie betrokken betaaldienstgebruiker of zijn betaalrekening ondubbelzinnig te identificeren;
 	t.	valutadatum: referentietijdstip dat door een betaaldienstverlener wordt gebruikt voor de berekening van de interesten op de geldmiddelen waarmee een betaalrekening wordt gedebiteerd of gecrediteerd;
 	u.	werkdag: dag waarop de betaaldienstverlener van de betaler of de betaaldienstverlener van de begunstigde die betrokken is bij de uitvoering van een betalingstransactie open is voor de daarvoor vereiste werkzaamheden;
@@ -4272,9 +4272,7 @@ Artikel 515
 
 4.	Deze titel is niet van toepassing op de betaaldiensten, bedoeld in artikel 1:5a, tweede lid, van de Wet op het financieel toezicht.
 
-5.	Deze titel is niet van toepassing op de betaaldiensten, bedoeld in artikel 1:5a, tweede lid, van de Wet op het financieel toezicht.
-
-6.	Deze titel is niet van toepassing op betaaldiensten door de Nederlandse instellingen genoemd in artikel 3, derde lid, van richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176).
+5.	Deze titel is niet van toepassing op betaaldiensten door de Nederlandse instellingen genoemd in artikel 3, derde lid, van richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176).
 
 Artikel 515a
 
