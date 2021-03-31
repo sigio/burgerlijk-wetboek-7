@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2021 t/m 31-03-2021
+Geldend van 01-04-2021 t/m 30-04-2021
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2002,9 +2002,9 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de artikelen 249, 2
 
 Artikel 248
 
-1.	De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de artikelen 252, 252a en 253. Gedurende het bestaan van een dergelijk beding is toepassing van de artikelen 252, 252a en 253 uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.
+1.	De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de artikelen 252, 252a, 252c en 253. Gedurende het bestaan van een dergelijk beding is toepassing van de artikelen 252, 252a, 252c en 253 uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.
 
-2.	Leidt toepassing van een beding als bedoeld in lid 1 tot verhoging van de huurprijs met een hoger percentage dan het door Onze Minister vastgestelde maximale huurverhogingspercentage als bedoeld in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte, dan is het beding nietig voorzover zij tot dit hogere percentage leidt en geldt de huurprijs als verhoogd met het door Onze Minister vastgestelde maximale huurverhogingspercentage.
+2.	Leidt toepassing van een beding als bedoeld in lid 1 tot een verhoging van de huurprijs die hoger is dan toegelaten bij of krachtens artikel 10 lid 2 of artikel 10a van de Uitvoeringswet huurprijzen woonruimte, dan is het beding nietig voor zover dat beding leidt tot een hogere dan toegelaten verhoging en geldt de huurprijs als verhoogd met de toegelaten verhoging.
 
 Artikel 249
 
@@ -2014,19 +2014,19 @@ Artikel 249
 
 Artikel 250
 
-1.	De huurprijs kan op verzoek van de verhuurder worden verhoogd op de wijze voorgeschreven in de artikelen 252, 252a en 253:
+1.	De huurprijs kan op verzoek van de verhuurder worden verhoogd op de wijze voorgeschreven in de artikelen 252, 252a, 252c en 253:
 	a.	gedurende het eerste tijdvak van twaalf maanden na de dag van ingang van de huur ten hoogste eenmaal, en
 	b.	telkens tegen het einde van elkaar opvolgende tijdvakken van twaalf maanden na hetzij het ingaan van de onder a bedoelde verhoging, hetzij bij gebreke van zodanige verhoging de dag van ingang van de huur.
 
 2.	Een verhoging van de huurprijs krachtens lid 1 is niet mogelijk, zolang er tussen huurder en verhuurder geen overeenstemming is dat de, bij toepassing van de artikelen 12 en 16 van de Uitvoeringswet huurprijzen woonruimte, geconstateerde gebreken ten aanzien van de woonruimte zijn opgeheven.
 
-3.	In afwijking van lid 1 kan de huurprijs worden verhoogd tegen het einde van een tijdvak dat even zoveel korter dan twaalf maanden is als het daaraan voorafgaande tijdvak langer dan twaalf maanden is geweest.
+3.	In afwijking van lid 1 kan de huurprijs worden verhoogd tegen het einde van een tijdvak dat even zoveel korter dan twaalf maanden is als het daaraan voorafgaande tijdvak langer dan twaalf maanden is geweest. Het eerste lid onder a en b is voorts niet van toepassing in het geval van artikel 252c onder b.
 
 4.	De huurprijs kan op verzoek van de huurder worden verlaagd op de wijze voorgeschreven in de artikelen 252, 252b en 254.
 
 Artikel 251
 
-Bepalingen in huurovereenkomsten die tot gevolg hebben dat de huurprijs in enig tijdvak van twaalf maanden meer dan eenmaal wordt verhoogd, zijn nietig, tenzij het gaat om het geval van artikel 255.
+Bepalingen in huurovereenkomsten die tot gevolg hebben dat de huurprijs in enig tijdvak van twaalf maanden meer dan eenmaal wordt verhoogd, zijn nietig, tenzij het gaat om het geval van artikel 255 of van artikel 10a van de Uitvoeringswet huurprijzen woonruimte.
 
 Artikel 252
 
@@ -2080,6 +2080,12 @@ Artikel 252b
 2.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, verstrekt de huurder gegevens met betrekking tot de betrokken huishoudinkomens. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
 
 3.	Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 2, is de verlaging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de verhuurder niet door het verzuim is benadeeld.
+
+Artikel 252c
+
+Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in artikel 252 doen, strekkend tot verhoging van de huurprijs op de grond dat:
+	a.	bij de aanvang van de bewoning is overeengekomen om gedurende ten hoogste drie jaar na die aanvang de verschuldigde huurprijs stapsgewijs naar de bij die aanvang overeengekomen huurprijs te brengen, die niet hoger is dan het ten tijde van die aanvang krachtens artikel 3 lid 2 van de Uitvoeringswet huurprijzen woonruimte vastgestelde bedrag;
+	b.	niet eerder dan drie jaar voor de voorgestelde huurverhogingsdatum de huurprijs op schriftelijk verzoek van de huurder niet is verhoogd respectievelijk is verlaagd anders dan overeenkomstig artikel 252, 252b of 257.
 
 Artikel 253
 
