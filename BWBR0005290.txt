@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-04-2021 t/m 30-04-2021
+Geldend van 01-05-2021 t/m 30-06-2021
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -1996,7 +1996,7 @@ Ter zake van huur gelden de huurprijzen die partijen zijn overeengekomen, voorzo
 
 Artikel 247
 
-De volgende artikelen van deze onderafdeling zijn, behoudens de artikelen 249, 251, 259, 261 lid 1 en 264, niet van toepassing op een overeenkomst van huur en verhuur, die betrekking heeft op een zelfstandige woning, ten aanzien waarvan bij de aanvang van de bewoning een huurprijs gold of geldt, die, indien nodig herleid tot een bedrag per jaar, hoger is dan het krachtens artikel 3 lid 2 van de Uitvoeringswet huurprijzen woonruimte vastgesteld bedrag, indien
+De volgende artikelen van deze onderafdeling zijn, behoudens de artikelen 248 lid 3 en 4, 249, 251, 255a, 259, 261 lid 1, 262 en 264, niet van toepassing op een overeenkomst van huur en verhuur, die betrekking heeft op een zelfstandige woning, ten aanzien waarvan bij de aanvang van de bewoning een huurprijs gold of geldt, die, indien nodig herleid tot een bedrag per jaar, hoger is dan het krachtens artikel 3 lid 2 van de Uitvoeringswet huurprijzen woonruimte vastgesteld bedrag, indien
 	a.	die overeenkomst op of na 1 juli 1994 is totstandgekomen, dan wel,
 	b.	die overeenkomst betrekking heeft op een woning die is totstandgekomen op of na 1 juli 1989.
 
@@ -2005,6 +2005,10 @@ Artikel 248
 1.	De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de artikelen 252, 252a, 252c en 253. Gedurende het bestaan van een dergelijk beding is toepassing van de artikelen 252, 252a, 252c en 253 uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.
 
 2.	Leidt toepassing van een beding als bedoeld in lid 1 tot een verhoging van de huurprijs die hoger is dan toegelaten bij of krachtens artikel 10 lid 2 of artikel 10a van de Uitvoeringswet huurprijzen woonruimte, dan is het beding nietig voor zover dat beding leidt tot een hogere dan toegelaten verhoging en geldt de huurprijs als verhoogd met de toegelaten verhoging.
+
+3.	Leidt toepassing van een beding in een huurovereenkomst als bedoeld in artikel 247 tot een verhoging van de huurprijs die hoger is dan toegelaten bij of krachtens artikel 10 lid 3 of artikel 10a lid 2 van de Uitvoeringswet huurprijzen woonruimte bepaalde maximale huurverhogingspercentage, dan is het beding nietig voor zover dat beding leidt tot een hogere dan toegelaten verhoging en geldt de huurprijs als verhoogd met de toegelaten verhoging.
+
+4.	De huurder kan binnen vier maanden na de ingangsdatum van de verhoging van de huurprijs overeenkomstig een beding als bedoeld in het derde lid, de huurcommissie verzoeken uitspraak te doen over die verhoging. De huurcommissie stelt de verhuurder in kennis van het verzoek van de huurder.
 
 Artikel 249
 
@@ -2118,6 +2122,14 @@ is de huurprijs, vermeerderd met een bedrag dat in redelijke verhouding staat to
 2.	Indien partijen geen overeenstemming hebben kunnen bereiken over het bedrag van de verhoging, kan ieder van hen binnen drie maanden na de totstandkoming van de ingrepen, veranderingen of toevoegingen de huurcommissie verzoeken daarover een uitspraak te doen.
 
 3.	Onder gehandicapte in het eerste lid wordt verstaan een persoon die ten gevolge van ziekte of gebrek aantoonbare beperkingen ondervindt.
+
+Artikel 255a
+
+1.	Dit artikel is uitsluitend van toepassing op huurovereenkomsten als bedoeld in artikel 247.
+
+2.	De huurprijs van woonruimte waarin of waaraan gedurende de huurtijd door of vanwege de verhuurder voorzieningen als bedoeld in artikel 255 lid 1 onder a of veranderingen of toevoegingen als bedoeld in artikel 255 lid 1 onder b zijn aangebracht, is de huurprijs, vermeerderd met een bedrag dat in redelijke verhouding staat tot de door de verhuurder gemaakte kosten van deze ingrepen, veranderingen of toevoegingen. Artikel 255 lid 3 is van overeenkomstige toepassing.
+
+3.	Indien partijen geen overeenstemming hebben kunnen bereiken over het bedrag van de verhoging, kan ieder van hen binnen drie maanden na de totstandkoming van de ingrepen, veranderingen of toevoegingen de huurcommissie verzoeken daarover een uitspraak te doen.
 
 Artikel 256
 
@@ -2327,7 +2339,7 @@ Artikel 274
 	a.	indien de huurder zich niet heeft gedragen zoals een goed huurder betaamt;
 	b.	indien de verhuurder zijn vordering grondt op een beding als omschreven in lid 2 en aan de eisen van dat lid is voldaan, tenzij de verhuurder geen belang meer heeft bij de ontruiming;
 	c.	indien de verhuurder aannemelijk maakt dat hij het verhuurde zo dringend nodig heeft voor eigen gebruik, vervreemding van de gehuurde woonruimte niet daaronder begrepen, dat van hem, de belangen van beide partijen en van onderhuurders naar billijkheid in aanmerking genomen, niet kan worden gevergd dat de huurovereenkomst wordt verlengd, en tevens blijkt dat de huurder, met uitzondering van de huurder, bedoeld in de artikelen 274c tot en met 274e, andere passende woonruimte kan verkrijgen;
-	d.	indien de huurder niet toestemt in een redelijk aanbod tot het aangaan van een nieuwe huurovereenkomst met betrekking tot dezelfde woonruimte, voor zover, in het geval dat onderafdeling 2 op de opgezegde huurovereenkomst van toepassing is, dit aanbod niet een wijziging inhoudt van de huurprijs of van de servicekosten;
+	d.	indien de huurder niet toestemt in een redelijk aanbod tot het aangaan van een nieuwe huurovereenkomst met betrekking tot dezelfde woonruimte, voor zover dit aanbod niet een wijziging inhoudt van de huurprijs of, in het geval dat onderafdeling 2 op de opgezegde huurovereenkomst van toepassing is, van de servicekosten;
 	e.	indien de verhuurder een krachtens een geldend bestemmingsplan op het verhuurde liggende bestemming wil verwezenlijken;
 	f.	indien de huurovereenkomst een onzelfstandige woning betreft, die deel uitmaakt van de woning waarin de verhuurder zijn hoofdverblijf heeft, en de verhuurder aannemelijk maakt dat zijn belangen bij beëindiging van de huur zwaarder wegen dan die van de huurder bij voortzetting daarvan.
 
