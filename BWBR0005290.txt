@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2021 t/m 31-12-2021
+Geldend van 01-01-2022 t/m 26-04-2022
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2049,7 +2049,9 @@ Artikel 252
 
 Artikel 252a
 
-1.	Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in artikel 252 doen, strekkend tot verhoging van de huurprijs op de grond dat het huishoudinkomen over het inkomenstoetsjaar hoger is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag. De eerste volzin is niet van toepassing ten aanzien van een huishouden waarvan een lid of meerdere leden de pensioengerechtigde leeftijd, bedoeld in artikel 7a lid 1 van de Algemene Ouderdomswet, heeft of hebben bereikt of een huishouden van 4 of meer personen.
+1.	Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in artikel 252 doen, strekkend tot verhoging van de huurprijs op de grond dat het huishoudinkomen over het inkomenstoetsjaar:
+	a.	hoger is dan het op grond van artikel 10 lid 2 onder a onder 1 van de Uitvoeringswet huurprijzen woonruimte voor het huishouden van de huurder toepasselijke bedrag doch niet hoger is dan het op grond van dat lid onder a onder 3 voor het huishouden van de huurder toepasselijke bedrag, of
+	b.	hoger is dan het op grond van artikel 10 lid 2 onder a onder 3 van de Uitvoeringswet huurprijzen woonruimte voor het huishouden van de huurder toepasselijke bedrag.
 
 2.	In dit artikel wordt verstaan onder:
 	a.	basisregistratie inkomen: basisregistratie inkomen als bedoeld in hoofdstuk IVA van de Algemene wet inzake rijksbelastingen;
@@ -2061,25 +2063,22 @@ Artikel 252a
 
 3.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, wordt bij het voorstel een huishoudverklaring gevoegd.
 
-4.	De inspecteur verstrekt desgevraagd aan de verhuurder een huishoudverklaring. In de verklaring wordt vermeld of op de door de verhuurder aangeduide plaats van de woonruimte op basis van gegevens uit de basisregistratie inkomen op het moment van behandeling van het verzoek van de verhuurder aan de inspecteur, te verwachten is dat van degene of degenen die daar volgens de registratie van de rijksbelastingdienst woont of wonen het huishoudinkomen over het inkomenstoetsjaar lager is dan of gelijk is aan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte genoemde bedrag, dan wel hoger is dan dat bedrag. De verklaring vermeldt voorts, indien dat huishoudinkomen hoger is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte genoemde bedrag, het aantal personen waarop dat huishoudinkomen is gebaseerd. Indien geen inkomensgegeven in de basisregistratie inkomen beschikbaar is, vermeldt de verklaring dat dat het geval is.
-
-Indien in de door de verhuurder aangeduide woonruimte volgens de registratie van de rijksbelastingdienst een huishouden waarvan een lid of meerdere leden de pensioengerechtigde leeftijd, bedoeld in artikel 7a lid 1 van de Algemene Ouderdomswet, heeft of hebben bereikt of een huishouden van 4 of meer personen woont, vermeldt de huishoudverklaring dit. De tweede, derde en vierde volzin blijven in dat geval buiten toepassing.
+4.	De inspecteur verstrekt desgevraagd aan de verhuurder een huishoudverklaring. De verklaring vermeldt of op basis van gegevens uit de basisregistratie inkomen op het moment van behandeling van het verzoek van de verhuurder aan de inspecteur te verwachten is dat het huishoudinkomen niet hoger is dan het op grond van artikel 10 lid 2 onder a onder 1 van de Uitvoeringswet huurprijzen woonruimte voor het huishouden van de huurder toepasselijke bedrag, dan wel hoger is dan dat bedrag doch niet hoger dan het op grond van dat lid onder a onder 3 voor het huishouden van de huurder toepasselijke bedrag, dan wel hoger is dan het laatstbedoelde bedrag. Indien geen inkomensgegeven in de basisregistratie inkomen beschikbaar is, vermeldt de verklaring dat dat het geval is.
 
 Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter uitvoering van dit lid. Daarbij worden in ieder geval regels gesteld omtrent het kunnen doen van een verzoek tot het verstrekken van een huishoudverklaring, het verzoek zelf, de verstrekking van de huishoudverklaring, alsmede ten aanzien van de verhuurder.
 
 5.	Indien een huurovereenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 3 is de verhoging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de huurder niet door het verzuim is benadeeld.
 
-6.	Een overeenkomst tot wijziging van de huurprijs als gevolg van een voorstel als bedoeld lid 1 komt niet tot stand indien de huurder kan aantonen:
-	a.	dat hij of een ander lid van het huishouden deel uitmaakt van een bij regeling van Onze Minister te bepalen groep;
-	b.	dat het huishoudinkomen in het peiljaar gelijk is aan of lager is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag;
-	c.	dat hij of een ander lid van het huishouden de pensioengerechtigde leeftijd, bedoeld in artikel 7a lid 1 van de Algemene Ouderdomswet, heeft bereikt, of
-	d.	dat hij deel uitmaakt van een huishouden van 4 of meer personen.
+6.	Een overeenkomst tot wijziging van de huurprijs als gevolg van een voorstel als bedoeld in lid 1:
+	a.	onder a of b komt niet tot stand indien de huurder kan aantonen dat hij of een ander lid van zijn huishouden deel uitmaakt van een bij regeling van Onze Minister te bepalen groep;
+	b.	onder a komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het peiljaar gelijk is aan of lager is dan het op grond van artikel 10 lid 2 onder a onder 1 van de Uitvoeringswet huurprijzen woonruimte voor zijn huishouden toepasselijke bedrag;
+	c.	onder b komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het peiljaar gelijk is aan of lager is dan het op grond van artikel 10 lid 2 onder a onder 3 van de Uitvoeringswet huurprijzen woonruimte voor zijn huishouden toepasselijke bedrag, in welk geval dat voorstel wordt aangemerkt als een voorstel als bedoeld in lid 1 onder a.
 
 Artikel 252b
 
 1.	Onverminderd het bepaalde in artikel 252a lid 6 kan een huurder ten aanzien van woonruimte die een zelfstandige woning vormt en ten aanzien waarvan een verhoging van de huurprijs op basis van artikel 252a lid 1 heeft plaatsgevonden, een voorstel als bedoeld in artikel 252 doen, strekkend tot verlaging van de huurprijs op de grond dat het huishoudinkomen, bedoeld in artikel 252a lid 2 onderdeel b, waarop een zodanige verhoging is gebaseerd, in het peiljaar is gedaald en daarmee:
 	1°.	gelijk is aan of lager is dan het in artikel 14 lid 1 van de Wet op de huurtoeslag betrokken genoemde bedrag, of
-	2°.	gelijk is aan of lager is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag.
+	2°.	gelijk is aan of lager is dan het op grond van artikel 10 lid 2 onder a onder 1 dan wel onder 3 van de Uitvoeringswet huurprijzen woonruimte voor zijn huishouden toepasselijke bedrag.
 
 2.	Indien een voorstel als bedoeld in lid 1 wordt gedaan, verstrekt de huurder gegevens met betrekking tot de betrokken huishoudinkomens. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
 
@@ -2093,13 +2092,13 @@ Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt 
 
 Artikel 253
 
-1.	Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan, en de verklaring, bedoeld in de eerste volzin, betrekking heeft op het huishoudinkomen over het inkomenstoetsjaar, verzoekt de verhuurder aan de inspecteur om een vervolgverklaring. Artikel 252a lid 4 is op de vervolgverklaring van overeenkomstige toepassing. De vervolgverklaring wordt door de verhuurder bij een verzoek als bedoeld in de eerste volzin overgelegd. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en de huurder zich beroept op een van de gevallen, genoemd in artikel 252a lid 6, verstrekt de huurder, indien dat deel uitmaken van een groep, bedoeld in onderdeel a van laatstgenoemd artikellid, dat bereiken van de pensioengerechtigde leeftijd, bedoeld in onderdeel c van laatstgenoemd artikellid, dat deel uitmaken van een huishouden van 4 of meer personen, bedoeld in onderdeel d van laatstgenoemd artikellid, of het huishoudinkomen voorwerp van geschil is, bij de verklaring, bedoeld in de eerste volzin, gegevens met betrekking tot dat deel uitmaken, dat bereiken of dat huishoudinkomen. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
+1.	Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan, en de verklaring, bedoeld in de eerste volzin, betrekking heeft op het huishoudinkomen over het inkomenstoetsjaar, verzoekt de verhuurder aan de inspecteur om een vervolgverklaring. Artikel 252a lid 4 is op de vervolgverklaring van overeenkomstige toepassing. De vervolgverklaring wordt door de verhuurder bij een verzoek als bedoeld in de eerste volzin overgelegd. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en de huurder zich beroept op een van de gevallen, genoemd in artikel 252a lid 6, verstrekt de huurder, indien dat deel uitmaken van een groep, bedoeld in onderdeel a van laatstgenoemd artikellid, de omvang van het huishouden of het huishoudinkomen voorwerp van geschil is, bij de verklaring, bedoeld in de eerste volzin, gegevens met betrekking tot dat deel uitmaken, die omvang of dat huishoudinkomen. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
 
 2.	De huurder kan de huurcommissie binnen vier maanden na het in lid 1 eerste volzin bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien:
 	a.	hij noch vóór het in lid 1 eerste volzin bedoelde tijdstip de daar bedoelde schriftelijke verklaring doet, noch door het betalen van de voorgestelde huurverhoging doet blijken met die verhoging in te stemmen, en
 	b.	de verhuurder hem binnen drie maanden na het in lid 1 eerste volzin bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt.
 
-De huurder legt bij dit verzoek een afschrift van het voorstel en van dat schrijven en, indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en het deel uitmaken van een groep, dat bereiken van de pensioengerechtigde leeftijd of dat deel uitmaken van een huishouden van 4 of meer personen, bedoeld in artikel 252a lid 6 onderdeel a, onderdeel c onderscheidenlijk onderdeel d, of het huishoudinkomen voorwerp van geschil is, gegevens met betrekking tot dat deel uitmaken, dat bereiken of dat huishoudinkomen over. Lid 1 vijfde volzin is van overeenkomstige toepassing.
+De huurder legt bij dit verzoek een afschrift van het voorstel en van dat schrijven en, indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en het deel uitmaken van een groep, bedoeld in artikel 252 lid 6 onder a, de omvang van het huishouden of het huishoudinkomen voorwerp van geschil is, gegevens met betrekking tot dat deel uitmaken die omvang of dat huishoudinkomen over. Lid 1 zesde volzin is van overeenkomstige toepassing.
 
 3.	De huurder wordt geacht de voorgestelde verhoging van de huurprijs met ingang van de in het voorstel genoemde datum van ingang met de verhuurder te zijn overeengekomen indien hij, na ontvangst van het in het tweede lid bedoelde schrijven, niet binnen vier maanden na die datum van ingang een verzoek tot de huurcommissie heeft gericht.
 
@@ -2341,7 +2340,8 @@ Artikel 274
 	c.	indien de verhuurder aannemelijk maakt dat hij het verhuurde zo dringend nodig heeft voor eigen gebruik, vervreemding van de gehuurde woonruimte niet daaronder begrepen, dat van hem, de belangen van beide partijen en van onderhuurders naar billijkheid in aanmerking genomen, niet kan worden gevergd dat de huurovereenkomst wordt verlengd, en tevens blijkt dat de huurder, met uitzondering van de huurder, bedoeld in de artikelen 274c tot en met 274e, andere passende woonruimte kan verkrijgen;
 	d.	indien de huurder niet toestemt in een redelijk aanbod tot het aangaan van een nieuwe huurovereenkomst met betrekking tot dezelfde woonruimte, voor zover dit aanbod niet een wijziging inhoudt van de huurprijs of, in het geval dat onderafdeling 2 op de opgezegde huurovereenkomst van toepassing is, van de servicekosten;
 	e.	indien de verhuurder een krachtens een geldend bestemmingsplan op het verhuurde liggende bestemming wil verwezenlijken;
-	f.	indien de huurovereenkomst een onzelfstandige woning betreft, die deel uitmaakt van de woning waarin de verhuurder zijn hoofdverblijf heeft, en de verhuurder aannemelijk maakt dat zijn belangen bij beëindiging van de huur zwaarder wegen dan die van de huurder bij voortzetting daarvan.
+	f.	indien de huurovereenkomst een onzelfstandige woning betreft, die deel uitmaakt van de woning waarin de verhuurder zijn hoofdverblijf heeft, en de verhuurder aannemelijk maakt dat zijn belangen bij beëindiging van de huur zwaarder wegen dan die van de huurder bij voortzetting daarvan;
+	g.	indien de huurovereenkomst een zelfstandige woning betreft in een gebouw waarvoor een omgevingsvergunning als bedoeld in artikel 2.23a, eerste lid, van de Wet algemene bepalingen omgevingsrecht is verleend met een termijn van maximaal vijftien jaren en de huurovereenkomst is opgezegd tegen de dag waarop die omgevingsvergunning komt te vervallen. In de schriftelijke huurovereenkomst moet melding zijn gemaakt van de omgevingsvergunning, bedoeld in de eerste volzin, en van het tijdvak waarvoor die is verleend.
 
 2.	In het geval dat uitdrukkelijk van de huurder en telkens van een opvolgend huurder is bedongen dat de gehuurde woonruimte na afloop van de bij dat beding overeengekomen termijn moet worden ontruimd, kan de verhuurder overeenkomstig lid 1 aanhef en onder b, op dat beding de in dat lid bedoelde vordering gronden:
 	a.	indien de verhuurder de woning zelf wil betrekken, of
@@ -3897,7 +3897,7 @@ Artikel 462
 
 1.	Indien ter uitvoering van een behandelingsovereenkomst verrichtingen plaatsvinden in een ziekenhuis dat bij die overeenkomst geen partij is, is het ziekenhuis voor een tekortkoming daarbij mede aansprakelijk, als ware het zelf bij de overeenkomst partij.
 
-2.	Onder ziekenhuis als bedoeld in lid 1 worden verstaan een krachtens artikel 5 van de Wet toelating zorginstellingen als ziekenhuis, verpleeginrichting of zwakzinnigeninrichting toegelaten instelling of afdeling daarvan, een academisch ziekenhuis alsmede een abortuskliniek in de zin van de Wet afbreking zwangerschap.
+2.	Onder ziekenhuis als bedoeld in lid 1 wordt verstaan een ziekenhuis, een verpleeginrichting of een gehandicapteninrichting dan wel een afdeling daarvan waar zorg of een andere dienst wordt verleend waarop aanspraak bestaat ingevolge artikel 3.1.1 van de Wet langdurige zorg of ingevolge een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet, alsmede een abortuskliniek in de zin van de Wet afbreking zwangerschap.
 
 Artikel 463
 
@@ -5912,7 +5912,7 @@ Artikel 673
 		2°	op verzoek van de werknemer is ontbonden; of
 		3°	na een einde van rechtswege op initiatief van de werknemer niet aansluitend is voortgezet.
 
-2.	De transitievergoeding is voor elk jaar dat de arbeidsovereenkomst heeft geduurd gelijk aan een derde van het loon per maand en een evenredig deel daarvan voor een periode dat de arbeidsovereenkomst korter dan een jaar heeft geduurd. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de berekeningswijze van de transitievergoeding. De transitievergoeding bedraagt maximaal € 84.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
+2.	De transitievergoeding is voor elk jaar dat de arbeidsovereenkomst heeft geduurd gelijk aan een derde van het loon per maand en een evenredig deel daarvan voor een periode dat de arbeidsovereenkomst korter dan een jaar heeft geduurd. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de berekeningswijze van de transitievergoeding. De transitievergoeding bedraagt maximaal € 86.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
 
 3.	Het bedrag, genoemd in lid 2, wordt telkens met ingang van 1 januari door Onze Minister van Sociale Zaken en Werkgelegenheid gewijzigd overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen, in het voorafgaande jaar is geraamd. Het bedrag wordt daarbij afgerond op het naaste veelvoud van € 1.000,–. Het gewijzigde bedrag is uitsluitend van toepassing indien de arbeidsovereenkomst op of na de datum van de wijziging eindigt of niet wordt voortgezet.
 
