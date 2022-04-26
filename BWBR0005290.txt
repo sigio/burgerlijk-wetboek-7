@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2022 t/m 26-04-2022
+Geldend van 27-04-2022 t/m 30-06-2022
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -55,7 +55,18 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 Artikel 5
 
-1.	In deze titel wordt verstaan onder consumentenkoop: de koop met betrekking tot een roerende zaak die wordt gesloten door een verkoper die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit en een koper, natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit.
+1.	In deze titel wordt verstaan onder:
+	a.	consumentenkoop: de koop met betrekking tot een roerende zaak die wordt gesloten door een verkoper die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit en een koper, natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit;
+	b.	zaak met digitale elementen: een roerende zaak waarin digitale inhoud of een digitale dienst is verwerkt of die daarmee onderling verbonden is, op zodanige wijze dat het ontbreken daarvan ertoe zou leiden dat de zaak zijn functies niet kan vervullen;
+	c.	digitale inhoud: gegevens die in digitale vorm worden geproduceerd en geleverd;
+	d.	digitale dienst:
+		i)	een dienst die de koper in staat stelt gegevens in digitale vorm te creëren, te verwerken of op te slaan, of toegang tot die gegevens te krijgen, of
+		ii)	een dienst die voorziet in de mogelijkheid tot het delen van gegevens of andere interactie met gegevens in digitale vorm die door de koper of door andere gebruikers van die dienst worden geüpload of gecreëerd;
+	e.	compatibiliteit: het vermogen van zaken om te functioneren met hardware of software die doorgaans voor zaken van hetzelfde type worden gebruikt, zonder dat die zaken, hardware of software moeten worden omgezet;
+	f.	functionaliteit: het vermogen van zaken om hun functies te vervullen met betrekking tot het doel ervan;
+	g.	interoperabiliteit: het vermogen van zaken om te functioneren met hardware of software die verschilt van die waarmee zaken van hetzelfde type gewoonlijk worden gebruikt;
+	h.	duurzaamheid: de geschiktheid van zaken om hun vereiste functies en prestaties bij normaal gebruik te behouden;
+	i.	producent: een fabrikant van zaken, een importeur van zaken naar de Unie, of elke andere persoon die zich als producent voordoet door zijn naam, handelsmerk of een ander onderscheidend teken op zaken aan te brengen.
 
 2.	Wordt de zaak verkocht door een gevolmachtigde die handelt in de uitoefening van beroep of bedrijf, dan wordt de koop aangemerkt als een consumentenkoop, tenzij de koper ten tijde van het sluiten van de overeenkomst weet dat de volmachtgever niet handelt in de uitoefening van een beroep of bedrijf.
 
@@ -63,9 +74,19 @@ Artikel 5
 
 4.	Indien de te leveren roerende zaak nog tot stand moet worden gebracht en de overeenkomst krachtens welke deze zaak moet worden geleverd voldoet aan de omschrijving van artikel 750, dan wordt de overeenkomst mede als een consumentenkoop aangemerkt indien de overeenkomst wordt gesloten door een aannemer die handelt in de uitoefening van een beroep of bedrijf, en een opdrachtgever, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf. De bepalingen van deze titel en die van afdeling 1 van titel 12 zijn naast elkaar van toepassing. In geval van strijd zijn de bepalingen van deze titel van toepassing.
 
-5.	Met uitzondering van de artikelen 9, 11 en 19a, zijn de bepalingen over consumentenkoop van overeenkomstige toepassing op de levering van elektriciteit, warmte en koude en gas, voor zover deze niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, alsmede op de levering van stadsverwarming en op de levering van digitale inhoud die niet op een materiële drager is geleverd, maar die wel is geïndividualiseerd en waarover feitelijke macht kan worden uitgeoefend, aan een natuurlijk persoon, die handelt voor doeleinden buiten zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit.
+5.	Met uitzondering van de artikelen 9, 11 en 19a zijn de bepalingen over consumentenkoop van overeenkomstige toepassing op de levering van elektriciteit, warmte en koude en gas, voor zover deze niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, alsmede op de levering van stadsverwarming, aan een natuurlijk persoon die handelt voor doeleinden buiten zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit.
 
 6.	Voor de toepassing van de artikelen 9, 11 en 19a wordt een overeenkomst tussen enig persoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit en de natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, die zowel de levering van roerende zaken als het verrichten van diensten betreft, uitsluitend aangemerkt als consumentenkoop.
+
+Artikel 5a
+
+1.	Deze titel is ook van toepassing:
+	a.	op de digitale inhoud of een digitale dienst die is verwerkt in of onderling verbonden is met een zaak als bedoeld in artikel 5 lid 1, onderdeel b, en met die zaak wordt meegeleverd op grond van een consumentenkoop, ongeacht of de digitale inhoud of digitale dienst wordt geleverd door de verkoper of een derde;
+	b.	als niet kan worden aangetoond dat de levering van verwerkte of onderling verbonden digitale inhoud of digitale dienst geen deel uitmaakt van de consumentenkoop.
+
+2.	Deze titel is niet van toepassing op overeenkomsten tussen een consument en een handelaar als bedoeld in artikel 50aa, onderdeel d:
+	a.	voor de levering van digitale inhoud of een digitale dienst;
+	b.	betreffende materiële gegevensdragers die uitsluitend dienen als drager van digitale inhoud.
 
 Artikel 6
 
@@ -73,27 +94,34 @@ Artikel 6
 
 2.	Lid 1 is niet van toepassing op de artikelen 12, 13, eerste en tweede zin, 26 en 35, doch bedingen in algemene voorwaarden waarbij ten nadele van de koper wordt afgeweken van die artikelen, worden als onredelijk bezwarend aangemerkt.
 
-3.	De toepasselijkheid op de consumentenkoop van een recht dat de door de richtlijn nr. 99/44/EG van het Europees Parlement en de Raad van de Europese Unie van 25 mei 1999 betreffende bepaalde aspecten van de verkoop van en de garanties voor consumptiegoederen (PbEG L 171) voorziene bescherming niet of slechts ten dele biedt, kan er niet toe leiden dat de koper de bescherming verliest die hem krachtens deze richtlijn wordt geboden door de dwingende bepalingen van het recht van de lidstaat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waar hij zijn gewone verblijfplaats heeft.
-
 Artikel 6a
 
-1.	Indien in geval van een consumentenkoop in een garantie door de verkoper of de producent bepaalde eigenschappen zijn toegezegd, bij het ontbreken waarvan de koper bepaalde rechten of vorderingen worden toegekend, dan kan de koper deze uitoefenen onverminderd alle andere rechten of vorderingen die de wet de koper toekent.
+1.	Indien de verkoper of de producent bepaalde eigenschappen heeft toegezegd in een commerciële garantie in geval van een consumentenkoop, bij het ontbreken waarvan de koper bepaalde rechten of vorderingen zijn toegekend, kan de koper deze uitoefenen onverminderd alle andere rechten of vorderingen die de wet de koper toekent. De commerciële garantie is bindend onder de voorwaarden in het commerciële garantiebewijs en in de daarmee samenhangende reclame die beschikbaar was bij of voor het sluiten van de overeenkomst.
 
-2.	In een garantie moet op duidelijke en begrijpelijke wijze worden vermeld welke in lid 1 bedoelde rechten of vorderingen een koper worden toegekend en moet worden vermeld dat deze een koper toekomen onverminderd de rechten of vorderingen die de wet hem toekent. Voorts moeten in een garantie de naam en het adres worden vermeld van de verkoper of de producent van wie de garantie afkomstig is, alsmede de duur en het gebied waarvoor de garantie geldt.
+2.	Indien de producent de koper een commerciële garantie van duurzaamheid voor bepaalde zaken gedurende een bepaalde periode biedt, is de producent tijdens de duur van de garantie aansprakelijk jegens de koper voor herstel of vervanging van de zaak of zaken overeenkomstig artikel 21.
 
-3.	De in lid 2 bedoelde gegevens moeten de koper op zijn verlangen worden verstrekt. Dit geschiedt schriftelijk of op een andere ter beschikking van de koper staande en voor hem toegankelijke duurzame gegevensdrager.
+3.	Het commerciële garantiebewijs wordt de koper verstrekt op een duurzame gegevensdrager, uiterlijk bij de levering van de zaak.
 
-4.	De aan de koper door de verkoper of de producent in een garantiebewijs toegekende rechten of vorderingen komen hem ook toe indien de zaak niet de eigenschappen bezit die in een reclame door deze verkoper of producent zijn toegezegd.
+4.	In de commerciële garantie staat op duidelijke en begrijpelijke wijze welke in de leden 1 en 2 bedoelde rechten of vorderingen de koper zijn toegekend en dat deze de koper toekomen onverminderd de rechten of vorderingen die de wet hem toekent. Voorts bevat het garantiebewijs:
+	a.	een duidelijke verklaring van de rechten of vorderingen die de koper kosteloos toekomen als de zaak niet aan de overeenkomst beantwoordt en dat deze niet worden aangetast door de commerciële garantie;
+	b.	de naam en het adres van de verkoper of de producent;
+	c.	de procedure die de koper moet volgen om de nakoming van de commerciële garantie te verkrijgen;
+	d.	de aanduiding van de onder de commerciële garantie vallende zaak of zaken;
+	e.	de commerciële garantievoorwaarden.
 
-5.	In dit artikel wordt verstaan onder:
-	a.	garantie: een in een garantiebewijs of reclame gedane toezegging als bedoeld in lid 1;
-	b.	producent: de fabrikant van de zaak, degene die de zaak in de Europese Economische Ruimte invoert, alsmede een ieder die zich als producent presenteert door zijn naam, zijn merk of een ander onderscheidingsteken op de zaak aan te brengen.
+5.	Niet-naleving door de verkoper van de vereisten bedoeld in het vorige lid heeft geen invloed op de bindende aard van de commerciële garantie.
+
+6.	De aan de koper door de verkoper of de producent in een commerciële garantie toegekende rechten of vorderingen komen hem ook toe indien de zaak niet de eigenschappen bezit die in een reclame door de verkoper of producent zijn toegezegd, tenzij die reclame voor het sluiten van de overeenkomst is gecorrigeerd en bekendgemaakt op soortgelijke wijze als die waarop de reclame eerder was gemaakt.
+
+7.	In dit artikel wordt verstaan onder:
+	a.	commerciële garantie: iedere verbintenis van de verkoper of een producent om aan de koper de betaalde prijs terug te betalen of de zaak te vervangen, te herstellen of te onderhouden, wanneer die niet voldoet aan de specificaties of andere vereisten, die vermeld zijn in het garantiebewijs of in de desbetreffende reclameboodschappen op het moment van of vóór het sluiten van de overeenkomst, naast de wettelijke verplichting om een zaak te leveren die voldoet aan de overeenkomst;
+	b.	duurzame gegevensdrager: ieder hulpmiddel dat de koper of de verkoper in staat stelt om persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die past bij het doel waarvoor de informatie is bestemd en die een ongewijzigde weergave van de opgeslagen informatie mogelijk maakt.
 
 Artikel 7
 
 1.	Degene aan wie een zaak is toegezonden en die redelijkerwijze mag aannemen dat deze toezending is geschied ten einde hem tot een koop te bewegen, is ongeacht enige andersluidende mededeling van de verzender jegens deze bevoegd de zaak om niet te behouden, tenzij het hem is toe te rekenen dat de toezending is geschied.
 
-2.	Geen verplichting tot betaling ontstaat voor een natuurlijke persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, bij de ongevraagde levering van zaken, financiële producten, water, gas, elektriciteit, stadsverwarming of digitale inhoud die niet op een materiële drager is geleverd, ongeacht of de digitale inhoud individualiseerbaar is en of er feitelijke macht over kan worden uitgeoefend, dan wel de ongevraagde verrichting van diensten, als bedoeld in artikel 193i onderdeel f van Boek 6. Het uitblijven van een reactie van een natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, op de ongevraagde levering of verstrekking wordt niet als aanvaarding aangemerkt. Wordt desalniettemin een zaak toegezonden als bedoeld in de eerste zin, dan is het in lid 1 bepaalde omtrent de bevoegdheid, de zaak om niet te behouden, van overeenkomstige toepassing. Dit lid is van toepassing ongeacht of de verzender wordt vertegenwoordigd.
+2.	Geen verplichting tot betaling ontstaat voor een natuurlijke persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, bij de ongevraagde levering van zaken, financiële producten, water, gas, elektriciteit, stadsverwarming, dan wel de ongevraagde verrichting van diensten, als bedoeld in artikel 193i onderdeel f van Boek 6. Het uitblijven van een reactie van een natuurlijk persoon, die handelt voor doeleinden buiten zijn bedrijfs- of beroepsactiviteit, op de ongevraagde levering of verstrekking wordt niet als aanvaarding aangemerkt. Wordt desalniettemin een zaak toegezonden als bedoeld in de eerste zin, dan is het in lid 1 bepaalde omtrent de bevoegdheid, de zaak om niet te behouden, van overeenkomstige toepassing. Dit lid is van toepassing ongeacht of de verzender wordt vertegenwoordigd.
 
 3.	Indien de ontvanger in de gevallen, bedoeld in de leden 1–2, de zaak terugzendt, komen de kosten hiervan voor rekening van de verzender.
 
@@ -173,11 +201,38 @@ Artikel 17
 
 Artikel 18
 
-1.	Bij de beoordeling van de vraag of een op grond van een consumentenkoop afgeleverde zaak aan de overeenkomst beantwoordt, gelden mededelingen die door of ten behoeve van een vorige verkoper van die zaak, handelend in de uitoefening van een beroep of bedrijf, omtrent de zaak zijn openbaar gemaakt, als mededelingen van de verkoper, behoudens voor zover deze een bepaalde mededeling kende noch behoorde te kennen of deze mededeling uiterlijk ten tijde van het sluiten van de overeenkomst op een voor de koper duidelijke wijze is herroepen, dan wel de koop niet door deze mededeling beïnvloed kan zijn.
+1.	Voor de vraag of een op grond van een consumentenkoop afgeleverde zaak aan de overeenkomst beantwoordt, moet de zaak met name, voor zover van toepassing:
+	a.	wat betreft de beschrijving, het type, de hoeveelheid en kwaliteit, functionaliteit, compatibiliteit, interoperabiliteit en andere kenmerken, voldoen aan de overeenkomst;
+	b.	geschikt zijn voor elk bijzonder door de koper gewenst gebruik dat de koper aan de verkoper uiterlijk bij het sluiten van de overeenkomst heeft meegedeeld en dat de verkoper heeft aanvaard;
+	c.	worden geleverd met alle toebehoren en instructies, met inbegrip van installatie-instructies, als bepaald in de overeenkomst;
+	d.	van updates worden voorzien, als bepaald in de overeenkomst.
 
-2.	Bij een consumentenkoop wordt vermoed dat de zaak bij aflevering niet aan de overeenkomst heeft beantwoord, indien de afwijking van het overeengekomene zich binnen een termijn van zes maanden na aflevering openbaart, tenzij de aard van de zaak of de aard van de afwijking zich daartegen verzet.
+2.	Voorts moet de zaak:
+	a.	geschikt zijn voor de doeleinden waarvoor zaken van hetzelfde type gewoonlijk worden gebruikt, indien van toepassing rekening houdend met technische normen of bij ontstentenis van deze normen de sectorspecifieke gedragscodes;
+	b.	indien van toepassing, beschikken over de kwaliteit van en beantwoorden aan de beschrijving van een monster of model, dat de verkoper aan de koper voor het sluiten van de overeenkomst ter beschikking heeft gesteld;
+	c.	indien van toepassing worden geleverd met de toebehoren, waaronder verpakking, installatie-instructies of andere instructies, die de koper redelijkerwijs mag verwachten;
+	d.	de hoeveelheid hebben en de kenmerken bezitten, onder meer met betrekking tot duurzaamheid, functionaliteit, compatibiliteit en beveiliging, die voor hetzelfde type zaken normaal zijn en die de koper redelijkerwijs mag verwachten gelet op de aard van de zaak, rekening houdend met publieke mededelingen die zijn gedaan door of namens de verkoper of andere personen in eerdere schakels van de transactieketen, waaronder de producent, in het bijzonder in reclameboodschappen of op de etikettering.
 
-3.	Indien in geval van een consumentenkoop de verkoper verplicht is zorg te dragen voor de installatie van de zaak en deze installatie ondeugdelijk is uitgevoerd, wordt dit gelijkgesteld aan een gebrek aan overeenstemming van de zaak aan de overeenkomst. Hetzelfde geldt indien de installatie door de koper ondeugdelijk is uitgevoerd en dit te wijten is aan de montagevoorschriften die met de levering van de zaak aan de koper zijn verstrekt.
+3.	De verkoper is niet gebonden door de in lid 2, onderdeel d, bedoelde publieke mededelingen als de verkoper aantoont dat:
+	a.	hij niet bekend was of redelijkerwijs niet bekend kon zijn met de publieke mededeling;
+	b.	de publieke mededeling bij het sluiten van de overeenkomst op dezelfde of vergelijkbare wijze was gerectificeerd als waarop deze was gedaan;
+	c.	de beslissing tot aankoop van de zaak niet door de publieke mededeling beïnvloed kon zijn.
+
+4.	Bij een zaak met digitale elementen zorgt de verkoper ervoor dat de updates, waaronder beveiligingsupdates, die nodig zijn om te bewerkstelligen dat de afgeleverde zaak aan de overeenkomst beantwoordt, aan de koper worden gemeld en geleverd gedurende de periode die de koper redelijkerwijs kan verwachten, gezien de aard en het doel van de zaak en de digitale elementen, en rekening houdend met de omstandigheden en de aard van de overeenkomst als de koop voorziet in levering van de digitale inhoud of digitale dienst.
+
+5.	Wanneer de koper verzuimt de overeenkomstig het vorige lid verstrekte updates binnen een redelijke termijn te installeren, is de verkoper niet aansprakelijk voor het niet beantwoorden van de afgeleverde zaak aan de overeenkomst als dat uitsluitend het gevolg is van de afwezigheid van de betrokken update, mits:
+	a.	de verkoper de koper in kennis heeft gesteld van de beschikbaarheid van de update en de gevolgen als de koper die niet installeert;
+	b.	het niet of verkeerd installeren door de koper van de update niet te wijten was aan tekortkomingen in de aan de koper verstrekte installatie-instructies.
+
+6.	Van het niet beantwoorden van de afgeleverde zaak aan de overeenkomst in de zin van de leden 2 of 4 is geen sprake indien de koper er bij het sluiten van de overeenkomst uitdrukkelijk van in kennis werd gesteld dat een specifiek kenmerk van de zaak afweek en de koper die afwijking bij het sluiten van de overeenkomst uitdrukkelijk en afzonderlijk heeft aanvaard.
+
+Artikel 18a
+
+1.	In geval van een consumentenkoop wordt elk gebrek aan overeenstemming van de zaak met de overeenkomst als gevolg van een verkeerde installatie van de zaak beschouwd als het niet beantwoorden van het afgeleverde aan de overeenkomst, indien:
+	a.	de installatie deel uitmaakt van de koop en werd uitgevoerd door de verkoper of onder diens verantwoordelijkheid;
+	b.	de installatie door de koper werd gedaan en de verkeerde installatie te wijten was aan tekortkomingen in de installatie-instructies verstrekt door de verkoper, of door de verkoper of de leverancier van de digitale inhoud of digitale dienst in geval van een zaak met digitale elementen.
+
+2.	Bij een consumentenkoop wordt vermoed dat de zaak of de zaak met digitale elementen bij aflevering niet aan de overeenkomst beantwoordt, indien de afwijking van hetgeen is overeengekomen zich binnen één jaar na aflevering openbaart, tenzij de verkoper anders aantoont of de aard van de zaak of de aard van de afwijking zich daartegen verzet.
 
 Artikel 19
 
@@ -202,7 +257,9 @@ Artikel 19a
 
 Artikel 20
 
-Is de zaak behept met een last of een beperking die er niet op had mogen rusten, dan kan de koper eisen dat de last of de beperking wordt opgeheven, mits de verkoper hieraan redelijkerwijs kan voldoen.
+1.	Is de zaak behept met een last of een beperking die er niet op had mogen rusten, dan kan de koper eisen dat de last of de beperking wordt opgeheven, mits de verkoper hieraan redelijkerwijs kan voldoen.
+
+2.	Indien bij een consumentenkoop een beperking die voortvloeit uit een schending van rechten van derden het gebruik van de zaak overeenkomstig artikel 18 voorkomt of beperkt, kan de koper een beroep doen op artikel 21 lid 1.
 
 Artikel 21
 
@@ -221,6 +278,12 @@ Artikel 21
 
 6.	Indien bij een consumentenkoop de verkoper niet binnen een redelijke tijd nadat hij daartoe door de koper schriftelijk is aangemaand, aan zijn verplichting tot herstel van de afgeleverde zaak heeft voldaan, is de koper bevoegd het herstel door een derde te doen plaatsvinden en de kosten daarvan op de verkoper te verhalen.
 
+7.	Bij een consumentenkoop stelt de koper de zaak ter beschikking van de verkoper voor herstel of vervanging. De verkoper neemt de zaak op zijn kosten terug. De koper is niet gehouden te betalen voor normaal gebruik van de vervangen zaak in de periode voor de vervanging.
+
+8.	Indien bij een consumentenkoop herstel van de zaak de verwijdering vergt van zaken die in overeenstemming met hun aard en doel waren geïnstalleerd voordat duidelijk werd dat het afgeleverde niet aan de overeenkomst beantwoordt, of wanneer deze zaak moet worden vervangen, omvat de verplichting tot herstel of vervanging:
+	a.	de verwijdering van de afgeleverde zaak die niet beantwoordt aan de overeenkomst en de installatie van vervangende of herstelde zaken;
+	b.	het betalen van de kosten van die verwijdering of installatie.
+
 Artikel 22
 
 1.	Beantwoordt het afgeleverde niet aan de overeenkomst, dan heeft bij een consumentenkoop de koper voorts de bevoegdheid om:
@@ -232,6 +295,18 @@ Artikel 22
 3.	Voorzover daarvan in deze afdeling niet is afgeweken zijn op de in lid 1 onder b bedoelde bevoegdheid de bepalingen van afdeling 5 van titel 5 van Boek 6 omtrent ontbinding van een overeenkomst van overeenkomstige toepassing.
 
 4.	De rechten en bevoegdheden genoemd in lid 1 en de artikelen 20 en 21 komen de koper toe onverminderd alle andere rechten en vorderingen.
+
+5.	In afwijking van lid 2 is de koper bevoegd om de overeenkomst onmiddellijk te ontbinden overeenkomstig lid 1, onderdeel a, dan wel de prijs te verminderen overeenkomstig lid 1, onderdeel b, in de volgende gevallen:
+	a.	de verkoper heeft het herstel of de vervanging niet voltooid of, indien van toepassing, niet voltooid overeenkomstig artikel 21 leden 7 en 8, of de verkoper heeft geweigerd de zaak aan de overeenkomst te laten beantwoorden overeenkomstig artikel 21 lid 3;
+	b.	de zaak beantwoordt niet aan de overeenkomst ondanks de poging daartoe van de verkoper;
+	c.	het niet beantwoorden van de afgeleverde zaak aan de overeenkomst is zo ernstig dat een onmiddellijke prijsvermindering of ontbinding van de overeenkomst gerechtvaardigd is;
+	d.	de verkoper heeft verklaard, of uit de omstandigheden blijkt duidelijk dat hij de zaak door middel van herstel of vervanging niet binnen een redelijke termijn of zonder ernstige overlast voor de koper aan de overeenkomst kan laten beantwoorden.
+
+6.	Wanneer het niet beantwoorden van het afgeleverde aan de overeenkomst betrekking heeft op een deel van de krachtens de overeenkomst afgeleverde zaken en er een grond is voor ontbinding van de overeenkomst overeenkomstig artikel 21, kan de koper de overeenkomst slechts ontbinden met betrekking tot die zaak of zaken en met betrekking tot alle andere zaken die hij samen met die zaak of zaken heeft ontvangen als van de koper redelijkerwijs niet kan worden verwacht dat hij uitsluitend de afgeleverde zaak of zaken die wel aan de overeenkomst beantwoorden behoudt.
+
+7.	Wanneer de koper een overeenkomst geheel of overeenkomstig lid 6 gedeeltelijk ontbindt:
+	a.	zendt de koper de zaak terug naar de verkoper op kosten van de verkoper;
+	b.	betaalt de verkoper de koper de voor de zaak betaalde prijs terug bij ontvangst van de zaak of bij ontvangst van het door de koper verstrekte bewijs dat hij de zaak heeft teruggezonden.
 
 Artikel 23
 
@@ -436,7 +511,7 @@ Afdeling 10. Koop van vermogensrechten
 
 Artikel 47
 
-Een koop kan ook op een vermogensrecht betrekking hebben. In dat geval zijn de bepalingen van de vorige afdelingen van toepassing voor zover dit in overeenstemming is met de aard van het recht.
+Een koop kan ook op een vermogensrecht betrekking hebben. In dat geval zijn de bepalingen van de vorige afdelingen van toepassing voor zover dit in overeenstemming is met de aard van het recht en titel 1AA niet van toepassing is.
 
 Artikel 48
 
@@ -485,6 +560,225 @@ Ruil is de overeenkomst waarbij partijen zich verbinden elkaar over en weer een 
 Artikel 50
 
 De bepalingen betreffende koop vinden overeenkomstige toepassing, met dien verstande dat elke partij wordt beschouwd als verkoper voor de prestatie die zij verschuldigd is, en als koper voor die welke haar toekomt.
+
+Titel 1aa. Overeenkomsten voor de levering van digitale inhoud en digitale diensten tussen handelaren en consumenten
+
+Afdeling 1. Algemene bepalingen
+
+Artikel 50aa
+
+Voor de toepassing van deze titel wordt verstaan onder:
+	a.	digitale inhoud: gegevens die in digitale vorm worden geproduceerd en geleverd;
+	b.	digitale dienst:
+		i)	een dienst die de consument in staat stelt gegevens in digitale vorm te creëren, te verwerken of op te slaan, of toegang tot die gegevens te krijgen, of
+		ii)	een dienst die voorziet in de mogelijkheid van het delen van gegevens of andere interactie met gegevens in digitale vorm die door de consument of door andere gebruikers van die dienst worden geüpload of gecreëerd;
+	c.	integratie: het koppelen van digitale inhoud of een digitale dienst aan de onderdelen van de digitale omgeving van de consument en het verwerken daarvan in die omgeving, zodat de digitale inhoud of digitale dienst overeenkomstig de in deze titel vastgelegde vereisten kan worden gebruikt;
+	d.	handelaar: iedere natuurlijke persoon of rechtspersoon die met betrekking tot onder deze titel vallende overeenkomsten handelt, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt, in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit;
+	e.	consument: iedere natuurlijke persoon die bij onder deze titel vallende overeenkomsten handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteit vallen;
+	f.	digitale weergave van waarde: een digitale weergave van waarde, anders dan een prijs in geld, die verschuldigd is in ruil voor de levering van digitale inhoud of een digitale dienst;
+	g.	persoonsgegevens: persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van verordening (EU) 2016/679;
+	h.	digitale omgeving: hardware, software en iedere netwerkverbinding die door de consument wordt gebruikt om toegang te krijgen tot of gebruik te maken van digitale inhoud of een digitale dienst;
+	i.	compatibiliteit: het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt, zonder dat die digitale inhoud of digitale dienst moeten worden omgezet;
+	j.	functionaliteit: het vermogen van de digitale inhoud of digitale dienst om zijn functies te vervullen met betrekking tot het doel ervan;
+	k.	interoperabiliteit: het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software die verschilt van die waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt;
+	l.	duurzame gegevensdrager: ieder hulpmiddel dat de consument of de handelaar in staat stelt om persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die past bij het doel waarvoor de informatie is bestemd, en die een ongewijzigde weergave van de opgeslagen informatie mogelijk maakt;
+	m.	verordening (EU) 2016/679:Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (PbEU 1995, L 119);
+	n.	verordening (EU) 2015/2120:Verordening (EU) 2015/2120 van het Europees Parlement en de Raad van 25 november 2015 tot vaststelling van maatregelen betreffende open-internettoegang en tot wijziging van Richtlijn 2002/22/EG inzake de universele dienst en gebruiksrechten met betrekking tot elektronische communicatienetwerken en -diensten en Verordening (EU) nr. 531/2012 betreffende roaming op openbare mobielecommunicatienetwerken binnen de Unie (PbEU 2015, L 310);
+	o.	richtlijn (EU) 2018/1972:Richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad van 11 december 2018 tot vaststelling van het Europees wetboek voor elektronische communicatie (PbEU 2018, L 321);
+	p.	richtlijn (EU) 2011/24:Richtlijn (EU) 2011/24 van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg (PbEU 2011, L 88);
+	q.	richtlijn (EG) 2002/65:Richtlijn (EG) 2002/65 van het Europees Parlement en de Raad van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten en tot wijziging van Richtlijn 90/619/EEG van de Raad en de Richtlijnen 97/7/EG en 98/27/EG (PbEU 2002, L 271);
+	r.	richtlijn (EG) 2003/98:Richtlijn 2003/98/EG van het Europees Parlement en de Raad van 17 november 2003 inzake het hergebruik van overheidsinformatie (PbEU 2003, L 345).
+
+Artikel 50ab
+
+1.	Deze titel is van toepassing:
+	a.	op overeenkomsten waarbij de handelaar digitale inhoud of een digitale dienst aan de consument levert of zich ertoe verbindt die te leveren en de consument een prijs of een digitale weergave van waarde betaalt of zich ertoe verbindt die te betalen ongeacht of de digitale inhoud of digitale dienst volgens zijn specificaties is ontwikkeld;
+	b.	als de handelaar digitale inhoud of een digitale dienst aan de consument levert of zich ertoe verbindt die te leveren en de consument de handelaar persoonsgegevens verstrekt of zich ertoe verbindt die te verstrekken, tenzij de door de consument verstrekte persoonsgegevens uitsluitend door de handelaar worden verwerkt om de digitale inhoud of digitale dienst te leveren of om de handelaar in staat te stellen te voldoen aan de wettelijke vereisten waaraan hij is onderworpen en de handelaar de gegevens niet voor andere doeleinden verwerkt;
+	c.	op overeenkomsten betreffende materiële gegevensdragers die uitsluitend dienen als drager van digitale inhoud, met uitzondering van de artikelen 50ac en 50ah.
+
+2.	Deze titel is niet van toepassing:
+	a.	als digitale inhoud of digitale diensten zijn verwerkt in of onderling verbonden zijn met een roerende zaak als bedoeld in artikel 5 lid 1, onderdeel b, en met deze worden meegeleverd op grond van een consumentenkoop ongeacht of die digitale inhoud of digitale dienst wordt geleverd door de verkoper of een derde;
+	b.	als niet kan worden aangetoond dat de levering van verwerkte of onderling verbonden digitale inhoud of digitale dienst geen deel uitmaakt van een consumentenkoop.
+
+3.	Deze titel is niet van toepassing op overeenkomsten inzake:
+	a.	de verstrekking van andere diensten dan digitale diensten, ongeacht of digitale formats of middelen worden gebruikt door de handelaar om het resultaat van de dienst te behalen of aan de consument te leveren of door te geven;
+	b.	elektronische communicatiediensten als bedoeld in artikel 2, onderdeel 4, van richtlijn (EU) 2018/1972, met uitzondering van nummeronafhankelijke interpersoonlijke communicatiediensten als bedoeld in artikel 2, onderdeel 7, van die richtlijn;
+	c.	gezondheidszorg als bedoeld in artikel 3, onderdeel a, van richtlijn (EU) 2011/24;
+	d.	kansspeldiensten, zijnde diensten die gepaard gaan met het aangaan van een weddenschap waarbij een geldbedrag wordt ingezet in kansspelen, waaronder die welke enige bekwaamheid vereisen, zoals loterijen, casinospelen, poker en weddenschapstransacties en die worden aangeboden langs elektronische weg of met andere communicatietechnologie en op individueel verzoek van een afnemer van zulke diensten;
+	e.	financiële diensten als bedoeld in artikel 2, onderdeel b, van richtlijn (EG) 2002/65;
+	f.	software die door de handelaar wordt aangeboden op basis van een vrije en open licentie waarvoor de consument geen prijs of digitale weergave van waarde betaalt en wanneer de door de consument verstrekte persoonsgegevens uitsluitend worden verwerkt door de handelaar om de beveiliging, compatibiliteit of interoperabiliteit van die software te verbeteren;
+	g.	de levering van digitale inhoud waarbij de digitale inhoud anders dan via het overbrengen van signalen aan het grote publiek beschikbaar wordt gesteld als onderdeel van een optreden of evenement;
+	h.	digitale inhoud die wordt geleverd overeenkomstig richtlijn (EG) 2003/98 door Nederlandse overheidsorganen.
+
+4.	Als een overeenkomst tussen een handelaar en een consument elementen omvat van levering van digitale inhoud of een digitale dienst alsmede elementen van de levering van andere zaken of diensten, is deze titel, onverminderd het bepaalde in lid 2, uitsluitend van toepassing op de elementen van de overeenkomst die betrekking hebben op de digitale inhoud of digitale dienst. Artikel 50al is niet van toepassing wanneer een overeenkomst in de zin van richtlijn (EU) 2018/1972 elementen van een internettoegangsdienst omvat als bedoeld in artikel 2, onderdeel 2, van verordening (EU) 2015/2120 of een nummergebaseerde interpersoonlijke communicatiedienst als bedoeld in artikel 2, onderdeel 6, van richtlijn (EU) 2018/1972.
+
+5.	Indien de consument zijn toestemming voor het verwerken van zijn persoonsgegevens intrekt overeenkomstig artikel 7, derde lid, van verordening (EU) 2016/679, is hij niet langer gebonden aan de overeenkomst indien hij daarvoor geen prijs of digitale weergave van waarde betaalt.
+
+Afdeling 2. Verplichtingen van de handelaar
+
+Artikel 50ac
+
+1.	De handelaar levert de digitale inhoud of de digitale dienst onverwijld na het sluiten van de overeenkomst aan de consument, tenzij partijen anders zijn overeengekomen.
+
+2.	De handelaar heeft aan de verplichting bedoeld in lid 1 voldaan als:
+	a.	de digitale inhoud of een middel dat geschikt is om toegang te verschaffen tot de digitale inhoud of om die te downloaden, beschikbaar is gesteld aan of toegankelijk is gemaakt voor de consument of voor een daartoe door de consument gekozen fysieke of virtuele faciliteit;
+	b.	de digitale dienst toegankelijk wordt gemaakt voor de consument of voor een daartoe door de consument gekozen fysieke of virtuele faciliteit.
+
+Artikel 50ad
+
+1.	De afgeleverde digitale inhoud of digitale dienst moet aan de overeenkomst beantwoorden.
+
+2.	De digitale inhoud of digitale dienst wordt geleverd in de meest recente versie die bij het sluiten van de overeenkomst beschikbaar was, tenzij partijen anders zijn overeengekomen.
+
+Artikel 50ae
+
+1.	Voor de vraag of de geleverde digitale inhoud of digitale dienst aan de overeenkomst beantwoordt, moet de digitale inhoud of digitale dienst met name, voor zover van toepassing:
+	a.	wat betreft de beschrijving, hoeveelheid en kwaliteit, functionaliteit, compatibiliteit, interoperabiliteit en andere kenmerken, voldoen aan de overeenkomst;
+	b.	geschikt zijn voor elk bijzonder door de consument gewenst gebruik dat de consument aan de handelaar uiterlijk bij het sluiten van de overeenkomst heeft meegedeeld en dat de handelaar heeft aanvaard;
+	c.	worden geleverd met alle toebehoren, instructies, met inbegrip van installatie-instructies, en klantenservice, als bepaald in de overeenkomst;
+	d.	van updates worden voorzien als bepaald in de overeenkomst.
+
+2.	Voorts moet de digitale inhoud of digitale dienst:
+	a.	geschikt zijn voor de doeleinden waarvoor de digitale inhoud of een digitale dienst van hetzelfde type gewoonlijk worden gebruikt, indien van toepassing rekening houdend met technische normen of bij ontstentenis van deze normen de sectorspecifieke gedragscodes;
+	b.	overeenstemmen met de proefversie of de voorvertoning van de digitale inhoud of digitale dienst die door de handelaar ter beschikking werd gesteld voordat de overeenkomst werd gesloten;
+	c.	indien van toepassing worden geleverd met andere toebehoren en instructies die de consument redelijkerwijs mag verwachten;
+	d.	beschikken over de hoeveelheid, kwaliteit en prestatiekenmerken, onder meer met betrekking tot functionaliteit, compatibiliteit, toegankelijkheid, continuïteit en beveiliging, waarover de digitale inhoud of digitale diensten van hetzelfde type gewoonlijk beschikken en die de consument gezien de aard van de digitale inhoud of digitale dienst redelijkerwijs mag verwachten, rekening houdend met publieke mededelingen die zijn gedaan door of namens de handelaar of andere personen in eerdere schakels van de transactieketen, in het bijzonder in reclameboodschappen of op etikettering.
+
+3.	De handelaar is niet gebonden door de in lid 2, onderdeel d, bedoelde publieke mededelingen als de handelaar aantoont dat:
+	a.	hij niet bekend was of redelijkerwijs niet bekend kon zijn met de publieke mededeling;
+	b.	de publieke mededeling bij het sluiten van de overeenkomst op dezelfde of vergelijkbare wijze was gerectificeerd als waarop deze was gedaan;
+	c.	de beslissing tot aankoop van de digitale inhoud of digitale dienst niet door de publieke mededeling beïnvloed kon zijn.
+
+4.	De handelaar zorgt ervoor dat de updates, waaronder beveiligingsupdates, die nodig zijn om de geleverde digitale inhoud of de digitale dienst te laten beantwoorden aan de overeenkomst aan de consument worden gemeld en geleverd gedurende de periode die de consument redelijkerwijs kan verwachten, gezien de aard en het doel van de digitale inhoud of digitale dienst en rekening houdend met de omstandigheden en de aard van de overeenkomst.
+
+5.	Wanneer de consument verzuimt de overeenkomstig het vorige lid door de handelaar verstrekte updates binnen een redelijke termijn te installeren, is de handelaar niet aansprakelijk voor een gebrek als dat uitsluitend het gevolg is van de afwezigheid van de betrokken update, mits:
+	a.	de handelaar de consument in kennis heeft gesteld van de beschikbaarheid van de update en de gevolgen indien de consument die niet installeert;
+	b.	het niet of verkeerd installeren van de update door de consument niet te wijten was aan tekortkomingen in de door de handelaar verstrekte installatie-instructies.
+
+6.	Er is geen sprake van het niet beantwoorden van de afgeleverde digitale inhoud of digitale dienst aan de overeenkomst in de zin van lid 2 of 4 indien de consument bij het sluiten van de overeenkomst er uitdrukkelijk van in kennis werd gesteld dat een specifiek kenmerk van de digitale inhoud of digitale dienst afweek van de redelijke verwachtingen van de consument en de consument die afwijking bij het sluiten van de overeenkomst uitdrukkelijk en afzonderlijk heeft aanvaard.
+
+Artikel 50af
+
+1.	Elk gebrek aan overeenstemming van de digitale inhoud of digitale dienst met de overeenkomst dat het gevolg is van de verkeerde integratie ervan in de digitale omgeving van de consument wordt beschouwd als het niet beantwoorden aan de overeenkomst, indien:
+	a.	de digitale inhoud of digitale dienst door de handelaar of onder diens verantwoordelijkheid werd geïntegreerd;
+	b.	de digitale inhoud of digitale dienst bestemd was om door de consument te worden geïntegreerd en de verkeerde integratie te wijten was aan tekortkomingen in de door de handelaar verstrekte integratie-instructies.
+
+2.	Indien een beperking die voortvloeit uit een schending van rechten van derden het gebruik van de digitale inhoud of digitale dienst overeenkomstig artikel 50ad of artikel 50ae beperkt, dan kan de consument een beroep doen op artikel 50ai.
+
+3.	De handelaar bewijst dat:
+	a.	de digitale inhoud of digitale dienst overeenkomstig artikel 50ac werd geleverd;
+	b.	de geleverde digitale inhoud of digitale dienst bij de levering aan de overeenkomst heeft beantwoord voor zover het een gebrek betreft dat kenbaar wordt binnen één jaar vanaf het tijdstip waarop de digitale inhoud of digitale dienst werd geleverd.
+
+4.	Lid 3, onderdeel b, is niet van toepassing indien de handelaar:
+	a.	aantoont dat de digitale omgeving van de consument niet compatibel is met de technische vereisten van de digitale inhoud of digitale dienst;
+	b.	de consument vóór het sluiten van de overeenkomst op duidelijke en begrijpelijke wijze op de hoogte is gesteld van deze vereisten.
+
+5.	Voor zover het redelijkerwijs mogelijk en noodzakelijk is, geeft de consument de handelaar gelegenheid om met de technisch beschikbare middelen die voor de consument het minst ingrijpend zijn na te gaan of de oorzaak van het gebrek van de digitale inhoud of digitale dienst toe te schrijven is aan diens digitale omgeving. Indien de consument dit verzuimt en de handelaar heeft de consument voor het sluiten van de overeenkomst op duidelijke en begrijpelijke wijze van de medewerkingsplicht op de hoogte gesteld, bewijst de consument dat het gebrek bestond op het tijdstip bedoeld in artikel 50ag lid 2.
+
+Afdeling 3. Bijzondere gevolgen van niet-nakoming van de verplichtingen van de handelaar
+
+Artikel 50ag
+
+1.	De handelaar is aansprakelijk voor elk verzuim om de digitale inhoud of digitale dienst te leveren overeenkomstig artikel 50ac en voor een gebrek als bedoeld in de artikelen 50ad, 50ae en 50af lid 1.
+
+2.	Rechtsvorderingen en verweren, gegrond op feiten die de stelling zouden rechtvaardigen dat de afgeleverde digitale inhoud of digitale dienst niet aan de overeenkomst beantwoordt, verjaren door verloop van twee jaren na de levering, tenzij de consument het gebrek niet kende of behoorde te kennen, met inachtneming van in elk geval de prijs of digitale weergave van waarde en de redelijke verwachtingen van de consument ten aanzien van de duur dat hij gebruik kan maken van de digitale inhoud of digitale dienst.
+
+Artikel 50ah
+
+1.	Komt de handelaar de in of overeenkomstig artikel 50ac gestelde of overeengekomen vereisten niet na, dan is hij in verzuim wanneer hij door de consument in gebreke is gesteld bij een aanmaning waarbij hem een redelijke termijn voor de aflevering is gesteld en nakoming binnen deze termijn uitblijft. De consument is dan bevoegd om de overeenkomst te ontbinden.
+
+2.	In afwijking van lid 1 is de consument bevoegd om de overeenkomst onmiddellijk te ontbinden indien:
+	a.	de handelaar heeft verklaard of uit de omstandigheden duidelijk blijkt dat hij de digitale inhoud of digitale dienst niet zal leveren;
+	b.	de consument en de handelaar zijn overeengekomen, of uit de omstandigheden rond het sluiten van de overeenkomst duidelijk blijkt, dat een specifiek leveringstijdstip essentieel is voor de consument en de handelaar verzuimt de digitale inhoud of digitale dienst vóór of op dat tijdstip te leveren.
+
+3.	Indien de consument de overeenkomst ontbindt op grond van lid 1 of lid 2, zijn de artikelen 50ai lid 7, 50aj, 50ak en 50ao van toepassing.
+
+Artikel 50ai
+
+1.	Beantwoordt de afgeleverde digitale inhoud of digitale dienst niet aan de overeenkomst, dan is de consument bevoegd om nakoming te eisen, de prijs te verminderen in evenredigheid met de mate van afwijking van hetgeen is overeengekomen, of de overeenkomst te ontbinden.
+
+2.	De consument is bevoegd om nakoming te eisen overeenkomstig lid 1 tenzij dat onmogelijk is of voor de handelaar onevenredige kosten met zich brengt, rekening houdend met alle omstandigheden van het geval, waaronder:
+	a.	de waarde die de digitale inhoud of digitale dienst zou hebben wanneer er geen gebrek zou zijn geweest;
+	b.	de omvang van het gebrek.
+
+3.	Onverminderd lid 2 zorgt de handelaar ervoor dat de digitale inhoud of digitale dienst binnen een redelijke termijn na het tijdstip waarop de handelaar door de consument in kennis is gesteld van het gebrek, kosteloos en zonder ernstige overlast voor de consument aan de overeenkomst beantwoordt, rekening houdend met de aard van de digitale inhoud of digitale dienst en het doel waarvoor de consument deze nodig had.
+
+4.	De consument is bevoegd om de prijs te verminderen overeenkomstig leden 1 en 5 wanneer de digitale inhoud of digitale dienst wordt geleverd tegen betaling van een prijs of een digitale weergave van waarde, dan wel om de overeenkomst te ontbinden overeenkomstig leden 1 en 6 in de volgende gevallen:
+	a.	beantwoording van de afgeleverde digitale inhoud of digitale dienst aan de overeenkomst als bedoeld in lid 2 is onmogelijk of onevenredig;
+	b.	de handelaar heeft de digitale inhoud of digitale dienst niet aan de overeenkomst laten beantwoorden overeenkomstig lid 3;
+	c.	er blijkt een gebrek te zijn, ondanks de poging van de handelaar om de digitale inhoud of digitale dienst te laten beantwoorden aan de overeenkomst;
+	d.	het gebrek is zo ernstig dat een onmiddellijke prijsvermindering of ontbinding van de overeenkomst gerechtvaardigd is;
+	e.	de handelaar heeft verklaard, of uit de omstandigheden blijkt duidelijk, dat hij de digitale inhoud of digitale dienst niet binnen een redelijke termijn of zonder ernstige overlast voor de consument aan de overeenkomst kan laten beantwoorden.
+
+5.	De prijsvermindering is evenredig aan het verschil tussen de waarde van de aan de consument geleverde digitale inhoud of digitale dienst en de waarde die de digitale inhoud of digitale dienst zou hebben gehad indien deze had beantwoord aan de overeenkomst. Wanneer in de overeenkomst is bepaald dat de digitale inhoud of digitale dienst gedurende een periode tegen betaling van een prijs of een digitale weergave van waarde wordt geleverd, is de prijsvermindering van toepassing op dat deel van de periode waarin de digitale inhoud of digitale dienst niet heeft beantwoord aan de overeenkomst.
+
+6.	Wanneer de digitale inhoud of digitale dienst wordt geleverd tegen betaling van een prijs of een digitale weergave van waarde, mag de consument de overeenkomst uitsluitend ontbinden indien het gebrek niet gering is. De bewijslast dat het gebrek gering is, rust op de handelaar.
+
+7.	De consument oefent de bevoegdheid om de overeenkomst te ontbinden uit door middel van een schriftelijke verklaring aan de handelaar waarin zijn beslissing tot ontbinding tot uitdrukking komt.
+
+8.	Voor zover daarvan in deze titel niet is afgeweken zijn op de in lid 1 bedoelde bevoegdheid de bepalingen van afdeling 5 van titel 5 van Boek 6 omtrent ontbinding van een overeenkomst van overeenkomstige toepassing.
+
+Artikel 50aj
+
+1.	Bij ontbinding van de overeenkomst betaalt de handelaar de consument alle uit hoofde van de overeenkomst betaalde bedragen terug.
+
+2.	De handelaar ziet bij ontbinding af van het verdere gebruik van andere inhoud dan persoonsgegevens die door de consument was verstrekt of gecreëerd bij het gebruik van de door de handelaar geleverde digitale inhoud of digitale dienst, tenzij die inhoud:
+	a.	geen nut heeft buiten de context van de door de handelaar geleverde digitale inhoud of digitale dienst;
+	b.	uitsluitend verband houdt met de activiteit van de consument bij het gebruik van de door de handelaar geleverde digitale inhoud of digitale dienst;
+	c.	door de handelaar met andere gegevens is samengevoegd en niet of uitsluitend met bovenmatige inspanningen kan worden ontvlochten;
+	d.	door de consument en andere consumenten gezamenlijk is gegenereerd en andere consumenten die inhoud kunnen blijven gebruiken.
+
+3.	Met uitzondering van de in lid 2, onderdelen a, b en c genoemde situaties, maakt de handelaar op verzoek van de consument alle andere inhoud dan persoonsgegevens beschikbaar die door de consument was verstrekt of gecreëerd bij het gebruik van de geleverde digitale inhoud of digitale dienst. De consument is bevoegd om die inhoud kosteloos binnen een redelijke termijn en in een gangbaar en machinaal leesbaar gegevensformaat op te vragen, zonder belemmeringen van de handelaar.
+
+4.	Onverminderd lid 3 kan de handelaar elk verder gebruik van de digitale inhoud of digitale dienst door de consument beletten.
+
+Artikel 50ak
+
+1.	Alle terugbetalingen die de handelaar aan de consument is verschuldigd op grond van artikel 50ai leden 4 en 5 of artikel 50aj lid 1 als gevolg van een prijsvermindering of de ontbinding van de overeenkomst, worden onverwijld verricht en in elk geval binnen 14 dagen vanaf de datum waarop de handelaar in kennis is gesteld van de beslissing van de consument om zich te beroepen op het recht van prijsvermindering dan wel op ontbinding van de overeenkomst.
+
+2.	De handelaar gebruikt voor de terugbetaling hetzelfde betaalmiddel als waarmee de consument voor de digitale inhoud of digitale dienst heeft betaald, tenzij de consument uitdrukkelijk met het gebruik van een ander betaalmiddel instemt en op voorwaarde dat de consument als gevolg van deze terugbetaling geen aanvullende kosten hoeft te maken.
+
+3.	De handelaar mag de consument geen vergoeding in rekening brengen voor de terugbetaling.
+
+Artikel 50al
+
+1.	Wanneer in de overeenkomst is bepaald dat de digitale inhoud of digitale dienst moet worden geleverd of beschikbaar moet worden gesteld aan de consument gedurende een periode, kan de handelaar de digitale inhoud of digitale dienst onderwerpen aan wijzigingen die verder gaan dan wat nodig is om de beantwoording van de digitale inhoud of digitale dienst aan de overeenkomst overeenkomstig artikel 50ad lid 2 en artikel 50ae te bewerkstelligen indien:
+	a.	de overeenkomst dergelijke wijzigingen toestaat en er een gegronde reden voor geeft;
+	b.	dergelijke wijzigingen worden aangebracht zonder aanvullende kosten voor de consument;
+	c.	de consument op duidelijke en begrijpelijke wijze van de wijziging in kennis is gesteld;
+	d.	de consument in de in lid 2 genoemde gevallen binnen een redelijke termijn van tevoren op een duurzame gegevensdrager in kennis is gesteld van de kenmerken en het tijdstip van de wijziging en van zijn recht om de overeenkomst te ontbinden overeenkomstig lid 2 of over de mogelijkheid om de digitale inhoud of digitale dienst zonder wijziging te behouden overeenkomstig lid 4.
+
+2.	De consument is bevoegd om de overeenkomst te ontbinden indien de wijziging negatieve gevolgen heeft voor de toegang van de consument tot of diens gebruik van de digitale inhoud of digitale dienst, tenzij de gevolgen gering zijn. In dat geval is de consument bevoegd om de overeenkomst kosteloos te ontbinden en binnen 30 dagen na ontvangst van de informatie over de wijziging, of indien dat later is, vanaf het tijdstip waarop de digitale inhoud of digitale dienst door de handelaar is gewijzigd.
+
+3.	Indien de consument de overeenkomst ontbindt op grond van lid 2 zijn de artikelen 50ai lid 7, 50aj, 50ak en 50ao van overeenkomstige toepassing.
+
+4.	De leden 2 en 3 zijn niet van toepassing indien de handelaar de consument de mogelijkheid heeft geboden om zonder aanvullende kosten de digitale inhoud of digitale dienst ongewijzigd te behouden en de digitale inhoud of digitale dienst blijft beantwoorden aan de overeenkomst.
+
+Artikel 50am
+
+Wanneer de handelaar jegens de consument aansprakelijk is wegens verzuim om de digitale inhoud of digitale dienst te leveren of wegens een gebrek dat voortvloeit uit een handelen of nalaten van een persoon in een eerdere schakel van de transactieketen, zijn de artikelen 24 en 25 van overeenkomstige toepassing.
+
+Afdeling 4. Verplichtingen van de consument
+
+Artikel 50an
+
+De consument is verplicht de prijs dan wel de digitale weergave van waarde te betalen.
+
+Artikel 50ao
+
+1.	Na de ontbinding van de overeenkomst ziet de consument af van het gebruik van de digitale inhoud of digitale dienst en van de terbeschikkingstelling daarvan aan derden.
+
+2.	Wanneer de digitale inhoud op een materiële gegevensdrager werd geleverd, geeft de consument deze op verzoek en op kosten van de handelaar onverwijld terug. Een verzoek om teruggave van de materiële gegevensdrager moet binnen 14 dagen worden gedaan, gerekend vanaf de dag waarop de handelaar in kennis is gesteld van de beslissing van de consument om de overeenkomst te ontbinden.
+
+3.	De consument is niet gehouden te betalen voor het gebruik van de digitale inhoud of digitale dienst in de periode voor de ontbinding van de overeenkomst waarin de digitale inhoud of digitale dienst niet aan de overeenkomst heeft beantwoord.
+
+Afdeling 5. Slotbepaling
+
+Artikel 50ap
+
+1.	Tenzij in deze titel anders is bepaald, kan van deze titel niet ten nadele van de consument worden afgeweken en kunnen de rechten en vorderingen die de wet aan de consument ter zake van een tekortkoming in de nakoming van de verplichtingen van de handelaar toekent niet worden beperkt of uitgesloten.
+
+2.	Artikel 89 van Boek 6 is niet van toepassing op deze titel.
 
 Titel 1a. Overeenkomsten betreffende het gebruik in deeltijd, vakantieproducten van lange duur, bijstand en uitwisseling
 
@@ -1937,6 +2231,10 @@ Artikel 236
 
 Onder standplaats wordt verstaan een kavel, bestemd voor het plaatsen van een woonwagen, waarop voorzieningen aanwezig zijn die op het leidingnet van de openbare nutsbedrijven, andere instellingen of van gemeenten kunnen worden aangesloten.
 
+Artikel 236a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 237
 
 1.	In deze afdeling wordt onder prijs verstaan het geheel van de verplichtingen die de huurder tegenover de verhuurder bij of ter zake van huur op zich neemt.
@@ -1999,6 +2297,10 @@ Artikel 247
 De volgende artikelen van deze onderafdeling zijn, behoudens de artikelen 248 lid 3 en 4, 249, 251, 255a, 259, 261 lid 1, 262 en 264, niet van toepassing op een overeenkomst van huur en verhuur, die betrekking heeft op een zelfstandige woning, ten aanzien waarvan bij de aanvang van de bewoning een huurprijs gold of geldt, die, indien nodig herleid tot een bedrag per jaar, hoger is dan het krachtens artikel 3 lid 2 van de Uitvoeringswet huurprijzen woonruimte vastgesteld bedrag, indien
 	a.	die overeenkomst op of na 1 juli 1994 is totstandgekomen, dan wel,
 	b.	die overeenkomst betrekking heeft op een woning die is totstandgekomen op of na 1 juli 1989.
+
+Artikel 247a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 248
 
@@ -2268,6 +2570,10 @@ Artikel 268
 
 8.	Van artikel 229 leden 1 en 3 kan niet worden afgeweken.
 
+Artikel 268a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 269
 
 1.	De onderhuur die betrekking heeft op een zelfstandige woning waar de onderhuurder zijn hoofdverblijf heeft, wordt in geval van beëindiging van de huur tussen huurder en verhuurder voortgezet door de verhuurder.
@@ -2291,6 +2597,10 @@ Artikel 270
 Artikel 270a
 
 Ingeval van voortzetting van de huur op grond van de artikelen 266, 268 en 269 is degene die de huur voortzet, verplicht daarvan mededeling te doen aan de verhuurder.
+
+Artikel 270b
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Onderafdeling 4. Het eindigen van de huur
 
