@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 27-04-2022 t/m 30-06-2022
+Geldend van 01-07-2022 t/m 31-07-2022
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -2113,7 +2113,7 @@ Artikel 220
 
 5.	Indien verhuizing noodzakelijk is in verband met de voorgenomen renovatie, bedoeld in lid 2, derde zin, van woonruimte als bedoeld in artikel 233 draagt de verhuurder bij in de kosten die de verhuizing voor de huurder meebrengt.
 
-6.	De minimumbijdrage in de verhuis- en inrichtingskosten voor de huurders van zelfstandige woningen als bedoeld in artikel 234, en woonwagens en standplaatsen als bedoeld in de artikelen 235 en 236, wordt bij ministeriële regeling van de Minister voor Wonen, Wijken en Integratie vastgesteld en zal jaarlijks voor 1 maart worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Het in de eerste zin genoemde bedrag wordt afgerond op hele euro’s.
+6.	De minimumbijdrage in de verhuis- en inrichtingskosten voor de huurders van zelfstandige woningen als bedoeld in artikel 234, en woonwagens en standplaatsen als bedoeld in de artikelen 235 en 236, wordt bij ministeriële regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld en zal jaarlijks voor 1 maart worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Het in de eerste zin genoemde bedrag wordt afgerond op hele euro’s.
 
 7.	De verhuurder kan eventuele door de gemeente aan de huurder te verstrekken bijdragen of vergoedingen voor verhuis- of inrichtingskosten in mindering brengen op de hoogte van de bijdrage, bedoeld in het zesde lid.
 
@@ -2149,7 +2149,7 @@ Artikel 226
 
 3.	De verkrijger wordt slechts gebonden door die bedingen van de huurovereenkomst, die onmiddellijk verband houden met het doen hebben van het gebruik van de zaak tegen een door de huurder te betalen tegenprestatie.
 
-4.	Bij huur van een gebouwde onroerende zaak of een gedeelte daarvan alsmede van een woonwagen in de zin van artikel 235 en van een standplaats in de zin van artikel 236, kan niet van de voorgaande leden worden afgeweken.
+4.	Bij huur van een gebouwde onroerende zaak of een gedeelte daarvan alsmede van een woonwagen in de zin van artikel 235, van een standplaats in de zin van artikel 236 en van een ligplaats in de zin van artikel 236a, kan niet van de voorgaande leden worden afgeweken.
 
 Artikel 227
 
@@ -2197,7 +2197,7 @@ Artikel 230a
 
 Artikel 231
 
-1.	Ontbinding van een huurovereenkomst met betrekking tot een gebouwde onroerende zaak alsmede een woonwagen in de zin van artikel 235 en een standplaats in de zin van artikel 236 op de grond dat de huurder tekortgeschoten is in de nakoming van zijn verplichtingen, kan slechts geschieden door de rechter, behoudens in het geval van lid 2 en van artikel 210.
+1.	Ontbinding van een huurovereenkomst met betrekking tot een gebouwde onroerende zaak alsmede een woonwagen in de zin van artikel 235, een standplaats in de zin van artikel 236 en een ligplaats in de zin van artikel 236a op de grond dat de huurder tekortgeschoten is in de nakoming van zijn verplichtingen, kan slechts geschieden door de rechter, behoudens in het geval van lid 2 en van artikel 210.
 
 2.	De verhuurder kan de overeenkomst op de voet van artikel 267 van Boek 6 ontbinden op de grond dat door gedragingen in het gehuurde de openbare orde is verstoord en het gehuurde deswege op grond van artikel 174a van de Gemeentewet dan wel op grond van een verordening als bedoeld in artikel 174 van die wet is gesloten, door gedragingen in zodanig gebouw in strijd met artikel 2 of 3 van de Opiumwet is gehandeld en het desbetreffende gebouw deswege op grond van artikel 13b van die wet is gesloten, of zodanig gebouw op grond van artikel 17 van de Woningwet is gesloten.
 
@@ -2217,7 +2217,7 @@ Artikel 232
 
 Artikel 233
 
-Onder woonruimte wordt verstaan een gebouwde onroerende zaak voor zover deze als zelfstandige dan wel niet zelfstandige woning is verhuurd, dan wel een woonwagen of een standplaats, alsmede de onroerende aanhorigheden.
+Onder woonruimte wordt verstaan een gebouwde onroerende zaak voor zover deze als zelfstandige dan wel niet zelfstandige woning is verhuurd, dan wel een woonwagen, een standplaats of een ligplaats, alsmede de onroerende aanhorigheden.
 
 Artikel 234
 
@@ -2233,7 +2233,7 @@ Onder standplaats wordt verstaan een kavel, bestemd voor het plaatsen van een wo
 
 Artikel 236a
 
-[Dit onderdeel is nog niet inwerking getreden]
+Onder ligplaats wordt verstaan een plaats in het water bestemd voor het afmeren van een voor bewoning bestemd drijvend object.
 
 Artikel 237
 
@@ -2251,7 +2251,7 @@ Onder huurcommissie wordt verstaan de huurcommissie bedoeld in artikel 3a van de
 
 Artikel 239
 
-Onder Onze Minister wordt verstaan Onze Minister voor Wonen en Rijksdienst.
+Onder Onze Minister wordt verstaan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 Artikel 240
 
@@ -2300,7 +2300,7 @@ De volgende artikelen van deze onderafdeling zijn, behoudens de artikelen 248 li
 
 Artikel 247a
 
-[Dit onderdeel is nog niet inwerking getreden]
+De volgende artikelen van deze onderafdeling zijn, behoudens de artikelen 248 leden 3 en 4, 251, 259, 261 lid 1, 262 en 264, niet van toepassing op een overeenkomst van huur en verhuur die betrekking heeft op een ligplaats.
 
 Artikel 248
 
@@ -2308,7 +2308,7 @@ Artikel 248
 
 2.	Leidt toepassing van een beding als bedoeld in lid 1 tot een verhoging van de huurprijs die hoger is dan toegelaten bij of krachtens artikel 10 lid 2 of artikel 10a van de Uitvoeringswet huurprijzen woonruimte, dan is het beding nietig voor zover dat beding leidt tot een hogere dan toegelaten verhoging en geldt de huurprijs als verhoogd met de toegelaten verhoging.
 
-3.	Leidt toepassing van een beding in een huurovereenkomst als bedoeld in artikel 247 tot een verhoging van de huurprijs die hoger is dan toegelaten bij of krachtens artikel 10 lid 3 of artikel 10a lid 2 van de Uitvoeringswet huurprijzen woonruimte bepaalde maximale huurverhogingspercentage, dan is het beding nietig voor zover dat beding leidt tot een hogere dan toegelaten verhoging en geldt de huurprijs als verhoogd met de toegelaten verhoging.
+3.	Leidt toepassing van een beding in een huurovereenkomst als bedoeld in artikel 247 tot een verhoging van de huurprijs die hoger is dan toegelaten bij of krachtens artikel 10 lid 3 of artikel 10a lid 2 van de Uitvoeringswet huurprijzen woonruimte, dan is het beding nietig voor zover dat beding leidt tot een hogere dan toegelaten verhoging en geldt de huurprijs als verhoogd met de toegelaten verhoging.
 
 4.	De huurder kan binnen vier maanden na de ingangsdatum van de verhoging van de huurprijs overeenkomstig een beding als bedoeld in het derde lid, de huurcommissie verzoeken uitspraak te doen over die verhoging. De huurcommissie stelt de verhuurder in kennis van het verzoek van de huurder.
 
@@ -2572,7 +2572,9 @@ Artikel 268
 
 Artikel 268a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Bij overlijden van de huurder van een ligplaats is artikel 268 niet van toepassing indien die huurder eigenaar was van het op die ligplaats afgemeerde voor bewoning bestemde drijvend object.
+
+2.	Van dit artikel en van artikel 229 leden 1 en 3 kan niet ten nadele van de erfgenamen, onderscheidenlijk de echtgenoot of geregistreerde partner, worden afgeweken.
 
 Artikel 269
 
@@ -2600,14 +2602,18 @@ Ingeval van voortzetting van de huur op grond van de artikelen 266, 268 en 269 i
 
 Artikel 270b
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Indien de huurder van een ligplaats eigenaar is van het op die ligplaats afgemeerde voor bewoning bestemde drijvend object, kan die huurder bij verkoop van dat drijvend object vorderen dat de rechter hem zal machtigen om de koper in zijn plaats als huurder te stellen.
+
+2.	De rechter beslist met inachtneming van de omstandigheden van het geval, met dien verstande dat hij de vordering slechts kan toewijzen indien de huurder een zwaarwichtig belang heeft bij de indeplaatsstelling en dat hij deze afwijst indien de voorgestelde huurder vanuit financieel oogpunt niet voldoende waarborg biedt voor een behoorlijke nakoming van de huur. De rechter kan aan de machtiging voorwaarden verbinden of daarbij een last opleggen.
+
+3.	Van deze bepaling kan niet ten nadele van de huurder worden afgeweken.
 
 Onderafdeling 4. Het eindigen van de huur
 
 Artikel 271
 
 1.	In afwijking van artikel 228 lid 1 eindigt een voor bepaalde tijd voor de duur van:
-	a.	langer dan twee jaar aangegane huur ingeval van een woonruimte voor zover deze als zelfstandige woning is verhuurd, een woonwagen of een standplaats, of
+	a.	langer dan twee jaar aangegane huur ingeval van een woonruimte voor zover deze als zelfstandige woning is verhuurd, een woonwagen, een standplaats of een ligplaats, of
 	b.	langer dan vijf jaar aangegane huur ingeval van een woonruimte voor zover deze als niet zelfstandige woning is verhuurd,
 
 niet door het enkele verloop van de huurtijd; zij kan door elk van beide partijen worden opgezegd tegen een voor de betaling van de huurprijs overeengekomen dag, niet vallend voor het verstrijken van de bepaalde tijd. Op een voor bepaalde tijd voor de duur van twee onderscheidenlijk vijf jaar of korter aangegane huur is artikel 228 lid 1 onverkort van toepassing, mits de verhuurder niet eerder dan drie maanden maar uiterlijk een maand voordat die bepaalde tijd is verstreken, de huurder over de dag waarop die huur verstrijkt schriftelijk informeert. Indien de verhuurder de verplichting, bedoeld in de tweede volzin, niet nakomt, wordt de huurovereenkomst na het verstrijken van de bepaalde tijd, bedoeld in die volzin, voor onbepaalde tijd verlengd. De voor bepaalde tijd aangegane huur, bedoeld in de tweede volzin, kan door de huurder voor het verstrijken van de bepaalde tijd worden opgezegd tegen een voor betaling van de huurprijs overeengekomen dag. Indien na afloop van een voor bepaalde tijd van twee onderscheidenlijk vijf jaar of korter aangegane huur met dezelfde huurder aansluitend opnieuw een huurovereenkomst wordt aangegaan, wordt deze laatste overeenkomst opgevat als een verlenging voor onbepaalde tijd van eerstgenoemde huurovereenkomst.
@@ -2737,7 +2743,7 @@ Artikel 275
 
 3.	Bij beëindiging van de huurovereenkomst op de gronden, bedoeld in artikel 274 lid 1 onder c in verbinding met lid 3 en in artikel 274 lid 1 onder e, draagt de verhuurder bij in de kosten die de verhuizing voor de huurder meebrengt.
 
-4.	De minimumbijdrage in de verhuis- en inrichtingskosten voor de huurders van zelfstandige woningen, woonwagens en standplaatsen wordt bij ministeriële regeling van de Minister voor Wonen, Wijken en Integratie vastgesteld en zal jaarlijks voor 1 maart worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Het in de eerste zin genoemde bedrag wordt afgerond op hele euro’s.
+4.	De minimumbijdrage in de verhuis- en inrichtingskosten voor de huurders van zelfstandige woningen, woonwagens, standplaatsen en ligplaatsen wordt bij ministeriële regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld en zal jaarlijks voor 1 maart worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft. Het in de eerste zin genoemde bedrag wordt afgerond op hele euro’s.
 
 5.	De verhuurder kan eventuele door de gemeente aan de huurder te verstrekken bijdragen of vergoedingen voor verhuis- of inrichtingskosten in mindering brengen op de hoogte van de bijdrage, bedoeld in het vierde lid.
 
@@ -5338,6 +5344,10 @@ Artikel 628a
 
 12.	Van dit artikel kan niet ten nadele van de werknemer worden afgeweken.
 
+Artikel 628b
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 629
 
 1.	Voor zover het loon niet meer bedraagt dan het bedrag, bedoeld in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen, met betrekking tot een loontijdvak van een dag, behoudt de werknemer voor een tijdvak van 104 weken recht op 70% van het naar tijdruimte vastgestelde loon, maar de eerste 52 weken ten minste op het voor hem geldende wettelijke minimumloon, indien hij de bedongen arbeid niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling daartoe verhinderd was.
@@ -5687,6 +5697,10 @@ Artikel 653
 4.	Aan een beding als bedoeld in lid 1 of lid 2 kan de werkgever geen rechten ontlenen, indien het eindigen of niet voortzetten van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever.
 
 5.	Indien een beding als bedoeld in lid 1 of lid 2 de werknemer in belangrijke mate belemmert om anders dan in dienst van de werkgever werkzaam te zijn, kan de rechter steeds bepalen dat de werkgever voor de duur van de beperking aan de werknemer een vergoeding moet betalen. De rechter stelt de hoogte van deze vergoeding met het oog op de omstandigheden van het geval naar billijkheid vast. De vergoeding is niet verschuldigd, indien het eindigen of niet voortzetten van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer.
+
+Artikel 653a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Afdeling 6. Enkele bijzondere verplichtingen van de werkgever
 
