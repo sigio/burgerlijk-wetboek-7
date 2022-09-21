@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 02-08-2022 t/m 21-09-2022
+Geldend van 22-09-2022 t/m 30-09-2022
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -4697,6 +4697,10 @@ Een vergoeding als hier bedoeld staat in redelijke verhouding tot de kosten die 
 	b)	betaalt de elektronischgeldinstelling hem alle middelen terug waarom de houder van het elektronisch geld verzoekt, indien deze instelling een of meer andere bedrijfsactiviteiten dan de uitgifte van elektronisch geld met inachtneming van de daarvoor geldende regels uitoefent en het vóór het aangaan van de overeenkomst niet duidelijk was welk deel van die middelen zou worden gebruikt als elektronisch geld.
 
 6.	De terugbetalingsrechten van een persoon die elektronisch geld aanvaardt en die geen consument is, worden, onverminderd de leden 3, 4 en 5, beheerst door wat is overeengekomen tussen de elektronischgeldinstelling en die persoon.
+
+Artikel 521b
+
+Op de betaaldienstverlener rust de bewijslast voor de naleving van de in de artikelen 516 tot en met 519 en 521 neergelegde verplichtingen en de krachtens artikel 4:22, tweede lid, van de Wet op het financieel toezicht geldende regels met betrekking tot de inhoud en verstrekking van de door titel III van de richtlijn vereiste informatie.
 
 Afdeling 2. Toestaan van betalingstransacties
 
