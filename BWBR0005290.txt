@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 7
 Geraadpleegd op 06-08-2023.
-Geldend van 01-10-2022 t/m 31-12-2022
+Geldend van 01-01-2023 t/m 17-02-2023
 
 Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten
 
@@ -1599,7 +1599,7 @@ Onderafdeling 1. Algemene bepalingen
 
 Artikel 118
 
-1.	In deze titel wordt verstaan onder:
+1.	In deze afdeling wordt verstaan onder:
 	a.	consument: een natuurlijk persoon die handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteiten vallen;
 	b.	kredietgever: een natuurlijk persoon of rechtspersoon die in het kader van de uitoefening van zijn bedrijfs- of beroepsactiviteiten op basis van een overeenkomst als bedoeld in artikel 119 lid 1 krediet verleent of toezegt;
 	c.	kredietovereenkomst: een overeenkomst als bedoeld in artikel 119 lid 1 waarbij een kredietgever aan een consument krediet verleent of toezegt in de vorm van een uitgestelde betaling, van een lening of van een soortgelijke financieringsregeling;
@@ -1635,11 +1635,11 @@ Artikel 118
 
 Artikel 119
 
-1.	Deze titel is van toepassing op:
+1.	Deze afdeling is van toepassing op:
 	a.	kredietovereenkomsten die gewaarborgd worden door een hypotheek of door een andere vergelijkbare zekerheid op voor bewoning bestemde onroerende zaken, of gewaarborgd worden door een recht op voor bewoning bestemde onroerende zaken; en
 	b.	kredietovereenkomsten voor het verkrijgen of het behouden van eigendomsrechten betreffende grond of een bestaand of gepland gebouw.
 
-2.	Deze titel is niet van toepassing op:
+2.	Deze afdeling is niet van toepassing op:
 	a.	kredietovereenkomsten waarbij de kredietgever:
 		1°	een eenmalig bedrag, periodieke bedragen of op andere wijze een krediet uitbetaalt in ruil voor een bedrag ontleend aan de toekomstige verkoop van een voor bewoning bestemde onroerende zaak of een recht op een voor bewoning bestemde onroerende zaak, en
 		2°	pas aflossing van het krediet verlangt wanneer de consument in staat van faillissement is verklaard, op hem de schuldsanering natuurlijke personen van toepassing is verklaard dan wel bij overlijden van de consument of bij andere in de overeenkomst opgenomen gebeurtenissen, tenzij de consument zijn contractuele verplichtingen niet nakomt, waardoor de kredietgever het recht heeft de kredietovereenkomst te beëindigen;
@@ -1765,13 +1765,13 @@ Onderafdeling 5. Slotbepalingen
 
 Artikel 128b
 
-De kredietgever of, in voorkomend geval, de kredietbemiddelaar brengt de consument geen kosten in rekening voor zijn informatieverplichtingen uit hoofde van deze titel.
+De kredietgever of, in voorkomend geval, de kredietbemiddelaar brengt de consument geen kosten in rekening voor zijn informatieverplichtingen uit hoofde van deze afdeling.
 
 Artikel 128c
 
-1.	Van het bepaalde bij deze titel kan niet ten nadele van de consument worden afgeweken.
+1.	Van het bepaalde bij deze afdeling kan niet ten nadele van de consument worden afgeweken.
 
-2.	De consument kan de hem krachtens deze titel toegekende bescherming niet worden ontzegd als gevolg van de wijze waarop overeenkomsten zijn opgesteld, met name doordat een kredietovereenkomst in de zin van deze Richtlijn is opgenomen in een kredietovereenkomst waarvan de aard of het doel het mogelijk maakt de toepassing van die maatregelen te ontwijken.
+2.	De consument kan de hem krachtens deze afdeling toegekende bescherming niet worden ontzegd als gevolg van de wijze waarop overeenkomsten zijn opgesteld, met name doordat een kredietovereenkomst in de zin van deze Richtlijn is opgenomen in een kredietovereenkomst waarvan de aard of het doel het mogelijk maakt de toepassing van die maatregelen te ontwijken.
 
 Titel 2c. Geldlening
 
@@ -6267,7 +6267,7 @@ Artikel 673
 		2°	op verzoek van de werknemer is ontbonden; of
 		3°	na een einde van rechtswege op initiatief van de werknemer niet aansluitend is voortgezet.
 
-2.	De transitievergoeding is voor elk jaar dat de arbeidsovereenkomst heeft geduurd gelijk aan een derde van het loon per maand en een evenredig deel daarvan voor een periode dat de arbeidsovereenkomst korter dan een jaar heeft geduurd. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de berekeningswijze van de transitievergoeding. De transitievergoeding bedraagt maximaal € 86.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
+2.	De transitievergoeding is voor elk jaar dat de arbeidsovereenkomst heeft geduurd gelijk aan een derde van het loon per maand en een evenredig deel daarvan voor een periode dat de arbeidsovereenkomst korter dan een jaar heeft geduurd. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de berekeningswijze van de transitievergoeding. De transitievergoeding bedraagt maximaal € 89.000,– of een bedrag gelijk aan ten hoogste het loon over twaalf maanden indien dat loon hoger is dan dat bedrag.
 
 3.	Het bedrag, genoemd in lid 2, wordt telkens met ingang van 1 januari door Onze Minister van Sociale Zaken en Werkgelegenheid gewijzigd overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in de Macro-Economische Verkenningen, in het voorafgaande jaar is geraamd. Het bedrag wordt daarbij afgerond op het naaste veelvoud van € 1.000,–. Het gewijzigde bedrag is uitsluitend van toepassing indien de arbeidsovereenkomst op of na de datum van de wijziging eindigt of niet wordt voortgezet.
 
@@ -7704,7 +7704,7 @@ Artikel 928
 
 3.	Betreft een persoonsverzekering het risico van een bekende derde die de leeftijd van zestien jaren heeft bereikt, dan omvat de mededelingsplicht mede de hem betreffende feiten die deze kent of behoort te kennen en waarvan, naar hij weet of behoort te begrijpen, de beslissing van de verzekeraar afhangt of kan afhangen.
 
-4.	De mededelingsplicht betreft niet feiten die de verzekeraar reeds kent of behoort te kennen, en evenmin feiten, die niet tot een voor de verzekeringnemer ongunstiger beslissing zouden hebben geleid. De verzekeringnemer of de derde, bedoeld in lid 2 of lid 3, kan zich er echter niet op beroepen dat de verzekeraar bepaalde feiten reeds kent of behoort te kennen indien op een daarop gerichte vraag een onjuist of onvolledig antwoord is gegeven. De mededelingsplicht betreft voorts geen feiten waarnaar ingevolge de artikelen 4 tot en met 6 van de Wet op de medische keuringen in de daar bedoelde gevallen geen medisch onderzoek mag worden verricht en geen vragen mogen worden gesteld.
+4.	De mededelingsplicht betreft niet feiten die de verzekeraar reeds kent of behoort te kennen, en evenmin feiten, die niet tot een voor de verzekeringnemer ongunstiger beslissing zouden hebben geleid. De verzekeringnemer of de derde, bedoeld in lid 2 of lid 3, kan zich er echter niet op beroepen dat de verzekeraar bepaalde feiten reeds kent of behoort te kennen indien op een daarop gerichte vraag een onjuist of onvolledig antwoord is gegeven. De mededelingsplicht betreft voorts geen feiten waarnaar ingevolge de artikelen 3 tot en met 6 van de Wet op de medische keuringen in de daar bedoelde gevallen geen medisch onderzoek mag worden verricht en geen vragen mogen worden gesteld.
 
 5.	De verzekeringnemer is slechts verplicht feiten mede te delen omtrent zijn strafrechtelijk verleden of omtrent dat van derden, voor zover zij zijn voorgevallen binnen de acht jaren die aan het sluiten van de verzekering vooraf zijn gegaan en voor zover de verzekeraar omtrent dat verleden uitdrukkelijk een vraag heeft gesteld in niet voor misverstand vatbare termen.
 
